@@ -19,8 +19,6 @@ relations:
     target: ideological-brokerage
   - type: associated-with
     target: rising-fallen
-  - type: distinct-from
-    target: village
   - type: requires
     target: organizational-asymmetry
 ---
