@@ -56,7 +56,7 @@ Major clusters currently receiving deep migration:
 
 ## Phase 2 — Relation cleanup
 
-**Status: partially underway through manual curation; automated validation not yet built.**
+**Status: active — manual curation plus automated validation are in place.**
 
 As entries accumulate:
 
@@ -67,7 +67,7 @@ As entries accumulate:
 - identify conceptual cycles;
 - build curated cluster maps.
 
-A validator should flag:
+The validator currently flags:
 
 - duplicate IDs;
 - duplicate terms;
@@ -79,9 +79,11 @@ A validator should flag:
 
 ## Phase 3 — Projection generator
 
-Build a small deterministic renderer that reads `entries/*.md`.
+**Status: initial generator implemented.**
 
-Initial generated artifacts:
+The repository includes a deterministic renderer in `tools/project.py` that reads `entries/*.md` and emits disposable projections into `build/`.
+
+Current generated artifacts:
 
 ### Dictionary
 
