@@ -24,7 +24,7 @@ relations:
   - type: produced-by
     target: social-disembedding
   - type: constrains
-    target: village-autonomy
+    target: village
 ---
 
 # Institutional legibility
