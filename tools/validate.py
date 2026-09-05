@@ -78,6 +78,7 @@ PREFERRED_RELATIONS = {
     "contrasts-with",
     "distinguishes-from",
     "overlaps-with",
+    "confused-with",
     # causation / dynamics
     "causes",
     "caused-by",
@@ -114,6 +115,7 @@ PREFERRED_RELATIONS = {
     "tested-by",
     "evaluates",
     "exemplifies",
+    "exemplified-by",
     "motivates",
     "motivated-by",
     # representation / generation
@@ -141,6 +143,7 @@ PREFERRED_RELATIONS = {
     "compressed-by",
     "compressed-form-of",
     "counteracts",
+    "counteracted-by",
     "counters",
     "moves-from",
     "moves-toward",
