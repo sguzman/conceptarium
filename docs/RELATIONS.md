@@ -117,6 +117,8 @@ The vocabulary remains extensible, but these families should cover most cases.
 - `prevented-by`
 - `stabilizes`
 - `stabilized-by`
+- `counteracts`
+- `counteracted-by`
 
 ### Dependency and implementation
 
