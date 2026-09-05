@@ -18,9 +18,9 @@ origin:
 relations:
   - type: part-of
     target: convergent-architecture
-  - type: separates
+  - type: used-by
     target: agentic-systems
-  - type: from
+  - type: realized-by
     target: expressive-animation
 ---
 
