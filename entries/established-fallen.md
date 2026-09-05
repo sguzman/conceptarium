@@ -21,7 +21,7 @@ relations:
     target: rising-fallen
   - type: produced-by
     target: elite-circulation
-  - type: responds-to
+  - type: associated-with
     target: ladder-closure
 ---
 
