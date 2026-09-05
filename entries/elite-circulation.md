@@ -15,9 +15,9 @@ origin:
   certainty: reconstructed
   note: A pre-existing political-sociological phrase adopted into the local framework as a pressure-valve mechanism.
 relations:
-  - type: converts
+  - type: incorporates
     target: rising-fallen
-  - type: into
+  - type: produces
     target: established-fallen
   - type: enabled-by
     target: plural-upward-ladders
