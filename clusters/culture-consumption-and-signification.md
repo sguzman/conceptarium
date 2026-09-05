@@ -79,6 +79,26 @@ cultural cue → portable coalition signal
 
 The structural resemblance is valuable because both mechanisms depend on **compression**: small particulars become legible as instances of much larger political schemas.
 
+## Franchise identity and branding bridge
+
+A dedicated adjacent cluster now tracks how cultural labels retain recognition and prestige while their internal category boundaries change:
+
+- [Franchise Identity and Branding](./franchise-identity-and-branding.md)
+
+The bridge to this cluster is **signification**. Consumer semiotics asks how cues acquire ideological and coalitional meaning; franchise identity asks how a franchise name and its recurring cues acquire, preserve, or lose categorical meaning.
+
+A useful contrast is:
+
+```text
+consumer semiotics:
+artifact cue → inferred cultural allegiance
+
+franchise identity:
+franchise cue → inferred category membership
+```
+
+Both can produce **content bypass**: a recognizable sign may substitute for examination of the deeper work. In the franchise case, prototype cues or iconographic survival can substitute for testing the underlying identity conditions.
+
 ## Research frontier
 
 Likely future concepts, currently preserved only as substructure rather than promoted entries:
