@@ -86,7 +86,11 @@ PREFERRED_RELATIONS = {
     "constrains",
     "constrained-by",
     "intensifies",
+    "intensified-by",
     "relieves",
+    "relieved-by",
+    "threatens",
+    "threatened-by",
     "prevents",
     "stabilizes",
     # dependency / implementation
