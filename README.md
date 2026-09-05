@@ -32,7 +32,7 @@ conceptarium/
 ├── entries/          # canonical concept records
 ├── clusters/         # curated maps of families of concepts
 ├── indexes/          # human-readable indexes
-├── docs/             # schema, editorial rules, projection design
+├── docs/             # integration contract, schema, editorial rules, projections
 └── archive/          # preserved snapshots/imports that must not be lost
 ```
 
@@ -127,7 +127,15 @@ No useful idea should disappear merely because it is immature.
 7. **Revision is expected.** A knowledge base should remember how its concepts changed.
 8. **Plain text is the durable layer.** The corpus must remain usable without any particular website or framework.
 
-See [docs/SCHEMA.md](docs/SCHEMA.md) for the canonical entry format and [docs/EDITORIAL.md](docs/EDITORIAL.md) for editorial rules.
+## Adding or integrating a concept
+
+The complete end-to-end contract is [docs/INTEGRATING_CONCEPTS.md](docs/INTEGRATING_CONCEPTS.md).
+
+When someone says **“integrate this concept”**, the expected work includes discovery, provenance, problem-pressure reconstruction, canonical entry writing, typed relations, cluster/index updates, validation, projection generation, and CI verification—not merely creating a Markdown file.
+
+AI agents should also read the root [AGENTS.md](AGENTS.md) before modifying the corpus.
+
+See [docs/SCHEMA.md](docs/SCHEMA.md) for the canonical entry format, [docs/EDITORIAL.md](docs/EDITORIAL.md) for editorial rules, and [docs/RELATIONS.md](docs/RELATIONS.md) for graph semantics.
 
 
 ## Validation
