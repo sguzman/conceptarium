@@ -3,7 +3,8 @@ id: fallen
 term: Fallen
 type: concept
 status: canonical
-gloss: The ascent-oriented pole of the Fallen/Village framework: motivation organized around mastery, mobility, distinction, recognition, legacy, and access to consequential ladders or systems.
+gloss: >-
+  The ascent-oriented pole of the Fallen/Village framework: motivation organized around mastery, mobility, distinction, recognition, legacy, and access to consequential ladders or systems.
 domains:
   - social-theory
   - political-theory
