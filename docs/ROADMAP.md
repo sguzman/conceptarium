@@ -17,7 +17,7 @@ The archive is a safety net, not the final information architecture.
 
 ## Phase 1 — Corpus migration
 
-**Status: active — 93 concepts/phrases/frameworks promoted as individual entries.**
+**Status: active — 119 concepts/phrases/frameworks promoted as individual entries.**
 
 Promotion means more than copying a dictionary sentence. A promoted entry should acquire, where appropriate:
 
@@ -53,6 +53,7 @@ Major clusters currently receiving deep migration:
 - generative simulation / procedural visual systems;
 - culture / consumption / signification;
 - franchise identity / branding / semantic drift;
+- cultural refraction / authorship / estrangement / spatial horror;
 - attention / absorption / completion;
 - abundance / pleasure / prestige.
 
