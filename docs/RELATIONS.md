@@ -78,6 +78,8 @@ The vocabulary remains extensible, but these families should cover most cases.
 - `supersedes`
 - `superseded-by`
 - `descends-from`
+- `changes`
+- `changed-by`
 
 ### Structure and taxonomy
 
@@ -111,7 +113,9 @@ The vocabulary remains extensible, but these families should cover most cases.
 - `threatens`
 - `threatened-by`
 - `prevents`
+- `prevented-by`
 - `stabilizes`
+- `stabilized-by`
 
 ### Dependency and implementation
 
@@ -151,8 +155,10 @@ These are allowed where they genuinely preserve theory:
 
 - `incorporates`
 - `characterizes`
+- `characterized-by`
 - `associated-with`
 - `supports`
+- `supported-by`
 - `threatens`
 - `prioritizes`
 - `shapes`
@@ -193,6 +199,11 @@ Some relations have obvious inverses:
 | expresses | expressed-by |
 | refines | refined-by |
 | supersedes | superseded-by |
+| changes | changed-by |
+| prevents | prevented-by |
+| stabilizes | stabilized-by |
+| characterizes | characterized-by |
+| supports | supported-by |
 
 A future graph generator should synthesize inverse navigation instead of requiring redundant metadata everywhere.
 
