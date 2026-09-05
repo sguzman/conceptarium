@@ -1,8 +1,8 @@
 # Epistemology Cluster
 
-This cluster maps the developing research program around provenance, plural models, narration, trust, and belief revision.
+This cluster maps the research program around provenance, plural models, narration, distrust, falsification, and belief revision.
 
-## Core sequence
+## Provenance / plural-model branch
 
 ```text
 The Great Subjectification
@@ -21,17 +21,25 @@ The Great Subjectification
                 └── Diegetization
 ```
 
-A second branch concerns distrust and correction:
+## Falsification / recovery branch
 
 ```text
-uncertainty + hostile interpretation
+uncertainty + need for one total explanation
         ↓
 Paranoid totalization
-        ↓  convert suspicion into procedure
+        ↓
+Narrative-coherence pressure
+        ↓
+convert suspicion into procedure
+        ↓
 Adversarial verification
         ↓
-trustworthiness under adversarial reality-testing
+Epistemic maturation
+        ↓
+Trustworthiness under adversarial reality-testing
 ```
+
+The central evaluative idea is that **being correct on the first attempt is not sufficient evidence of epistemic quality**. A reasoner reveals its deeper reliability when contradiction forces belief revision.
 
 ## Promoted entries
 
@@ -42,23 +50,23 @@ trustworthiness under adversarial reality-testing
 - [Knowledge needs a return address](../entries/knowledge-needs-a-return-address.md)
 - [Diegetization](../entries/diegetization.md)
 - [Paranoid totalization](../entries/paranoid-totalization.md)
+- [Narrative-coherence pressure](../entries/narrative-coherence-pressure.md)
 - [Adversarial verification](../entries/adversarial-verification.md)
+- [Epistemic maturation](../entries/epistemic-maturation.md)
+- [Trustworthiness under adversarial reality-testing](../entries/trustworthiness-under-adversarial-reality-testing.md)
 
-## Unpromoted archive concepts
-
-Important nearby vocabulary still awaiting full entries:
+## Unpromoted neighboring concepts
 
 - subjectification relocates objectivity from the thing to the procedure;
 - fragmentation followed by abstraction;
 - de-absolutization;
 - provenance / validation;
 - invariants;
-- epistemic maturation;
 - gaslighting epistemic fraud;
+- poor error correction after contradiction;
 - belief-revision / calibration failure;
+- hallucination + unjustified confidence + resistance to falsification;
 - seamless replacement of disproven explanations;
-- narrative-coherence pressure;
-- trustworthiness under adversarial reality-testing;
 - diegetic truth;
 - narrator information set;
 - authorial/narratological metadata;
@@ -68,12 +76,14 @@ Important nearby vocabulary still awaiting full entries:
 
 ## Research frontier
 
-The deepest unresolved question remains:
+Two deep questions organize the cluster:
 
 > **Why can pluralization generate stronger objectivity rather than mere relativism?**
 
-Candidate answer:
+Candidate answer: objectivity migrates into procedures of proof, translation, provenance, source criticism, invariants, and adversarial comparison.
 
-> Once representation becomes explicitly plural, objectivity must migrate into procedures that compare models: proof, source criticism, translation, invariants, experimental constraint, provenance, and adversarial checking.
+And:
 
-This is currently a framework-generating thesis, not a settled history of modernity.
+> **What makes a reasoner trustworthy after it has been shown to be wrong?**
+
+Candidate answer: not fluency or confidence, but clean retraction, uncertainty preservation, proportional updating, and resistance to replacement-story pressure.
