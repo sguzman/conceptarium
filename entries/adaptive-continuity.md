@@ -3,7 +3,8 @@ id: adaptive-continuity
 term: Adaptive continuity
 type: principle
 status: canonical
-gloss: A success criterion for communities and social systems: preserve the relationships, capacities, identities, and institutions that make a form of life recognizably continuous while changing enough to survive new conditions.
+gloss: >-
+  A success criterion for communities and social systems: preserve the relationships, capacities, identities, and institutions that make a form of life recognizably continuous while changing enough to survive new conditions.
 domains:
   - social-theory
   - political-theory
