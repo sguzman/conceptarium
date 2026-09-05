@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 93 entries.**
+**Current promoted corpus: 119 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -16,7 +16,9 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Adaptive continuity](../entries/adaptive-continuity.md) — Preserve a recognizable form of life through selective adaptation rather than static preservation.
 - [Adversarial verification](../entries/adversarial-verification.md) — Recover confidence through independent, differently incentivized checks.
 - [Agentic systems](../entries/agentic-systems.md) — Persistent decision-making entities with beliefs, needs, goals, memories, and state.
+- [American horror through Japanese eyes](../entries/american-horror-through-japanese-eyes.md) — American spaces, imagery, genres, and anxieties reconstructed through Japanese artistic sensibilities.
 - [Anti-domination](../entries/anti-domination.md) — Resist arbitrary, unanswerable power over persons and social worlds.
+- [Authorship-setting confusion](../entries/authorship-setting-confusion.md) — Mistakenly treating matching diegetic setting as necessary evidence of matching cultural authorship.
 
 ## B
 
@@ -34,11 +36,19 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Consumer semiotics](../entries/consumer-semiotics.md) — Read consumer media through compressed cultural or ideological signifiers that can function as allegiance markers and substitute for deeper evaluation.
 - [Contestability](../entries/contestability.md) — Practical capacity to challenge, inspect, appeal, revise, or route around consequential decisions.
 - [Convergent architecture](../entries/convergent-architecture.md) — Perception, belief, need, decision, embodiment, visible action, and social reaction form one causal chain.
+- [Cultural authorship](../entries/cultural-authorship.md) — The cultural perspective embodied in how a work perceives, selects, organizes, and transforms its material.
+- [Cultural confidence](../entries/cultural-confidence.md) — Capacity to absorb foreign material without needing overt self-markers to remain recognizably culturally authored.
+- [Cultural estrangement](../entries/cultural-estrangement.md) — Making familiar cultural material strange through reconstruction from a different cultural perspective.
+- [Cultural metabolism](../entries/cultural-metabolism.md) — Absorb and transform foreign influence until it becomes functional inside a new locally authored artistic object.
+- [Cultural refraction](../entries/cultural-refraction.md) — Foreign cultural material transformed as it passes through another culture's aesthetic assumptions and sensibilities.
+- [Cultural return effect](../entries/cultural-return-effect.md) — Cultural material returns to its originating audience after outside transformation, enabling renewed perception of the familiar.
 
 ## D
 
 - [Declarative procedural modeling](../entries/declarative-procedural-modeling.md) — Describe what an object is semantically and let procedures construct its concrete representation.
+- [Diegetic cultural setting](../entries/diegetic-cultural-setting.md) — The culture in which the fictional world is explicitly located, distinct from the culture of artistic authorship.
 - [Diegetization](../entries/diegetization.md) — Force apparently transcendent knowledge or authority to acquire an address inside the represented world.
+- [Double estrangement](../entries/double-estrangement.md) — Cultural estrangement and another estranging process such as horror operate in sequence on the same familiar material.
 
 ## E
 
@@ -48,12 +58,14 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Epistemic debt](../entries/epistemic-debt.md) — Assertions incur justificatory obligations proportionate to what they ask others to believe.
 - [Epistemic maturation](../entries/epistemic-maturation.md) — Move from totalizing certainty toward uncertainty tolerance, revision, triangulation, and calibrated confidence.
 - [Established Fallen](../entries/established-fallen.md) — Incorporated ascent-oriented actors whose incentives shift toward competence, order, qualification, and controlled succession.
+- [Estrangement machine](../entries/estrangement-machine.md) — A repeatable artistic system whose interacting components reliably convert familiar material into something alien.
 - [Expressive animation](../entries/expressive-animation.md) — Visible movement as outward evidence of intent, state, effort, and social stance.
 
 ## F
 
 - [Fallen](../entries/fallen.md) — The ascent/mastery/recognition-oriented pole of Fallen/Village.
 - [Fallen / Village](../entries/fallen-village.md) — Framework contrasting ascent/status orientation with embedded continuity/sufficiency orientation.
+- [Foreign-to-itself effect](../entries/foreign-to-itself-effect.md) — A culture recognizes itself in a representation that nevertheless feels as though it belongs to someone else.
 - [Franchise Disneyfication](../entries/franchise-disneyfication.md) — Recognizable legacy signs are preserved and commodified after detaching from the system that originally gave them meaning.
 - [Franchise identity collapse](../entries/franchise-identity-collapse.md) — Franchise membership depends increasingly on branding as meaningful internal identity constraints erode.
 - [Franchise ontology](../entries/franchise-ontology.md) — The underlying answer to what kind of thing supplies continuity across a franchise.
@@ -61,6 +73,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Franchise specificity](../entries/franchise-specificity.md) — The degree to which a franchise occupies a distinctive creative territory narrower than its surrounding genre.
 - [Franchise-as-attraction](../entries/franchise-as-attraction.md) — Familiar motifs function as expected modular attractions within a branded experience.
 - [Friction premium](../entries/friction-premium.md) — Extra value or prestige attached to difficulty once effortless satisfaction becomes ubiquitous.
+- [Functional haunting](../entries/functional-haunting.md) — Horror generated when a recognizable place survives physically while its expected function vanishes or becomes corrupted.
 
 ## G
 
@@ -73,16 +86,24 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## H
 
+- [Haunted reflexive estrangement](../entries/haunted-reflexive-estrangement.md) — Reflexive estrangement intensified by horror until familiar cultural space returns as threatening, empty, or contaminated.
 - [Heritage experience](../entries/heritage-experience.md) — A new work recreates the sensations and symbols of an older tradition without necessarily preserving its generative system.
+- [Horror estrangement](../entries/horror-estrangement.md) — Ordinary spaces, objects, or routines made unfamiliar and threatening through emptiness, distortion, isolation, or contamination.
 
 ## I
 
 - [Iconographic survival](../entries/iconographic-survival.md) — Visible franchise symbols remain recognizable even after the underlying creative identity has substantially changed.
 - [Identity conditions](../entries/identity-conditions.md) — Minimum properties that make franchise membership internally justified rather than merely rights-holder authorized.
 - [Ideological brokerage](../entries/ideological-brokerage.md) — Translate local grievances into portable categories, coalitions, narratives, and programs.
+- [Implicit cultural authorship](../entries/implicit-cultural-authorship.md) — Cultural identity expressed through formal perception, composition, atmosphere, and narrative assumptions rather than overt markers.
 - [Institutional legibility](../entries/institutional-legibility.md) — Translate social reality into categories and records institutions can perceive and act upon.
 - [Internal definition](../entries/internal-definition.md) — A franchise definition grounded in properties of the works rather than corporate ownership and labeling.
 - [Internalized governor](../entries/internalized-governor.md) — Metaphor for self-regulatory machinery that supplies limits after scarcity stops doing so.
+
+## J
+
+- [Japan dreaming America](../entries/japan-dreaming-america.md) — Amber phrase for America reconstructed through Japanese cultural imagination rather than American self-representation.
+- [Japan dreaming America having a nightmare](../entries/japan-dreaming-america-having-a-nightmare.md) — Silent Hill shorthand for Japanese reconstruction of America subjected to a second layer of horror deformation.
 
 ## K
 
@@ -118,6 +139,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Plural upward ladders](../entries/plural-upward-ladders.md) — Distribute consequential ambition across multiple partially independent arenas.
 - [Political authorship](../entries/political-authorship.md) — Convert concrete grievance into portable doctrine, coalition, program, and successor order.
 - [Post-scarcity prestige ecology](../entries/post-scarcity-prestige-ecology.md) — Status system formed when prestige migrates from abundant goods toward scarce capacities such as restraint, attention, authenticity, or difficulty.
+- [Posthumous Americana](../entries/posthumous-americana.md) — American built environments represented as though the civilization animating them has died while the structures remain.
+- [Premature ruin](../entries/premature-ruin.md) — A recent or intact space treated experientially as a ruin because its social world died before its material structure.
 - [Prestige certification mark](../entries/prestige-certification-mark.md) — A franchise name functions as a badge certifying a premium version of a broad genre.
 - [Prestige migration](../entries/prestige-migration.md) — Movement of status value away from widely accessible goods toward newly scarce traits, behaviors, or experiences.
 - [Prestige without specificity](../entries/prestige-without-specificity.md) — A franchise retains quality and seriousness associations while losing narrower distinguishing properties.
@@ -133,17 +156,23 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## R
 
+- [Reflexive estrangement](../entries/reflexive-estrangement.md) — An outside reconstruction makes members of the represented culture experience their own familiar world as newly foreign.
+- [Representational explicitness](../entries/representational-explicitness.md) — Degree to which cultural identity is communicated through overt represented objects rather than deeper artistic sensibility.
 - [Retroactive franchise rewriting](../entries/retroactive-franchise-rewriting.md) — Later franchise development changes how older works are culturally interpreted without requiring literal retcons.
 - [Rising Fallen](../entries/rising-fallen.md) — Ascent-oriented actors blocked from or climbing toward elite incorporation.
 
 ## S
 
 - [Scarcity discipline](../entries/scarcity-discipline.md) — Restraint supplied or reinforced by external limits such as cost, access, time, effort, or shortage.
+- [Secondhand Americana](../entries/secondhand-americana.md) — American imagery reconstructed through mediated exposure rather than ordinary embedded participation in American life.
 - [Self-correcting dilution](../entries/self-correcting-dilution.md) — Unsuccessful diluting works are rejected and marginalized before they can redefine future franchise identity.
 - [Semantic dilution](../entries/semantic-dilution.md) — A franchise name communicates less as increasingly heterogeneous works are admitted under it.
 - [Semantic drift](../entries/semantic-drift.md) — Gradual change in what a franchise name denotes as successive works alter category boundaries.
+- [Shell of social meaning](../entries/shell-of-social-meaning.md) — Physical architecture remains after the relationships and practices that made the place socially intelligible disappear.
 - [Shift dependency](../entries/shift-dependency.md) — Modernization often transfers dependence rather than abolishing it.
 - [Social disembedding](../entries/social-disembedding.md) — Movement from dense local relations toward impersonal market/legal/institutional mediation.
+- [Social ruin](../entries/social-ruin.md) — Ruination caused primarily by disappearance of relationships, functions, routines, and human presence rather than physical destruction.
+- [Social-function stripping](../entries/social-function-stripping.md) — Remove ordinary human activity from a built environment, exposing the physical shell beneath its social meaning.
 - [Sovereign system builders](../entries/sovereign-system-builders.md) — Treat other people's projects and social worlds as possessing integrity that limits unilateral optimization.
 - [Sovereignty over abundance](../entries/sovereignty-over-abundance.md) — Capacity to remain self-governing despite unrestricted access to desirable goods.
 - [Status discrepancy](../entries/status-discrepancy.md) — Gap between expected or capacity-justified standing and realized position.
@@ -211,4 +240,5 @@ Important preserved concepts still awaiting full promotion include:
 - compensatory use.
 
 Promotion priority follows **conceptual pressure, reuse, provenance risk, and graph value**, not alphabetical completion.
+
 
