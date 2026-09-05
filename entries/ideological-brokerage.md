@@ -20,7 +20,7 @@ relations:
     target: political-authorship
   - type: associated-with
     target: rising-fallen
-  - type: exploits
+  - type: enabled-by
     target: organizational-asymmetry
   - type: translates
     target: village
