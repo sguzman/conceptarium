@@ -3,7 +3,8 @@ id: epistemic-debt
 term: Epistemic debt
 type: concept
 status: canonical
-gloss: The justificatory obligation created by making a claim: an assertion owes evidence, derivation, provenance, testimony, measurement, or some other account proportionate to what it asks others to believe.
+gloss: >-
+  The justificatory obligation created by making a claim: an assertion owes evidence, derivation, provenance, testimony, measurement, or some other account proportionate to what it asks others to believe.
 domains:
   - epistemology
   - narration
