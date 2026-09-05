@@ -2,24 +2,40 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-The much larger recovered vocabulary is preserved in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md) and will be promoted incrementally rather than converted into shallow stubs all at once.
+**Current promoted corpus: 40 entries.**
+
+The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
 ## A
 
+- [Adaptive continuity](../entries/adaptive-continuity.md) — Preserve a recognizable form of life through selective adaptation rather than static preservation.
 - [Adversarial verification](../entries/adversarial-verification.md) — Recover confidence through independent, differently incentivized checks.
+- [Agentic systems](../entries/agentic-systems.md) — Persistent decision-making entities with beliefs, needs, goals, memories, and state.
+- [Anti-domination](../entries/anti-domination.md) — Resist arbitrary, unanswerable power over persons and social worlds.
 
 ## B
 
 - [Bring your own model](../entries/bring-your-own-model.md) — Plural modeling creates obligations of translation, comparison, provenance, and invariance.
 
+## C
+
+- [Constructive puppet](../entries/constructive-puppet.md) — Visibly segmented procedural character construction treated as an aesthetic rather than hidden scaffolding.
+- [Contestability](../entries/contestability.md) — Practical capacity to challenge, inspect, appeal, revise, or route around consequential decisions.
+- [Convergent architecture](../entries/convergent-architecture.md) — Perception, belief, need, decision, embodiment, visible action, and social reaction form one causal chain.
+
 ## D
 
+- [Declarative procedural modeling](../entries/declarative-procedural-modeling.md) — Describe what an object is semantically and let procedures construct its concrete representation.
 - [Diegetization](../entries/diegetization.md) — Force apparently transcendent knowledge or authority to acquire an address inside the represented world.
 
 ## E
 
+- [Elite circulation](../entries/elite-circulation.md) — Recurrent incorporation or succession of ambitious outsiders into consequential positions.
 - [Epistemic chain of custody](../entries/epistemic-chain-of-custody.md) — Trace how information travels from grounding event or source to present claimant.
 - [Epistemic debt](../entries/epistemic-debt.md) — Assertions incur justificatory obligations proportionate to what they ask others to believe.
+- [Epistemic maturation](../entries/epistemic-maturation.md) — Move from totalizing certainty toward uncertainty tolerance, revision, triangulation, and calibrated confidence.
+- [Established Fallen](../entries/established-fallen.md) — Incorporated ascent-oriented actors whose incentives shift toward competence, order, qualification, and controlled succession.
+- [Expressive animation](../entries/expressive-animation.md) — Visible movement as outward evidence of intent, state, effort, and social stance.
 
 ## F
 
@@ -28,25 +44,54 @@ The much larger recovered vocabulary is preserved in [`archive/recovered-lexicon
 
 ## G
 
+- [Generative village](../entries/generative-village.md) — Village-scale world arising from interacting declarative, procedural, environmental, and agentic systems.
+- [Geometric caricature](../entries/geometric-caricature.md) — Recognizable expressive design through deliberately legible geometric exaggeration.
 - [The Great Subjectification](../entries/great-subjectification.md) — Plural models replace singular self-authorizing absolutes and force objectivity into explicit procedures.
 
 ## I
 
-- [Institutional legibility](../entries/institutional-legibility.md) — Translation of social reality into categories and records institutions can perceive and act upon.
+- [Ideological brokerage](../entries/ideological-brokerage.md) — Translate local grievances into portable categories, coalitions, narratives, and programs.
+- [Institutional legibility](../entries/institutional-legibility.md) — Translate social reality into categories and records institutions can perceive and act upon.
 
 ## K
 
 - [Knowledge needs a return address](../entries/knowledge-needs-a-return-address.md) — Amber phrase for provenance and epistemic traceability.
 
+## M
+
+- [Motor-intent boundary](../entries/motor-intent-boundary.md) — Interface between high-level agent intention and the physical/animation machinery that realizes it.
+
+## N
+
+- [Narrative-coherence pressure](../entries/narrative-coherence-pressure.md) — Preserve a smooth explanatory story when evidence should force rupture or uncertainty.
+- [Non-telepathic social inference](../entries/non-telepathic-social-inference.md) — Agents infer one another from available evidence rather than reading hidden state.
+
+## O
+
+- [Organizational asymmetry](../entries/organizational-asymmetry.md) — Different groups supply different movement resources, giving small broker layers disproportionate control over political form.
+
 ## P
 
 - [Paranoid totalization](../entries/paranoid-totalization.md) — Hostile self-sealing explanation that absorbs contradiction rather than being constrained by it.
+- [Plural upward ladders](../entries/plural-upward-ladders.md) — Distribute consequential ambition across multiple partially independent arenas.
+- [Political authorship](../entries/political-authorship.md) — Convert concrete grievance into portable doctrine, coalition, program, and successor order.
+- [Primitive vocabulary](../entries/primitive-vocabulary.md) — Small compositional alphabet of geometry and operations from which many forms can be generated.
+- [Procedural visual language](../entries/procedural-visual-language.md) — Visual grammar generated through reusable constructive rules rather than one-off meshes.
+
+## R
+
+- [Rising Fallen](../entries/rising-fallen.md) — Ascent-oriented actors blocked from or climbing toward elite incorporation.
 
 ## S
 
 - [Shift dependency](../entries/shift-dependency.md) — Modernization often transfers dependence rather than abolishing it.
 - [Social disembedding](../entries/social-disembedding.md) — Movement from dense local relations toward impersonal market/legal/institutional mediation.
-- [Sovereign system builders](../entries/sovereign-system-builders.md) — Anti-domination principle treating other people's projects and social worlds as possessing integrity.
+- [Sovereign system builders](../entries/sovereign-system-builders.md) — Treat other people's projects and social worlds as possessing integrity that limits unilateral optimization.
+- [Status discrepancy](../entries/status-discrepancy.md) — Gap between expected or capacity-justified standing and realized position.
+
+## T
+
+- [Trustworthiness under adversarial reality-testing](../entries/trustworthiness-under-adversarial-reality-testing.md) — Evaluate a reasoner by how it revises when its preferred account collides with strong counterevidence.
 
 ## V
 
@@ -56,47 +101,52 @@ The much larger recovered vocabulary is preserved in [`archive/recovered-lexicon
 
 ## Promotion queue
 
-High-priority concepts already preserved in the archive but not yet expanded include:
+Important preserved concepts still awaiting full promotion include:
 
-- rising Fallen;
-- established Fallen;
-- status discrepancy;
+### Fallen / Village and institutions
+
 - blocked mobility;
 - ladder closure;
-- plural upward ladders;
 - ladder density;
 - pressure valves;
-- elite circulation;
 - elite overproduction;
 - psychologically expensive Fallen class;
 - counter-elite;
-- ideological brokerage;
-- organizational asymmetry;
-- political authorship;
 - political morality as a status-ordering technology;
-- adaptive continuity;
-- Village continuity;
 - reciprocal morality;
+- Village continuity;
 - institutional mediation;
 - managed dependency;
+- state legibility;
 - decommodification;
 - defamilialization;
-- anti-domination;
-- totalization;
-- epistemic maturation;
-- trustworthiness under adversarial reality-testing;
-- narrative-coherence pressure;
-- declarative procedural modeling;
-- constructive puppet;
-- geometric caricature;
-- primitive vocabulary;
-- procedural visual language;
-- convergent architecture;
-- motor-intent boundary;
-- non-telepathic social inference;
-- generative village;
+- ethnographic engineering;
+- political domestication;
+- foreigner is relational.
+
+### Epistemology / AI
+
+- gaslighting epistemic fraud;
+- belief-revision / calibration failure;
+- seamless replacement of disproven explanations;
+- false precision;
+- causal legibility;
+- diegetic truth;
+- narrator information set;
+- epistemic state.
+
+### Generative systems
+
+- declarative character;
+- carry their personality in their bodies;
+- autonomous agents;
+- emotional systems;
+- generative modeling.
+
+### Culture / symbolic reproduction
+
 - culture parasitism;
 - symbolic substitution;
 - compensatory use.
 
-Promotion priority should follow **conceptual pressure and reuse**, not alphabetical completion.
+Promotion priority follows **conceptual pressure, reuse, provenance risk, and graph value**, not alphabetical completion.
