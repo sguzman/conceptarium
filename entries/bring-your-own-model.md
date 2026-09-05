@@ -3,7 +3,8 @@ id: bring-your-own-model
 term: Bring your own model
 type: phrase
 status: canonical
-gloss: A compressed principle of plural modeling: different agents may approach reality with different representational systems, but plurality creates obligations of translation, comparison, provenance, and invariance rather than eliminating objectivity.
+gloss: >-
+  A compressed principle of plural modeling: different agents may approach reality with different representational systems, but plurality creates obligations of translation, comparison, provenance, and invariance rather than eliminating objectivity.
 domains:
   - epistemology
   - modeling
