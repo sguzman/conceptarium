@@ -105,7 +105,11 @@ The vocabulary remains extensible, but these families should cover most cases.
 - `constrains`
 - `constrained-by`
 - `intensifies`
+- `intensified-by`
 - `relieves`
+- `relieved-by`
+- `threatens`
+- `threatened-by`
 - `prevents`
 - `stabilizes`
 
@@ -177,6 +181,9 @@ Some relations have obvious inverses:
 | produces | produced-by |
 | enables | enabled-by |
 | constrains | constrained-by |
+| intensifies | intensified-by |
+| relieves | relieved-by |
+| threatens | threatened-by |
 | requires | required-by |
 | uses | used-by |
 | implements | implemented-by |
