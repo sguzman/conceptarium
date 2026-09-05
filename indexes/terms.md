@@ -2,11 +2,16 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 43 entries.**
+**Current promoted corpus: 64 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
 ## A
+
+- [Abundance discipline](../entries/abundance-discipline.md) — Self-imposed restraint that remains operative after external scarcity stops forcing limits.
+- [Abundance inversion](../entries/abundance-inversion.md) — Behaviors once associated with deprivation become prestigious when abundance makes voluntary restraint distinctive.
+- [Abundance politics](../entries/abundance-politics.md) — Politics of temptation, access, friction, limitation, and self-regulation after allocation scarcity weakens.
+- [Abundance sorting](../entries/abundance-sorting.md) — Social differentiation produced by heterogeneous responses to broadly equalized access.
 
 - [Adaptive continuity](../entries/adaptive-continuity.md) — Preserve a recognizable form of life through selective adaptation rather than static preservation.
 - [Adversarial verification](../entries/adversarial-verification.md) — Recover confidence through independent, differently incentivized checks.
@@ -15,9 +20,14 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## B
 
+- [Behavioral legibility of health](../entries/behavioral-legibility-of-health.md) — Degree to which health outcomes appear attributable to behavior as material and environmental constraints are reduced.
+
 - [Bring your own model](../entries/bring-your-own-model.md) — Plural modeling creates obligations of translation, comparison, provenance, and invariance.
 
 ## C
+
+- [Conspicuous abstention](../entries/conspicuous-abstention.md) — Publicly legible refusal of accessible goods used as a status signal.
+- [Constraint substitution](../entries/constraint-substitution.md) — Replacement of naturally occurring limits with voluntary or institutionally designed constraints.
 
 - [Closure pressure](../entries/closure-pressure.md) — The anxious pull exerted by an unfinished but still-valued object that remains mentally open and contains a salient remainder to absorb.
 - [Consumer semiotics](../entries/consumer-semiotics.md) — Read consumer media through compressed cultural or ideological signifiers that can function as allegiance markers and substitute for deeper evaluation.
@@ -32,6 +42,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## E
 
+- [Embodied history](../entries/embodied-history.md) — The body as an accumulated record of behavior, exposure, maintenance, biology, and chance.
+
 - [Elite circulation](../entries/elite-circulation.md) — Recurrent incorporation or succession of ambitious outsiders into consequential positions.
 - [Epistemic chain of custody](../entries/epistemic-chain-of-custody.md) — Trace how information travels from grounding event or source to present claimant.
 - [Epistemic debt](../entries/epistemic-debt.md) — Assertions incur justificatory obligations proportionate to what they ask others to believe.
@@ -40,6 +52,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Expressive animation](../entries/expressive-animation.md) — Visible movement as outward evidence of intent, state, effort, and social stance.
 
 ## F
+
+- [Friction premium](../entries/friction-premium.md) — Extra value or prestige attached to difficulty once effortless satisfaction becomes ubiquitous.
 
 - [Fallen](../entries/fallen.md) — The ascent/mastery/recognition-oriented pole of Fallen/Village.
 - [Fallen / Village](../entries/fallen-village.md) — Framework contrasting ascent/status orientation with embedded continuity/sufficiency orientation.
@@ -53,6 +67,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## I
 
+- [Internalized governor](../entries/internalized-governor.md) — Metaphor for self-regulatory machinery that supplies limits after scarcity stops doing so.
+
 - [Ideological brokerage](../entries/ideological-brokerage.md) — Translate local grievances into portable categories, coalitions, narratives, and programs.
 - [Institutional legibility](../entries/institutional-legibility.md) — Translate social reality into categories and records institutions can perceive and act upon.
 
@@ -60,7 +76,14 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 - [Knowledge needs a return address](../entries/knowledge-needs-a-return-address.md) — Amber phrase for provenance and epistemic traceability.
 
+## L
+
+- [Longevity sorting](../entries/longevity-sorting.md) — Hypothesized lifespan divergence from cumulative behavior under broadly equalized medical/material access.
+- [Luxury friction](../entries/luxury-friction.md) — Premium, voluntarily difficult or austere experiences valued because ordinary gratification is frictionless.
+
 ## M
+
+- [Mastery over pleasure](../entries/mastery-over-pleasure.md) — Competence or prestige derived from controlling consumption rather than merely possessing pleasurable goods.
 
 - [Motor-intent boundary](../entries/motor-intent-boundary.md) — Interface between high-level agent intention and the physical/animation machinery that realizes it.
 
@@ -75,6 +98,11 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## P
 
+- [Pleasure ecology](../entries/pleasure-ecology.md) — Incentives, hazards, adaptations, and status behaviors arising when pleasurable goods are abundant.
+- [Pleasure saturation](../entries/pleasure-saturation.md) — Condition in which abundant pleasure weakens the signaling or motivational value of mere access.
+- [Post-scarcity prestige ecology](../entries/post-scarcity-prestige-ecology.md) — Status system formed when prestige migrates from abundant goods toward scarce capacities such as restraint, attention, authenticity, or difficulty.
+- [Prestige migration](../entries/prestige-migration.md) — Movement of status value away from widely accessible goods toward newly scarce traits, behaviors, or experiences.
+
 - [Paranoid totalization](../entries/paranoid-totalization.md) — Hostile self-sealing explanation that absorbs contradiction rather than being constrained by it.
 - [Plural upward ladders](../entries/plural-upward-ladders.md) — Distribute consequential ambition across multiple partially independent arenas.
 - [Political authorship](../entries/political-authorship.md) — Convert concrete grievance into portable doctrine, coalition, program, and successor order.
@@ -87,12 +115,18 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## S
 
+- [Scarcity discipline](../entries/scarcity-discipline.md) — Restraint supplied or reinforced by external limits such as cost, access, time, effort, or shortage.
+- [Sovereignty over abundance](../entries/sovereignty-over-abundance.md) — Capacity to remain self-governing despite unrestricted access to desirable goods.
+- [Synthetic friction](../entries/synthetic-friction.md) — Deliberately introduced resistance intended to restore discipline, meaning, pacing, attention, or status.
+
 - [Shift dependency](../entries/shift-dependency.md) — Modernization often transfers dependence rather than abolishing it.
 - [Social disembedding](../entries/social-disembedding.md) — Movement from dense local relations toward impersonal market/legal/institutional mediation.
 - [Sovereign system builders](../entries/sovereign-system-builders.md) — Treat other people's projects and social worlds as possessing integrity that limits unilateral optimization.
 - [Status discrepancy](../entries/status-discrepancy.md) — Gap between expected or capacity-justified standing and realized position.
 
 ## T
+
+- [Temptation environment](../entries/temptation-environment.md) — System of availability, immediacy, cue density, intensity, and defaults that determines temptation load.
 
 - [Trustworthiness under adversarial reality-testing](../entries/trustworthiness-under-adversarial-reality-testing.md) — Evaluate a reasoner by how it revises when its preferred account collides with strong counterevidence.
 
