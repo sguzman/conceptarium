@@ -95,6 +95,7 @@ The vocabulary remains extensible, but these families should cover most cases.
 - `contrasts-with`
 - `distinguishes-from`
 - `overlaps-with`
+- `confused-with`
 
 ### Causation and dynamics
 
@@ -137,6 +138,7 @@ The vocabulary remains extensible, but these families should cover most cases.
 - `tested-by`
 - `evaluates`
 - `exemplifies`
+- `exemplified-by`
 - `motivates`
 - `motivated-by`
 
@@ -172,6 +174,7 @@ Some relations are conceptually symmetric:
 - `contrasts-with`
 - `overlaps-with`
 - `associated-with`
+- `confused-with`
 
 A renderer may eventually synthesize backlinks, but canonical entries do not currently need to store both directions.
 
@@ -204,6 +207,8 @@ Some relations have obvious inverses:
 | stabilizes | stabilized-by |
 | characterizes | characterized-by |
 | supports | supported-by |
+| exemplifies | exemplified-by |
+| counteracts | counteracted-by |
 
 A future graph generator should synthesize inverse navigation instead of requiring redundant metadata everywhere.
 
