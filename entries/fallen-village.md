@@ -22,9 +22,9 @@ relations:
   - type: contains
     target: village
   - type: refined-by
-    target: status-discrepancy-embedded-subsistence-model
-  - type: constrains
-    target: village-destruction-by-elite-competition
+    target: status-discrepancy
+  - type: contains
+    target: adaptive-continuity
 ---
 
 # Fallen / Village
