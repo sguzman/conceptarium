@@ -208,7 +208,9 @@ relations:
     target: great-subjectification
 ```
 
-Relation vocabulary is open but should prefer existing verbs where possible.
+Relation vocabulary is extensible but should prefer the shared ontology in [RELATIONS.md](RELATIONS.md). New verbs are allowed when they preserve a real distinction; they should be documented rather than invented for prose variety.
+
+The repository validator treats unknown relation verbs and dangling targets as warnings during corpus migration. Structural metadata errors fail validation. Once migration is mature, relation validation can become strict.
 
 Useful relation types include:
 
@@ -246,6 +248,12 @@ Relations should be interpretable as sentences:
 > Diegetization **solves** epistemic debt.
 
 If a relation needs a paragraph of explanation, explain it in the body too.
+
+Every edge should pass the **sentence test**:
+
+> **[source term] [relation] [target term].**
+
+Avoid fragment edges such as `from`, `into`, or `between` whose meaning depends on another edge. See [RELATIONS.md](RELATIONS.md) for the current relation families, inverse pairs, and migration rules.
 
 ## Canonical article sections
 
