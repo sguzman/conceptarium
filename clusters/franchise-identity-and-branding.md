@@ -287,6 +287,34 @@ The local research pressure included:
 
 These remain hypotheses to test against the full series history rather than conclusions baked into the vocabulary.
 
+## Cultural refraction and estrangement bridge
+
+A second Silent Hill-derived cluster now separates **cultural authorship** from **diegetic setting** and models the transnational estrangement system that helped generate the older franchise effect:
+
+- [Cultural Refraction and Estrangement](./cultural-refraction-and-estrangement.md)
+
+This matters directly to franchise identity.
+
+A move from an American-coded setting to a Japanese setting can leave Japanese cultural authorship fully intact while still changing one input to the older franchise's **estrangement machine**.
+
+The distinction is:
+
+~~~text
+"Is this culturally Japanese?"
+          ≠
+"Does this preserve the historical mechanism
+by which Japanese authorship refracted America?"
+~~~
+
+That prevents **authorship-setting confusion** from solving the wrong problem. Overt Japanese setting may increase representational explicitness without proving continuity of the older transnational franchise grammar.
+
+This creates a candidate franchise-identity question:
+
+> **Is the estrangement machine itself an identity condition?**
+
+If yes, preserving fog, monsters, sound, or psychological symbolism while replacing the machine that generated their older effect could amount to surface continuity with deeper ontological migration.
+
+
 ## Research frontier
 
 High-value questions:
