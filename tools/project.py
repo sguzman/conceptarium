@@ -145,7 +145,7 @@ def write_graph(entries: list[dict[str, Any]], output: Path) -> None:
         "edges": sorted(edges, key=lambda e: (e["source"], e["type"], e["target"])),
     }
     output.write_text(
-        json.dumps(payload, indent=2, ensure_ascii=False) + "\n",
+        json.dumps(payload, indent=2, ensure_ascii=False, default=str) + "\n",
         encoding="utf-8",
     )
 
