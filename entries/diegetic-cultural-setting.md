@@ -22,8 +22,6 @@ relations:
     target: representational-explicitness
   - type: confused-with
     target: cultural-authorship
-  - type: part-of
-    target: authorship-setting-confusion
 ---
 
 # Diegetic cultural setting
