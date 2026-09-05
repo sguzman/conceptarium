@@ -93,6 +93,7 @@ One of:
 - `failure-mode` — recurring breakdown pattern.
 - `question` — a durable research question worth indexing.
 - `method` — a procedure for inquiry, design, or verification.
+- `principle` — a normative or design constraint intended to govern action or system construction.
 - `metaphor` — a metaphor intentionally retained as an explanatory instrument.
 
 A term can participate in several roles, but one primary type keeps projections predictable.
