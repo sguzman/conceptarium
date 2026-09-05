@@ -21,7 +21,7 @@ relations:
     target: epistemic-chain-of-custody
   - type: motivates
     target: epistemic-debt
-  - type: exemplified-by
+  - type: contains-instance
     target: diegetization
   - type: produces
     target: bring-your-own-model
