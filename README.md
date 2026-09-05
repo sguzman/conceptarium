@@ -128,3 +128,27 @@ No useful idea should disappear merely because it is immature.
 8. **Plain text is the durable layer.** The corpus must remain usable without any particular website or framework.
 
 See [docs/SCHEMA.md](docs/SCHEMA.md) for the canonical entry format and [docs/EDITORIAL.md](docs/EDITORIAL.md) for editorial rules.
+
+
+## Validation
+
+Conceptarium includes a lightweight corpus validator:
+
+```bash
+python -m pip install -r requirements-dev.txt
+python tools/validate.py
+```
+
+It checks canonical frontmatter, IDs, entry types/statuses, provenance fields, alias collisions, relation shape, missing relation targets, and several maturity expectations.
+
+During corpus migration, experimental relation verbs and dangling relation targets are **warnings** rather than hard failures. Use:
+
+```bash
+python tools/validate.py --strict
+```
+
+when you want warnings to fail as well.
+
+GitHub Actions runs the non-strict validator automatically on pushes to `main` and on pull requests.
+
+Relation design is documented in [docs/RELATIONS.md](docs/RELATIONS.md).
