@@ -19,8 +19,6 @@ origin:
 relations:
   - type: prioritizes
     target: village
-  - type: contrasts-with
-    target: static-preservation
   - type: threatened-by
     target: social-disembedding
   - type: constrained-by
