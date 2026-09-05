@@ -65,6 +65,8 @@ PREFERRED_RELATIONS = {
     "supersedes",
     "superseded-by",
     "descends-from",
+    "changes",
+    "changed-by",
     # structure / taxonomy
     "part-of",
     "contains",
@@ -92,7 +94,9 @@ PREFERRED_RELATIONS = {
     "threatens",
     "threatened-by",
     "prevents",
+    "prevented-by",
     "stabilizes",
+    "stabilized-by",
     # dependency / implementation
     "requires",
     "required-by",
@@ -122,8 +126,10 @@ PREFERRED_RELATIONS = {
     # currently useful social/institutional verbs
     "incorporates",
     "characterizes",
+    "characterized-by",
     "associated-with",
     "supports",
+    "supported-by",
     "threatens",
     "prioritizes",
     "shapes",
