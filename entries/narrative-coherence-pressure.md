@@ -15,11 +15,11 @@ origin:
   authorship: joint
   certainty: reconstructed
 relations:
-  - type: opposes
+  - type: contrasts-with
     target: epistemic-maturation
   - type: exposed-by
     target: trustworthiness-under-adversarial-reality-testing
-  - type: resembles
+  - type: overlaps-with
     target: paranoid-totalization
 ---
 
