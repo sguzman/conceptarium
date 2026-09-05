@@ -1,0 +1,8 @@
+# Disposable derived views.
+# Canonical knowledge lives in entries/*.md.
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
