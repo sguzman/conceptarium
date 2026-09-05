@@ -3,7 +3,8 @@ id: knowledge-needs-a-return-address
 term: Knowledge needs a return address
 type: phrase
 status: canonical
-gloss: A compressed epistemic principle: when information is asserted, we should be able to ask where it came from, who or what had access to it, and by what route it reached us.
+gloss: >-
+  A compressed epistemic principle: when information is asserted, we should be able to ask where it came from, who or what had access to it, and by what route it reached us.
 domains:
   - epistemology
   - narration
