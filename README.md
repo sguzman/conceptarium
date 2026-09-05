@@ -152,3 +152,22 @@ when you want warnings to fail as well.
 GitHub Actions runs the non-strict validator automatically on pushes to `main` and on pull requests.
 
 Relation design is documented in [docs/RELATIONS.md](docs/RELATIONS.md).
+
+
+## Generate projections
+
+Derived views are generated from the canonical entries and written to the ignored `build/` directory:
+
+```bash
+python tools/project.py
+```
+
+The current generator emits:
+
+- `build/dictionary.md` — compact dictionary projection;
+- `build/graph.json` — typed node/edge graph with dangling-target markers;
+- `build/frontier.md` — open questions and explicitly provisional/contested entries;
+- `build/problem-pressure.md` — reverse lookup from the problem that birthed a concept;
+- `build/catalog.json` — compact machine-readable catalog for future blog/search/AI ingestion.
+
+Generated files are disposable. **Never edit them as source.**
