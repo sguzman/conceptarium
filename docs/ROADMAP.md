@@ -17,33 +17,55 @@ The archive is a safety net, not the final information architecture.
 
 ## Phase 1 — Corpus migration
 
-Promote recovered vocabulary from the archive into individual entries.
+**Status: active — 40 concepts/phrases/frameworks promoted as individual entries.**
 
-Do **not** generate a hundred one-paragraph files merely to claim completion.
+Promotion means more than copying a dictionary sentence. A promoted entry should acquire, where appropriate:
 
-Promotion order should follow:
+- structured metadata;
+- dictionary gloss;
+- long-form definition;
+- problem pressure;
+- mechanism or model;
+- examples and non-examples;
+- boundaries/failure modes;
+- operationalization;
+- typed relations;
+- provenance;
+- open questions;
+- semantic revision history.
+
+Do **not** generate a hundred shallow files merely to claim completion.
+
+Promotion order:
 
 1. concepts repeatedly reused in new reasoning;
 2. concepts with strong “problem pressure” worth reconstructing;
-3. concepts that resolve dangling typed relations;
+3. concepts that resolve important dangling relations;
 4. high-value amber phrases;
 5. concepts whose provenance is at risk of being forgotten;
 6. supporting vocabulary needed by major frameworks.
 
-During migration, recover provenance where possible from conversations and research documents.
+Major clusters currently receiving deep migration:
+
+- epistemology / narration / AI trust;
+- Fallen / Village / elite dynamics;
+- institutions / dependency / anti-domination;
+- generative simulation / procedural visual systems.
 
 ## Phase 2 — Relation cleanup
+
+**Status: partially underway through manual curation; automated validation not yet built.**
 
 As entries accumulate:
 
 - normalize relation verbs;
-- create missing inverse edges where useful;
+- create useful inverse edges;
 - detect broken targets;
 - distinguish aliases from refinements;
 - identify conceptual cycles;
 - build curated cluster maps.
 
-A future validation tool should flag:
+A validator should flag:
 
 - duplicate IDs;
 - duplicate terms;
@@ -83,7 +105,7 @@ Open questions + contested/provisional concepts + provenance TODOs.
 
 Reverse index from the *puzzle that birthed a concept* to the concepts produced by that puzzle.
 
-This is a particularly important projection because it helps recover a forgotten term from the original mental frustration.
+This is especially important because it lets us recover a forgotten term from the original frustration that created it.
 
 ## Phase 4 — Blog integration
 
@@ -130,7 +152,7 @@ Possible features:
 - provenance confidence indicators;
 - external-literature comparison;
 - export for AI retrieval;
-- a generated “what are we currently confused about?” page.
+- generated “what are we currently confused about?” pages.
 
 ## Website stack
 
@@ -151,6 +173,6 @@ Conceptarium can eventually behave simultaneously as:
 5. **research notebook** — unresolved questions and seeds;
 6. **intellectual atlas** — clusters and domains;
 7. **semantic history** — how definitions changed;
-8. **AI-readable corpus** — structured retrieval over the user's accumulated conceptual vocabulary.
+8. **AI-readable corpus** — structured retrieval over accumulated conceptual vocabulary.
 
 The repository remains the durable layer beneath all eight.
