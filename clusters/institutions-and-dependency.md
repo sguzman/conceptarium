@@ -9,41 +9,36 @@ This cluster tracks a recurring question:
 ```text
 dense local / kin relation
         ↓
-social disembedding
+Social disembedding
         ↓
 portable formal relation
         ↓
 institutional / market mediation
         ↓
-institutional legibility
+Institutional legibility
         ↓
-shift dependency
+Shift dependency
+        ↓
+evaluate by:
+Anti-domination + Contestability
 ```
 
-This sequence is not assumed to occur in every case. It is a research hypothesis and comparison tool.
+The sequence is a research hypothesis and comparison tool, not a law.
 
 ## Promoted entries
 
 - [Social disembedding](../entries/social-disembedding.md)
 - [Institutional legibility](../entries/institutional-legibility.md)
 - [Shift dependency](../entries/shift-dependency.md)
+- [Anti-domination](../entries/anti-domination.md)
+- [Contestability](../entries/contestability.md)
+- [Sovereign system builders](../entries/sovereign-system-builders.md)
 
-## Unpromoted concepts
+## Central normative shift
 
-- managed dependency;
-- market dependence;
-- institutional mediation;
-- state legibility;
-- decommodification;
-- defamilialization;
-- political domestication;
-- anti-domination;
-- ethnographic engineering;
-- Village destruction by elite competition.
+The relevant question is rarely:
 
-## Central normative variable: contestability
-
-The important comparison is rarely “dependency versus independence.”
+> “Dependency or independence?”
 
 It is more often:
 
@@ -57,4 +52,42 @@ It is more often:
 - at what cost;
 - and what local capacities disappear during the transfer.
 
-A future entry on **contestability** should connect this cluster to sovereign system builders and anti-domination.
+This reframes freedom as a problem of **dependency architecture**.
+
+## Bidirectional legibility
+
+A recurring implication is that institutional legibility should not be entirely one-way.
+
+If an institution can classify a person but the person cannot inspect the category, reason, procedure, or appeal route, legibility becomes a power asymmetry.
+
+Contestability therefore creates pressure for some form of **bidirectional legibility**:
+
+```text
+institution can see enough to act
+            +
+person can see enough to contest
+```
+
+## Unpromoted concepts
+
+- managed dependency;
+- market dependence;
+- institutional mediation;
+- state legibility;
+- decommodification;
+- defamilialization;
+- political domestication;
+- ethnographic engineering;
+- Village destruction by elite competition.
+
+## Research frontier
+
+The difficult target is an institutional ecology that simultaneously supports:
+
+- portable rights;
+- meaningful exit from abusive local relations;
+- low domination by large systems;
+- genuine contestability;
+- survival of valuable local reciprocal capacity.
+
+No single “state versus market versus family” axis captures this problem.
