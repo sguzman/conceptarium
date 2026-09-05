@@ -20,7 +20,7 @@ relations:
     target: adversarial-verification
   - type: measured-by
     target: trustworthiness-under-adversarial-reality-testing
-  - type: opposes
+  - type: contrasts-with
     target: narrative-coherence-pressure
 ---
 
