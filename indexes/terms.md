@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 41 entries.**
+**Current promoted corpus: 43 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -19,6 +19,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## C
 
+- [Closure pressure](../entries/closure-pressure.md) — The anxious pull exerted by an unfinished but still-valued object that remains mentally open and contains a salient remainder to absorb.
 - [Consumer semiotics](../entries/consumer-semiotics.md) — Read consumer media through compressed cultural or ideological signifiers that can function as allegiance markers and substitute for deeper evaluation.
 - [Constructive puppet](../entries/constructive-puppet.md) — Visibly segmented procedural character construction treated as an aesthetic rather than hidden scaffolding.
 - [Contestability](../entries/contestability.md) — Practical capacity to challenge, inspect, appeal, revise, or route around consequential decisions.
@@ -48,6 +49,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Generative village](../entries/generative-village.md) — Village-scale world arising from interacting declarative, procedural, environmental, and agentic systems.
 - [Geometric caricature](../entries/geometric-caricature.md) — Recognizable expressive design through deliberately legible geometric exaggeration.
 - [The Great Subjectification](../entries/great-subjectification.md) — Plural models replace singular self-authorizing absolutes and force objectivity into explicit procedures.
+- [Genre lock](../entries/genre-lock.md) — Temporary narrowing of media appetite in which one genre becomes strongly admissible while works outside it become difficult to engage with.
 
 ## I
 
