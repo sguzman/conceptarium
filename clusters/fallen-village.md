@@ -10,69 +10,70 @@ This cluster maps the social and political research program organized around the
                         /             \
                   Fallen               Village
                     │                     │
-       ascent / mastery /          continuity / kin /
-       recognition / mobility      reciprocity / place
+            Status discrepancy      Adaptive continuity
                     │                     │
-            status discrepancy      adaptive continuity
-                    │                     │
-            blocked mobility        customary rights
-                    │                     │
-            ladder closure          subsistence security
-                    │
-       ┌────────────┴────────────┐
+       ┌────────────┴────────────┐         │
+       │                         │         │
+  Rising Fallen            Established Fallen
        │                         │
-  rising Fallen            established Fallen
-       │                         │
- universalize openness      legitimate order /
- attack closure             qualification / closure
-       │
- ideological brokerage
-       │
- political authorship
+       ├── Ideological brokerage │
+       │          ↓              │
+       └── Political authorship  │
+                  │              │
+        Organizational asymmetry │
+                                 │
+                       Elite circulation
+                                 ↑
+                       Plural upward ladders
 ```
 
-## Promoted entries
+## Promoted framework and orientation entries
 
 - [Fallen / Village](../entries/fallen-village.md)
 - [Fallen](../entries/fallen.md)
 - [Village](../entries/village.md)
 
-## Core unpromoted concepts
+## Status and elite dynamics
 
-### Status and elite dynamics
+- [Status discrepancy](../entries/status-discrepancy.md)
+- [Rising Fallen](../entries/rising-fallen.md)
+- [Established Fallen](../entries/established-fallen.md)
+- [Plural upward ladders](../entries/plural-upward-ladders.md)
+- [Elite circulation](../entries/elite-circulation.md)
 
-- rising Fallen;
-- established Fallen;
-- climbing/unestablished Fallen;
-- latent Fallen;
-- status discrepancy;
-- status threat;
+Still awaiting promotion:
+
 - blocked mobility;
+- status threat;
 - ladder closure;
 - ladder density;
-- plural upward ladders;
 - pressure valves;
-- elite circulation;
 - elite overproduction;
 - psychologically expensive Fallen class;
 - counter-elite.
 
-### Political organization
+## Political organization
+
+- [Ideological brokerage](../entries/ideological-brokerage.md)
+- [Political authorship](../entries/political-authorship.md)
+- [Organizational asymmetry](../entries/organizational-asymmetry.md)
+
+Still awaiting promotion:
 
 - status broker;
 - embedded community;
-- ideological brokerage;
-- organizational asymmetry;
 - Village rebellion vs. revolution;
-- political authorship;
 - revolutionary/conservative lifecycle;
 - political morality as a status-ordering technology;
 - moral universalization under exclusion;
 - moralization of qualification/order after ascent.
 
-### Village continuity
+## Village continuity
 
-- adaptive continuity;
+- [Adaptive continuity](../entries/adaptive-continuity.md)
+
+Still awaiting promotion:
+
 - Village continuity;
 - reciprocal morality;
 - customary-rights orientation;
@@ -82,12 +83,19 @@ This cluster maps the social and political research program organized around the
 - commons/household systems;
 - foreigner is relational.
 
-### Institutional ecology
+## Normative boundary
 
-- institutional ecology;
-- high-Fallen institutional ecology;
-- ethnographic engineering;
-- Village destruction by elite competition.
+The cluster now connects directly to:
+
+- [Anti-domination](../entries/anti-domination.md)
+- [Contestability](../entries/contestability.md)
+- [Sovereign system builders](../entries/sovereign-system-builders.md)
+
+This matters because neither side of the framework receives unlimited moral license.
+
+Fallen system-building cannot turn persons and communities into components.
+
+Village continuity cannot turn members into reproductive property of the community.
 
 ## Research discipline
 
@@ -95,15 +103,15 @@ The mythic vocabulary is useful because it compresses a large theory.
 
 Empirical work should decompose it into observable variables wherever possible.
 
-The working translation is:
+The working translation remains:
 
 > **status discrepancy / embedded subsistence**
 
-The theory must preserve several distinctions:
+Key distinctions:
 
 - motive is not performance;
-- political brokerage is not the same thing as mass grievance;
+- political brokerage is not mass grievance;
 - continuity is not passivity;
 - local embeddedness is not moral innocence;
 - ambition is not automatically domination;
-- the vocabulary can be canonical while its genetic or grand-historical hypotheses remain speculative.
+- canonical vocabulary does not imply every grand-historical or genealogical hypothesis is established.
