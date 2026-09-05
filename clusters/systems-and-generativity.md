@@ -1,48 +1,38 @@
 # Systems and Generativity
 
-This cluster preserves vocabulary around declarative construction, generative worlds, agents, geometry, and the ethical limits of system-building.
+This cluster joins three layers of the generative-world project:
 
-## Existing promoted principle
+1. **declarative construction** — what things are;
+2. **causal simulation** — how internal state becomes world behavior;
+3. **social epistemology** — how agents learn about one another without hidden-state leakage.
 
-- [Sovereign system builders](../entries/sovereign-system-builders.md)
-
-## Generative visual vocabulary awaiting promotion
-
-- declarative procedural modeling;
-- constructive puppet;
-- geometric caricature;
-- primitive vocabulary;
-- procedural visual language;
-- “carry their personality in their bodies”;
-- declarative character.
-
-These concepts form a compositional design program:
+## Declarative construction branch
 
 ```text
-small primitive vocabulary
+Primitive vocabulary
         ↓
-procedural visual language
+Declarative procedural modeling
         ↓
-declarative character specification
-        ↓
-constructive / geometric embodiment
-        ↓
-many coherent generated characters
+Procedural visual language
+        ├── Constructive puppet
+        └── Geometric caricature
 ```
 
-## Generative agent/world vocabulary awaiting promotion
+Promoted entries:
 
-- convergent architecture;
-- motor-intent boundary;
-- non-telepathic social inference;
-- generative village;
-- autonomous agents;
-- agentic systems;
-- emotional systems;
-- expressive animation;
+- [Primitive vocabulary](../entries/primitive-vocabulary.md)
+- [Declarative procedural modeling](../entries/declarative-procedural-modeling.md)
+- [Procedural visual language](../entries/procedural-visual-language.md)
+- [Constructive puppet](../entries/constructive-puppet.md)
+- [Geometric caricature](../entries/geometric-caricature.md)
+
+Still awaiting promotion:
+
+- declarative character;
+- carry their personality in their bodies;
 - generative modeling.
 
-The central architectural demand is **causal convergence**:
+## Causal simulation branch
 
 ```text
 world
@@ -55,21 +45,60 @@ need / emotion
  ↓
 decision
  ↓
-motor intent
+Motor-intent boundary
  ↓
-animation / physical action
+Expressive animation / physical action
  ↓
 visible evidence
- ↓
-other agents' inference
 ```
 
-The world should not consist of disconnected “AI,” “animation,” “emotion,” and “social” subsystems that secretly teleport state between one another.
+The master architectural principle is [Convergent architecture](../entries/convergent-architecture.md).
+
+Supporting entries:
+
+- [Agentic systems](../entries/agentic-systems.md)
+- [Motor-intent boundary](../entries/motor-intent-boundary.md)
+- [Expressive animation](../entries/expressive-animation.md)
+
+Still awaiting promotion:
+
+- autonomous agents;
+- emotional systems.
+
+## Social epistemology branch
+
+```text
+another agent's hidden state
+        ↓
+their decision
+        ↓
+visible behavior / communication
+        ↓
+my perception
+        ↓
+my inference
+        ↓
+my belief about them
+```
+
+- [Non-telepathic social inference](../entries/non-telepathic-social-inference.md)
+
+This is deliberately analogous to an [epistemic chain of custody](../entries/epistemic-chain-of-custody.md): simulated social knowledge should have informational ancestry.
+
+## World-scale target
+
+- [Generative village](../entries/generative-village.md)
+
+The village is where declarative construction, agentic persistence, environmental state, social inference, and accumulated local history are meant to converge.
 
 ## Ethical boundary
 
-The system-building cluster eventually collides with [Sovereign system builders](../entries/sovereign-system-builders.md).
+- [Sovereign system builders](../entries/sovereign-system-builders.md)
+- [Anti-domination](../entries/anti-domination.md)
+- [Contestability](../entries/contestability.md)
 
-A generative architecture may model characters deeply, but modelability does not create moral permission to treat real people as components.
+A system can model agents deeply without acquiring moral permission to treat real people as model components.
 
-That boundary is important enough to remain in the same conceptual neighborhood.
+The generative project and the ethical project therefore meet at a common rule:
+
+> **Modelability is not ownership.**
