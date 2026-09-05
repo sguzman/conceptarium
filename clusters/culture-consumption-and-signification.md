@@ -99,6 +99,25 @@ franchise cue → inferred category membership
 
 Both can produce **content bypass**: a recognizable sign may substitute for examination of the deeper work. In the franchise case, prototype cues or iconographic survival can substitute for testing the underlying identity conditions.
 
+## Cultural authorship and refraction bridge
+
+A dedicated adjacent cluster now tracks how cultural material is represented, metabolized, refracted, and returned:
+
+- [Cultural Refraction and Estrangement](./cultural-refraction-and-estrangement.md)
+
+Its key semiotic distinction is:
+
+~~~text
+visible cultural sign / diegetic setting
+                ≠
+cultural authorship
+~~~
+
+Consumer semiotics asks what audiences infer from visible signs. Cultural-refraction theory asks what artistic perspective selected and organized those signs in the first place.
+
+This is particularly important when a foreign setting is treated as evidence that the work's deeper cultural authorship has changed.
+
+
 ## Research frontier
 
 Likely future concepts, currently preserved only as substructure rather than promoted entries:
