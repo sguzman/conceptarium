@@ -3,7 +3,8 @@ id: village
 term: Village
 type: concept
 status: canonical
-gloss: The continuity-oriented pole of the Fallen/Village framework: motivation and social order organized around kinship, repeated reciprocity, locality, customary obligation, household security, subsistence, and intergenerational reproduction.
+gloss: >-
+  The continuity-oriented pole of the Fallen/Village framework: motivation and social order organized around kinship, repeated reciprocity, locality, customary obligation, household security, subsistence, and intergenerational reproduction.
 domains:
   - social-theory
   - political-theory
