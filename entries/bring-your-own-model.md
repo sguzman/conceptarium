@@ -98,6 +98,13 @@ Rival models become useful constraints on one another when their evidence and in
 
 Formulated by the user around September 4, 2026 while connecting geometry, logic, narration, and truth claims.
 
+## Open questions
+
+- What kinds of translation are sufficient to compare models that do not share primitives?
+- When should plural model regimes converge on one standard rather than preserve several?
+- Which invariants remain meaningful when representational systems are radically different?
+- How can “bring your own model” avoid collapsing into rhetorical relativism?
+
 ## Revision history
 
 - **2026-09-04:** Phrase formulated.
