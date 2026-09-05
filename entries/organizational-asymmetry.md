@@ -18,9 +18,9 @@ relations:
     target: ideological-brokerage
   - type: shapes
     target: political-authorship
-  - type: occurs-between
+  - type: associated-with
     target: rising-fallen
-  - type: occurs-between
+  - type: associated-with
     target: village
 ---
 
