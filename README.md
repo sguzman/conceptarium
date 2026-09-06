@@ -166,6 +166,7 @@ cargo run -- search "humiliation"
 cargo run -- search "correction" --field problem-pressure
 cargo run -- sqlite build
 cargo run -- sqlite query "SELECT term, type FROM concepts WHERE type = 'mechanism' ORDER BY term"
+surreal version
 cargo run -- surreal build
 cargo run -- surreal query "SELECT concept_id, term FROM concept WHERE 'epistemology' IN domains ORDER BY term"
 cargo run -- list --domain epistemology
@@ -181,7 +182,7 @@ cargo install --path .
 conceptarium search "correction"
 ```
 
-The query engine uses the canonical corpus directly plus `petgraph` for structural traversal. **Tantivy** provides local BM25/full-text search, **SQLite** provides a read-only relational projection for arbitrary SQL, and **SurrealDB/SurrealKV** provides an embedded local document-graph query surface. Oxigraph is next; Qdrant Edge follows as a disposable semantic projection over the same Rust domain model.
+The query engine uses the canonical corpus directly plus `petgraph` for structural traversal. **Tantivy** provides local BM25/full-text search, **SQLite** provides a read-only relational projection for arbitrary SQL, and **SurrealDB/SurrealKV** provides a local document-graph query surface through the official prebuilt `surreal` Rust binary. Conceptarium does not link the SurrealDB SDK, keeping ordinary Cargo builds free of its native crypto toolchain. Oxigraph is next; Qdrant Edge follows as a disposable semantic projection over the same Rust domain model.
 
 ## Validation
 
