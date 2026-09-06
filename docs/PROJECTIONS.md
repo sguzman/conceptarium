@@ -212,6 +212,16 @@ A normal blog essay can cite or embed Conceptarium entries while remaining a sep
 
 Do not choose the static-site framework yet unless the content model requires it.
 
-The data layer should be stable enough that Astro, Next.js, Eleventy, Hugo, a custom Rust generator, or some future system could all render it.
+The canonical data layer should remain portable, but projection generation and local query semantics are now implemented by the dedicated Rust `conceptarium` crate. Astro, Next.js, Eleventy, Hugo, a Rust site generator, or another presentation layer may consume its outputs without becoming canonical.
 
 Content architecture comes first.
+
+## Executable projection layer
+
+Run:
+
+~~~bash
+cargo run --quiet -- project
+~~~
+
+The Rust binary reads canonical Markdown/YAML directly and emits the seven disposable projections into `build/`. See [QUERY.md](QUERY.md) for the local query and backend architecture.
