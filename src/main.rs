@@ -1,6 +1,6 @@
 use anyhow::Result;
 use clap::{Parser, Subcommand};
-use conceptarium::{corpus::Corpus, project, query, registry, tantivy_index, validate};
+use conceptarium::{corpus::Corpus, project, query, registry, sqlite, tantivy_index, validate};
 use std::path::PathBuf;
 
 #[derive(Debug, Parser)]
@@ -59,6 +59,12 @@ enum Command {
         command: IndexCommand,
     },
 
+    /// Build or query the disposable SQLite relational projection.
+    Sqlite {
+        #[command(subcommand)]
+        command: SqliteCommand,
+    },
+
     /// Filter the concept universe by structured metadata.
     List {
         #[arg(long)]
@@ -106,6 +112,22 @@ enum Command {
 enum IndexCommand {
     /// Rebuild the local Tantivy BM25/full-text index.
     Build {
+        #[arg(long)]
+        path: Option<PathBuf>,
+    },
+}
+
+#[derive(Debug, Subcommand)]
+enum SqliteCommand {
+    /// Rebuild the SQLite projection from canonical Markdown/YAML.
+    Build {
+        #[arg(long)]
+        path: Option<PathBuf>,
+    },
+
+    /// Run a read-only SQL query against the SQLite projection.
+    Query {
+        sql: String,
         #[arg(long)]
         path: Option<PathBuf>,
     },
@@ -203,6 +225,17 @@ fn main() -> Result<()> {
                 let corpus = Corpus::load(&cli.root)?;
                 let path = path.unwrap_or_else(|| tantivy_index::default_path(&cli.root));
                 tantivy_index::build(&corpus, &path)?;
+            }
+        },
+        Command::Sqlite { command } => match command {
+            SqliteCommand::Build { path } => {
+                let corpus = Corpus::load(&cli.root)?;
+                let path = path.unwrap_or_else(|| sqlite::default_path(&cli.root));
+                sqlite::build(&corpus, &path)?;
+            }
+            SqliteCommand::Query { sql, path } => {
+                let path = path.unwrap_or_else(|| sqlite::default_path(&cli.root));
+                sqlite::query(&path, &sql)?;
             }
         },
         Command::List {
