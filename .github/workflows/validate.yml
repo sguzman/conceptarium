@@ -45,7 +45,13 @@ jobs:
       - name: Smoke test SQLite query
         run: cargo run --quiet -- sqlite query "SELECT COUNT(*) AS concepts FROM concepts" --path /tmp/conceptarium.sqlite
 
-      - name: Build embedded SurrealDB projection
+      - name: Install SurrealDB CLI
+        run: curl -sSf https://install.surrealdb.com | sh -s -- -v v3.2.4
+
+      - name: Verify SurrealDB CLI
+        run: surreal version
+
+      - name: Build local SurrealDB projection
         run: cargo run --quiet -- surreal build --path /tmp/conceptarium-surreal
 
       - name: Smoke test SurrealDB concept query
