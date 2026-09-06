@@ -107,6 +107,53 @@ fn run_sql(path: &Path, sql: &str, json: bool) -> Result<String> {
     Ok(String::from_utf8_lossy(&output.stdout).into_owned())
 }
 
+fn run_import(path: &Path, script: &str) -> Result<()> {
+    ensure_cli()?;
+
+    let parent = path.parent().unwrap_or_else(|| Path::new("."));
+    fs::create_dir_all(parent)
+        .with_context(|| format!("creating SurrealDB import directory {}", parent.display()))?;
+
+    let import_path = parent.join(format!(
+        ".conceptarium-surreal-import-{}.surql",
+        std::process::id()
+    ));
+
+    let mut file = fs::File::create(&import_path)
+        .with_context(|| format!("creating temporary SurrealQL import {}", import_path.display()))?;
+    writeln!(file, "OPTION IMPORT;")?;
+    file.write_all(script.as_bytes())?;
+    drop(file);
+
+    let bin = surreal_bin();
+    let endpoint = endpoint(path);
+    let output = Command::new(&bin)
+        .arg("import")
+        .arg("--endpoint")
+        .arg(&endpoint)
+        .arg("--namespace")
+        .arg(NAMESPACE)
+        .arg("--database")
+        .arg(DATABASE)
+        .arg("--log")
+        .arg("error")
+        .arg(&import_path)
+        .output()
+        .with_context(|| format!("running SurrealDB import through {:?}", bin));
+
+    let _ = fs::remove_file(&import_path);
+    let output = output?;
+
+    if !output.status.success() {
+        bail!(
+            "SurrealDB import failed against {endpoint}: {}",
+            String::from_utf8_lossy(&output.stderr).trim()
+        );
+    }
+
+    Ok(())
+}
+
 fn literal<T: Serialize>(value: &T) -> Result<String> {
     Ok(serde_json::to_string(value)?)
 }
@@ -237,7 +284,7 @@ pub fn build(corpus: &Corpus, path: &Path) -> Result<()> {
     }
 
     let script = build_script(corpus)?;
-    run_sql(path, &script, false)?;
+    run_import(path, &script)?;
 
     let expected_relations = corpus
         .entries
