@@ -135,6 +135,7 @@ The vocabulary remains extensible, but these families should cover most cases.
 ### Epistemic and explanatory
 
 - `explains`
+- `explained-by`
 - `predicts`
 - `tests`
 - `tested-by`
@@ -161,11 +162,13 @@ These are allowed where they genuinely preserve theory:
 - `characterizes`
 - `characterized-by`
 - `associated-with`
+- `obscures`
 - `supports`
 - `supported-by`
 - `threatens`
 - `prioritizes`
 - `shapes`
+- `shaped-by`
 
 If one of these begins to acquire several incompatible meanings, split it into more precise verbs.
 
@@ -209,6 +212,8 @@ Some relations have obvious inverses:
 | stabilizes | stabilized-by |
 | characterizes | characterized-by |
 | supports | supported-by |
+| explains | explained-by |
+| shapes | shaped-by |
 | exemplifies | exemplified-by |
 | counteracts | counteracted-by |
 
