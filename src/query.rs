@@ -270,7 +270,7 @@ pub fn backends() {
     println!("memory/petgraph\tACTIVE\tcanonical local structural query engine");
     println!("tantivy\tACTIVE\tBM25/full-text index over semantic fields");
     println!("sqlite\tACTIVE\trelational/interop projection");
-    println!("surrealdb\tNEXT\tunified document+graph+vector experimental projection");
-    println!("oxigraph\tPLANNED\tRDF/SPARQL ontology projection");
+    println!("surrealdb\tACTIVE\tembedded SurrealKV document+graph projection");
+    println!("oxigraph\tNEXT\tRDF/SPARQL ontology projection");
     println!("qdrant-edge\tPLANNED\tdense/sparse semantic geometry projection");
 }
