@@ -164,6 +164,8 @@ cargo run -- get fallen-constitutionalism
 cargo run -- index build
 cargo run -- search "humiliation"
 cargo run -- search "correction" --field problem-pressure
+cargo run -- sqlite build
+cargo run -- sqlite query "SELECT term, type FROM concepts WHERE type = 'mechanism' ORDER BY term"
 cargo run -- list --domain epistemology
 cargo run -- relations fallen-constitutionalism
 cargo run -- path fallen-constitutionalism anti-domination
@@ -177,7 +179,7 @@ cargo install --path .
 conceptarium search "correction"
 ```
 
-The query engine uses the canonical corpus directly plus `petgraph` for structural traversal, and **Tantivy is now the first persistent backend** for local BM25/full-text search. SQLite is next; SurrealDB, Oxigraph, and Qdrant Edge follow as disposable projections over the same Rust domain model.
+The query engine uses the canonical corpus directly plus `petgraph` for structural traversal. **Tantivy** provides local BM25/full-text search and **SQLite** provides a read-only relational projection for arbitrary SQL. SurrealDB is next; Oxigraph and Qdrant Edge follow as disposable projections over the same Rust domain model.
 
 ## Validation
 
