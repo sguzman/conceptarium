@@ -16,16 +16,22 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Rust
+        uses: dtolnay/rust-toolchain@stable
         with:
-          python-version: "3.13"
+          components: rustfmt
 
-      - name: Install validator dependencies
-        run: python -m pip install -r requirements-dev.txt
+      - name: Check formatting
+        run: cargo fmt --all -- --check
+
+      - name: Compile Rust tooling
+        run: cargo check --all-targets
+
+      - name: Run Rust tests
+        run: cargo test --all-targets
 
       - name: Validate registry and canonical entries
-        run: python tools/validate.py
+        run: cargo run --quiet -- validate
 
       - name: Build registry-aware disposable projections
-        run: python tools/project.py --output-dir /tmp/conceptarium-projections
+        run: cargo run --quiet -- project --output-dir /tmp/conceptarium-projections
