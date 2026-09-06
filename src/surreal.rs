@@ -1,10 +1,13 @@
 use crate::corpus::Corpus;
 use anyhow::{Context, Result, bail};
+use serde::Serialize;
+use serde_json::Value;
+use std::env;
+use std::ffi::OsString;
 use std::fs;
+use std::io::Write;
 use std::path::{Path, PathBuf};
-use surrealdb::Surreal;
-use surrealdb::engine::local::SurrealKv;
-use surrealdb::types::{RecordId, Value};
+use std::process::{Command, Stdio};
 
 const NAMESPACE: &str = "conceptarium";
 const DATABASE: &str = "main";
@@ -13,19 +16,217 @@ pub fn default_path(root: &Path) -> PathBuf {
     root.join(".conceptarium/surreal")
 }
 
-async fn connect(path: &Path) -> Result<Surreal<surrealdb::engine::local::Db>> {
-    let endpoint = path.to_string_lossy().to_string();
-    let db = Surreal::new::<SurrealKv>(endpoint.as_str())
-        .await
-        .with_context(|| format!("opening embedded SurrealKV store {}", path.display()))?;
-    db.use_ns(NAMESPACE)
-        .use_db(DATABASE)
-        .await
-        .context("selecting Conceptarium SurrealDB namespace/database")?;
-    Ok(db)
+fn surreal_bin() -> OsString {
+    env::var_os("CONCEPTARIUM_SURREAL_BIN").unwrap_or_else(|| OsString::from("surreal"))
 }
 
-pub async fn build(corpus: &Corpus, path: &Path) -> Result<()> {
+fn endpoint(path: &Path) -> String {
+    let normalized = path.to_string_lossy().replace('\\', "/");
+
+    if path.is_absolute() {
+        if cfg!(windows) {
+            format!("surrealkv:///{normalized}")
+        } else {
+            format!("surrealkv://{normalized}")
+        }
+    } else {
+        format!(
+            "surrealkv://{}",
+            normalized.trim_start_matches("./")
+        )
+    }
+}
+
+fn ensure_cli() -> Result<()> {
+    let bin = surreal_bin();
+    let output = Command::new(&bin).arg("version").output().with_context(|| {
+        format!(
+            "could not execute {:?}. Install the official SurrealDB CLI or set CONCEPTARIUM_SURREAL_BIN to its path",
+            bin
+        )
+    })?;
+
+    if !output.status.success() {
+        bail!(
+            "SurrealDB CLI {:?} exists but 'surreal version' failed: {}",
+            bin,
+            String::from_utf8_lossy(&output.stderr).trim()
+        );
+    }
+
+    Ok(())
+}
+
+fn run_sql(path: &Path, sql: &str, json: bool) -> Result<String> {
+    ensure_cli()?;
+
+    let bin = surreal_bin();
+    let endpoint = endpoint(path);
+    let mut command = Command::new(&bin);
+    command
+        .arg("sql")
+        .arg("--endpoint")
+        .arg(&endpoint)
+        .arg("--namespace")
+        .arg(NAMESPACE)
+        .arg("--database")
+        .arg(DATABASE)
+        .arg("--hide-welcome")
+        .arg("--log")
+        .arg("error")
+        .stdin(Stdio::piped())
+        .stdout(Stdio::piped())
+        .stderr(Stdio::piped());
+
+    if json {
+        command.arg("--json");
+    }
+
+    let mut child = command
+        .spawn()
+        .with_context(|| format!("starting SurrealDB CLI {:?} against {endpoint}", bin))?;
+
+    child
+        .stdin
+        .take()
+        .context("opening SurrealDB CLI stdin")?
+        .write_all(sql.as_bytes())
+        .context("sending SurrealQL to SurrealDB CLI")?;
+
+    let output = child
+        .wait_with_output()
+        .context("waiting for SurrealDB CLI")?;
+
+    if !output.status.success() {
+        bail!(
+            "SurrealDB CLI query failed against {endpoint}: {}",
+            String::from_utf8_lossy(&output.stderr).trim()
+        );
+    }
+
+    Ok(String::from_utf8_lossy(&output.stdout).into_owned())
+}
+
+fn literal<T: Serialize>(value: &T) -> Result<String> {
+    Ok(serde_json::to_string(value)?)
+}
+
+fn option_literal<T: Serialize>(value: Option<&T>) -> Result<String> {
+    match value {
+        Some(value) => literal(value),
+        None => Ok("null".to_string()),
+    }
+}
+
+fn build_script(corpus: &Corpus) -> Result<String> {
+    let mut script = String::new();
+
+    for record in &corpus.registry.concepts {
+        let entry = corpus.entry(&record.id);
+        let kind = entry.map(|entry| &entry.meta.kind);
+        let status = entry.map(|entry| &entry.meta.status);
+        let gloss = entry.map(|entry| &entry.meta.gloss);
+        let source = entry.map(|entry| entry.path.to_string_lossy().replace('\\', "/"));
+        let body = entry.map(|entry| &entry.body);
+        let problem_pressure = entry.and_then(|entry| entry.problem_pressure.as_ref());
+        let open_questions = entry.and_then(|entry| entry.open_questions.as_ref());
+        let domains = entry
+            .map(|entry| &entry.meta.domains)
+            .cloned()
+            .unwrap_or_default();
+        let aliases = entry
+            .map(|entry| &entry.meta.aliases)
+            .cloned()
+            .unwrap_or_default();
+        let origin_date = entry.map(|entry| &entry.meta.origin.date);
+        let origin_authorship = entry.map(|entry| &entry.meta.origin.authorship);
+        let origin_certainty = entry.map(|entry| &entry.meta.origin.certainty);
+        let capture_note = record
+            .capture
+            .as_ref()
+            .and_then(|capture| capture.note.as_ref());
+        let capture_context = record
+            .capture
+            .as_ref()
+            .and_then(|capture| capture.context.as_ref());
+
+        script.push_str(&format!(
+            "UPSERT type::record(\"concept\", {}) SET \
+concept_id = {}, term = {}, presence = {}, materialization = {}, ontology_state = {}, \
+kind = {}, status = {}, gloss = {}, domains = {}, aliases = {}, source = {}, body = {}, \
+problem_pressure = {}, open_questions = {}, origin_date = {}, origin_authorship = {}, \
+origin_certainty = {}, queue_group = {}, capture_note = {}, capture_context = {};\n",
+            literal(&record.id)?,
+            literal(&record.id)?,
+            literal(&record.term)?,
+            literal(&record.presence)?,
+            literal(&record.materialization)?,
+            literal(&record.ontology_state)?,
+            option_literal(kind)?,
+            option_literal(status)?,
+            option_literal(gloss)?,
+            literal(&domains)?,
+            literal(&aliases)?,
+            option_literal(source.as_ref())?,
+            option_literal(body)?,
+            option_literal(problem_pressure)?,
+            option_literal(open_questions)?,
+            option_literal(origin_date)?,
+            option_literal(origin_authorship)?,
+            option_literal(origin_certainty)?,
+            option_literal(record.queue_group.as_ref())?,
+            option_literal(capture_note)?,
+            option_literal(capture_context)?,
+        ));
+    }
+
+    for (index, entry) in corpus.entries.iter().enumerate() {
+        for (rel_index, relation) in entry.meta.relations.iter().enumerate() {
+            let suffix = format!("{index}_{rel_index}");
+            script.push_str(&format!(
+                "LET $source_{suffix} = type::record(\"concept\", {});\n\
+LET $target_{suffix} = type::record(\"concept\", {});\n\
+RELATE $source_{suffix}->relation->$target_{suffix} SET predicate = {}, source_id = {}, target_id = {};\n",
+                literal(&entry.meta.id)?,
+                literal(&relation.target)?,
+                literal(&relation.kind)?,
+                literal(&entry.meta.id)?,
+                literal(&relation.target)?,
+            ));
+        }
+    }
+
+    Ok(script)
+}
+
+fn find_named_u64(value: &Value, key: &str) -> Option<u64> {
+    match value {
+        Value::Object(map) => {
+            if let Some(number) = map.get(key).and_then(Value::as_u64) {
+                return Some(number);
+            }
+            map.values().find_map(|value| find_named_u64(value, key))
+        }
+        Value::Array(values) => values
+            .iter()
+            .find_map(|value| find_named_u64(value, key)),
+        _ => None,
+    }
+}
+
+fn count_table(path: &Path, table: &str, field: &str) -> Result<usize> {
+    let sql = format!("SELECT count() AS {field} FROM {table} GROUP ALL;");
+    let output = run_sql(path, &sql, true)?;
+    let json: Value = serde_json::from_str(output.trim()).with_context(|| {
+        format!("parsing JSON returned by SurrealDB count query: {output:?}")
+    })?;
+    let count = find_named_u64(&json, field).with_context(|| {
+        format!("SurrealDB count result did not contain {field:?}: {json}")
+    })?;
+    Ok(count as usize)
+}
+
+pub fn build(corpus: &Corpus, path: &Path) -> Result<()> {
     if path.exists() {
         fs::remove_dir_all(path)
             .with_context(|| format!("removing old SurrealDB projection {}", path.display()))?;
@@ -35,128 +236,16 @@ pub async fn build(corpus: &Corpus, path: &Path) -> Result<()> {
             .with_context(|| format!("creating SurrealDB parent directory {}", parent.display()))?;
     }
 
-    let db = connect(path).await?;
+    let script = build_script(corpus)?;
+    run_sql(path, &script, false)?;
 
-    for record in &corpus.registry.concepts {
-        let entry = corpus.entry(&record.id);
-
-        let kind = entry.map(|entry| entry.meta.kind.clone());
-        let status = entry.map(|entry| entry.meta.status.clone());
-        let gloss = entry.map(|entry| entry.meta.gloss.clone());
-        let source = entry.map(|entry| entry.path.to_string_lossy().replace('\\', "/"));
-        let body = entry.map(|entry| entry.body.clone());
-        let problem_pressure = entry.and_then(|entry| entry.problem_pressure.clone());
-        let open_questions = entry.and_then(|entry| entry.open_questions.clone());
-        let domains = entry
-            .map(|entry| entry.meta.domains.clone())
-            .unwrap_or_default();
-        let aliases = entry
-            .map(|entry| entry.meta.aliases.clone())
-            .unwrap_or_default();
-        let origin_date = entry.map(|entry| entry.meta.origin.date.clone());
-        let origin_authorship = entry.map(|entry| entry.meta.origin.authorship.clone());
-        let origin_certainty = entry.map(|entry| entry.meta.origin.certainty.clone());
-        let capture_note = record
-            .capture
-            .as_ref()
-            .and_then(|capture| capture.note.clone());
-        let capture_context = record
-            .capture
-            .as_ref()
-            .and_then(|capture| capture.context.clone());
-
-        db.query(
-            r#"
-            UPSERT type::record('concept', $id)
-            SET
-                concept_id = $id,
-                term = $term,
-                presence = $presence,
-                materialization = $materialization,
-                ontology_state = $ontology_state,
-                kind = $kind,
-                status = $status,
-                gloss = $gloss,
-                domains = $domains,
-                aliases = $aliases,
-                source = $source,
-                body = $body,
-                problem_pressure = $problem_pressure,
-                open_questions = $open_questions,
-                origin_date = $origin_date,
-                origin_authorship = $origin_authorship,
-                origin_certainty = $origin_certainty,
-                queue_group = $queue_group,
-                capture_note = $capture_note,
-                capture_context = $capture_context;
-            "#,
-        )
-        .bind(("id", record.id.clone()))
-        .bind(("term", record.term.clone()))
-        .bind(("presence", record.presence.clone()))
-        .bind(("materialization", record.materialization.clone()))
-        .bind(("ontology_state", record.ontology_state.clone()))
-        .bind(("kind", kind))
-        .bind(("status", status))
-        .bind(("gloss", gloss))
-        .bind(("domains", domains))
-        .bind(("aliases", aliases))
-        .bind(("source", source))
-        .bind(("body", body))
-        .bind(("problem_pressure", problem_pressure))
-        .bind(("open_questions", open_questions))
-        .bind(("origin_date", origin_date))
-        .bind(("origin_authorship", origin_authorship))
-        .bind(("origin_certainty", origin_certainty))
-        .bind(("queue_group", record.queue_group.clone()))
-        .bind(("capture_note", capture_note))
-        .bind(("capture_context", capture_context))
-        .await
-        .with_context(|| format!("projecting concept {} into SurrealDB", record.id))?
-        .check()
-        .with_context(|| format!("checking SurrealDB statement for concept {}", record.id))?;
-    }
-
-    let mut relation_count = 0usize;
-    for entry in &corpus.entries {
-        for relation in &entry.meta.relations {
-            let source_record = RecordId::new("concept", entry.meta.id.clone());
-            let target_record = RecordId::new("concept", relation.target.clone());
-
-            db.query(
-                r#"
-                RELATE $source->relation->$target
-                SET
-                    predicate = $predicate,
-                    source_id = $source_id,
-                    target_id = $target_id;
-                "#,
-            )
-            .bind(("source", source_record))
-            .bind(("target", target_record))
-            .bind(("source_id", entry.meta.id.clone()))
-            .bind(("target_id", relation.target.clone()))
-            .bind(("predicate", relation.kind.clone()))
-            .await
-            .with_context(|| {
-                format!(
-                    "projecting relation {} --{}--> {} into SurrealDB",
-                    entry.meta.id, relation.kind, relation.target
-                )
-            })?
-            .check()
-            .with_context(|| {
-                format!(
-                    "checking SurrealDB statement for relation {} --{}--> {}",
-                    entry.meta.id, relation.kind, relation.target
-                )
-            })?;
-            relation_count += 1;
-        }
-    }
-
-    let actual_concepts = count_table(&db, "concept").await?;
-    let actual_relations = count_table(&db, "relation").await?;
+    let expected_relations = corpus
+        .entries
+        .iter()
+        .map(|entry| entry.meta.relations.len())
+        .sum::<usize>();
+    let actual_concepts = count_table(path, "concept", "concepts")?;
+    let actual_relations = count_table(path, "relation", "relations")?;
 
     if actual_concepts != corpus.registry.concepts.len() {
         bail!(
@@ -165,10 +254,10 @@ pub async fn build(corpus: &Corpus, path: &Path) -> Result<()> {
             actual_concepts
         );
     }
-    if actual_relations != relation_count {
+    if actual_relations != expected_relations {
         bail!(
             "SurrealDB relation count mismatch: expected {}, found {}",
-            relation_count,
+            expected_relations,
             actual_relations
         );
     }
@@ -180,30 +269,6 @@ pub async fn build(corpus: &Corpus, path: &Path) -> Result<()> {
         path.display()
     );
     Ok(())
-}
-
-async fn count_table(
-    db: &Surreal<surrealdb::engine::local::Db>,
-    table: &str,
-) -> Result<usize> {
-    let query = format!("SELECT count() AS count FROM {table} GROUP ALL");
-    let mut response = db
-        .query(&query)
-        .await
-        .with_context(|| format!("counting SurrealDB table {table}"))?
-        .check()
-        .with_context(|| format!("checking SurrealDB count query for {table}"))?;
-    let value: Value = response
-        .take(0)
-        .with_context(|| format!("reading SurrealDB count result for {table}"))?;
-    let json = value.into_json_value();
-    let count = json
-        .as_array()
-        .and_then(|rows| rows.first())
-        .and_then(|row| row.get("count"))
-        .and_then(|count| count.as_u64())
-        .with_context(|| format!("unexpected SurrealDB count shape for {table}: {json}"))?;
-    Ok(count as usize)
 }
 
 fn validate_read_only(query: &str) -> Result<&str> {
@@ -223,15 +288,13 @@ fn validate_read_only(query: &str) -> Result<&str> {
         || lowered.starts_with("info ");
 
     if !allowed {
-        bail!(
-            "SurrealDB query is read-only; statement must begin with SELECT, RETURN, or INFO"
-        );
+        bail!("SurrealDB query is read-only; statement must begin with SELECT, RETURN, or INFO");
     }
 
     Ok(without_trailing)
 }
 
-pub async fn query(path: &Path, query: &str) -> Result<()> {
+pub fn query(path: &Path, query: &str) -> Result<()> {
     if !path.exists() {
         bail!(
             "SurrealDB projection does not exist at {}; run 'conceptarium surreal build' first",
@@ -240,21 +303,11 @@ pub async fn query(path: &Path, query: &str) -> Result<()> {
     }
 
     let query = validate_read_only(query)?;
-    let db = connect(path).await?;
-    let mut response = db
-        .query(query)
-        .await
-        .with_context(|| format!("executing SurrealQL query {query:?}"))?;
-
-    let statements = response.num_statements();
-    for index in 0..statements {
-        let value: Value = response
-            .take(index)
-            .with_context(|| format!("reading SurrealQL statement result {index}"))?;
-        let json = value.into_json_value();
-        println!("{}", serde_json::to_string_pretty(&json)?);
+    let output = run_sql(path, &format!("{query};"), true)?;
+    print!("{output}");
+    if !output.ends_with('\n') {
+        println!();
     }
-
     Ok(())
 }
 
@@ -264,7 +317,7 @@ pub fn exists(path: &Path) -> bool {
 
 #[cfg(test)]
 mod tests {
-    use super::{default_path, validate_read_only};
+    use super::{default_path, endpoint, validate_read_only};
     use std::path::Path;
 
     #[test]
@@ -272,6 +325,14 @@ mod tests {
         assert_eq!(
             default_path(Path::new("/repo")),
             Path::new("/repo/.conceptarium/surreal")
+        );
+    }
+
+    #[test]
+    fn relative_endpoint_uses_embedded_surreal_kv() {
+        assert_eq!(
+            endpoint(Path::new(".conceptarium/surreal")),
+            "surrealkv://.conceptarium/surreal"
         );
     }
 
