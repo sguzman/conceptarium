@@ -79,6 +79,25 @@ person can see enough to contest
 - political domestication;
 - ethnographic engineering;
 - Village destruction by elite competition.
+## Fallen constitutionalism bridge
+
+The new [Fallen Constitutionalism, Psychic Sovereignty, and Corrigibility](./fallen-constitutionalism.md) cluster supplies a personality- and status-sensitive implementation of anti-domination.
+
+Its institutional principle is:
+
+~~~text
+do not depend on the actor being pure
+        ↓
+constitutionalize the crossing from
+private model / ambition / prestige
+into
+claims over other persons
+~~~
+
+This connects directly to [Anti-domination](../entries/anti-domination.md), [Contestability](../entries/contestability.md), **Border constitutionalism**, **Constitutionalized border crossing**, **Prestige without sovereignty**, and **Models don’t confer title**.
+
+The important shift is from **virtue-dependent safety** to **structure-dependent safety**.
+
 
 ## Research frontier
 
