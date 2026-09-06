@@ -1411,3 +1411,246 @@ concepts:
     queue_group: "Fallen / Village and institutions"
     capture:
       note: "Preserved from the former promotion queue and referenced by an existing relation."
+  - id: tone-lock
+    term: "tone lock"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Attention / absorption / completion"
+    capture:
+      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
+  - id: aesthetic-lock
+    term: "aesthetic lock"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Attention / absorption / completion"
+    capture:
+      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
+  - id: mood-congruent-selection
+    term: "mood-congruent selection"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Attention / absorption / completion"
+    capture:
+      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
+  - id: motivational-admissibility
+    term: "motivational admissibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Attention / absorption / completion"
+    capture:
+      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
+  - id: latent-feature-bundle
+    term: "latent feature bundle"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Attention / absorption / completion"
+    capture:
+      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
+  - id: media-appetite
+    term: "media appetite"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Attention / absorption / completion"
+    capture:
+      note: "Likely future concept preserved in the attention cluster."
+  - id: open-object
+    term: "open object"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Attention / absorption / completion"
+    capture:
+      note: "Likely future concept preserved in the attention cluster."
+  - id: deliberate-closure
+    term: "deliberate closure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Attention / absorption / completion"
+    capture:
+      note: "Likely future concept preserved in the attention cluster."
+  - id: absorption-remainder
+    term: "absorption remainder"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Attention / absorption / completion"
+    capture:
+      note: "Likely future concept preserved in the attention cluster."
+  - id: affective-reinforcement
+    term: "affective reinforcement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / symbolic reproduction"
+    capture:
+      note: "Recovered concept preserved in the culture cluster; not yet promoted."
+  - id: system-level-reproductive-dependence
+    term: "system-level reproductive dependence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / symbolic reproduction"
+    capture:
+      note: "Recovered concept preserved in the culture cluster; stronger claim requiring more evidence."
+  - id: intentional-signifier
+    term: "intentional signifier"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / consumption / signification"
+    capture:
+      note: "Likely future concept preserved in the consumer-semiotics branch."
+  - id: imposed-signifier
+    term: "imposed signifier"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / consumption / signification"
+    capture:
+      note: "Likely future concept preserved in the consumer-semiotics branch."
+  - id: allegiance-inference
+    term: "allegiance inference"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / consumption / signification"
+    capture:
+      note: "Likely future concept preserved in the consumer-semiotics branch."
+  - id: content-bypass
+    term: "content bypass"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / consumption / signification"
+    capture:
+      note: "Likely future concept preserved in the consumer-semiotics branch."
+  - id: coalitional-readability
+    term: "coalitional readability"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / consumption / signification"
+    capture:
+      note: "Likely future concept preserved in the consumer-semiotics branch."
+  - id: semiotic-capture
+    term: "semiotic capture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / consumption / signification"
+    capture:
+      note: "Likely future concept preserved in the consumer-semiotics branch."
+  - id: status-threat
+    term: "status threat"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named concept awaiting promotion in the Fallen / Village cluster."
+  - id: status-broker
+    term: "status broker"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named concept awaiting promotion in the Fallen / Village cluster."
+  - id: embedded-community
+    term: "embedded community"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named concept awaiting promotion in the Fallen / Village cluster."
+  - id: village-rebellion-vs-revolution
+    term: "Village rebellion vs. revolution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named distinction awaiting promotion in the Fallen / Village cluster."
+  - id: revolutionary-conservative-lifecycle
+    term: "revolutionary/conservative lifecycle"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named concept awaiting promotion in the Fallen / Village cluster."
+  - id: moral-universalization-under-exclusion
+    term: "moral universalization under exclusion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named concept awaiting promotion in the Fallen / Village cluster."
+  - id: customary-rights-orientation
+    term: "customary-rights orientation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named concept awaiting promotion in the Fallen / Village cluster."
+  - id: subsistence-security-priority
+    term: "subsistence-security priority"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named concept awaiting promotion in the Fallen / Village cluster."
+  - id: local-embeddedness
+    term: "local embeddedness"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named concept awaiting promotion in the Fallen / Village cluster."
+  - id: repeated-reciprocity
+    term: "repeated reciprocity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village"
+    capture:
+      note: "Named concept awaiting promotion in the Fallen / Village cluster."
