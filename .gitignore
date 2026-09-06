@@ -1,8 +1,9 @@
 # Disposable derived views.
-# Canonical knowledge lives in entries/*.md.
+# Canonical knowledge lives in registry/concepts.yml and entries/*.md.
 build/
 
-# Python
-__pycache__/
-*.py[cod]
-.venv/
+# Rust build products.
+target/
+
+# Disposable Conceptarium databases and search indexes.
+.conceptarium/
