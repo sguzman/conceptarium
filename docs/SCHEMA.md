@@ -1,6 +1,10 @@
 # Canonical Entry Schema
 
-Every canonical Conceptarium entry is a Markdown file with YAML frontmatter followed by a long-form article.
+Every fully materialized Conceptarium entry is a Markdown file with YAML frontmatter followed by a long-form article.
+
+Concept identity exists one layer earlier in the [Concept Registry](REGISTRY.md). The registry is canonical for **predicate presence**; this entry schema is canonical for the concept's developed semantic content.
+
+A registry-only concept does not need to satisfy this entry schema until it is promoted.
 
 The schema is intentionally designed for both human editing and machine projection.
 
@@ -73,9 +77,9 @@ relations:
 
 #### `id`
 
-Stable machine identifier. Normally identical to the filename without `.md`.
+Stable machine identifier. Normally identical to the filename without `.md` and identical to the concept's ID in `registry/concepts.yml`.
 
-Do not change an ID merely because the display term changes. Stable IDs allow links and generated projections to survive renaming.
+Do not change an ID merely because the display term changes. Stable IDs allow registry presence, links, relations, embeddings, and generated projections to survive renaming.
 
 #### `term`
 
@@ -210,7 +214,9 @@ relations:
 
 Relation vocabulary is extensible but should prefer the shared ontology in [RELATIONS.md](RELATIONS.md). New verbs are allowed when they preserve a real distinction; they should be documented rather than invented for prose variety.
 
-The repository validator treats unknown relation verbs and dangling targets as warnings during corpus migration. Structural metadata errors fail validation. Once migration is mature, relation validation can become strict.
+The repository validator treats unknown relation verbs as warnings. Relation targets are stricter: every target must have predicate presence in `registry/concepts.yml`.
+
+A target may be **registry-only** without having a Markdown entry. That is valid unfinished ontology, not a dangling reference. A target absent from the registry is a structural error.
 
 Useful relation types include:
 
@@ -365,10 +371,11 @@ A future citation convention may be added for conversations, files, articles, bo
 
 A renderer should be able to derive at least:
 
-- dictionary card from `term + gloss + aliases + status + domains`;
+- predicate-presence and promotion-queue views from `registry/concepts.yml`;
+- dictionary card from materialized `term + gloss + aliases + status + domains`;
 - encyclopedia page from the Markdown body;
-- relationship graph from `relations`;
+- relationship graph containing registry-only and materialized nodes;
 - chronology/genealogy from `origin` and provenance;
 - domain and cluster indexes from metadata.
 
-The source entry remains authoritative if a generated projection disagrees with it.
+If a generated projection disagrees about **identity or presence**, the registry wins. If it disagrees about a materialized concept's **semantic content**, the canonical entry wins.
