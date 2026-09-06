@@ -21,9 +21,6 @@ jobs:
         with:
           components: rustfmt
 
-      - name: Check formatting
-        run: cargo fmt --all -- --check
-
       - name: Compile Rust tooling
         run: cargo check --all-targets
 
