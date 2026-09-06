@@ -72,7 +72,7 @@ The Rust core currently provides:
 
 This is intentionally sufficient for a corpus of hundreds or thousands of concepts without a database server.
 
-### 1. Tantivy — NEXT
+### 1. Tantivy — ACTIVE
 
 Purpose:
 
@@ -84,9 +84,24 @@ Purpose:
 
 The planned index is disposable under `.conceptarium/tantivy/`.
 
-Tantivy is first because search quality creates immediate research value without forcing an ontology or storage model.
+Tantivy is the first persistent backend because search quality creates immediate research value without forcing an ontology or storage model.
 
-### 2. SQLite — PLANNED
+Build it with:
+
+~~~bash
+cargo run --quiet -- index build
+~~~
+
+Then search with BM25 automatically:
+
+~~~bash
+cargo run --quiet -- search 'humiliation status restoration'
+cargo run --quiet -- search 'correction' --field problem-pressure
+~~~
+
+If the Tantivy index does not exist, `search` deliberately falls back to direct scan search over the canonical corpus.
+
+### 2. SQLite — NEXT
 
 Purpose:
 
