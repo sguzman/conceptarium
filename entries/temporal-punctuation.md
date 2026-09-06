@@ -18,6 +18,8 @@ origin:
     Materialized from a user-supplied load-bearing glossary reconstructed from a discussion of experimental animation and ronununu. The glossary identified this term as part of a larger theory of transition semantics, procedural visual language, and animation grammar.
 relations:
   - type: part-of
+    target: motion-punctuation
+  - type: part-of
     target: motion-syntax
   - type: uses
     target: formal-operator

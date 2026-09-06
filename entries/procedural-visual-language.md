@@ -18,6 +18,8 @@ origin:
   authorship: joint
   certainty: reconstructed
 relations:
+  - type: overlaps-with
+    target: procedural-media-language
   - type: contains
     target: animation-grammar
   - type: built-from
@@ -105,6 +107,12 @@ procedural visual language
 This is a semantic broadening rather than a replacement. A procedural visual language can govern static construction, temporal transformation, or both.
 
 When temporal rules become stable enough, they can be described more specifically as an **animation grammar**. When those rules appear to function as laws of the represented world rather than merely authorial tricks, the stronger concepts **ontologized transition grammar** and **coherent metaphysics of animation** become relevant.
+
+## Media-recomposition neighbor
+
+**Procedural media language** is a newly separated neighbor. Procedural visual language governs reusable rules for constructing and transforming visual form; procedural media language governs reusable operations for assigning new meaning to **preexisting media fragments** through sampling, adjacency, timing, dialogue, and montage.
+
+The two can overlap, but neither should silently absorb the other.
 
 ## Why this is stronger than style transfer
 
@@ -200,3 +208,4 @@ It developed alongside the primitive-vocabulary and declarative-modeling concept
 
 - **2026:** Stabilized as the style-level consequence of reusable procedural construction.
 - **2026-09-06:** Broadened to include temporal/transformation grammar while preserving constructional grammar as the original branch.
+- **2026-09-06:** Distinguished from procedural media language, which operates primarily over recomposed source material.

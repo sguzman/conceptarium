@@ -2326,3 +2326,185 @@ concepts:
     entry: entries/coherent-metaphysics-of-animation.md
     ontology_state: unassessed
     registered_on: 2026-09-06
+  - id: diegetic-grafting
+    term: "Diegetic grafting"
+    presence: registered
+    materialization: entry
+    entry: entries/diegetic-grafting.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: vernacular-transplantation
+    term: "Vernacular transplantation"
+    presence: registered
+    materialization: entry
+    entry: entries/vernacular-transplantation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: register-incongruity
+    term: "Register incongruity"
+    presence: registered
+    materialization: entry
+    entry: entries/register-incongruity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: vernacular-naturalization
+    term: "Vernacular naturalization"
+    presence: registered
+    materialization: entry
+    entry: entries/vernacular-naturalization.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: actor-body
+    term: "Actor-body"
+    presence: registered
+    materialization: entry
+    entry: entries/actor-body.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: reaction-grammar
+    term: "Reaction grammar"
+    presence: registered
+    materialization: entry
+    entry: entries/reaction-grammar.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: visual-sampling
+    term: "Visual sampling"
+    presence: registered
+    materialization: entry
+    entry: entries/visual-sampling.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: social-re-indexing
+    term: "Social re-indexing"
+    presence: registered
+    materialization: entry
+    entry: entries/social-re-indexing.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: cultural-omnivory
+    term: "Cultural omnivory"
+    presence: registered
+    materialization: entry
+    entry: entries/cultural-omnivory.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: universal-visual-substrate
+    term: "Universal visual substrate"
+    presence: registered
+    materialization: entry
+    entry: entries/universal-visual-substrate.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: seam-collapse
+    term: "Seam collapse"
+    presence: registered
+    materialization: entry
+    entry: entries/seam-collapse.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: montage-naturalization
+    term: "Montage naturalization"
+    presence: registered
+    materialization: entry
+    entry: entries/montage-naturalization.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: constructive-puppetry
+    term: "Constructive puppetry"
+    presence: registered
+    materialization: entry
+    entry: entries/constructive-puppetry.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: social-overwrite
+    term: "Social overwrite"
+    presence: registered
+    materialization: entry
+    entry: entries/social-overwrite.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: character-substrate
+    term: "Character substrate"
+    presence: registered
+    materialization: entry
+    entry: entries/character-substrate.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: audiovisual-recharacterization
+    term: "Audiovisual recharacterization"
+    presence: registered
+    materialization: entry
+    entry: entries/audiovisual-recharacterization.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: editing-as-performance
+    term: "Editing-as-performance"
+    presence: registered
+    materialization: entry
+    entry: entries/editing-as-performance.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: musical-montage-logic
+    term: "Musical montage logic"
+    presence: registered
+    materialization: entry
+    entry: entries/musical-montage-logic.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: motion-punctuation
+    term: "Motion punctuation"
+    presence: registered
+    materialization: entry
+    entry: entries/motion-punctuation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: surrealist-recombination
+    term: "Surrealist recombination"
+    presence: registered
+    materialization: entry
+    entry: entries/surrealist-recombination.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: hybrid-editing-grammar
+    term: "Hybrid editing grammar"
+    presence: registered
+    materialization: entry
+    entry: entries/hybrid-editing-grammar.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: procedural-media-language
+    term: "Procedural media language"
+    presence: registered
+    materialization: entry
+    entry: entries/procedural-media-language.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: source-identity-suppression
+    term: "Source-identity suppression"
+    presence: registered
+    materialization: entry
+    entry: entries/source-identity-suppression.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: semantic-reassignment
+    term: "Semantic reassignment"
+    presence: registered
+    materialization: entry
+    entry: entries/semantic-reassignment.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: remix-actorhood
+    term: "Remix actorhood"
+    presence: registered
+    materialization: entry
+    entry: entries/remix-actorhood.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: vernacular-audiovisual-recomposition
+    term: "Vernacular audiovisual recomposition"
+    presence: registered
+    materialization: entry
+    entry: entries/vernacular-audiovisual-recomposition.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
