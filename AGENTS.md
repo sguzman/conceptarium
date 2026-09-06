@@ -12,6 +12,7 @@ Before adding, promoting, renaming, or substantially revising any concept, read:
 4. [docs/EDITORIAL.md](docs/EDITORIAL.md) — preservation and editorial doctrine
 5. [docs/RELATIONS.md](docs/RELATIONS.md) — typed relation ontology
 6. [docs/PROJECTIONS.md](docs/PROJECTIONS.md) — source/projection boundary
+7. [docs/QUERY.md](docs/QUERY.md) — Rust query engine and backend roadmap
 
 ## Non-negotiable rules
 
@@ -33,16 +34,18 @@ Before adding, promoting, renaming, or substantially revising any concept, read:
 - Every promoted entry must appear in `indexes/terms.md` and resolve to an `entry` record in the Concept Registry.
 - Every relation target must resolve to the registry; registry-only targets are valid, unregistered targets are broken references.
 - Keep the promoted corpus count accurate.
-- Run validation and projections before declaring integration complete.
+- Run the Rust validator and projections before declaring integration complete.
+- Python is not repository infrastructure; do not reintroduce Python tooling for canonical parsing, validation, projection generation, or query services.
 
 ## Required verification
 
 From repository root:
 
 ```bash
-python -m pip install -r requirements-dev.txt
-python tools/validate.py
-python tools/project.py
+cargo check --all-targets
+cargo test --all-targets
+cargo run --quiet -- validate
+cargo run --quiet -- project
 ```
 
 If GitHub Actions is available, verify the final relevant workflow run.
