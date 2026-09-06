@@ -32,3 +32,9 @@ jobs:
 
       - name: Build registry-aware disposable projections
         run: cargo run --quiet -- project --output-dir /tmp/conceptarium-projections
+
+      - name: Build Tantivy search index
+        run: cargo run --quiet -- index build --path /tmp/conceptarium-tantivy
+
+      - name: Smoke test Tantivy search
+        run: cargo run --quiet -- search "humiliation" --engine tantivy --index-path /tmp/conceptarium-tantivy --limit 3
