@@ -4,7 +4,7 @@ use std::fs;
 use std::path::{Path, PathBuf};
 use surrealdb::Surreal;
 use surrealdb::engine::local::SurrealKv;
-use surrealdb::types::Value;
+use surrealdb::types::{RecordId, Value};
 
 const NAMESPACE: &str = "conceptarium";
 const DATABASE: &str = "main";
@@ -120,20 +120,22 @@ pub async fn build(corpus: &Corpus, path: &Path) -> Result<()> {
     let mut relation_count = 0usize;
     for entry in &corpus.entries {
         for relation in &entry.meta.relations {
+            let source_record = RecordId::new("concept", entry.meta.id.clone());
+            let target_record = RecordId::new("concept", relation.target.clone());
+
             db.query(
                 r#"
-                RELATE
-                    type::record('concept', $source)
-                    ->relation->
-                    type::record('concept', $target)
+                RELATE $source->relation->$target
                 SET
                     predicate = $predicate,
-                    source_id = $source,
-                    target_id = $target;
+                    source_id = $source_id,
+                    target_id = $target_id;
                 "#,
             )
-            .bind(("source", entry.meta.id.clone()))
-            .bind(("target", relation.target.clone()))
+            .bind(("source", source_record))
+            .bind(("target", target_record))
+            .bind(("source_id", entry.meta.id.clone()))
+            .bind(("target_id", relation.target.clone()))
             .bind(("predicate", relation.kind.clone()))
             .await
             .with_context(|| {
