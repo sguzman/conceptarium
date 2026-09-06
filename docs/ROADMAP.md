@@ -11,13 +11,17 @@ Conceptarium should grow in layers. The immediate priority is **preservation and
 - editorial doctrine established;
 - projection architecture documented;
 - recovered master lexicon archived intact;
-- first high-value concepts promoted into deep entries.
+- first high-value concepts promoted into deep entries;
+- canonical Concept Registry established so predicate presence no longer depends on full materialization;
+- lazy-capture workflow established for exhausted or interruption-sensitive sessions.
 
 The archive is a safety net, not the final information architecture.
 
+Registry-only concepts are also not failures or incomplete stubs. They are durable conceptual inventory awaiting optional later materialization.
+
 ## Phase 1 — Corpus migration
 
-**Status: active — 151 concepts/phrases/frameworks promoted as individual entries.**
+**Status: active — 190 registered concepts, including 151 materialized entries and 39 registry-only concepts.**
 
 Promotion means more than copying a dictionary sentence. A promoted entry should acquire, where appropriate:
 
@@ -71,15 +75,19 @@ As entries accumulate:
 - identify conceptual cycles;
 - build curated cluster maps.
 
-The validator currently flags:
+The validator currently enforces:
 
-- duplicate IDs;
-- duplicate terms;
+- unique registry IDs and terms;
+- predicate presence for every materialized entry;
+- registry/entry path and term agreement;
+- duplicate entry IDs and terms;
 - invalid statuses/types;
-- missing relation targets;
 - malformed frontmatter;
 - filenames that disagree with IDs;
-- aliases colliding with canonical terms.
+- aliases colliding with canonical terms;
+- relation targets resolving either to a full entry or a registry-only concept.
+
+An unregistered relation target is now a structural error. A registry-only target is valid unfinished ontology, not a dangling reference.
 
 ## Phase 3 — Projection generator
 
@@ -87,7 +95,7 @@ The validator currently flags:
 
 The repository includes a deterministic renderer in `tools/project.py` that reads `entries/*.md` and emits disposable projections into `build/`.
 
-Current generated artifacts:
+Current generated artifacts include seven views:
 
 ### Dictionary
 
@@ -99,7 +107,7 @@ Full articles with backlinks.
 
 ### Graph data
 
-JSON containing nodes and typed edges.
+JSON containing all registered concepts as nodes—including registry-only concepts—and typed edges from materialized entries.
 
 ### Genealogy
 
@@ -107,7 +115,15 @@ Origin dates, conceptual ancestors, refinements, and semantic revisions.
 
 ### Research frontier
 
-Open questions + contested/provisional concepts + provenance TODOs.
+Registry-only concepts + open questions + contested/provisional concepts.
+
+### Promotion queue
+
+Registry-only concepts grouped by capture context, with stable IDs and preservation notes.
+
+### Registry JSON
+
+Machine-readable predicate-presence projection for future search, embeddings, ontology work, and services.
 
 ### Problem-pressure index
 
