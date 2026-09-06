@@ -1,8 +1,13 @@
 # Projection Architecture
 
-Conceptarium stores canonical knowledge. Other forms are derived views.
+Conceptarium has two canonical source layers:
 
-A **projection** selects and transforms part of an entry for a particular cognitive task without becoming an independent source of truth.
+- `registry/concepts.yml` for concept identity and predicate presence;
+- `entries/*.md` for fully materialized semantic content.
+
+Other forms are derived views.
+
+A **projection** selects and transforms canonical registry and/or entry data for a particular cognitive task without becoming an independent source of truth.
 
 ## 1. Dictionary
 
@@ -56,7 +61,14 @@ This is the default deep-reading surface.
 
 **Question:** How does this idea connect to the rest of the system?
 
-Input: typed relations.
+Input:
+
+- every registered concept as a node;
+- full metadata for materialized entry nodes;
+- placeholder identity/capture metadata for registry-only nodes;
+- typed relations from materialized entries.
+
+A graph edge may therefore terminate at a concept whose semantic article has not been written yet.
 
 Useful graph modes:
 
@@ -144,12 +156,32 @@ A future renderer could compare semantic revision records between versions:
 
 This projection treats conceptual revision as first-class history.
 
-## 10. Research frontier
+## 10. Promotion queue
+
+**Question:** Which conceptual objects have durable presence but still await full semantic materialization?
+
+Input:
+
+- registry records where `materialization: registry-only`;
+- queue grouping;
+- capture notes;
+- ontology state.
+
+The promotion queue is generated, never separately maintained.
+
+## 11. Registry projection
+
+**Question:** What conceptual objects exist in the shared universe regardless of maturity?
+
+The machine-readable registry projection exposes both materialized and unmaterialized concepts for future search, embeddings, ontology work, graph services, and agents.
+
+## 12. Research frontier
 
 **Question:** Where is the theory unfinished?
 
 Aggregate:
 
+- registry-only concepts;
 - open questions;
 - contested entries;
 - provenance checks;
@@ -163,13 +195,13 @@ This turns Conceptarium into an agenda generator rather than only an archive.
 The preferred architecture is:
 
 ```text
-                       -> dictionary
-                       -> encyclopedia
-Conceptarium Markdown  -> graph
-and YAML               -> genealogy
-                       -> atlas
-                       -> search
-                       -> blog embeds
+Concept Registry -----> presence / promotion queue / registry JSON
+       |
+       +---------------> graph placeholder nodes
+       |
+Materialized Markdown -> dictionary / encyclopedia / problem pressure
+       |
+       +---------------> graph theory / genealogy / atlas / search / blog
 ```
 
 The blog may provide navigation, styling, essays, commentary, and interactive visualization. It should not silently fork canonical definitions.
