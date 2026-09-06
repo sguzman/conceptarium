@@ -1,2 +1,5 @@
 [alias]
 conceptarium = "run --"
+
+[env]
+AWS_LC_SYS_PREBUILT_NASM = "1"
