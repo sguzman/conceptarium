@@ -38,3 +38,9 @@ jobs:
 
       - name: Smoke test Tantivy search
         run: cargo run --quiet -- search "humiliation" --engine tantivy --index-path /tmp/conceptarium-tantivy --limit 3
+
+      - name: Build SQLite projection
+        run: cargo run --quiet -- sqlite build --path /tmp/conceptarium.sqlite
+
+      - name: Smoke test SQLite query
+        run: cargo run --quiet -- sqlite query "SELECT COUNT(*) AS concepts FROM concepts" --path /tmp/conceptarium.sqlite
