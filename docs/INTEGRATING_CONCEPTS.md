@@ -25,12 +25,12 @@ The short version is:
 A rigorous concept integration normally includes all of the following:
 
 1. ensure the concept has predicate presence in `registry/concepts.yml`;
-3. determine whether the idea is actually new;
-2. preserve the exact wording that carries conceptual value;
-4. decide whether to create a new entry or revise an existing one;
-5. assign type, status, domains, aliases, and provenance;
-6. write a dictionary-quality gloss;
-7. write an encyclopedic treatment;
+2. determine whether the idea is actually new;
+3. preserve the exact wording that carries conceptual value;
+4. decide whether to keep it registry-only, create a new entry, or revise an existing one;
+5. assign type, status, domains, aliases, and provenance when materializing;
+6. write a dictionary-quality gloss when materializing;
+7. write an encyclopedic treatment when materializing;
 8. reconstruct **problem pressure**;
 9. state the core model, mechanism, distinction, or procedure;
 10. identify claims, examples, non-examples, and failure modes;
@@ -311,7 +311,7 @@ entry: entries/stable-slug.md
 
 The stable identity should survive promotion unchanged.
 
-# 10. Write the canonical frontmatter
+# 9. Write the canonical frontmatter
 
 Every promoted entry should normally contain:
 
@@ -353,7 +353,7 @@ They are projections, not source.
 
 ---
 
-# 9. Write the encyclopedic body
+# 10. Write the encyclopedic body
 
 A mature canonical entry should attempt most of the following sections.
 
