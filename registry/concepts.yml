@@ -1,0 +1,1413 @@
+version: 1
+registry:
+  doctrine: "Predicate presence is independent from ontological materialization."
+  created: 2026-09-05
+concepts:
+  - id: abstract-group-privilege-substitution
+    term: "Abstract-group privilege substitution"
+    presence: registered
+    materialization: entry
+    entry: entries/abstract-group-privilege-substitution.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: abundance-discipline
+    term: "Abundance discipline"
+    presence: registered
+    materialization: entry
+    entry: entries/abundance-discipline.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: abundance-inversion
+    term: "Abundance inversion"
+    presence: registered
+    materialization: entry
+    entry: entries/abundance-inversion.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: abundance-politics
+    term: "Abundance politics"
+    presence: registered
+    materialization: entry
+    entry: entries/abundance-politics.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: abundance-sorting
+    term: "Abundance sorting"
+    presence: registered
+    materialization: entry
+    entry: entries/abundance-sorting.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: accumulated-precedent-redefinition
+    term: "Accumulated-precedent redefinition"
+    presence: registered
+    materialization: entry
+    entry: entries/accumulated-precedent-redefinition.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: adaptive-continuity
+    term: "Adaptive continuity"
+    presence: registered
+    materialization: entry
+    entry: entries/adaptive-continuity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: additive-diversity
+    term: "Additive diversity"
+    presence: registered
+    materialization: entry
+    entry: entries/additive-diversity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: adversarial-preference-governance
+    term: "Adversarial preference governance"
+    presence: registered
+    materialization: entry
+    entry: entries/adversarial-preference-governance.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: adversarial-verification
+    term: "Adversarial verification"
+    presence: registered
+    materialization: entry
+    entry: entries/adversarial-verification.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: aesthetic-allocation
+    term: "Aesthetic allocation"
+    presence: registered
+    materialization: entry
+    entry: entries/aesthetic-allocation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: aesthetic-negative-prior
+    term: "Aesthetic negative prior"
+    presence: registered
+    materialization: entry
+    entry: entries/aesthetic-negative-prior.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: aesthetic-paternalism
+    term: "Aesthetic paternalism"
+    presence: registered
+    materialization: entry
+    entry: entries/aesthetic-paternalism.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: agentic-systems
+    term: "Agentic systems"
+    presence: registered
+    materialization: entry
+    entry: entries/agentic-systems.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: american-horror-through-japanese-eyes
+    term: "American horror through Japanese eyes"
+    presence: registered
+    materialization: entry
+    entry: entries/american-horror-through-japanese-eyes.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: anti-domination
+    term: "Anti-domination"
+    presence: registered
+    materialization: entry
+    entry: entries/anti-domination.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: anti-prescriptive-femininity
+    term: "Anti-prescriptive femininity"
+    presence: registered
+    materialization: entry
+    entry: entries/anti-prescriptive-femininity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: asymmetric-erotic-legitimacy
+    term: "Asymmetric erotic legitimacy"
+    presence: registered
+    materialization: entry
+    entry: entries/asymmetric-erotic-legitimacy.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: audience-reallocation
+    term: "Audience reallocation"
+    presence: registered
+    materialization: entry
+    entry: entries/audience-reallocation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: authorship-setting-confusion
+    term: "Authorship-setting confusion"
+    presence: registered
+    materialization: entry
+    entry: entries/authorship-setting-confusion.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: beauty-diversity-norm
+    term: "Beauty-diversity norm"
+    presence: registered
+    materialization: entry
+    entry: entries/beauty-diversity-norm.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: behavioral-legibility-of-health
+    term: "Behavioral legibility of health"
+    presence: registered
+    materialization: entry
+    entry: entries/behavioral-legibility-of-health.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: brand-signifier
+    term: "Brand-signifier"
+    presence: registered
+    materialization: entry
+    entry: entries/brand-signifier.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: bring-your-own-model
+    term: "Bring your own model"
+    presence: registered
+    materialization: entry
+    entry: entries/bring-your-own-model.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: canonical-adhesion
+    term: "Canonical adhesion"
+    presence: registered
+    materialization: entry
+    entry: entries/canonical-adhesion.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: closure-pressure
+    term: "Closure pressure"
+    presence: registered
+    materialization: entry
+    entry: entries/closure-pressure.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: conspicuous-abstention
+    term: "Conspicuous abstention"
+    presence: registered
+    materialization: entry
+    entry: entries/conspicuous-abstention.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: constraint-substitution
+    term: "Constraint substitution"
+    presence: registered
+    materialization: entry
+    entry: entries/constraint-substitution.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: constructive-puppet
+    term: "Constructive puppet"
+    presence: registered
+    materialization: entry
+    entry: entries/constructive-puppet.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: consumer-semiotics
+    term: "Consumer semiotics"
+    presence: registered
+    materialization: entry
+    entry: entries/consumer-semiotics.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: contestability
+    term: "Contestability"
+    presence: registered
+    materialization: entry
+    entry: entries/contestability.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: convergent-architecture
+    term: "Convergent architecture"
+    presence: registered
+    materialization: entry
+    entry: entries/convergent-architecture.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: corporate-moral-fog
+    term: "Corporate moral fog"
+    presence: registered
+    materialization: entry
+    entry: entries/corporate-moral-fog.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: corporate-moral-merger
+    term: "Corporate-moral merger"
+    presence: registered
+    materialization: entry
+    entry: entries/corporate-moral-merger.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: cultural-authorship
+    term: "Cultural authorship"
+    presence: registered
+    materialization: entry
+    entry: entries/cultural-authorship.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: cultural-confidence
+    term: "Cultural confidence"
+    presence: registered
+    materialization: entry
+    entry: entries/cultural-confidence.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: cultural-estrangement
+    term: "Cultural estrangement"
+    presence: registered
+    materialization: entry
+    entry: entries/cultural-estrangement.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: cultural-metabolism
+    term: "Cultural metabolism"
+    presence: registered
+    materialization: entry
+    entry: entries/cultural-metabolism.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: cultural-refraction
+    term: "Cultural refraction"
+    presence: registered
+    materialization: entry
+    entry: entries/cultural-refraction.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: cultural-return-effect
+    term: "Cultural return effect"
+    presence: registered
+    materialization: entry
+    entry: entries/cultural-return-effect.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: declarative-procedural-modeling
+    term: "Declarative procedural modeling"
+    presence: registered
+    materialization: entry
+    entry: entries/declarative-procedural-modeling.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: diegetic-cultural-setting
+    term: "Diegetic cultural setting"
+    presence: registered
+    materialization: entry
+    entry: entries/diegetic-cultural-setting.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: diegetization
+    term: "Diegetization"
+    presence: registered
+    materialization: entry
+    entry: entries/diegetization.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: dominance-discount
+    term: "Dominance discount"
+    presence: registered
+    materialization: entry
+    entry: entries/dominance-discount.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: double-estrangement
+    term: "Double estrangement"
+    presence: registered
+    materialization: entry
+    entry: entries/double-estrangement.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: elite-circulation
+    term: "Elite circulation"
+    presence: registered
+    materialization: entry
+    entry: entries/elite-circulation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: embodied-history
+    term: "Embodied history"
+    presence: registered
+    materialization: entry
+    entry: entries/embodied-history.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: epistemic-chain-of-custody
+    term: "Epistemic chain of custody"
+    presence: registered
+    materialization: entry
+    entry: entries/epistemic-chain-of-custody.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: epistemic-debt
+    term: "Epistemic debt"
+    presence: registered
+    materialization: entry
+    entry: entries/epistemic-debt.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: epistemic-maturation
+    term: "Epistemic maturation"
+    presence: registered
+    materialization: entry
+    entry: entries/epistemic-maturation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: erotic-legitimacy
+    term: "Erotic legitimacy"
+    presence: registered
+    materialization: entry
+    entry: entries/erotic-legitimacy.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: erotic-opportunity-cost
+    term: "Erotic opportunity cost"
+    presence: registered
+    materialization: entry
+    entry: entries/erotic-opportunity-cost.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: erotic-optimization
+    term: "Erotic optimization"
+    presence: registered
+    materialization: entry
+    entry: entries/erotic-optimization.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: established-fallen
+    term: "Established Fallen"
+    presence: registered
+    materialization: entry
+    entry: entries/established-fallen.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: estrangement-machine
+    term: "Estrangement machine"
+    presence: registered
+    materialization: entry
+    entry: entries/estrangement-machine.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: expressive-animation
+    term: "Expressive animation"
+    presence: registered
+    materialization: entry
+    entry: entries/expressive-animation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen
+    term: "Fallen"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen-village
+    term: "Fallen / Village"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen-village.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: foreign-to-itself-effect
+    term: "Foreign-to-itself effect"
+    presence: registered
+    materialization: entry
+    entry: entries/foreign-to-itself-effect.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: franchise-as-attraction
+    term: "Franchise-as-attraction"
+    presence: registered
+    materialization: entry
+    entry: entries/franchise-as-attraction.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: franchise-disneyfication
+    term: "Franchise Disneyfication"
+    presence: registered
+    materialization: entry
+    entry: entries/franchise-disneyfication.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: franchise-identity-collapse
+    term: "Franchise identity collapse"
+    presence: registered
+    materialization: entry
+    entry: entries/franchise-identity-collapse.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: franchise-ontology
+    term: "Franchise ontology"
+    presence: registered
+    materialization: entry
+    entry: entries/franchise-ontology.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: franchise-personality
+    term: "Franchise personality"
+    presence: registered
+    materialization: entry
+    entry: entries/franchise-personality.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: franchise-specificity
+    term: "Franchise specificity"
+    presence: registered
+    materialization: entry
+    entry: entries/franchise-specificity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: friction-premium
+    term: "Friction premium"
+    presence: registered
+    materialization: entry
+    entry: entries/friction-premium.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: functional-haunting
+    term: "Functional haunting"
+    presence: registered
+    materialization: entry
+    entry: entries/functional-haunting.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: generative-village
+    term: "Generative village"
+    presence: registered
+    materialization: entry
+    entry: entries/generative-village.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: genre-label-conversion
+    term: "Genre-label conversion"
+    presence: registered
+    materialization: entry
+    entry: entries/genre-label-conversion.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: genre-lock
+    term: "Genre lock"
+    presence: registered
+    materialization: entry
+    entry: entries/genre-lock.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: geometric-caricature
+    term: "Geometric caricature"
+    presence: registered
+    materialization: entry
+    entry: entries/geometric-caricature.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: good-dilution
+    term: "Good dilution"
+    presence: registered
+    materialization: entry
+    entry: entries/good-dilution.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: great-subjectification
+    term: "The Great Subjectification"
+    presence: registered
+    materialization: entry
+    entry: entries/great-subjectification.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: haunted-reflexive-estrangement
+    term: "Haunted reflexive estrangement"
+    presence: registered
+    materialization: entry
+    entry: entries/haunted-reflexive-estrangement.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: heritage-experience
+    term: "Heritage experience"
+    presence: registered
+    materialization: entry
+    entry: entries/heritage-experience.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: horror-estrangement
+    term: "Horror estrangement"
+    presence: registered
+    materialization: entry
+    entry: entries/horror-estrangement.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: iconographic-survival
+    term: "Iconographic survival"
+    presence: registered
+    materialization: entry
+    entry: entries/iconographic-survival.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: identity-conditions
+    term: "Identity conditions"
+    presence: registered
+    materialization: entry
+    entry: entries/identity-conditions.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: ideological-brokerage
+    term: "Ideological brokerage"
+    presence: registered
+    materialization: entry
+    entry: entries/ideological-brokerage.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: ideology-to-geometry-pipeline
+    term: "Ideology-to-geometry pipeline"
+    presence: registered
+    materialization: entry
+    entry: entries/ideology-to-geometry-pipeline.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: implicit-cultural-authorship
+    term: "Implicit cultural authorship"
+    presence: registered
+    materialization: entry
+    entry: entries/implicit-cultural-authorship.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: incumbent-audience-discount
+    term: "Incumbent-audience discount"
+    presence: registered
+    materialization: entry
+    entry: entries/incumbent-audience-discount.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: incumbent-audience-extraction
+    term: "Incumbent-audience extraction"
+    presence: registered
+    materialization: entry
+    entry: entries/incumbent-audience-extraction.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: institutional-legibility
+    term: "Institutional legibility"
+    presence: registered
+    materialization: entry
+    entry: entries/institutional-legibility.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: internal-definition
+    term: "Internal definition"
+    presence: registered
+    materialization: entry
+    entry: entries/internal-definition.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: internalized-governor
+    term: "Internalized governor"
+    presence: registered
+    materialization: entry
+    entry: entries/internalized-governor.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: japan-dreaming-america
+    term: "Japan dreaming America"
+    presence: registered
+    materialization: entry
+    entry: entries/japan-dreaming-america.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: japan-dreaming-america-having-a-nightmare
+    term: "Japan dreaming America having a nightmare"
+    presence: registered
+    materialization: entry
+    entry: entries/japan-dreaming-america-having-a-nightmare.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: knowledge-needs-a-return-address
+    term: "Knowledge needs a return address"
+    presence: registered
+    materialization: entry
+    entry: entries/knowledge-needs-a-return-address.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: longevity-sorting
+    term: "Longevity sorting"
+    presence: registered
+    materialization: entry
+    entry: entries/longevity-sorting.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: luxury-friction
+    term: "Luxury friction"
+    presence: registered
+    materialization: entry
+    entry: entries/luxury-friction.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: male-desire-tax
+    term: "Male-desire tax"
+    presence: registered
+    materialization: entry
+    entry: entries/male-desire-tax.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: male-preference-as-governance-object
+    term: "Male preference as governance object"
+    presence: registered
+    materialization: entry
+    entry: entries/male-preference-as-governance-object.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: mastery-over-pleasure
+    term: "Mastery over pleasure"
+    presence: registered
+    materialization: entry
+    entry: entries/mastery-over-pleasure.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: misandry-proper
+    term: "Misandry proper"
+    presence: registered
+    materialization: entry
+    entry: entries/misandry-proper.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: moral-coefficient-of-preference
+    term: "Moral coefficient of preference"
+    presence: registered
+    materialization: entry
+    entry: entries/moral-coefficient-of-preference.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: moralized-market-reallocation
+    term: "Moralized market reallocation"
+    presence: registered
+    materialization: entry
+    entry: entries/moralized-market-reallocation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: moralized-portfolio-substitution
+    term: "Moralized portfolio substitution"
+    presence: registered
+    materialization: entry
+    entry: entries/moralized-portfolio-substitution.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: motor-intent-boundary
+    term: "Motor-intent boundary"
+    presence: registered
+    materialization: entry
+    entry: entries/motor-intent-boundary.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: museum-piece-preservation
+    term: "Museum-piece preservation"
+    presence: registered
+    materialization: entry
+    entry: entries/museum-piece-preservation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: narrative-coherence-pressure
+    term: "Narrative-coherence pressure"
+    presence: registered
+    materialization: entry
+    entry: entries/narrative-coherence-pressure.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: non-self-correcting-dilution
+    term: "Non-self-correcting dilution"
+    presence: registered
+    materialization: entry
+    entry: entries/non-self-correcting-dilution.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: non-telepathic-social-inference
+    term: "Non-telepathic social inference"
+    presence: registered
+    materialization: entry
+    entry: entries/non-telepathic-social-inference.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: ontological-migration
+    term: "Ontological migration"
+    presence: registered
+    materialization: entry
+    entry: entries/ontological-migration.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: organizational-asymmetry
+    term: "Organizational asymmetry"
+    presence: registered
+    materialization: entry
+    entry: entries/organizational-asymmetry.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: paranoid-totalization
+    term: "Paranoid totalization"
+    presence: registered
+    materialization: entry
+    entry: entries/paranoid-totalization.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: pleasure-ecology
+    term: "Pleasure ecology"
+    presence: registered
+    materialization: entry
+    entry: entries/pleasure-ecology.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: pleasure-saturation
+    term: "Pleasure saturation"
+    presence: registered
+    materialization: entry
+    entry: entries/pleasure-saturation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: plural-upward-ladders
+    term: "Plural upward ladders"
+    presence: registered
+    materialization: entry
+    entry: entries/plural-upward-ladders.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: political-authorship
+    term: "Political authorship"
+    presence: registered
+    materialization: entry
+    entry: entries/political-authorship.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: post-scarcity-prestige-ecology
+    term: "Post-scarcity prestige ecology"
+    presence: registered
+    materialization: entry
+    entry: entries/post-scarcity-prestige-ecology.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: posthumous-americana
+    term: "Posthumous Americana"
+    presence: registered
+    materialization: entry
+    entry: entries/posthumous-americana.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: premature-ruin
+    term: "Premature ruin"
+    presence: registered
+    materialization: entry
+    entry: entries/premature-ruin.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prestige-anti-fanservice
+    term: "Prestige anti-fanservice"
+    presence: registered
+    materialization: entry
+    entry: entries/prestige-anti-fanservice.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prestige-certification-mark
+    term: "Prestige certification mark"
+    presence: registered
+    materialization: entry
+    entry: entries/prestige-certification-mark.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prestige-ecology
+    term: "Prestige ecology"
+    presence: registered
+    materialization: entry
+    entry: entries/prestige-ecology.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prestige-migration
+    term: "Prestige migration"
+    presence: registered
+    materialization: entry
+    entry: entries/prestige-migration.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prestige-signal-of-erotic-refusal
+    term: "Prestige signal of erotic refusal"
+    presence: registered
+    materialization: entry
+    entry: entries/prestige-signal-of-erotic-refusal.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prestige-without-specificity
+    term: "Prestige without specificity"
+    presence: registered
+    materialization: entry
+    entry: entries/prestige-without-specificity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: primitive-vocabulary
+    term: "Primitive vocabulary"
+    presence: registered
+    materialization: entry
+    entry: entries/primitive-vocabulary.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: procedural-visual-language
+    term: "Procedural visual language"
+    presence: registered
+    materialization: entry
+    entry: entries/procedural-visual-language.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prototype-capture
+    term: "Prototype capture"
+    presence: registered
+    materialization: entry
+    entry: entries/prototype-capture.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prototype-cues
+    term: "Prototype cues"
+    presence: registered
+    materialization: entry
+    entry: entries/prototype-cues.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prototype-inversion
+    term: "Prototype inversion"
+    presence: registered
+    materialization: entry
+    entry: entries/prototype-inversion.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: punitive-anti-fanservice
+    term: "Punitive anti-fanservice"
+    presence: registered
+    materialization: entry
+    entry: entries/punitive-anti-fanservice.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: quality-legitimized-semantic-drift
+    term: "Quality-legitimized semantic drift"
+    presence: registered
+    materialization: entry
+    entry: entries/quality-legitimized-semantic-drift.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: reflexive-estrangement
+    term: "Reflexive estrangement"
+    presence: registered
+    materialization: entry
+    entry: entries/reflexive-estrangement.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: representational-explicitness
+    term: "Representational explicitness"
+    presence: registered
+    materialization: entry
+    entry: entries/representational-explicitness.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: retroactive-franchise-rewriting
+    term: "Retroactive franchise rewriting"
+    presence: registered
+    materialization: entry
+    entry: entries/retroactive-franchise-rewriting.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: rising-fallen
+    term: "Rising Fallen"
+    presence: registered
+    materialization: entry
+    entry: entries/rising-fallen.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: scarcity-discipline
+    term: "Scarcity discipline"
+    presence: registered
+    materialization: entry
+    entry: entries/scarcity-discipline.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: secondhand-americana
+    term: "Secondhand Americana"
+    presence: registered
+    materialization: entry
+    entry: entries/secondhand-americana.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: self-correcting-dilution
+    term: "Self-correcting dilution"
+    presence: registered
+    materialization: entry
+    entry: entries/self-correcting-dilution.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: semantic-dilution
+    term: "Semantic dilution"
+    presence: registered
+    materialization: entry
+    entry: entries/semantic-dilution.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: semantic-drift
+    term: "Semantic drift"
+    presence: registered
+    materialization: entry
+    entry: entries/semantic-drift.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: shell-of-social-meaning
+    term: "Shell of social meaning"
+    presence: registered
+    materialization: entry
+    entry: entries/shell-of-social-meaning.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: shift-dependency
+    term: "Shift dependency"
+    presence: registered
+    materialization: entry
+    entry: entries/shift-dependency.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: social-disembedding
+    term: "Social disembedding"
+    presence: registered
+    materialization: entry
+    entry: entries/social-disembedding.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: social-function-stripping
+    term: "Social-function stripping"
+    presence: registered
+    materialization: entry
+    entry: entries/social-function-stripping.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: social-ruin
+    term: "Social ruin"
+    presence: registered
+    materialization: entry
+    entry: entries/social-ruin.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: sovereign-system-builders
+    term: "Sovereign system builders"
+    presence: registered
+    materialization: entry
+    entry: entries/sovereign-system-builders.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: sovereignty-over-abundance
+    term: "Sovereignty over abundance"
+    presence: registered
+    materialization: entry
+    entry: entries/sovereignty-over-abundance.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: status-discrepancy
+    term: "Status discrepancy"
+    presence: registered
+    materialization: entry
+    entry: entries/status-discrepancy.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: structural-anti-male-bias
+    term: "Structural anti-male bias"
+    presence: registered
+    materialization: entry
+    entry: entries/structural-anti-male-bias.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: style-pack-franchise
+    term: "Style-pack franchise"
+    presence: registered
+    materialization: entry
+    entry: entries/style-pack-franchise.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: substitutive-diversity
+    term: "Substitutive diversity"
+    presence: registered
+    materialization: entry
+    entry: entries/substitutive-diversity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: synthetic-friction
+    term: "Synthetic friction"
+    presence: registered
+    materialization: entry
+    entry: entries/synthetic-friction.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: taste-hierarchy
+    term: "Taste hierarchy"
+    presence: registered
+    materialization: entry
+    entry: entries/taste-hierarchy.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: temptation-environment
+    term: "Temptation environment"
+    presence: registered
+    materialization: entry
+    entry: entries/temptation-environment.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: trustworthiness-under-adversarial-reality-testing
+    term: "Trustworthiness under adversarial reality-testing"
+    presence: registered
+    materialization: entry
+    entry: entries/trustworthiness-under-adversarial-reality-testing.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: village
+    term: "Village"
+    presence: registered
+    materialization: entry
+    entry: entries/village.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: autonomous-agents
+    term: "autonomous agents"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Generative systems"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: belief-revision-calibration-failure
+    term: "belief-revision / calibration failure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Epistemology / AI"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: blocked-mobility
+    term: "blocked mobility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: carry-their-personality-in-their-bodies
+    term: "carry their personality in their bodies"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Generative systems"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: causal-legibility
+    term: "causal legibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Epistemology / AI"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: compensatory-use
+    term: "compensatory use"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / symbolic reproduction"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: counter-elite
+    term: "counter-elite"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: culture-parasitism
+    term: "culture parasitism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / symbolic reproduction"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: declarative-character
+    term: "declarative character"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Generative systems"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: decommodification
+    term: "decommodification"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: defamilialization
+    term: "defamilialization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: diegetic-truth
+    term: "diegetic truth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Epistemology / AI"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: elite-overproduction
+    term: "elite overproduction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: emotional-systems
+    term: "emotional systems"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Generative systems"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: epistemic-state
+    term: "epistemic state"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Epistemology / AI"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: ethnographic-engineering
+    term: "ethnographic engineering"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: false-precision
+    term: "false precision"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Epistemology / AI"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: foreigner-is-relational
+    term: "foreigner is relational"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: gaslighting-epistemic-fraud
+    term: "gaslighting epistemic fraud"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Epistemology / AI"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: generative-modeling
+    term: "generative modeling"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Generative systems"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: institutional-mediation
+    term: "institutional mediation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue and referenced by an existing relation."
+  - id: ladder-closure
+    term: "ladder closure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue and referenced by existing relations."
+  - id: ladder-density
+    term: "ladder density"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: managed-dependency
+    term: "managed dependency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue and referenced by an existing relation."
+  - id: misandric-permission-structure
+    term: "misandric permission structure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Aesthetic governance / audience allocation"
+    capture:
+      note: "Preserved from the supplied causal chain; standalone definition remains unresolved."
+  - id: narrator-information-set
+    term: "narrator information set"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Epistemology / AI"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: ontological-materialization
+    term: "Ontological materialization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Conceptarium architecture"
+    capture:
+      note: "Progressive enrichment of a registered concept with definition, classification, relations, evidence, provenance, boundaries, and theoretical integration."
+  - id: political-domestication
+    term: "political domestication"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: political-morality-as-a-status-ordering-technology
+    term: "political morality as a status-ordering technology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: predicate-presence
+    term: "Predicate presence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Conceptarium architecture"
+    capture:
+      note: "A concept has sufficient registered identity to be referenced, indexed, related, queued, or embedded before full semantic or ontological materialization."
+  - id: pressure-valves
+    term: "pressure valves"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: psychologically-expensive-fallen-class
+    term: "psychologically expensive Fallen class"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: reciprocal-morality
+    term: "reciprocal morality"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: seamless-replacement-of-disproven-explanations
+    term: "seamless replacement of disproven explanations"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Epistemology / AI"
+    capture:
+      note: "Preserved from the former promotion queue."
+  - id: state-legibility
+    term: "state legibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue and referenced by an existing relation."
+  - id: symbolic-substitution
+    term: "symbolic substitution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Culture / symbolic reproduction"
+    capture:
+      note: "Preserved from the former promotion queue and referenced by an existing relation."
+  - id: totalization
+    term: "totalization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Cross-cutting unresolved relation targets"
+    capture:
+      note: "Referenced by an existing relation; registered to preserve predicate presence before materialization."
+  - id: treating-people-as-components
+    term: "treating people as components"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Cross-cutting unresolved relation targets"
+    capture:
+      note: "Referenced by an existing relation; registered to preserve predicate presence before materialization."
+  - id: village-continuity
+    term: "Village continuity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-05
+    queue_group: "Fallen / Village and institutions"
+    capture:
+      note: "Preserved from the former promotion queue and referenced by an existing relation."
