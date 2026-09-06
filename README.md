@@ -181,6 +181,10 @@ cargo install --path .
 conceptarium search "correction"
 ```
 
+
+
+On x86-64 Windows, Conceptarium's `.cargo/config.toml` enables AWS-LC's official prebuilt NASM objects (`AWS_LC_SYS_PREBUILT_NASM=1`), so building the embedded SurrealDB SDK does not require a separate NASM installation.
+
 The query engine uses the canonical corpus directly plus `petgraph` for structural traversal. **Tantivy** provides local BM25/full-text search, **SQLite** provides a read-only relational projection for arbitrary SQL, and **SurrealDB/SurrealKV** provides an embedded local document-graph query surface. Oxigraph is next; Qdrant Edge follows as a disposable semantic projection over the same Rust domain model.
 
 ## Validation
