@@ -112,7 +112,9 @@ pub async fn build(corpus: &Corpus, path: &Path) -> Result<()> {
         .bind(("capture_note", capture_note))
         .bind(("capture_context", capture_context))
         .await
-        .with_context(|| format!("projecting concept {} into SurrealDB", record.id))?;
+        .with_context(|| format!("projecting concept {} into SurrealDB", record.id))?
+        .check()
+        .with_context(|| format!("checking SurrealDB statement for concept {}", record.id))?;
     }
 
     let mut relation_count = 0usize;
@@ -139,18 +141,67 @@ pub async fn build(corpus: &Corpus, path: &Path) -> Result<()> {
                     "projecting relation {} --{}--> {} into SurrealDB",
                     entry.meta.id, relation.kind, relation.target
                 )
+            })?
+            .check()
+            .with_context(|| {
+                format!(
+                    "checking SurrealDB statement for relation {} --{}--> {}",
+                    entry.meta.id, relation.kind, relation.target
+                )
             })?;
             relation_count += 1;
         }
     }
 
+    let actual_concepts = count_table(&db, "concept").await?;
+    let actual_relations = count_table(&db, "relation").await?;
+
+    if actual_concepts != corpus.registry.concepts.len() {
+        bail!(
+            "SurrealDB concept count mismatch: expected {}, found {}",
+            corpus.registry.concepts.len(),
+            actual_concepts
+        );
+    }
+    if actual_relations != relation_count {
+        bail!(
+            "SurrealDB relation count mismatch: expected {}, found {}",
+            relation_count,
+            actual_relations
+        );
+    }
+
     println!(
         "Built SurrealDB projection with {} concepts and {} relations at {}",
-        corpus.registry.concepts.len(),
-        relation_count,
+        actual_concepts,
+        actual_relations,
         path.display()
     );
     Ok(())
+}
+
+async fn count_table(
+    db: &Surreal<surrealdb::engine::local::Db>,
+    table: &str,
+) -> Result<usize> {
+    let query = format!("SELECT count() AS count FROM {table} GROUP ALL");
+    let mut response = db
+        .query(&query)
+        .await
+        .with_context(|| format!("counting SurrealDB table {table}"))?
+        .check()
+        .with_context(|| format!("checking SurrealDB count query for {table}"))?;
+    let value: Value = response
+        .take(0)
+        .with_context(|| format!("reading SurrealDB count result for {table}"))?;
+    let json = value.into_json_value();
+    let count = json
+        .as_array()
+        .and_then(|rows| rows.first())
+        .and_then(|row| row.get("count"))
+        .and_then(|count| count.as_u64())
+        .with_context(|| format!("unexpected SurrealDB count shape for {table}: {json}"))?;
+    Ok(count as usize)
 }
 
 fn validate_read_only(query: &str) -> Result<&str> {
