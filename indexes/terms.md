@@ -219,63 +219,23 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 ## V
 
 - [Village](../entries/village.md) — The continuity/kinship/reciprocity-oriented pole of Fallen/Village.
+
 ---
 
 ## Promotion queue
 
-Important preserved concepts still awaiting full promotion include:
+The promotion queue is now generated from the canonical [Concept Registry](../registry/concepts.yml) rather than maintained manually in this index.
 
-### Fallen / Village and institutions
+Run:
 
-- blocked mobility;
-- ladder closure;
-- ladder density;
-- pressure valves;
-- elite overproduction;
-- psychologically expensive Fallen class;
-- counter-elite;
-- political morality as a status-ordering technology;
-- reciprocal morality;
-- Village continuity;
-- institutional mediation;
-- managed dependency;
-- state legibility;
-- decommodification;
-- defamilialization;
-- ethnographic engineering;
-- political domestication;
-- foreigner is relational.
+```bash
+python tools/project.py
+```
 
-### Epistemology / AI
+and inspect:
 
-- gaslighting epistemic fraud;
-- belief-revision / calibration failure;
-- seamless replacement of disproven explanations;
-- false precision;
-- causal legibility;
-- diegetic truth;
-- narrator information set;
-- epistemic state.
+`build/promotion-queue.md`
 
-### Generative systems
+A concept enters that queue by having `materialization: registry-only`. It leaves automatically when its registry record points to a full canonical entry.
 
-- declarative character;
-- carry their personality in their bodies;
-- autonomous agents;
-- emotional systems;
-- generative modeling.
-
-### Culture / symbolic reproduction
-
-- culture parasitism;
-- symbolic substitution;
-- compensatory use.
-
-### Aesthetic governance / audience allocation
-
-- misandric permission structure — preserved from the supplied causal chain but not yet promoted because this batch did not supply a standalone definition.
-
-Promotion priority follows **conceptual pressure, reuse, provenance risk, and graph value**, not alphabetical completion.
-
-
-
+See [docs/REGISTRY.md](../docs/REGISTRY.md).
