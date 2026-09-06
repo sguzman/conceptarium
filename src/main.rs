@@ -1,6 +1,6 @@
 use anyhow::Result;
 use clap::{Parser, Subcommand};
-use conceptarium::{corpus::Corpus, project, query, registry, sqlite, tantivy_index, validate};
+use conceptarium::{corpus::Corpus, project, query, registry, sqlite, surreal, tantivy_index, validate};
 use std::path::PathBuf;
 
 #[derive(Debug, Parser)]
@@ -63,6 +63,12 @@ enum Command {
     Sqlite {
         #[command(subcommand)]
         command: SqliteCommand,
+    },
+
+    /// Build or query the embedded SurrealDB document-graph projection.
+    Surreal {
+        #[command(subcommand)]
+        command: SurrealCommand,
     },
 
     /// Filter the concept universe by structured metadata.
@@ -134,6 +140,22 @@ enum SqliteCommand {
 }
 
 #[derive(Debug, Subcommand)]
+enum SurrealCommand {
+    /// Rebuild the embedded SurrealKV projection from canonical Markdown/YAML.
+    Build {
+        #[arg(long)]
+        path: Option<PathBuf>,
+    },
+
+    /// Run one read-only SurrealQL statement against the projection.
+    Query {
+        query: String,
+        #[arg(long)]
+        path: Option<PathBuf>,
+    },
+}
+
+#[derive(Debug, Subcommand)]
 enum RegistryCommand {
     /// Capture a concept without requiring definition or ontology work.
     Capture {
@@ -166,7 +188,8 @@ enum RegistryCommand {
     },
 }
 
-fn main() -> Result<()> {
+#[tokio::main]
+async fn main() -> Result<()> {
     let cli = Cli::parse();
 
     match cli.command {
@@ -236,6 +259,17 @@ fn main() -> Result<()> {
             SqliteCommand::Query { sql, path } => {
                 let path = path.unwrap_or_else(|| sqlite::default_path(&cli.root));
                 sqlite::query(&path, &sql)?;
+            }
+        },
+        Command::Surreal { command } => match command {
+            SurrealCommand::Build { path } => {
+                let corpus = Corpus::load(&cli.root)?;
+                let path = path.unwrap_or_else(|| surreal::default_path(&cli.root));
+                surreal::build(&corpus, &path).await?;
+            }
+            SurrealCommand::Query { query, path } => {
+                let path = path.unwrap_or_else(|| surreal::default_path(&cli.root));
+                surreal::query(&path, &query).await?;
             }
         },
         Command::List {
