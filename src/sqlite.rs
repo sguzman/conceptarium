@@ -105,10 +105,6 @@ pub fn build(corpus: &Corpus, path: &Path) -> Result<()> {
             tx.prepare("INSERT INTO domains (concept_id, domain) VALUES (?1, ?2)")?;
         let mut insert_alias =
             tx.prepare("INSERT INTO aliases (concept_id, alias) VALUES (?1, ?2)")?;
-        let mut insert_relation = tx.prepare(
-            "INSERT INTO relations (source, predicate, target) VALUES (?1, ?2, ?3)",
-        )?;
-
         for record in &corpus.registry.concepts {
             let entry = corpus.entry(&record.id);
             let capture_note = record
@@ -148,12 +144,28 @@ pub fn build(corpus: &Corpus, path: &Path) -> Result<()> {
                 for alias in &entry.meta.aliases {
                     insert_alias.execute(params![record.id, alias])?;
                 }
-                for relation in &entry.meta.relations {
-                    insert_relation.execute(params![record.id, relation.kind, relation.target])?;
-                }
             }
         }
     }
+
+    // Relations are loaded in a second pass so every registered target already
+    // exists before SQLite enforces the target foreign key. Forward references
+    // are valid Conceptarium graph structure, not integrity failures.
+    {
+        let mut insert_relation = tx.prepare(
+            "INSERT INTO relations (source, predicate, target) VALUES (?1, ?2, ?3)",
+        )?;
+        for entry in &corpus.entries {
+            for relation in &entry.meta.relations {
+                insert_relation.execute(params![
+                    entry.meta.id,
+                    relation.kind,
+                    relation.target
+                ])?;
+            }
+        }
+    }
+
     tx.commit()?;
 
     let relation_count = corpus
