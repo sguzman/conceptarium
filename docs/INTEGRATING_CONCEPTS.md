@@ -1,6 +1,8 @@
 # Integrating Concepts into Conceptarium
 
-This document defines the **end-to-end contract** for adding, promoting, or revising a concept in Conceptarium.
+This document defines the **end-to-end contract** for capturing, promoting, integrating, or revising a concept in Conceptarium.
+
+Conceptarium distinguishes **predicate presence** from **ontological materialization**. A concept may be captured in the registry with almost no semantic commitment and developed later.
 
 It is written for both humans and AI agents.
 
@@ -22,24 +24,25 @@ The short version is:
 
 A rigorous concept integration normally includes all of the following:
 
-1. determine whether the idea is actually new;
+1. ensure the concept has predicate presence in `registry/concepts.yml`;
+3. determine whether the idea is actually new;
 2. preserve the exact wording that carries conceptual value;
-3. decide whether to create a new entry or revise an existing one;
-4. assign type, status, domains, aliases, and provenance;
-5. write a dictionary-quality gloss;
-6. write an encyclopedic treatment;
-7. reconstruct **problem pressure**;
-8. state the core model, mechanism, distinction, or procedure;
-9. identify claims, examples, non-examples, and failure modes;
-10. explain how the concept could be tested, observed, or operationalized where appropriate;
-11. add typed relations to existing concepts;
-12. place the concept in an existing cluster or create a justified new cluster;
-13. update the promoted-term index and corpus count;
-14. update roadmap/cluster documentation when the corpus structure changed;
-15. run validation;
-16. regenerate disposable projections;
-17. verify CI when available;
-18. report what changed and what remains deliberately unresolved.
+4. decide whether to create a new entry or revise an existing one;
+5. assign type, status, domains, aliases, and provenance;
+6. write a dictionary-quality gloss;
+7. write an encyclopedic treatment;
+8. reconstruct **problem pressure**;
+9. state the core model, mechanism, distinction, or procedure;
+10. identify claims, examples, non-examples, and failure modes;
+11. explain how the concept could be tested, observed, or operationalized where appropriate;
+12. add typed relations to existing concepts;
+13. place the concept in an existing cluster or create a justified new cluster;
+14. update the promoted-term index and corpus count;
+15. update roadmap/cluster documentation when the corpus structure changed;
+16. run validation;
+17. regenerate disposable projections;
+18. verify CI when available;
+19. report what changed and what remains deliberately unresolved.
 
 A concept is not fully integrated merely because `entries/<slug>.md` exists.
 
@@ -79,9 +82,9 @@ Ask:
 
 ## Preserve a latent sub-concept when
 
-A useful distinction appears but does not yet deserve its own entry.
+A useful named distinction appears but does not yet deserve its own full entry.
 
-Record it inside the parent entry or cluster as a **candidate future concept**.
+Give it **registry presence** and preserve richer contextual prose inside the parent entry or cluster.
 
 Examples of this pattern include:
 
@@ -91,9 +94,27 @@ Examples of this pattern include:
 - `tone lock`;
 - `open object`.
 
-Do not explode every useful noun phrase into a file.
+Do not explode every useful noun phrase into a Markdown article.
 
-Conceptarium values **conceptual density**, not file count.
+Conceptarium values **conceptual density**, not file count. Registry-only presence is specifically designed to preserve a name without forcing premature semantic materialization.
+
+## Lazy capture requires almost nothing
+
+When the session should not be interrupted, a concept can be captured with only:
+
+~~~yaml
+id: stable-slug
+term: Exact term
+presence: registered
+materialization: registry-only
+ontology_state: unplaced
+~~~
+
+A short note or context is useful but optional.
+
+Do **not** invent domains, definitions, relations, or ontology merely to complete the record.
+
+See [REGISTRY.md](REGISTRY.md).
 
 ---
 
@@ -271,7 +292,26 @@ Do not create multiple entries merely because a concept participates in several 
 
 ---
 
-# 8. Write the canonical frontmatter
+# 8. Materialize the registry concept
+
+Before writing a full entry, confirm that the stable ID already exists in `registry/concepts.yml`.
+
+Promotion changes the registry record from:
+
+~~~yaml
+materialization: registry-only
+~~~
+
+to:
+
+~~~yaml
+materialization: entry
+entry: entries/stable-slug.md
+~~~
+
+The stable identity should survive promotion unchanged.
+
+# 10. Write the canonical frontmatter
 
 Every promoted entry should normally contain:
 
@@ -454,7 +494,7 @@ Git already stores textual history.
 
 ---
 
-# 10. Distinguish local concepts from external literature
+# 11. Distinguish local concepts from external literature
 
 A Conceptarium term may resemble an existing scholarly concept.
 
@@ -486,7 +526,7 @@ This is better than pretending equivalence.
 
 ---
 
-# 11. Add typed relations
+# 12. Add typed relations
 
 Relations are theoretical claims.
 
@@ -512,19 +552,21 @@ Do not add five edges merely because five concepts are vaguely nearby.
 
 Add an edge when the relationship itself is worth remembering.
 
-## Dangling targets
+## Registry-only targets
 
-A target may temporarily exist only in the archive.
+A relation target does **not** need a full entry, but it must have predicate presence.
 
-This produces a warning during migration.
+~~~text
+full entry target     → valid
+registry-only target  → valid unfinished ontology
+unregistered target   → broken reference / validation error
+~~~
 
-Use deliberately.
-
-Do not create dangling edges casually.
+If a relation needs a concept that is not yet developed, capture the target in the registry instead of inventing a stub article.
 
 ---
 
-# 12. Update the conceptual neighborhood
+# 13. Update the conceptual neighborhood
 
 A new entry should be placed in the intellectual map.
 
@@ -553,7 +595,7 @@ A cluster is a good place to record sub-concepts that are not yet mature enough 
 
 ---
 
-# 13. Update the human index
+# 14. Update the human index
 
 Every newly promoted canonical entry must be added to:
 
@@ -565,11 +607,13 @@ Requirements:
 - one-line useful gloss;
 - update **Current promoted corpus** count.
 
-Do not leave a canonical entry invisible to the human index.
+The **promotion queue is not maintained here**. It is generated from registry records whose `materialization` is `registry-only`.
+
+Do not leave a materialized entry invisible to the human index, and do not leave an unmaterialized named concept outside the registry.
 
 ---
 
-# 14. Update roadmap or structural docs when warranted
+# 15. Update roadmap or structural docs when warranted
 
 Not every concept requires a roadmap edit.
 
@@ -587,7 +631,7 @@ Do not bury new policy inside a single concept entry.
 
 ---
 
-# 15. Validation is part of integration
+# 16. Validation is part of integration
 
 A concept is not considered fully integrated until the corpus validates.
 
@@ -600,6 +644,10 @@ python tools/validate.py
 
 The validator checks structural properties including:
 
+- registry parsing and uniqueness;
+- predicate presence for every materialized entry;
+- registry/entry path and term agreement;
+- relation targets resolving to registered concepts;
 - frontmatter parsing;
 - stable IDs;
 - filename/ID agreement;
@@ -611,10 +659,9 @@ The validator checks structural properties including:
 - relation structure;
 - relation vocabulary;
 - alias collisions;
-- maturity expectations;
-- missing relation targets.
+- maturity expectations.
 
-During migration, some relation issues remain warnings.
+Unknown relation verbs may remain warnings. Unregistered relation targets are errors; registry-only targets are valid.
 
 Use:
 
@@ -632,7 +679,7 @@ Investigate first.
 
 ---
 
-# 16. Regenerate disposable projections
+# 17. Regenerate disposable projections
 
 Run:
 
@@ -643,9 +690,11 @@ python tools/project.py
 Current projections include:
 
 - dictionary;
-- graph;
+- registry-aware graph;
 - research frontier;
 - problem-pressure index;
+- promotion queue;
+- machine-readable registry;
 - machine-readable catalog.
 
 The generated `build/` directory is disposable and ignored.
@@ -656,7 +705,7 @@ Fix the canonical source or generator.
 
 ---
 
-# 17. Verify CI
+# 18. Verify CI
 
 GitHub Actions should run validation and projection generation.
 
@@ -675,7 +724,7 @@ If CI is unavailable, state that local validation/projection succeeded instead.
 
 ---
 
-# 18. Integration should preserve uncertainty
+# 19. Integration should preserve uncertainty
 
 Do not convert an exploratory conversation into dogma.
 
@@ -695,7 +744,7 @@ Conceptarium exists to preserve thought **without laundering uncertainty**.
 
 ---
 
-# 19. Do not over-promote sub-concepts
+# 20. Do not over-promote sub-concepts
 
 A strong entry often creates useful internal vocabulary.
 
@@ -732,7 +781,7 @@ Until then, preserve them inside the parent or cluster.
 
 ---
 
-# 20. Revise existing concepts when new discussion changes them
+# 21. Revise existing concepts when new discussion changes them
 
 “Integrate today’s concepts” does not mean “only add new files.”
 
@@ -752,7 +801,7 @@ Record semantic changes in revision history.
 
 ---
 
-# 21. Session-level integration commands
+# 22. Session-level integration commands
 
 The repository is designed to support several natural workflows.
 
@@ -760,9 +809,9 @@ The repository is designed to support several natural workflows.
 
 Meaning:
 
-> Preserve this as a candidate concept or phrase, but do not derail the current thinking session with repository maintenance.
+> Give this concept predicate presence **now**, but do not derail the current thinking session by materializing its ontology.
 
-A later integration pass should recover it.
+The expected action is a registry-only capture, usually no more than stable ID + term + date/context if available. A later integration pass can develop it.
 
 ## “Integrate this concept”
 
@@ -788,7 +837,7 @@ Meaning:
 
 ---
 
-# 22. Agent behavior expectations
+# 23. Agent behavior expectations
 
 An AI agent integrating Conceptarium material should behave as an **editor and research-memory maintainer**, not a transcription bot.
 
@@ -803,7 +852,8 @@ The agent should:
 - add boundaries rather than flattering every idea into universality;
 - connect concepts through typed theory-bearing relations;
 - prefer deep entries over mass stub generation;
-- preserve sub-concepts without automatically promoting them;
+- preserve named sub-concepts in the registry without automatically materializing them;
+- prefer registry-only capture whenever deeper integration would interrupt or exhaust the session;
 - validate the repository after editing;
 - report exactly what was changed.
 
@@ -821,7 +871,7 @@ The agent should **not**:
 
 ---
 
-# 23. Full integration checklist
+# 24. Full integration checklist
 
 Use this checklist before declaring a concept integrated.
 
@@ -830,6 +880,13 @@ Use this checklist before declaring a concept integrated.
 - [ ] Searched canonical entries for same or neighboring concept.
 - [ ] Checked aliases and relevant archive material.
 - [ ] Decided new entry vs. revision vs. latent sub-concept.
+
+## Predicate presence
+
+- [ ] Stable concept ID exists in `registry/concepts.yml`.
+- [ ] Registry term preserves meaningful wording.
+- [ ] Materialization state is accurate.
+- [ ] Ontology state is honest; unknown/unplaced is allowed.
 
 ## Preservation
 
@@ -861,6 +918,7 @@ Use this checklist before declaring a concept integrated.
 
 ## Corpus integration
 
+- [ ] Registry record points to the canonical entry after promotion.
 - [ ] Added to appropriate cluster.
 - [ ] Created a new cluster only if justified.
 - [ ] Added to `indexes/terms.md`.
@@ -885,17 +943,19 @@ Use this checklist before declaring a concept integrated.
 
 ---
 
-# 24. The governing principle
+# 25. The governing principle
 
 Conceptarium exists because conceptual work is easy to lose.
 
-Integration therefore has two simultaneous obligations:
+Integration therefore has three simultaneous obligations:
+
+> **Do not lose conceptual identity while waiting for energy or clarity.**
 
 > **Do not lose the messy origin.**
 
 and
 
-> **Do not leave the concept messy forever.**
+> **Do not leave the concept messy forever when further materialization becomes useful.**
 
 The repository should preserve enough of the original intellectual event to recover why the term mattered, while giving the concept enough structure that another human or AI agent can reuse, challenge, extend, and connect it later.
 
