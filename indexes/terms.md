@@ -338,3 +338,7 @@ A concept enters that queue by having `materialization: registry-only`. It leave
 
 See [docs/REGISTRY.md](../docs/REGISTRY.md).
 
+## W
+
+- [World-acquired language](../entries/world-acquired-language.md) — A condition in which expressive functions normally performed by narration or dialogue are absorbed into the behavior of bodies, objects, space, timing, and transformation themselves.
+
