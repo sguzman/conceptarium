@@ -271,6 +271,10 @@ Important preserved concepts still awaiting full promotion include:
 - symbolic substitution;
 - compensatory use.
 
+### Aesthetic governance / audience allocation
+
+- misandric permission structure — preserved from the supplied causal chain but not yet promoted because this batch did not supply a standalone definition.
+
 Promotion priority follows **conceptual pressure, reuse, provenance risk, and graph value**, not alphabetical completion.
 
 
