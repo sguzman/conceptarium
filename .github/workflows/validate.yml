@@ -45,13 +45,7 @@ jobs:
       - name: Smoke test SQLite query
         run: cargo run --quiet -- sqlite query "SELECT COUNT(*) AS concepts FROM concepts" --path /tmp/conceptarium.sqlite
 
-      - name: Install SurrealDB CLI
-        run: curl -sSf https://install.surrealdb.com | sh -s -- -v v3.2.4
-
-      - name: Verify SurrealDB CLI
-        run: surreal version
-
-      - name: Build local SurrealDB projection
+      - name: Build embedded SurrealDB projection
         run: cargo run --quiet -- surreal build --path /tmp/conceptarium-surreal
 
       - name: Smoke test SurrealDB concept query
@@ -59,3 +53,19 @@ jobs:
 
       - name: Smoke test SurrealDB relation query
         run: cargo run --quiet -- surreal query "SELECT count() AS relations FROM relation GROUP ALL" --path /tmp/conceptarium-surreal
+
+  windows-build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Compile Rust tooling on Windows
+        run: cargo check --all-targets
+
+      - name: Run Rust tests on Windows
+        run: cargo test --all-targets
