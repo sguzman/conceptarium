@@ -268,8 +268,8 @@ pub fn path(corpus: &Corpus, from: &str, to: &str) -> Result<()> {
 pub fn backends() {
     println!("backend\tstatus\trole");
     println!("memory/petgraph\tACTIVE\tcanonical local structural query engine");
-    println!("tantivy\tNEXT\tBM25/full-text index over semantic fields");
-    println!("sqlite\tPLANNED\trelational/interop projection");
+    println!("tantivy\tACTIVE\tBM25/full-text index over semantic fields");
+    println!("sqlite\tNEXT\trelational/interop projection");
     println!("surrealdb\tPLANNED\tunified document+graph+vector experimental projection");
     println!("oxigraph\tPLANNED\tRDF/SPARQL ontology projection");
     println!("qdrant-edge\tPLANNED\tdense/sparse semantic geometry projection");
