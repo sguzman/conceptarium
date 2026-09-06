@@ -94,7 +94,7 @@ An unregistered relation target is now a structural error. A registry-only targe
 
 **Status: initial generator implemented.**
 
-The repository includes a deterministic renderer in `tools/project.py` that reads `entries/*.md` and emits disposable projections into `build/`.
+The repository includes a deterministic Rust renderer in the `conceptarium` crate that reads the Concept Registry plus `entries/*.md` and emits disposable projections into `build/`.
 
 Current generated artifacts include seven views:
 
@@ -162,7 +162,17 @@ The blog can add:
 
 But the blog should not own canonical definitions.
 
-## Phase 5 — Research instrumentation
+## Phase 5 — Local query infrastructure
+
+**Status: active — Rust in-memory/petgraph query layer implemented.**
+
+Conceptarium now has a dedicated local Rust binary for concept lookup, metadata filters, scan search, typed relation traversal, shortest relation paths, registry operations, validation, and projection generation.
+
+Backend order is intentionally incremental: **Tantivy → SQLite → SurrealDB → Oxigraph → Qdrant Edge**. Each backend is a disposable projection over the same Rust domain model; none becomes canonical.
+
+See [QUERY.md](QUERY.md).
+
+## Phase 6 — Research instrumentation
 
 Once the corpus is large enough, Conceptarium can become an active research tool.
 
@@ -179,7 +189,7 @@ Possible features:
 - export for AI retrieval;
 - generated “what are we currently confused about?” pages.
 
-## Website stack
+## Phase 7 — Website stack
 
 Do not commit yet.
 
