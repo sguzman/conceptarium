@@ -101,7 +101,7 @@ cargo run --quiet -- search 'correction' --field problem-pressure
 
 If the Tantivy index does not exist, `search` deliberately falls back to direct scan search over the canonical corpus.
 
-### 2. SQLite — NEXT
+### 2. SQLite — ACTIVE
 
 Purpose:
 
@@ -110,13 +110,23 @@ Purpose:
 - interoperability with external tools;
 - simple analytics over concepts, domains, aliases, relations, and provenance.
 
-Likely generated artifact:
+Generated artifact:
 
 ~~~text
 .conceptarium/conceptarium.sqlite
 ~~~
 
-### 3. SurrealDB — PLANNED
+Build and query it with:
+
+~~~bash
+cargo run --quiet -- sqlite build
+cargo run --quiet -- sqlite query "SELECT term, type, status FROM concepts WHERE type = 'mechanism' ORDER BY term"
+cargo run --quiet -- sqlite query "SELECT source, predicate, target FROM relations WHERE target = 'anti-domination'"
+~~~
+
+The CLI opens the projection **read-only** for queries. Mutations belong in canonical Markdown/YAML and are propagated by rebuilding the projection.
+
+### 3. SurrealDB — NEXT
 
 Purpose:
 
