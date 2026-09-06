@@ -1,6 +1,6 @@
 use anyhow::Result;
 use clap::{Parser, Subcommand};
-use conceptarium::{corpus::Corpus, project, query, registry, validate};
+use conceptarium::{corpus::Corpus, project, query, registry, tantivy_index, validate};
 use std::path::PathBuf;
 
 #[derive(Debug, Parser)]
@@ -37,11 +37,26 @@ enum Command {
         key: String,
     },
 
-    /// Local scan search. Tantivy-backed ranked search is the next backend.
+    /// Search the concept universe. Uses Tantivy automatically when an index exists.
     Search {
         query: String,
         #[arg(long, default_value_t = 20)]
         limit: usize,
+        /// auto, tantivy, or scan.
+        #[arg(long, default_value = "auto")]
+        engine: String,
+        /// Restrict Tantivy search to one field (for example problem-pressure or gloss).
+        #[arg(long)]
+        field: Option<String>,
+        /// Override the Tantivy index location.
+        #[arg(long)]
+        index_path: Option<PathBuf>,
+    },
+
+    /// Build and inspect disposable local indexes.
+    Index {
+        #[command(subcommand)]
+        command: IndexCommand,
     },
 
     /// Filter the concept universe by structured metadata.
@@ -85,6 +100,15 @@ enum Command {
 
     /// Show backend implementation order and current support.
     Backends,
+}
+
+#[derive(Debug, Subcommand)]
+enum IndexCommand {
+    /// Rebuild the local Tantivy BM25/full-text index.
+    Build {
+        #[arg(long)]
+        path: Option<PathBuf>,
+    },
 }
 
 #[derive(Debug, Subcommand)]
@@ -143,10 +167,44 @@ fn main() -> Result<()> {
             let corpus = Corpus::load(&cli.root)?;
             query::get(&corpus, &key)?;
         }
-        Command::Search { query: text, limit } => {
-            let corpus = Corpus::load(&cli.root)?;
-            query::search(&corpus, &text, limit);
+        Command::Search {
+            query: text,
+            limit,
+            engine,
+            field,
+            index_path,
+        } => {
+            let path = index_path.unwrap_or_else(|| tantivy_index::default_path(&cli.root));
+            match engine.as_str() {
+                "tantivy" => {
+                    tantivy_index::search(&path, &text, field.as_deref(), limit)?;
+                }
+                "scan" => {
+                    let corpus = Corpus::load(&cli.root)?;
+                    query::search(&corpus, &text, limit);
+                }
+                "auto" => {
+                    if tantivy_index::exists(&path) {
+                        tantivy_index::search(&path, &text, field.as_deref(), limit)?;
+                    } else {
+                        eprintln!(
+                            "NOTE: no Tantivy index at {}; using scan search. Run 'conceptarium index build' for BM25.",
+                            path.display()
+                        );
+                        let corpus = Corpus::load(&cli.root)?;
+                        query::search(&corpus, &text, limit);
+                    }
+                }
+                other => anyhow::bail!("unknown search engine {other:?}; expected auto, tantivy, or scan"),
+            }
         }
+        Command::Index { command } => match command {
+            IndexCommand::Build { path } => {
+                let corpus = Corpus::load(&cli.root)?;
+                let path = path.unwrap_or_else(|| tantivy_index::default_path(&cli.root));
+                tantivy_index::build(&corpus, &path)?;
+            }
+        },
         Command::List {
             domain,
             kind,
