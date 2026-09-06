@@ -2,7 +2,8 @@
 """Validate Conceptarium canonical entries.
 
 Structural problems fail validation.
-Relation-ontology expansion and dangling targets are warnings during migration.
+Every concept and relation target must have predicate presence in the registry.
+Registry-only relation targets are valid; experimental relation verbs remain warnings.
 Use --strict to make warnings fail as well.
 """
 
@@ -19,6 +20,18 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 ENTRIES = ROOT / "entries"
+REGISTRY = ROOT / "registry" / "concepts.yml"
+
+ALLOWED_PRESENCE = {"registered"}
+ALLOWED_MATERIALIZATION = {"entry", "registry-only"}
+ALLOWED_ONTOLOGY_STATES = {
+    "unassessed",
+    "unplaced",
+    "roughly-classified",
+    "domain-placed",
+    "related",
+    "deeply-integrated",
+}
 
 ALLOWED_TYPES = {
     "concept",
@@ -209,6 +222,74 @@ def main() -> int:
     parsed: dict[str, tuple[Path, dict[str, Any], str]] = {}
     terms: dict[str, str] = {}
     alias_owners: defaultdict[str, set[str]] = defaultdict(set)
+    registry_records: dict[str, dict[str, Any]] = {}
+    registry_terms: dict[str, str] = {}
+
+    try:
+        registry_data = yaml.safe_load(REGISTRY.read_text(encoding="utf-8"))
+    except (OSError, yaml.YAMLError) as exc:
+        errors.append(f"registry/concepts.yml: {exc}")
+        registry_data = {}
+
+    if not isinstance(registry_data, dict):
+        errors.append("registry/concepts.yml: root must be a mapping")
+        registry_data = {}
+
+    registry_concepts = registry_data.get("concepts")
+    if not isinstance(registry_concepts, list):
+        errors.append("registry/concepts.yml: concepts must be a list")
+        registry_concepts = []
+
+    for idx, record in enumerate(registry_concepts):
+        label = f"registry/concepts.yml: concept[{idx}]"
+        if not isinstance(record, dict):
+            errors.append(f"{label} must be a mapping")
+            continue
+
+        concept_id = record.get("id")
+        term = record.get("term")
+        presence = record.get("presence")
+        materialization = record.get("materialization")
+        ontology_state = record.get("ontology_state")
+
+        if not isinstance(concept_id, str) or not concept_id.strip():
+            errors.append(f"{label}.id must be a non-empty string")
+            continue
+        concept_id = concept_id.strip()
+
+        if concept_id in registry_records:
+            errors.append(f"{label}: duplicate registry id {concept_id!r}")
+            continue
+
+        if not isinstance(term, str) or not term.strip():
+            errors.append(f"{label}.term must be a non-empty string")
+        else:
+            term_key = term.strip().casefold()
+            if term_key in registry_terms and registry_terms[term_key] != concept_id:
+                errors.append(
+                    f"{label}: registry term {term!r} duplicates term owned by "
+                    f"{registry_terms[term_key]!r}"
+                )
+            else:
+                registry_terms[term_key] = concept_id
+
+        if presence not in ALLOWED_PRESENCE:
+            errors.append(f"{label}: invalid presence {presence!r}")
+
+        if materialization not in ALLOWED_MATERIALIZATION:
+            errors.append(f"{label}: invalid materialization {materialization!r}")
+
+        if ontology_state not in ALLOWED_ONTOLOGY_STATES:
+            errors.append(f"{label}: invalid ontology_state {ontology_state!r}")
+
+        entry_path = record.get("entry")
+        if materialization == "entry":
+            if not isinstance(entry_path, str) or not entry_path.strip():
+                errors.append(f"{label}: materialized concept requires entry path")
+        elif materialization == "registry-only" and entry_path is not None:
+            errors.append(f"{label}: registry-only concept must not declare entry path")
+
+        registry_records[concept_id] = record
 
     paths = sorted(p for p in ENTRIES.glob("*.md") if p.name != "_template.md")
 
@@ -321,16 +402,73 @@ def main() -> int:
 
     ids = set(parsed)
 
+    # Registry/entry consistency: predicate presence is required for every
+    # materialized entry, while registry-only concepts are valid first-class
+    # conceptual objects.
+    for entry_id, (path, meta, _) in parsed.items():
+        label = path.relative_to(ROOT).as_posix()
+        record = registry_records.get(entry_id)
+        if record is None:
+            errors.append(f"{label}: entry has no predicate presence in concept registry")
+            continue
+
+        if record.get("materialization") != "entry":
+            errors.append(
+                f"{label}: registry record must be materialization 'entry', "
+                f"not {record.get('materialization')!r}"
+            )
+
+        expected_path = label
+        if record.get("entry") != expected_path:
+            errors.append(
+                f"{label}: registry entry path {record.get('entry')!r} "
+                f"must equal {expected_path!r}"
+            )
+
+        registry_term = record.get("term")
+        entry_term = meta.get("term")
+        if (
+            isinstance(registry_term, str)
+            and isinstance(entry_term, str)
+            and registry_term != entry_term
+        ):
+            errors.append(
+                f"{label}: registry term {registry_term!r} "
+                f"does not match entry term {entry_term!r}"
+            )
+
+    for concept_id, record in registry_records.items():
+        if record.get("materialization") != "entry":
+            continue
+        if concept_id not in ids:
+            errors.append(
+                f"registry/concepts.yml: {concept_id!r} claims materialization "
+                "as an entry but no canonical entry exists"
+            )
+            continue
+        expected = parsed[concept_id][0].relative_to(ROOT).as_posix()
+        if record.get("entry") != expected:
+            errors.append(
+                f"registry/concepts.yml: {concept_id!r} points to "
+                f"{record.get('entry')!r}, expected {expected!r}"
+            )
+
+    registry_only_targets: set[str] = set()
+
     for entry_id, (path, meta, _) in parsed.items():
         label = path.relative_to(ROOT).as_posix()
         for idx, relation in enumerate(meta.get("relations", [])):
             if not isinstance(relation, dict):
                 continue
             target = relation.get("target")
-            if isinstance(target, str) and target and target not in ids:
-                warnings.append(
-                    f"{label}: relation[{idx}] targets missing entry {target!r}"
-                )
+            if isinstance(target, str) and target:
+                if target not in registry_records:
+                    errors.append(
+                        f"{label}: relation[{idx}] targets unregistered concept "
+                        f"{target!r}; capture it in registry/concepts.yml first"
+                    )
+                elif target not in ids:
+                    registry_only_targets.add(target)
 
     for text, owners in sorted(alias_owners.items()):
         if len(owners) > 1:
@@ -344,6 +482,25 @@ def main() -> int:
     for message in warnings:
         print(f"WARNING: {message}", file=sys.stderr)
 
+    materialized_count = sum(
+        1 for record in registry_records.values()
+        if record.get("materialization") == "entry"
+    )
+    registry_only_count = sum(
+        1 for record in registry_records.values()
+        if record.get("materialization") == "registry-only"
+    )
+
+    print(
+        f"Registry contains {len(registry_records)} concept(s): "
+        f"{materialized_count} materialized, {registry_only_count} registry-only."
+    )
+    if registry_only_targets:
+        print(
+            f"{len(registry_only_targets)} relation target(s) resolve to "
+            "registry-only concepts: "
+            + ", ".join(sorted(registry_only_targets))
+        )
     print(
         f"Validated {len(parsed)} entries: "
         f"{len(errors)} error(s), {len(warnings)} warning(s)."
