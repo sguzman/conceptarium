@@ -854,7 +854,7 @@ The agent should:
 - prefer deep entries over mass stub generation;
 - preserve named sub-concepts in the registry without automatically materializing them;
 - prefer registry-only capture whenever deeper integration would interrupt or exhaust the session;
-- validate the repository after editing;
+- validate the repository with the Rust tooling after editing;
 - report exactly what was changed.
 
 The agent should **not**:
@@ -867,7 +867,7 @@ The agent should **not**:
 - edit generated projections as canonical data;
 - add vague graph edges for decoration;
 - omit the originating frustration because the polished definition sounds cleaner;
-- claim integration is complete before validation.
+- claim integration is complete before Rust validation.
 
 ---
 
@@ -928,8 +928,8 @@ Use this checklist before declaring a concept integrated.
 
 ## Verification
 
-- [ ] `python tools/validate.py` passes.
-- [ ] `python tools/project.py` succeeds.
+- [ ] `cargo run --quiet -- validate` passes.
+- [ ] `cargo run --quiet -- project` succeeds.
 - [ ] Investigated warnings rather than deleting useful theory.
 - [ ] CI verified when available.
 

@@ -171,7 +171,7 @@ filter materialization == registry-only
 Promotion Queue
 ~~~
 
-`tools/project.py` generates:
+`conceptarium project` generates:
 
 `build/promotion-queue.md`
 
@@ -205,13 +205,13 @@ This turns former "dangling concepts" into explicit research inventory.
 The intended low-energy workflow is:
 
 ~~~bash
-python tools/registry.py capture "term here" --date 2026-09-05
+cargo run --quiet -- registry capture "term here" --date 2026-09-05
 ~~~
 
 Optional context can be added:
 
 ~~~bash
-python tools/registry.py capture "term here" \
+cargo run --quiet -- registry capture "term here" \
   --date 2026-09-05 \
   --group "Film theory" \
   --note "Came up while thinking about montage and narrative knowledge."
@@ -228,7 +228,7 @@ Later, another session can materialize or classify the concept.
 A later integration pass can create the canonical entry and then run:
 
 ~~~bash
-python tools/registry.py materialize concept-id --entry entries/concept-id.md
+cargo run --quiet -- registry materialize concept-id --entry entries/concept-id.md
 ~~~
 
 The validator ensures the registry record and entry agree.
@@ -238,3 +238,7 @@ The validator ensures the registry record and entry agree.
 > **Thinking of a concept should be enough to preserve its existence. Understanding it can happen later.**
 
 This is losslessness applied not merely to prose, but to conceptual identity itself.
+
+## Rust implementation
+
+Registry mutation, validation, querying, and projection generation are implemented by the repository's `conceptarium` Rust crate. The canonical YAML remains human-readable; Rust is the executable infrastructure layer.
