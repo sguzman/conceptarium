@@ -231,13 +231,26 @@ That warning means:
 
 If yes, add it to this document.
 
-## Dangling targets
+## Registry-only targets
 
-A relation may temporarily point to a concept still preserved only in the migration archive.
+Every relation target must have **predicate presence** in the Concept Registry.
 
-During Phase 1 this is a warning, not an error.
+Three states are possible:
 
-Once the recovered lexicon is substantially promoted, strict relation validation can become the default.
+~~~text
+target → materialized entry
+    valid, semantically developed
+
+target → registry-only concept
+    valid, semantically unmaterialized
+
+target → no registry record
+    broken conceptual reference
+~~~
+
+A registry-only target is deliberately allowed. It lets graph structure get ahead of article-writing without losing identity.
+
+An unregistered target is a structural error: capture the concept in `registry/concepts.yml` before using it as an edge target.
 
 ## The sentence test
 
