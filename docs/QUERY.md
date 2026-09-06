@@ -171,6 +171,9 @@ The CLI intentionally accepts only one read-only `SELECT`, `RETURN`, or `INFO` s
 
 SurrealDB is a query laboratory and projection, not Conceptarium's canonical model.
 
+On x86-64 Windows, Conceptarium's `.cargo/config.toml` enables AWS-LC's official prebuilt NASM objects (`AWS_LC_SYS_PREBUILT_NASM=1`), so building the embedded SurrealDB SDK does not require a separate NASM installation.
+
+
 ### 4. Oxigraph — NEXT
 
 Purpose:
