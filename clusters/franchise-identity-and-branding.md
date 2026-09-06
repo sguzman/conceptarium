@@ -315,6 +315,35 @@ This creates a candidate franchise-identity question:
 If yes, preserving fog, monsters, sound, or psychological symbolism while replacing the machine that generated their older effect could amount to surface continuity with deeper ontological migration.
 
 
+## Audience allocation and incumbent extraction bridge
+
+Aesthetic-governance theory adds a second mechanism by which a strong franchise can change while retaining its audience:
+
+- [Aesthetic Governance, Erotic Legitimacy, and Audience Allocation](./aesthetic-governance-and-erotic-legitimacy.md)
+
+The connection is:
+
+~~~text
+strong inherited brand attachment
+        ↓
+incumbent audience assumed sticky
+        ↓
+incumbent-audience discount
+        ↓
+audience reallocation
+        ↓
+possible incumbent-audience extraction
+~~~
+
+This is analytically separate from **good dilution**.
+
+Good dilution explains how successful works change franchise meaning.
+
+Incumbent-audience extraction explains how accumulated brand loyalty can continue supplying commercial value while design attention shifts toward other constituencies.
+
+The two mechanisms can coexist but should not be conflated.
+
+
 ## Research frontier
 
 High-value questions:
