@@ -2,26 +2,36 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 119 entries.**
+**Current promoted corpus: 151 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
 ## A
 
+- [Abstract-group privilege substitution](../entries/abstract-group-privilege-substitution.md) — Treat an ordinary individual as though he personally possesses the power attributed to his demographic category.
 - [Abundance discipline](../entries/abundance-discipline.md) — Self-imposed restraint that remains operative after external scarcity stops forcing limits.
 - [Abundance inversion](../entries/abundance-inversion.md) — Behaviors once associated with deprivation become prestigious when abundance makes voluntary restraint distinctive.
 - [Abundance politics](../entries/abundance-politics.md) — Politics of temptation, access, friction, limitation, and self-regulation after allocation scarcity weakens.
 - [Abundance sorting](../entries/abundance-sorting.md) — Social differentiation produced by heterogeneous responses to broadly equalized access.
 - [Accumulated-precedent redefinition](../entries/accumulated-precedent-redefinition.md) — Repeated departures become the new norm because enough admitted precedents redefine the franchise.
 - [Adaptive continuity](../entries/adaptive-continuity.md) — Preserve a recognizable form of life through selective adaptation rather than static preservation.
+- [Additive diversity](../entries/additive-diversity.md) — Broaden representation by adding new aesthetic types without intentionally suppressing existing ones.
+- [Adversarial preference governance](../entries/adversarial-preference-governance.md) — Treat a constituency's preferences as desires to restrain, correct, or transform rather than merely balance against others.
 - [Adversarial verification](../entries/adversarial-verification.md) — Recover confidence through independent, differently incentivized checks.
+- [Aesthetic allocation](../entries/aesthetic-allocation.md) — Distribute finite representational resources across competing aesthetic ideals and audiences.
+- [Aesthetic negative prior](../entries/aesthetic-negative-prior.md) — Begin evaluation of certain aesthetic choices with an institutional presumption of suspicion before case-specific merits are considered.
+- [Aesthetic paternalism](../entries/aesthetic-paternalism.md) — Use aesthetic production partly to improve, correct, or protect consumers rather than only satisfy existing preferences.
 - [Agentic systems](../entries/agentic-systems.md) — Persistent decision-making entities with beliefs, needs, goals, memories, and state.
 - [American horror through Japanese eyes](../entries/american-horror-through-japanese-eyes.md) — American spaces, imagery, genres, and anxieties reconstructed through Japanese artistic sensibilities.
 - [Anti-domination](../entries/anti-domination.md) — Resist arbitrary, unanswerable power over persons and social worlds.
+- [Anti-prescriptive femininity](../entries/anti-prescriptive-femininity.md) — Female characters do not owe conventional femininity, prettiness, youthfulness, sexual availability, or desirability merely because they are women.
+- [Asymmetric erotic legitimacy](../entries/asymmetric-erotic-legitimacy.md) — Structurally similar erotic preferences receive different moral or institutional treatment depending on who holds them.
+- [Audience reallocation](../entries/audience-reallocation.md) — Redistribute finite design attention among consumer constituencies.
 - [Authorship-setting confusion](../entries/authorship-setting-confusion.md) — Mistakenly treating matching diegetic setting as necessary evidence of matching cultural authorship.
 
 ## B
 
+- [Beauty-diversity norm](../entries/beauty-diversity-norm.md) — Treat narrow concentration around conventional female beauty as a portfolio problem and broaden represented aesthetic types.
 - [Behavioral legibility of health](../entries/behavioral-legibility-of-health.md) — Degree to which health outcomes appear attributable to behavior as material and environmental constraints are reduced.
 - [Brand-signifier](../entries/brand-signifier.md) — A franchise name functioning primarily as a commercial or cultural signal rather than a strongly bounded creative category.
 - [Bring your own model](../entries/bring-your-own-model.md) — Plural modeling creates obligations of translation, comparison, provenance, and invariance.
@@ -36,6 +46,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Consumer semiotics](../entries/consumer-semiotics.md) — Read consumer media through compressed cultural or ideological signifiers that can function as allegiance markers and substitute for deeper evaluation.
 - [Contestability](../entries/contestability.md) — Practical capacity to challenge, inspect, appeal, revise, or route around consequential decisions.
 - [Convergent architecture](../entries/convergent-architecture.md) — Perception, belief, need, decision, embodiment, visible action, and social reaction form one causal chain.
+- [Corporate moral fog](../entries/corporate-moral-fog.md) — Moral rhetoric obscures the mixture of market expansion, risk management, prestige seeking, and ideological commitments behind allocation decisions.
+- [Corporate-moral merger](../entries/corporate-moral-merger.md) — Commercial incentives, employee ideology, prestige, reputation, and moral doctrine align around the same design decision.
 - [Cultural authorship](../entries/cultural-authorship.md) — The cultural perspective embodied in how a work perceives, selects, organizes, and transforms its material.
 - [Cultural confidence](../entries/cultural-confidence.md) — Capacity to absorb foreign material without needing overt self-markers to remain recognizably culturally authored.
 - [Cultural estrangement](../entries/cultural-estrangement.md) — Making familiar cultural material strange through reconstruction from a different cultural perspective.
@@ -48,6 +60,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Declarative procedural modeling](../entries/declarative-procedural-modeling.md) — Describe what an object is semantically and let procedures construct its concrete representation.
 - [Diegetic cultural setting](../entries/diegetic-cultural-setting.md) — The culture in which the fictional world is explicitly located, distinct from the culture of artistic authorship.
 - [Diegetization](../entries/diegetization.md) — Force apparently transcendent knowledge or authority to acquire an address inside the represented world.
+- [Dominance discount](../entries/dominance-discount.md) — Assign less moral weight to a group's interests because the group is classified as socially or historically dominant.
 - [Double estrangement](../entries/double-estrangement.md) — Cultural estrangement and another estranging process such as horror operate in sequence on the same familiar material.
 
 ## E
@@ -57,6 +70,9 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Epistemic chain of custody](../entries/epistemic-chain-of-custody.md) — Trace how information travels from grounding event or source to present claimant.
 - [Epistemic debt](../entries/epistemic-debt.md) — Assertions incur justificatory obligations proportionate to what they ask others to believe.
 - [Epistemic maturation](../entries/epistemic-maturation.md) — Move from totalizing certainty toward uncertainty tolerance, revision, triangulation, and calibrated confidence.
+- [Erotic legitimacy](../entries/erotic-legitimacy.md) — Degree to which an institution regards a constituency's sexual desires as respectable and worthy of accommodation.
+- [Erotic opportunity cost](../entries/erotic-opportunity-cost.md) — Erotic or aesthetic satisfaction foregone when scarce design resources are allocated to other constituencies or objectives.
+- [Erotic optimization](../entries/erotic-optimization.md) — Deliberately coordinate character design choices to maximize sexual or romantic appeal to a target audience.
 - [Established Fallen](../entries/established-fallen.md) — Incorporated ascent-oriented actors whose incentives shift toward competence, order, qualification, and controlled succession.
 - [Estrangement machine](../entries/estrangement-machine.md) — A repeatable artistic system whose interacting components reliably convert familiar material into something alien.
 - [Expressive animation](../entries/expressive-animation.md) — Visible movement as outward evidence of intent, state, effort, and social stance.
@@ -95,7 +111,10 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Iconographic survival](../entries/iconographic-survival.md) — Visible franchise symbols remain recognizable even after the underlying creative identity has substantially changed.
 - [Identity conditions](../entries/identity-conditions.md) — Minimum properties that make franchise membership internally justified rather than merely rights-holder authorized.
 - [Ideological brokerage](../entries/ideological-brokerage.md) — Translate local grievances into portable categories, coalitions, narratives, and programs.
+- [Ideology-to-geometry pipeline](../entries/ideology-to-geometry-pipeline.md) — Trace abstract cultural doctrine through prestige and institutional decisions into literal character morphology.
 - [Implicit cultural authorship](../entries/implicit-cultural-authorship.md) — Cultural identity expressed through formal perception, composition, atmosphere, and narrative assumptions rather than overt markers.
+- [Incumbent-audience discount](../entries/incumbent-audience-discount.md) — Place less marginal value on satisfying an audience assumed already captured while prioritizing acquisition of new demographics.
+- [Incumbent-audience extraction](../entries/incumbent-audience-extraction.md) — Continue monetizing established audience loyalty while progressively reallocating product design toward other constituencies.
 - [Institutional legibility](../entries/institutional-legibility.md) — Translate social reality into categories and records institutions can perceive and act upon.
 - [Internal definition](../entries/internal-definition.md) — A franchise definition grounded in properties of the works rather than corporate ownership and labeling.
 - [Internalized governor](../entries/internalized-governor.md) — Metaphor for self-regulatory machinery that supplies limits after scarcity stops doing so.
@@ -116,7 +135,13 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## M
 
+- [Male preference as governance object](../entries/male-preference-as-governance-object.md) — Treat heterosexual male desire as something institutions should manage, educate, constrain, or change rather than merely serve or decline.
+- [Male-desire tax](../entries/male-desire-tax.md) — Extra prestige or moral burden placed on heterosexual male aesthetic or sexual preferences.
 - [Mastery over pleasure](../entries/mastery-over-pleasure.md) — Competence or prestige derived from controlling consumption rather than merely possessing pleasurable goods.
+- [Misandry proper](../entries/misandry-proper.md) — Actual contempt, hostility, disgust, ridicule, stereotyping, or animus directed toward men, masculinity, or male sexuality as such.
+- [Moral coefficient of preference](../entries/moral-coefficient-of-preference.md) — Implicit positive or negative moral weighting attached to a preference before institutions decide how much effort to spend satisfying it.
+- [Moralized market reallocation](../entries/moralized-market-reallocation.md) — Shift product attention among constituencies while presenting the allocation in universal moral language rather than as a competing-interest tradeoff.
+- [Moralized portfolio substitution](../entries/moralized-portfolio-substitution.md) — Reduce the share of an aesthetic judged overrepresented or problematic and reallocate scarce cultural slots toward alternatives.
 - [Motor-intent boundary](../entries/motor-intent-boundary.md) — Interface between high-level agent intention and the physical/animation machinery that realizes it.
 - [Museum-piece preservation](../entries/museum-piece-preservation.md) — Isolated legacy elements are maintained after the broader structure that once gave them meaning changes or disappears.
 
@@ -141,14 +166,18 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Post-scarcity prestige ecology](../entries/post-scarcity-prestige-ecology.md) — Status system formed when prestige migrates from abundant goods toward scarce capacities such as restraint, attention, authenticity, or difficulty.
 - [Posthumous Americana](../entries/posthumous-americana.md) — American built environments represented as though the civilization animating them has died while the structures remain.
 - [Premature ruin](../entries/premature-ruin.md) — A recent or intact space treated experientially as a ruin because its social world died before its material structure.
+- [Prestige anti-fanservice](../entries/prestige-anti-fanservice.md) — Gain status by visibly refusing conventional heterosexual-male fanservice.
 - [Prestige certification mark](../entries/prestige-certification-mark.md) — A franchise name functions as a badge certifying a premium version of a broad genre.
+- [Prestige ecology](../entries/prestige-ecology.md) — The status environment in which beliefs, tastes, language, and aesthetic choices gain or lose professional and moral prestige.
 - [Prestige migration](../entries/prestige-migration.md) — Movement of status value away from widely accessible goods toward newly scarce traits, behaviors, or experiences.
+- [Prestige signal of erotic refusal](../entries/prestige-signal-of-erotic-refusal.md) — Use refusal of obvious sexual optimization itself as a signal of sophistication, maturity, ethics, or artistic elevation.
 - [Prestige without specificity](../entries/prestige-without-specificity.md) — A franchise retains quality and seriousness associations while losing narrower distinguishing properties.
 - [Primitive vocabulary](../entries/primitive-vocabulary.md) — Small compositional alphabet of geometry and operations from which many forms can be generated.
 - [Procedural visual language](../entries/procedural-visual-language.md) — Visual grammar generated through reusable constructive rules rather than one-off meshes.
 - [Prototype capture](../entries/prototype-capture.md) — One famous installment becomes the franchise prototype and later works increasingly reproduce it.
 - [Prototype cues](../entries/prototype-cues.md) — Portable traits of a dominant prototype signal franchise membership without reproducing deeper structure.
 - [Prototype inversion](../entries/prototype-inversion.md) — A historically unusual installment becomes the norm while earlier forms begin to appear anomalous.
+- [Punitive anti-fanservice](../entries/punitive-anti-fanservice.md) — Anti-fanservice in which frustrating a target audience's erotic preferences becomes positively meaningful as correction, resistance, or virtue.
 
 ## Q
 
@@ -176,11 +205,14 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Sovereign system builders](../entries/sovereign-system-builders.md) — Treat other people's projects and social worlds as possessing integrity that limits unilateral optimization.
 - [Sovereignty over abundance](../entries/sovereignty-over-abundance.md) — Capacity to remain self-governing despite unrestricted access to desirable goods.
 - [Status discrepancy](../entries/status-discrepancy.md) — Gap between expected or capacity-justified standing and realized position.
+- [Structural anti-male bias](../entries/structural-anti-male-bias.md) — Systematic pattern in which male interests, harms, preferences, or complaints receive less institutional concern or legitimacy, distinct from misandry proper.
 - [Style-pack franchise](../entries/style-pack-franchise.md) — Franchise identity is reduced to a portable bundle of recognizable aesthetic and thematic cues.
+- [Substitutive diversity](../entries/substitutive-diversity.md) — Broaden representation partly by replacing or reducing an existing aesthetic category.
 - [Synthetic friction](../entries/synthetic-friction.md) — Deliberately introduced resistance intended to restore discipline, meaning, pacing, attention, or status.
 
 ## T
 
+- [Taste hierarchy](../entries/taste-hierarchy.md) — Rank preferences as culturally superior or inferior rather than merely different.
 - [Temptation environment](../entries/temptation-environment.md) — System of availability, immediacy, cue density, intensity, and defaults that determines temptation load.
 - [Trustworthiness under adversarial reality-testing](../entries/trustworthiness-under-adversarial-reality-testing.md) — Evaluate a reasoner by how it revises when its preferred account collides with strong counterevidence.
 
@@ -240,5 +272,6 @@ Important preserved concepts still awaiting full promotion include:
 - compensatory use.
 
 Promotion priority follows **conceptual pressure, reuse, provenance risk, and graph value**, not alphabetical completion.
+
 
 
