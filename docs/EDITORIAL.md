@@ -55,7 +55,7 @@ A registry-only record is not a defective entry. It is durable intellectual inve
 
 Ontology may be materialized incrementally. Use `unplaced` or `unassessed` rather than inventing classification.
 
-## 6. Separate naming confidence from claim confidence
+## 5. Separate naming confidence from claim confidence
 
 A term may be canonical vocabulary while the empirical theory attached to it remains speculative.
 
@@ -63,7 +63,7 @@ Likewise, a mechanism may be useful while the exact name is provisional.
 
 Use entry status for vocabulary maturity, and explain evidential status in the body.
 
-## 5. Prefer explicit distinctions
+## 6. Prefer explicit distinctions
 
 If two ideas repeatedly get conflated, create a distinction entry or make the boundary explicit.
 
@@ -140,7 +140,7 @@ When an example threatens the theory:
 
 Do not protect a term by making it infinitely elastic.
 
-## 13. Keep raw material near the theory
+## 12. Keep raw material near the theory
 
 Not every note needs to become a polished entry immediately.
 
