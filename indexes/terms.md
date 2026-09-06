@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 247 entries.**
+**Current promoted corpus: 273 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -14,6 +14,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Abundance politics](../entries/abundance-politics.md) — Politics of temptation, access, friction, limitation, and self-regulation after allocation scarcity weakens.
 - [Abundance sorting](../entries/abundance-sorting.md) — Social differentiation produced by heterogeneous responses to broadly equalized access.
 - [Accumulated-precedent redefinition](../entries/accumulated-precedent-redefinition.md) — Repeated departures become the new norm because enough admitted precedents redefine the franchise.
+- [Actor-body](../entries/actor-body.md) — A preexisting animated character treated not primarily as their canonical fictional identity, but as a reusable body capable of performing newly constructed roles, dialogue, and social identities.
 - [Adaptive continuity](../entries/adaptive-continuity.md) — Preserve a recognizable form of life through selective adaptation rather than static preservation.
 - [Additive diversity](../entries/additive-diversity.md) — Broaden representation by adding new aesthetic types without intentionally suppressing existing ones.
 - [Adversarial preference governance](../entries/adversarial-preference-governance.md) — Treat a constituency's preferences as desires to restrain, correct, or transform rather than merely balance against others.
@@ -31,6 +32,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Ascetic paradox](../entries/ascetic-paradox.md) — Extreme self-abnegation can make the ascetic more exceptional rather than less exceptional.
 - [Asymmetric erotic legitimacy](../entries/asymmetric-erotic-legitimacy.md) — Structurally similar erotic preferences receive different moral or institutional treatment depending on who holds them.
 - [Audience reallocation](../entries/audience-reallocation.md) — Redistribute finite design attention among consumer constituencies.
+- [Audiovisual recharacterization](../entries/audiovisual-recharacterization.md) — Constructing a new personality or social identity for an existing character primarily through the manipulation of sound, dialogue, timing, and shot selection.
 - [Authorship-setting confusion](../entries/authorship-setting-confusion.md) — Mistakenly treating matching diegetic setting as necessary evidence of matching cultural authorship.
 
 ## B
@@ -48,6 +50,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Canonical adhesion](../entries/canonical-adhesion.md) — Successful new franchise interpretations become difficult to reject because quality, popularity, and precedent give them legitimacy.
 - [Cartoon causality](../entries/cartoon-causality.md) — A representational regime in which semantic intelligibility rather than physical realism determines what transformations are permitted. An impossible event is valid if it communicates the intended causal or expressive relation.
 - [Character anchoring](../entries/character-anchoring.md) — The use of familiar or strongly legible characters as stable semantic reference points that allow more radical experimentation in motion, deformation, and narrative presentation.
+- [Character substrate](../entries/character-substrate.md) — The recognizable underlying character identity that gives the viewer something stable to track even while dialogue, context, tone, or world logic are radically transformed.
 - [Character-first experimental animation](../entries/character-first-experimental-animation.md) — Experimental animation in which formal invention remains organized around recognizable characters and their changing states rather than allowing pure visual or musical abstraction to dominate.
 - [Closure pressure](../entries/closure-pressure.md) — The anxious pull exerted by an unfinished but still-valued object that remains mentally open and contains a salient remainder to absorb.
 - [Coherent metaphysics of animation](../entries/coherent-metaphysics-of-animation.md) — A sufficiently consistent animation grammar that implies an underlying ontology: not merely how the animator depicts change, but apparently how change itself works in that world.
@@ -55,6 +58,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Constitutionalized border crossing](../entries/constitutionalized-border-crossing.md) — Every transition from private thought into social power is subject to rules, consent, and anti-domination constraints.
 - [Constraint substitution](../entries/constraint-substitution.md) — Replacement of naturally occurring limits with voluntary or institutionally designed constraints.
 - [Constructive puppet](../entries/constructive-puppet.md) — Visibly segmented procedural character construction treated as an aesthetic rather than hidden scaffolding.
+- [Constructive puppetry](../entries/constructive-puppetry.md) — Using already-existing character animation as if it were puppet footage: selecting and sequencing bodily performances to make the character enact an entirely new scene.
 - [Consumer semiotics](../entries/consumer-semiotics.md) — Read consumer media through compressed cultural or ideological signifiers that can function as allegiance markers and substitute for deeper evaluation.
 - [Contestability](../entries/contestability.md) — Practical capacity to challenge, inspect, appeal, revise, or route around consequential decisions.
 - [Convergent architecture](../entries/convergent-architecture.md) — Perception, belief, need, decision, embodiment, visible action, and social reaction form one causal chain.
@@ -65,6 +69,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Cultural confidence](../entries/cultural-confidence.md) — Capacity to absorb foreign material without needing overt self-markers to remain recognizably culturally authored.
 - [Cultural estrangement](../entries/cultural-estrangement.md) — Making familiar cultural material strange through reconstruction from a different cultural perspective.
 - [Cultural metabolism](../entries/cultural-metabolism.md) — Absorb and transform foreign influence until it becomes functional inside a new locally authored artistic object.
+- [Cultural omnivory](../entries/cultural-omnivory.md) — An aesthetic practice based on consuming heterogeneous cultural materials—anime, hip-hop, philosophy, memes, politics, games, film, internet culture—and treating all of them as equally available compositional resources.
 - [Cultural refraction](../entries/cultural-refraction.md) — Foreign cultural material transformed as it passes through another culture's aesthetic assumptions and sensibilities.
 - [Cultural return effect](../entries/cultural-return-effect.md) — Cultural material returns to its originating audience after outside transformation, enabling renewed perception of the familiar.
 
@@ -72,6 +77,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 - [Declarative procedural modeling](../entries/declarative-procedural-modeling.md) — Describe what an object is semantically and let procedures construct its concrete representation.
 - [Diegetic cultural setting](../entries/diegetic-cultural-setting.md) — The culture in which the fictional world is explicitly located, distinct from the culture of artistic authorship.
+- [Diegetic grafting](../entries/diegetic-grafting.md) — Importing dialogue, audio, characters, or cultural material from an alien source and editing the host work so convincingly that the imported material appears causally native to the host world.
 - [Diegetic transition](../entries/diegetic-transition.md) — A transition normally belonging to the external presentation layer—such as a wipe, cut, dissolve, or masking operation—that is instead performed by an object or character within the represented world.
 - [Diegetic tweening](../entries/diegetic-tweening.md) — A special case of diegetic transition in which the character or object itself performs the visual operation that carries it from one state to another.
 - [Diegetization](../entries/diegetization.md) — Force apparently transcendent knowledge or authority to acquire an address inside the represented world.
@@ -83,6 +89,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## E
 
+- [Editing-as-performance](../entries/editing-as-performance.md) — A mode of editing in which the editor effectively becomes a performer/director, creating acting beats out of footage that was never originally performed together.
 - [Elite circulation](../entries/elite-circulation.md) — Recurrent incorporation or succession of ambitious outsiders into consequential positions.
 - [Embodied history](../entries/embodied-history.md) — The body as an accumulated record of behavior, exposure, maintenance, biology, and chance.
 - [Enriched transition semantics](../entries/enriched-transition-semantics.md) — The use of a transition to communicate additional information—emotion, attention, time passage, realization, causal change, emphasis, or narrative reinterpretation—beyond simply connecting state A to state B.
@@ -139,6 +146,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Heritage experience](../entries/heritage-experience.md) — A new work recreates the sensations and symbols of an older tradition without necessarily preserving its generative system.
 - [Horror estrangement](../entries/horror-estrangement.md) — Ordinary spaces, objects, or routines made unfamiliar and threatening through emptiness, distortion, isolation, or contamination.
 - [Humiliation-to-monster pathway](../entries/humiliation-to-monster-pathway.md) — A conjunctural danger sequence linking significance entitlement, humiliation, blocked restoration, blame, ideology, and coercive capacity.
+- [Hybrid editing grammar](../entries/hybrid-editing-grammar.md) — A stable audiovisual language produced from multiple preexisting traditions—in the Kurosai case, AMVs, anime abridging, hip-hop sampling, YouTube Poop, meme editing, internet vernacular, and surrealist montage.
 
 ## I
 
@@ -161,8 +169,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## J
 
-- [Japan dreaming America](../entries/japan-dreaming-america.md) — Amber phrase for America reconstructed through Japanese cultural imagination rather than American self-representation.
 - [Japan dreaming America having a nightmare](../entries/japan-dreaming-america-having-a-nightmare.md) — Silent Hill shorthand for Japanese reconstruction of America subjected to a second layer of horror deformation.
+- [Japan dreaming America](../entries/japan-dreaming-america.md) — Amber phrase for America reconstructed through Japanese cultural imagination rather than American self-representation.
 
 ## K
 
@@ -186,16 +194,19 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Micro-semantics](../entries/micro-semantics.md) — Small-scale units of meaning—recognition, threat, hesitation, attraction, embarrassment, interruption, violence, realization—that remain locally legible even when the overall plot is unclear.
 - [Misandry proper](../entries/misandry-proper.md) — Actual contempt, hostility, disgust, ridicule, stereotyping, or animus directed toward men, masculinity, or male sexuality as such.
 - [Models don’t confer title](../entries/models-dont-confer-title.md) — Understanding or simulating another person creates no corresponding right to govern or redesign them.
+- [Montage naturalization](../entries/montage-naturalization.md) — Making an artificial relationship between independently produced shots or sounds feel narratively, emotionally, or causally inevitable through editing.
 - [Moral category collapse](../entries/moral-category-collapse.md) — Treating moral equality as though it implied identical social, psychological, developmental, or epistemic position.
 - [Moral coefficient of preference](../entries/moral-coefficient-of-preference.md) — Implicit positive or negative moral weighting attached to a preference before institutions decide how much effort to spend satisfying it.
 - [Moral equality / moral non-equivalence](../entries/moral-equality-moral-non-equivalence.md) — Equal human worth can coexist with radical differences in capacity, dependence, mobility, responsibility, and risk.
 - [Moralized market reallocation](../entries/moralized-market-reallocation.md) — Shift product attention among constituencies while presenting the allocation in universal moral language rather than as a competing-interest tradeoff.
 - [Moralized portfolio substitution](../entries/moralized-portfolio-substitution.md) — Reduce the share of an aesthetic judged overrepresented or problematic and reallocate scarce cultural slots toward alternatives.
 - [Morphological semantics](../entries/morphological-semantics.md) — Meaning carried by changes in bodily or object form: stretching, collapsing, replacing, enclosing, splitting, expanding, or reconstructing morphology.
+- [Motion punctuation](../entries/motion-punctuation.md) — Using bodily movements, cuts, impacts, camera movements, or visual reactions as the equivalent of punctuation in speech: commas, interruptions, emphases, punchlines, and sentence endings.
 - [Motion syntax](../entries/motion-syntax.md) — The organization of movement, timing, deformation, and transition into structured expressive relations analogous to grammatical syntax.
 - [Motion theory](../entries/motion-theory.md) — The study or implicit theory of how movement itself can encode identity, character, emotion, narrative state, causality, and temporal structure.
 - [Motor-intent boundary](../entries/motor-intent-boundary.md) — Interface between high-level agent intention and the physical/animation machinery that realizes it.
 - [Museum-piece preservation](../entries/museum-piece-preservation.md) — Isolated legacy elements are maintained after the broader structure that once gave them meaning changes or disappears.
+- [Musical montage logic](../entries/musical-montage-logic.md) — Editing visual material according to structures analogous to music: anticipation, beat, hit, pause, repetition, escalation, drop, and release rather than purely conventional narrative continuity.
 
 ## N
 
@@ -233,6 +244,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Primitive vocabulary](../entries/primitive-vocabulary.md) — Small compositional alphabet of geometry and operations from which many forms can be generated.
 - [Private animation grammar](../entries/private-animation-grammar.md) — An animator-specific system of recurring transformations, timing conventions, distortions, and state-change rules that becomes recognizable as an individual expressive language.
 - [Procedural caricature](../entries/procedural-caricature.md) — Caricature performed through behavior and transformation rather than merely through static shape. A character’s movement rules, timing, physics, and deformation patterns become exaggerated expressions of personality.
+- [Procedural media language](../entries/procedural-media-language.md) — A repeatable set of transformations or compositional rules through which an editor can generate new meaning from existing media rather than merely quoting it.
 - [Procedural visual language](../entries/procedural-visual-language.md) — Visual grammar defined by reusable rules for constructing forms and governing how they transform, combine, move, disappear, recur, and change state.
 - [Prototype capture](../entries/prototype-capture.md) — One famous installment becomes the franchise prototype and later works increasingly reproduce it.
 - [Prototype cues](../entries/prototype-cues.md) — Portable traits of a dominant prototype signal franchise membership without reproducing deeper structure.
@@ -249,9 +261,12 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## R
 
+- [Reaction grammar](../entries/reaction-grammar.md) — The repertoire of looks, pauses, gestures, head turns, eye movements, cuts, bodily responses, and facial expressions that can be recombined through editing to construct new interactions.
 - [Recognition hunger / recognition terror](../entries/recognition-hunger-recognition-terror.md) — Desire for accurate recognition combined with fear that recognition will mutate into sovereignty and domination.
 - [Reflexive estrangement](../entries/reflexive-estrangement.md) — An outside reconstruction makes members of the represented culture experience their own familiar world as newly foreign.
 - [Reflexive surplus](../entries/reflexive-surplus.md) — The extra layer by which an intellectual simultaneously experiences, theorizes, compares, historicizes, and systematizes experience.
+- [Register incongruity](../entries/register-incongruity.md) — The productive mismatch between a character’s visual/social coding and the linguistic or behavioral register assigned to them; for example, highly stylized anime characters speaking in casual contemporary urban American vernacular.
+- [Remix actorhood](../entries/remix-actorhood.md) — The condition in which existing media characters become performers inside a remix ecosystem, capable of acting in scenes their original creators never made.
 - [Renunciation does not erase provenance](../entries/renunciation-does-not-erase-provenance.md) — Giving up comfort or prestige does not erase the formation, capacities, networks, cognition, or exit options that produced one’s position.
 - [Representational explicitness](../entries/representational-explicitness.md) — Degree to which cultural identity is communicated through overt represented objects rather than deeper artistic sensibility.
 - [Representational machinery collapse](../entries/representational-machinery-collapse.md) — The collapse of the distinction between the object being represented and the visual machinery used to represent it. The character can become actor, prop, transition, framing device, symbol, and editing operation at once.
@@ -263,6 +278,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 ## S
 
 - [Scarcity discipline](../entries/scarcity-discipline.md) — Restraint supplied or reinforced by external limits such as cost, access, time, effort, or shortage.
+- [Seam collapse](../entries/seam-collapse.md) — The editing achievement where the viewer stops perceiving the original footage and imported material as two separate sources and instead experiences them as one coherent event.
 - [Secondhand Americana](../entries/secondhand-americana.md) — American imagery reconstructed through mediated exposure rather than ordinary embedded participation in American life.
 - [Self-abnegation](../entries/self-abnegation.md) — Deliberate reduction of ego, prestige, self-assertion, or self-centrality.
 - [Self-correcting dilution](../entries/self-correcting-dilution.md) — Unsuccessful diluting works are rejected and marginalized before they can redefine future franchise identity.
@@ -273,12 +289,16 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Semantic dilution](../entries/semantic-dilution.md) — A franchise name communicates less as increasingly heterogeneous works are admitted under it.
 - [Semantic drift](../entries/semantic-drift.md) — Gradual change in what a franchise name denotes as successive works alter category boundaries.
 - [Semantic motion](../entries/semantic-motion.md) — Motion whose purpose is to communicate a meaningful state change rather than faithfully simulate continuous physical movement through space.
+- [Semantic reassignment](../entries/semantic-reassignment.md) — Giving an existing shot, gesture, expression, or movement a new meaning by changing what precedes it, follows it, or accompanies it.
 - [Semantic tweening](../entries/semantic-tweening.md) — Replacing ordinary geometric interpolation between poses with symbolic, exaggerated, or impossible transformations that still make the intended change legible.
 - [Shell of social meaning](../entries/shell-of-social-meaning.md) — Physical architecture remains after the relationships and practices that made the place socially intelligible disappear.
 - [Shift dependency](../entries/shift-dependency.md) — Modernization often transfers dependence rather than abolishing it.
 - [Social disembedding](../entries/social-disembedding.md) — Movement from dense local relations toward impersonal market/legal/institutional mediation.
+- [Social overwrite](../entries/social-overwrite.md) — The ability of dialogue, timing, music, and editing to partially replace a character’s original social identity even while their visual design remains unchanged.
+- [Social re-indexing](../entries/social-re-indexing.md) — Changing what a gesture, expression, character, or scene socially signifies by embedding it inside a new conversational, musical, or cultural context.
 - [Social ruin](../entries/social-ruin.md) — Ruination caused primarily by disappearance of relationships, functions, routines, and human presence rather than physical destruction.
 - [Social-function stripping](../entries/social-function-stripping.md) — Remove ordinary human activity from a built environment, exposing the physical shell beneath its social meaning.
+- [Source-identity suppression](../entries/source-identity-suppression.md) — Editing strongly enough that the audience temporarily stops interpreting a clip according to its original narrative source and instead reads it according to the new constructed scene.
 - [Sovereign system builders](../entries/sovereign-system-builders.md) — Treat other people's projects and social worlds as possessing integrity that limits unilateral optimization.
 - [Sovereignty over abundance](../entries/sovereignty-over-abundance.md) — Capacity to remain self-governing despite unrestricted access to desirable goods.
 - [Spatial draftsmanship](../entries/spatial-draftsmanship.md) — Skill visible within individual frames: anatomy, proportion, perspective, rendering, shape design, and static composition.
@@ -292,6 +312,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Substitutive diversity](../entries/substitutive-diversity.md) — Broaden representation partly by replacing or reducing an existing aesthetic category.
 - [Surface refinement ≠ formal sophistication](../entries/surface-refinement-not-formal-sophistication.md) — The principle that visual polish and structural intelligence are independent variables. A crude-looking work may contain a highly sophisticated formal system.
 - [Surface refinement](../entries/surface-refinement.md) — Technical polish visible in rendering, anatomy, line quality, detail, realism, or production finish.
+- [Surrealist recombination](../entries/surrealist-recombination.md) — Producing new meaning by combining culturally or narratively distant materials while preserving enough internal coherence that the result feels like an alternative reality rather than random collage.
 - [Synthetic friction](../entries/synthetic-friction.md) — Deliberately introduced resistance intended to restore discipline, meaning, pacing, attention, or status.
 - [The self has a right to persistence; the model does not](../entries/the-self-has-a-right-to-persistence-the-model-does-not.md) — Correction should destroy error, not the person; intellectual failure requires revision, not self-erasure.
 
@@ -310,35 +331,31 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## U
 
+- [Universal visual substrate](../entries/universal-visual-substrate.md) — A visual medium used as a general-purpose carrier for content originating outside that medium; in the Kurosai case, anime functions as a substrate capable of hosting radically different cultural voices and situations.
 - [Unused exit remains an exit](../entries/unused-exit-remains-an-exit.md) — A voluntarily unused escape route remains structurally significant.
 
 ## V
 
 ---
-
-- [Village](../entries/village.md) — The continuity/kinship/reciprocity-oriented pole of Fallen/Village.
-- [Visual syntax](../entries/visual-syntax.md) — The rule-governed organization of visual elements and transformations into meaningful sequences.
-- [Voluntary dependency is not structural dependency](../entries/voluntary-dependency-is-not-structural-dependency.md) — Choosing constrained conditions is not equivalent to being unable to leave them.
-
 ## Promotion queue
-
 The promotion queue is now generated from the canonical [Concept Registry](../registry/concepts.yml) rather than maintained manually in this index.
-
 Run:
-
 ```bash
 python tools/project.py
 ```
-
 and inspect:
-
 `build/promotion-queue.md`
-
 A concept enters that queue by having `materialization: registry-only`. It leaves automatically when its registry record points to a full canonical entry.
-
 See [docs/REGISTRY.md](../docs/REGISTRY.md).
+
+- [Vernacular audiovisual recomposition](../entries/vernacular-audiovisual-recomposition.md) — The reconstruction of existing audiovisual media so that characters, gestures, dialogue, music, and cultural registers from different origins become a new internally coherent social world.
+- [Vernacular naturalization](../entries/vernacular-naturalization.md) — The process by which initially incongruous transplanted speech or behavior becomes subjectively believable as the character’s real voice through sustained audiovisual coherence.
+- [Vernacular transplantation](../entries/vernacular-transplantation.md) — Moving the speech patterns, slang, social rhythms, humor, and interactional codes of one culture into characters or media forms associated with another.
+- [Village](../entries/village.md) — The continuity/kinship/reciprocity-oriented pole of Fallen/Village.
+- [Visual sampling](../entries/visual-sampling.md) — Treating pieces of existing visual media like musical samples: extracting shots, gestures, movements, reactions, or compositions from their original context and recombining them into a new work.
+- [Visual syntax](../entries/visual-syntax.md) — The rule-governed organization of visual elements and transformations into meaningful sequences.
+- [Voluntary dependency is not structural dependency](../entries/voluntary-dependency-is-not-structural-dependency.md) — Choosing constrained conditions is not equivalent to being unable to leave them.
 
 ## W
 
 - [World-acquired language](../entries/world-acquired-language.md) — A condition in which expressive functions normally performed by narration or dialogue are absorbed into the behavior of bodies, objects, space, timing, and transformation themselves.
-

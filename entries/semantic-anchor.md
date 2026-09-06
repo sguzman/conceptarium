@@ -17,6 +17,8 @@ origin:
   note: >-
     Materialized from a user-supplied load-bearing glossary reconstructed from a discussion of experimental animation and ronununu. The glossary identified this term as part of a larger theory of transition semantics, procedural visual language, and animation grammar.
 relations:
+  - type: overlaps-with
+    target: character-substrate
   - type: produced-by
     target: character-anchoring
   - type: supports
@@ -117,6 +119,12 @@ The shared problem was to acquire enough vocabulary to describe *how* animation 
 ### External antecedents
 
 No external-literature normalization has been performed for this integration. Potential scholarly neighbors should be compared later without erasing local provenance.
+
+## Character-substrate neighbor
+
+**Semantic anchor** describes the viewer-facing interpretive function of a stable recognizable element. **Character substrate** describes the underlying recognizable identity that a remix can preserve while overwriting dialogue, social role, tone, or world logic.
+
+They often coincide in character-centered remix work, but one is primarily an anchoring function and the other a persistence relation.
 
 ## Open questions
 

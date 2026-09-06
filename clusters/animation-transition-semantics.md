@@ -211,3 +211,26 @@ animation grammar ≠ automatically a metaphysics
 - Which formal invariants are most important for identity across radical representation change?
 - Can motion syntax be operationalized without forcing animation into an overly literal linguistic analogy?
 - How should this cluster connect to future film/media-object analysis and annotation tooling?
+
+## Remix / recomposition bridge
+
+The Kurosai glossary extends this animation-language program from **how a represented body changes** to **how preexisting audiovisual fragments can be made to perform new social and semantic roles**.
+
+See [Vernacular audiovisual recomposition](vernacular-audiovisual-recomposition.md).
+
+Important bridges include:
+
+- **Motion punctuation** generalizes the punctuation function across bodily motion, cuts, impacts, camera movement, and reactions while preserving the earlier temporal/spatial punctuation distinctions.
+- **Constructive puppetry** uses existing animation as performance material and is therefore distinct from the earlier **Constructive puppet** character-construction aesthetic.
+- **Procedural media language** applies the procedural-language idea to operations over sampled media rather than only to the construction and transformation of visual form.
+- **Character substrate** and **remix actorhood** extend character anchoring into a stronger reuse model: recognizable identity remains stable enough to support newly authored performance.
+
+```text
+animation grammar
+      ↓
+reusable motion / reaction resources
+      ↓
+remix editing operations
+      ↓
+vernacular audiovisual recomposition
+```

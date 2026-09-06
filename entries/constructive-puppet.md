@@ -14,6 +14,8 @@ origin:
   authorship: joint
   certainty: reconstructed
 relations:
+  - type: distinguishes-from
+    target: constructive-puppetry
   - type: uses
     target: primitive-vocabulary
   - type: expresses
@@ -78,6 +80,14 @@ The term does not require a literal wooden or doll-like character.
 “Puppet” marks segmented embodiment.
 
 A character can be serious, grotesque, elegant, old, human, or alien while retaining visible construction.
+
+## Distinction from constructive puppetry
+
+**Constructive puppet** concerns how a character body is **built**: visible geometric parts and joints become an aesthetic.
+
+**Constructive puppetry** concerns how preexisting footage is **used**: existing animated performances are selected and sequenced as puppet-like acting material for a newly constructed scene.
+
+The shared word *puppet* therefore marks two different operations—construction versus reuse.
 
 ## Relation to geometric caricature
 
