@@ -2508,3 +2508,613 @@ concepts:
     entry: entries/vernacular-audiovisual-recomposition.md
     ontology_state: unassessed
     registered_on: 2026-09-06
+
+  - id: analysis-semantics
+    term: "Analysis semantics"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/analysis-semantics/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: candidate-operator-trap
+    term: "Candidate-operator trap"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: learner-input-target-triple
+    term: "Learner-input-target triple"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/a-post-chomskyan-theory-of-language-in-the-age-of-llms/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: learnability-surface
+    term: "Learnability surface"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/a-post-chomskyan-theory-of-language-in-the-age-of-llms/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: mosaic-theory-of-innateness
+    term: "Mosaic theory of innateness"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/a-post-chomskyan-theory-of-language-in-the-age-of-llms/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: architecture-is-bias
+    term: "Architecture is bias"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/a-post-chomskyan-theory-of-language-in-the-age-of-llms/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: culture-gothic
+    term: "Culture Gothic"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/culture-gothic/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: moral-aesthetic-package
+    term: "Moral-aesthetic package"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/culture-gothic/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: the-wound-as-cultural-form
+    term: "The wound as cultural form"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/culture-gothic/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: liberal-gothic
+    term: "Liberal Gothic"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/liberal-gothic-an-analytical-report/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: restrained-liberal-gothic
+    term: "Restrained Liberal Gothic"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/liberal-gothic-an-analytical-report/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: degraded-liberal-gothic
+    term: "Degraded Liberal Gothic"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/liberal-gothic-an-analytical-report/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: conserving-radicalism
+    term: "Conserving radicalism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/conserving-radicalism/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: psychological-co-optation
+    term: "Psychological co-optation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/conserving-radicalism/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: revectoring-hypothesis
+    term: "Revectoring hypothesis"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/conserving-radicalism/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: counter-establishment
+    term: "Counter-establishment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/conserving-radicalism/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: elite-xenophilia-hypothesis
+    term: "Elite xenophilia hypothesis"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/formalizing-the-elite-xenophilia-hypothesis/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: demographic-statecraft
+    term: "Demographic statecraft"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/formalizing-the-elite-xenophilia-hypothesis/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: majority-management
+    term: "Majority management"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/formalizing-the-elite-xenophilia-hypothesis/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: geometry-semantics
+    term: "Geometry semantics"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/geometry-semantics/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: lightning-rod-theory
+    term: "Lightning rod theory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/hasanabi-popularity-analysis/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: tribal-audience-migration
+    term: "Tribal audience migration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/hasanabi-popularity-analysis/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: pre-rigorous-technology
+    term: "Pre-rigorous technology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/heaviside/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: policy-production-pipeline
+    term: "Policy-production pipeline"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: continuous-internalized-enforcement-arm
+    term: "Continuous internalized enforcement arm"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: moralizing-institutions
+    term: "Moralizing institutions"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: leftward-drift-thesis
+    term: "Leftward drift thesis"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/liberalism-equality-and-the-leftward-drift-thesis/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: prestige-economy-of-knowledge
+    term: "Prestige economy of knowledge"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: the-perfumed-citadel-of-prestige
+    term: "The Perfumed Citadel of Prestige"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/nietzche-math-critique/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: rebel-pmc-paradox
+    term: "Rebel PMC paradox"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: institutional-comfort
+    term: "Institutional comfort"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: moderating-opposition-without-a-rival-order
+    term: "Moderating opposition without a rival order"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/republicans-as-moderating-opposition-without-a-rival-order/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: rival-order
+    term: "Rival order"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/republicans-as-moderating-opposition-without-a-rival-order/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: selective-freudian-framing
+    term: "Selective Freudian framing"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/selective-freudian-explanations-in-political-and-media-discourse/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: symbolic-post-masculinity
+    term: "Symbolic post-masculinity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/symbolic-post-masculinity/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: status-reallocation
+    term: "Status reallocation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/symbolic-post-masculinity/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: carousel-of-right-wing-resistance
+    term: "Carousel of right-wing resistance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-carousel-of-right-wing-resistance-in-the-united-states/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: elite-convergent-outcomes
+    term: "Elite-convergent outcomes"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-carousel-of-right-wing-resistance-in-the-united-states/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: media-and-branding-engine
+    term: "Media-and-branding engine"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-carousel-of-right-wing-resistance-in-the-united-states/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: reversibility-index
+    term: "Reversibility index"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-carousel-of-right-wing-resistance-in-the-united-states/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: female-shadow
+    term: "Female shadow"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-female-shadow/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: status-protection-through-indirection
+    term: "Status-protection through indirection"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-female-shadow/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: care-as-domination
+    term: "Care as domination"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-female-shadow/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: moralization-as-camouflage
+    term: "Moralization as camouflage"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-female-shadow/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: strategic-vulnerability
+    term: "Strategic vulnerability"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-female-shadow/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: status-gatekeeping
+    term: "Status gatekeeping"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-female-shadow/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: stacked-regime
+    term: "Stacked regime"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/the-u-s-post-world-war-ii-boom-1945-1975/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: underdog-masculinity
+    term: "Underdog masculinity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/when-subverted-masculinity-boomerangs-into-underdog-masculinity/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: status-injury
+    term: "Status injury"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/when-subverted-masculinity-boomerangs-into-underdog-masculinity/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: moralized-grievance
+    term: "Moralized grievance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/when-subverted-masculinity-boomerangs-into-underdog-masculinity/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: compensatory-transgression
+    term: "Compensatory transgression"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/when-subverted-masculinity-boomerangs-into-underdog-masculinity/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: moral-ledger-reading
+    term: "Moral ledger reading"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/when-subverted-masculinity-boomerangs-into-underdog-masculinity/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: yankee-left
+    term: "Yankee-left"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/yankee-left/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: yankee-white-supremacy
+    term: "Yankee white supremacy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/yankee-white-supremacy/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: standards-vs-reality-gaps
+    term: "Standards-vs-reality gaps"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/javascript-history/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: tooling-waves
+    term: "Tooling waves"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/javascript-history/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: framework-epochs
+    term: "Framework epochs"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/javascript-history/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: literal-computational-canvas
+    term: "Literal computational canvas"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/complex-plane-canvas/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: matrix-is-a-generator
+    term: "Matrix is a generator"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/matrix-culture/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: write-grants-instead-of-chants
+    term: "Write grants instead of chants"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/co-opting-the-left/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: civilizing-injustice
+    term: "Civilizing injustice"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "AI research archaeology"
+    capture:
+      note: "Harvested from sguzman/ai-research-reports/data/md/civilizing-injustice-colonial-conquest-and-moral-pretexts/main.md; source wording preserved for later provenance/materialization review."
