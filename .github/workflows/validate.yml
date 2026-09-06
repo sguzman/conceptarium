@@ -44,3 +44,12 @@ jobs:
 
       - name: Smoke test SQLite query
         run: cargo run --quiet -- sqlite query "SELECT COUNT(*) AS concepts FROM concepts" --path /tmp/conceptarium.sqlite
+
+      - name: Build embedded SurrealDB projection
+        run: cargo run --quiet -- surreal build --path /tmp/conceptarium-surreal
+
+      - name: Smoke test SurrealDB concept query
+        run: cargo run --quiet -- surreal query "SELECT count() AS concepts FROM concept GROUP ALL" --path /tmp/conceptarium-surreal
+
+      - name: Smoke test SurrealDB relation query
+        run: cargo run --quiet -- surreal query "SELECT count() AS relations FROM relation GROUP ALL" --path /tmp/conceptarium-surreal

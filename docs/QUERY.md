@@ -126,17 +126,52 @@ cargo run --quiet -- sqlite query "SELECT source, predicate, target FROM relatio
 
 The CLI opens the projection **read-only** for queries. Mutations belong in canonical Markdown/YAML and are propagated by rebuilding the projection.
 
-### 3. SurrealDB — NEXT
+### 3. SurrealDB — ACTIVE
 
 Purpose:
 
-- unified document + relation experimentation;
-- richer graph-style traversal;
-- later vector/document co-location experiments.
+- embedded local document + graph querying;
+- richer relation traversal without a separate server;
+- mixed metadata/body/graph predicates in SurrealQL;
+- a future location for vector/document co-location experiments.
 
-SurrealDB is attractive as a broad query laboratory, but it should not define Conceptarium's canonical model.
+Conceptarium uses **SurrealKV**, so the embedded backend remains Rust-native and persistent without requiring RocksDB or a separate SurrealDB server.
 
-### 4. Oxigraph — PLANNED
+Generated store:
+
+~~~text
+.conceptarium/surreal/
+~~~
+
+Build it from the canonical corpus:
+
+~~~bash
+cargo run --quiet -- surreal build
+~~~
+
+Query concept documents:
+
+~~~bash
+cargo run --quiet -- surreal query "SELECT concept_id, term, kind, status FROM concept WHERE 'epistemology' IN domains ORDER BY term"
+~~~
+
+Query graph edges:
+
+~~~bash
+cargo run --quiet -- surreal query "SELECT source_id, predicate, target_id FROM relation WHERE predicate = 'supports' ORDER BY source_id"
+~~~
+
+Use SurrealDB graph traversal syntax directly:
+
+~~~bash
+cargo run --quiet -- surreal query "SELECT concept_id, ->relation[WHERE predicate = 'supports']->concept.term AS supports FROM type::record('concept', 'fallen-constitutionalism')"
+~~~
+
+The CLI intentionally accepts only one read-only `SELECT`, `RETURN`, or `INFO` statement. Canonical changes belong in Markdown/YAML and are propagated by rebuilding the store.
+
+SurrealDB is a query laboratory and projection, not Conceptarium's canonical model.
+
+### 4. Oxigraph — NEXT
 
 Purpose:
 
