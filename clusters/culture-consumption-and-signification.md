@@ -118,6 +118,31 @@ Consumer semiotics asks what audiences infer from visible signs. Cultural-refrac
 This is particularly important when a foreign setting is treated as evidence that the work's deeper cultural authorship has changed.
 
 
+## Aesthetic governance and erotic legitimacy bridge
+
+A dedicated adjacent cluster now tracks how aesthetic cues become not only signs but **allocation objects, prestige signals, and governed preferences**:
+
+- [Aesthetic Governance, Erotic Legitimacy, and Audience Allocation](./aesthetic-governance-and-erotic-legitimacy.md)
+
+The bridge is:
+
+~~~text
+consumer semiotics:
+cue → inferred cultural / ideological meaning
+
+aesthetic governance:
+cue → prestige weight → audience allocation → possible preference governance
+~~~
+
+This adds several distinctions that consumer semiotics alone cannot supply:
+
+- a visible design can satisfy one constituency while imposing **erotic opportunity cost** on another;
+- a taste can have a positive or negative **moral coefficient of preference**;
+- refusal of fanservice can function as a **prestige signal of erotic refusal**;
+- a repeated allocation asymmetry can indicate **structural anti-male bias** without establishing **misandry proper**;
+- direct anti-male contempt or hostility should be analyzed as **misandry proper**, not softened into neutral allocation language.
+
+
 ## Research frontier
 
 Likely future concepts, currently preserved only as substructure rather than promoted entries:
