@@ -157,6 +157,23 @@ This is where the cluster connects naturally to [Anti-domination](../entries/ant
 5. **Friction is not automatically good.** Many frictions are pure waste or domination.
 6. **Canonical vocabulary is not empirical proof.** Several entries define hypotheses that now require comparison with external literature and real-world cases.
 
+## General prestige-ecology bridge
+
+The new [Prestige ecology](../entries/prestige-ecology.md) entry generalizes the status mechanism used in this cluster.
+
+~~~text
+Prestige ecology
+        ↓ special case under abundance
+Post-scarcity prestige ecology
+~~~
+
+The general concept asks how beliefs, tastes, language, and aesthetic choices gain or lose professional and moral status.
+
+The post-scarcity concept asks how that prestige system changes when material abundance alters what remains scarce enough to signal distinction.
+
+Aesthetic-governance research uses the general framework to explain **prestige anti-fanservice**, **taste hierarchy**, and the **prestige signal of erotic refusal**.
+
+
 ## Research frontier
 
 High-value questions:
