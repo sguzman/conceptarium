@@ -3,12 +3,14 @@ id: procedural-visual-language
 term: Procedural visual language
 type: framework
 status: canonical
-gloss: A coherent visual grammar in which forms are generated through reusable constructive rules and primitive combinations, so stylistic consistency emerges from the generative process rather than from one-off handcrafted meshes.
+gloss: A coherent visual grammar whose reusable rules govern both how forms are constructed and how they may transform, combine, move, disappear, recur, and change state, so stylistic coherence is procedural rather than merely surface-level.
 domains:
   - graphics
   - procedural-generation
   - aesthetics
   - design
+  - animation
+  - media-theory
 aliases:
   - procedural visual grammar
 origin:
@@ -16,6 +18,12 @@ origin:
   authorship: joint
   certainty: reconstructed
 relations:
+  - type: contains
+    target: animation-grammar
+  - type: built-from
+    target: primitive-visual-vocabulary
+  - type: uses
+    target: formal-operator
   - type: produced-by
     target: declarative-procedural-modeling
   - type: built-from
@@ -77,6 +85,26 @@ style constraints
       ↓
 many novel but related forms
 ```
+
+## Temporal extension
+
+The original entry emphasized **constructional grammar**: recurring primitives, proportions, deformations, assembly rules, and silhouette rules that make generated objects look as though they belong to one world.
+
+The animation glossary adds a second branch:
+
+```text
+procedural visual language
+        ├── construction grammar
+        │     how forms are built
+        │
+        └── transition grammar
+              how forms may move, transform,
+              disappear, recur, and change state
+```
+
+This is a semantic broadening rather than a replacement. A procedural visual language can govern static construction, temporal transformation, or both.
+
+When temporal rules become stable enough, they can be described more specifically as an **animation grammar**. When those rules appear to function as laws of the represented world rather than merely authorial tricks, the stronger concepts **ontologized transition grammar** and **coherent metaphysics of animation** become relevant.
 
 ## Why this is stronger than style transfer
 
@@ -171,3 +199,4 @@ It developed alongside the primitive-vocabulary and declarative-modeling concept
 ## Revision history
 
 - **2026:** Stabilized as the style-level consequence of reusable procedural construction.
+- **2026-09-06:** Broadened to include temporal/transformation grammar while preserving constructional grammar as the original branch.
