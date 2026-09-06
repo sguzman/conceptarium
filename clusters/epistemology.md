@@ -73,6 +73,26 @@ The central evaluative idea is that **being correct on the first attempt is not 
 - epistemic state;
 - false precision;
 - causal legibility.
+## Fallen corrigibility bridge
+
+A new cluster extends this epistemology into the problem of ego investment and humiliation:
+
+- [Fallen Constitutionalism, Psychic Sovereignty, and Corrigibility](./fallen-constitutionalism.md)
+
+Its epistemic triad is:
+
+~~~text
+imperious construction
+        ↓
+epistemic submission
+        ↓
+correction without self-abnegation
+~~~
+
+The claim is not that a trustworthy thinker must be humble. It is that **evidence must retain veto power even when the self remains proud, ambitious, and highly invested**.
+
+This creates a bridge from adversarial reality-testing to [Fallen corrigibility](../entries/fallen-corrigibility.md): the ability to survive intellectual defeat without retaliating against reality or other persons.
+
 
 ## Research frontier
 
