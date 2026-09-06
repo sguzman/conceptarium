@@ -1654,3 +1654,276 @@ concepts:
     queue_group: "Fallen / Village"
     capture:
       note: "Named concept awaiting promotion in the Fallen / Village cluster."
+  - id: ascetic-laundering
+    term: "Ascetic laundering"
+    presence: registered
+    materialization: entry
+    entry: entries/ascetic-laundering.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: ascetic-paradox
+    term: "Ascetic paradox"
+    presence: registered
+    materialization: entry
+    entry: entries/ascetic-paradox.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: border-constitutionalism
+    term: "Border constitutionalism"
+    presence: registered
+    materialization: entry
+    entry: entries/border-constitutionalism.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: constitutionalized-border-crossing
+    term: "Constitutionalized border crossing"
+    presence: registered
+    materialization: entry
+    entry: entries/constitutionalized-border-crossing.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: distinction-without-dominion
+    term: "Distinction without dominion"
+    presence: registered
+    materialization: entry
+    entry: entries/distinction-without-dominion.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: epistemic-submission
+    term: "Epistemic submission"
+    presence: registered
+    materialization: entry
+    entry: entries/epistemic-submission.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen-autoimmunity
+    term: "Fallen autoimmunity"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen-autoimmunity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen-corrigibility
+    term: "Fallen corrigibility"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen-corrigibility.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen-dissident
+    term: "Fallen dissident"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen-dissident.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen-non-innocence
+    term: "Fallen non-innocence"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen-non-innocence.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen-privilege
+    term: "Fallen privilege"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen-privilege.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: imperious-construction-submissive-correction
+    term: "Imperious construction / submissive correction"
+    presence: registered
+    materialization: entry
+    entry: entries/imperious-construction-submissive-correction.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: imperium-without-jurisdiction
+    term: "Imperium without jurisdiction"
+    presence: registered
+    materialization: entry
+    entry: entries/imperium-without-jurisdiction.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: impossibility-of-de-fallening
+    term: "Impossibility of de-Fallening"
+    presence: registered
+    materialization: entry
+    entry: entries/impossibility-of-de-fallening.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: internal-despotism
+    term: "Internal despotism"
+    presence: registered
+    materialization: entry
+    entry: entries/internal-despotism.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: models-dont-confer-title
+    term: "Models don’t confer title"
+    presence: registered
+    materialization: entry
+    entry: entries/models-dont-confer-title.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: moral-category-collapse
+    term: "Moral category collapse"
+    presence: registered
+    materialization: entry
+    entry: entries/moral-category-collapse.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: moral-equality-moral-non-equivalence
+    term: "Moral equality / moral non-equivalence"
+    presence: registered
+    materialization: entry
+    entry: entries/moral-equality-moral-non-equivalence.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: prestige-without-sovereignty
+    term: "Prestige without sovereignty"
+    presence: registered
+    materialization: entry
+    entry: entries/prestige-without-sovereignty.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: psychic-imperialism
+    term: "Psychic imperialism"
+    presence: registered
+    materialization: entry
+    entry: entries/psychic-imperialism.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: psychic-sovereignty
+    term: "Psychic sovereignty"
+    presence: registered
+    materialization: entry
+    entry: entries/psychic-sovereignty.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: recognition-hunger-recognition-terror
+    term: "Recognition hunger / recognition terror"
+    presence: registered
+    materialization: entry
+    entry: entries/recognition-hunger-recognition-terror.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: reflexive-surplus
+    term: "Reflexive surplus"
+    presence: registered
+    materialization: entry
+    entry: entries/reflexive-surplus.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: renunciation-does-not-erase-provenance
+    term: "Renunciation does not erase provenance"
+    presence: registered
+    materialization: entry
+    entry: entries/renunciation-does-not-erase-provenance.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: self-abnegation
+    term: "Self-abnegation"
+    presence: registered
+    materialization: entry
+    entry: entries/self-abnegation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: submission-to-correction
+    term: "Submission to correction"
+    presence: registered
+    materialization: entry
+    entry: entries/submission-to-correction.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: the-self-has-a-right-to-persistence-the-model-does-not
+    term: "The self has a right to persistence; the model does not"
+    presence: registered
+    materialization: entry
+    entry: entries/the-self-has-a-right-to-persistence-the-model-does-not.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: unused-exit-remains-an-exit
+    term: "Unused exit remains an exit"
+    presence: registered
+    materialization: entry
+    entry: entries/unused-exit-remains-an-exit.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: voluntary-dependency-is-not-structural-dependency
+    term: "Voluntary dependency is not structural dependency"
+    presence: registered
+    materialization: entry
+    entry: entries/voluntary-dependency-is-not-structural-dependency.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: psychic-monarchy-external-republic
+    term: "Psychic monarchy, external republic"
+    presence: registered
+    materialization: entry
+    entry: entries/psychic-monarchy-external-republic.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen-humiliation-hazard
+    term: "The Fallen humiliation hazard"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen-humiliation-hazard.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: humiliation-to-monster-pathway
+    term: "Humiliation-to-monster pathway"
+    presence: registered
+    materialization: entry
+    entry: entries/humiliation-to-monster-pathway.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: correction-without-self-abnegation
+    term: "Correction without self-abnegation"
+    presence: registered
+    materialization: entry
+    entry: entries/correction-without-self-abnegation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen-purification-through-self-erasure
+    term: "Fallen purification through self-erasure"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen-purification-through-self-erasure.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: fallen-constitutionalism
+    term: "Fallen constitutionalism"
+    presence: registered
+    materialization: entry
+    entry: entries/fallen-constitutionalism.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: no-innocence-available-to-the-fallen
+    term: "No innocence available to the Fallen"
+    presence: registered
+    materialization: entry
+    entry: entries/no-innocence-available-to-the-fallen.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: the-dragon-and-the-property-line
+    term: "The dragon and the property line"
+    presence: registered
+    materialization: entry
+    entry: entries/the-dragon-and-the-property-line.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: psychic-sovereignty-epistemic-submission-social-non-domination
+    term: "Psychic sovereignty, epistemic submission, social non-domination"
+    presence: registered
+    materialization: entry
+    entry: entries/psychic-sovereignty-epistemic-submission-social-non-domination.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
+  - id: i-may-dominate-the-model
+    term: "I may dominate the model; the model may not dominate reality; neither may I dominate other persons merely because I can model them"
+    presence: registered
+    materialization: entry
+    entry: entries/i-may-dominate-the-model.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05

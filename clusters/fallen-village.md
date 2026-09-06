@@ -96,6 +96,28 @@ This matters because neither side of the framework receives unlimited moral lice
 Fallen system-building cannot turn persons and communities into components.
 
 Village continuity cannot turn members into reproductive property of the community.
+## Fallen constitutionalism bridge
+
+A dedicated adjacent cluster now develops the constitutional and corrigibility consequences of Fallen capacity:
+
+- [Fallen Constitutionalism, Psychic Sovereignty, and Corrigibility](./fallen-constitutionalism.md)
+
+The key move is:
+
+~~~text
+Fallen capacity
+      ≠
+automatic jurisdiction
+
+Fallen danger
+      ≠
+requirement of self-erasure
+~~~
+
+The newer framework asks how abstraction, ambition, reflexivity, status sensitivity, and system-building can remain intact while their movement into real power is bounded by **anti-domination, contestability, epistemic submission, and constitutionalized border crossing**.
+
+This also sharpens the meaning of a **Fallen dissident**: one may retain Fallen formation while refusing Fallen solidarity at the point where it becomes domination.
+
 
 ## Research discipline
 

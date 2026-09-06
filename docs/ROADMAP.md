@@ -21,7 +21,7 @@ Registry-only concepts are also not failures or incomplete stubs. They are durab
 
 ## Phase 1 — Corpus migration
 
-**Status: active — 217 registered concepts, including 151 materialized entries and 66 registry-only concepts.**
+**Status: active — 256 registered concepts, including 190 materialized entries and 66 registry-only concepts.**
 
 Promotion means more than copying a dictionary sentence. A promoted entry should acquire, where appropriate:
 
@@ -59,6 +59,7 @@ Major clusters currently receiving deep migration:
 - franchise identity / branding / semantic drift;
 - cultural refraction / authorship / estrangement / spatial horror;
 - aesthetic governance / erotic legitimacy / audience allocation;
+- Fallen constitutionalism / psychic sovereignty / corrigibility;
 - attention / absorption / completion;
 - abundance / pleasure / prestige.
 
