@@ -168,7 +168,7 @@ But the blog should not own canonical definitions.
 
 Conceptarium now has a dedicated local Rust binary for concept lookup, metadata filters, scan search, typed relation traversal, shortest relation paths, registry operations, validation, and projection generation.
 
-Backend order is intentionally incremental: **Tantivy → SQLite → SurrealDB → Oxigraph → Qdrant Edge**. Each backend is a disposable projection over the same Rust domain model; none becomes canonical.
+Backend order is intentionally incremental. **Tantivy, SQLite, and embedded SurrealDB/SurrealKV are active; Oxigraph is next; Qdrant Edge follows.** Each backend is a disposable projection over the same Rust domain model; none becomes canonical.
 
 See [QUERY.md](QUERY.md).
 
