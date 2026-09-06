@@ -2,11 +2,13 @@
 
 **Conceptarium** is the canonical knowledge base for concepts, vocabulary, notes, distinctions, frameworks, mechanisms, metaphors, and “amber phrases” developed during ongoing research and conversation.
 
-The central rule is:
+The central rules are:
 
-> **Preserve the concept once; derive many views from it.**
+> **Preserve conceptual identity as soon as it appears. Materialize meaning progressively. Derive many views from canonical sources.**
 
-A concept has one canonical source entry. Dictionary definitions, encyclopedia articles, relationship graphs, provenance timelines, topic indexes, and future blog pages are **projections** of that same source rather than separately maintained copies.
+Conceptarium now separates **predicate presence** from **ontological materialization**. Every known concept has a durable identity in the [Concept Registry](docs/REGISTRY.md), even when it does not yet have a full article, ontology placement, definition, or relation set.
+
+When a concept is materially developed, its Markdown entry becomes authoritative for semantic content. Dictionary definitions, graphs, research-frontier views, promotion queues, and future blog pages are **projections** rather than separately maintained semantic copies.
 
 ## What belongs here
 
@@ -29,20 +31,27 @@ This is not restricted to AI research. Concepts may concern epistemology, politi
 
 ```text
 conceptarium/
-├── entries/          # canonical concept records
+├── registry/         # canonical predicate-presence ledger for every known concept
+├── entries/          # full semantic materializations of promoted concepts
 ├── clusters/         # curated maps of families of concepts
 ├── indexes/          # human-readable indexes
 ├── docs/             # integration contract, schema, editorial rules, projections
 └── archive/          # preserved snapshots/imports that must not be lost
 ```
 
-Each concept normally lives at:
+Every known concept first has registry presence in:
+
+```text
+registry/concepts.yml
+```
+
+A fully materialized concept normally also lives at:
 
 ```text
 entries/<slug>.md
 ```
 
-The file contains two layers:
+The entry contains two layers:
 
 1. **Structured metadata** in YAML frontmatter for machines, indexes, graphs, and dictionary projection.
 2. **Long-form Markdown** for the encyclopedic treatment.
@@ -103,9 +112,11 @@ If a term evolves:
 
 A compact phrase may be an intellectual artifact in its own right. For example, an “amber phrase” can preserve an insight even when a longer formal entry exists.
 
-## Entry maturity
+## Presence and entry maturity
 
-Entries can exist before they are finished.
+Concepts can exist before entries exist at all.
+
+A **registry-only** concept has predicate presence: it can be named, queued, related, searched, or embedded without requiring a definition or ontology placement. Once a full entry exists, entry maturity uses the statuses below.
 
 - **seed** — worth saving; meaning still loose.
 - **provisional** — recognizable concept with unresolved boundaries.
@@ -126,6 +137,8 @@ No useful idea should disappear merely because it is immature.
 6. **Examples are tests.** Good examples clarify; counterexamples expose overreach.
 7. **Revision is expected.** A knowledge base should remember how its concepts changed.
 8. **Plain text is the durable layer.** The corpus must remain usable without any particular website or framework.
+9. **Presence is cheaper than understanding.** Capture a concept before demanding its ontology.
+10. **Unknown metadata beats invented metadata.** Ontology can be materialized later.
 
 ## Adding or integrating a concept
 
@@ -135,7 +148,7 @@ When someone says **“integrate this concept”**, the expected work includes d
 
 AI agents should also read the root [AGENTS.md](AGENTS.md) before modifying the corpus.
 
-See [docs/SCHEMA.md](docs/SCHEMA.md) for the canonical entry format, [docs/EDITORIAL.md](docs/EDITORIAL.md) for editorial rules, and [docs/RELATIONS.md](docs/RELATIONS.md) for graph semantics.
+See [docs/REGISTRY.md](docs/REGISTRY.md) for predicate presence and lazy capture, [docs/SCHEMA.md](docs/SCHEMA.md) for the canonical entry format, [docs/EDITORIAL.md](docs/EDITORIAL.md) for editorial rules, and [docs/RELATIONS.md](docs/RELATIONS.md) for graph semantics.
 
 
 ## Validation
@@ -147,7 +160,7 @@ python -m pip install -r requirements-dev.txt
 python tools/validate.py
 ```
 
-It checks canonical frontmatter, IDs, entry types/statuses, provenance fields, alias collisions, relation shape, missing relation targets, and several maturity expectations.
+It checks the Concept Registry, canonical frontmatter, IDs, entry types/statuses, provenance fields, alias collisions, relation shape, registry/entry consistency, and several maturity expectations. Every materialized entry and every relation target must have registry presence; relations to registry-only concepts are valid.
 
 During corpus migration, experimental relation verbs and dangling relation targets are **warnings** rather than hard failures. Use:
 
@@ -176,6 +189,8 @@ The current generator emits:
 - `build/graph.json` — typed node/edge graph with dangling-target markers;
 - `build/frontier.md` — open questions and explicitly provisional/contested entries;
 - `build/problem-pressure.md` — reverse lookup from the problem that birthed a concept;
-- `build/catalog.json` — compact machine-readable catalog for future blog/search/AI ingestion.
+- `build/promotion-queue.md` — all registry-only concepts awaiting materialization;
+- `build/registry.json` — machine-readable predicate-presence projection;
+- `build/catalog.json` — compact machine-readable catalog including materialized and registry-only concepts.
 
 Generated files are disposable. **Never edit them as source.**
