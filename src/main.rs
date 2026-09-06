@@ -188,7 +188,8 @@ enum RegistryCommand {
     },
 }
 
-fn main() -> Result<()> {
+#[tokio::main]
+async fn main() -> Result<()> {
     let cli = Cli::parse();
 
     match cli.command {
@@ -264,11 +265,11 @@ fn main() -> Result<()> {
             SurrealCommand::Build { path } => {
                 let corpus = Corpus::load(&cli.root)?;
                 let path = path.unwrap_or_else(|| surreal::default_path(&cli.root));
-                surreal::build(&corpus, &path)?;
+                surreal::build(&corpus, &path).await?;
             }
             SurrealCommand::Query { query, path } => {
                 let path = path.unwrap_or_else(|| surreal::default_path(&cli.root));
-                surreal::query(&path, &query)?;
+                surreal::query(&path, &query).await?;
             }
         },
         Command::List {
