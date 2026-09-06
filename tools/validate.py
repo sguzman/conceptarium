@@ -110,6 +110,7 @@ PREFERRED_RELATIONS = {
     "realized-by",
     # epistemic / explanatory
     "explains",
+    "explained-by",
     "predicts",
     "tests",
     "tested-by",
@@ -130,11 +131,13 @@ PREFERRED_RELATIONS = {
     "characterizes",
     "characterized-by",
     "associated-with",
+    "obscures",
     "supports",
     "supported-by",
     "threatens",
     "prioritizes",
     "shapes",
+    "shaped-by",
     # established local vocabulary
     "solves",
     "solved-by",
