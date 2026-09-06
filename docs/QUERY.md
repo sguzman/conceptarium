@@ -135,7 +135,7 @@ Purpose:
 - mixed metadata/body/graph predicates in SurrealQL;
 - a future location for vector/document co-location experiments.
 
-Conceptarium uses **SurrealKV through the official prebuilt `surreal` Rust binary**. The Conceptarium crate deliberately does not link the SurrealDB SDK, because SurrealDB 3.x currently pulls native crypto build dependencies that make ordinary Windows Cargo builds brittle. No SurrealDB server is required: `surreal sql` opens the `surrealkv://...` store directly.
+Conceptarium uses **SurrealKV**, so the embedded backend remains Rust-native and persistent without requiring RocksDB or a separate SurrealDB server.
 
 Generated store:
 
@@ -143,15 +143,7 @@ Generated store:
 .conceptarium/surreal/
 ~~~
 
-Prerequisite: install the official SurrealDB CLI and make sure `surreal version` works. On Windows, SurrealDB's supported installer is:
-
-~~~powershell
-iwr https://windows.surrealdb.com -useb | iex
-~~~
-
-You can also point Conceptarium at a specific binary with `CONCEPTARIUM_SURREAL_BIN`.
-
-Then build the store from the canonical corpus:
+Build it from the canonical corpus:
 
 ~~~bash
 cargo run --quiet -- surreal build
