@@ -4,9 +4,11 @@ Conceptarium is a research memory system. Its first obligation is to avoid losin
 
 ## 1. Preserve before polishing
 
-A rough but meaningful formulation should enter the corpus before anyone worries about perfect terminology.
+A rough but meaningful formulation should enter the Concept Registry before anyone worries about perfect terminology.
 
-Premature tidiness is dangerous because it deletes the path by which a concept became thinkable.
+**Predicate presence is intentionally cheaper than semantic development.** A useful term may be registered with a stable ID and a short capture note while its definition, domains, relations, and ontology remain unknown.
+
+Premature tidiness is dangerous because it deletes the path by which a concept became thinkable. Premature materialization is also dangerous because it encourages invented ontology merely to make a record look complete.
 
 ## 2. The phrase can be part of the discovery
 
@@ -37,7 +39,23 @@ For important concepts, preserve what was being circled before the term existed:
 
 This is often the most valuable provenance because it restores the **reason the concept had to exist**.
 
-## 4. Separate naming confidence from claim confidence
+## 4. Separate predicate presence from ontological materialization
+
+A concept can exist in Conceptarium before Conceptarium knows what the concept fully is.
+
+Keep these questions separate:
+
+~~~text
+Does this conceptual object exist in our research memory?
+                    ≠
+Have we fully defined and situated it?
+~~~
+
+A registry-only record is not a defective entry. It is durable intellectual inventory.
+
+Ontology may be materialized incrementally. Use `unplaced` or `unassessed` rather than inventing classification.
+
+## 6. Separate naming confidence from claim confidence
 
 A term may be canonical vocabulary while the empirical theory attached to it remains speculative.
 
@@ -55,7 +73,7 @@ Useful entries often begin as:
 
 The corpus should help future reasoning avoid collapsing distinctions that earlier work paid to discover.
 
-## 6. Do not launder speculation into fact
+## 7. Do not launder speculation into fact
 
 When a concept is a hypothesis, say so.
 
@@ -72,7 +90,7 @@ Useful labels:
 
 A precise schema must not create false certainty.
 
-## 7. Preserve superseded vocabulary
+## 8. Preserve superseded vocabulary
 
 Do not delete an old term simply because a better one appears.
 
@@ -85,7 +103,7 @@ Instead:
 
 Conceptual evolution is itself research data.
 
-## 8. One canonical entry, many contexts
+## 9. One canonical entry, many contexts
 
 Avoid separate definitions for “the blog,” “the dictionary,” “the AI notes,” and “the encyclopedia.”
 
@@ -93,7 +111,7 @@ The canonical entry should contain enough structured and long-form material for 
 
 When a context truly requires a different sense, model it explicitly as a separate sense or separate concept.
 
-## 9. Relations should carry theory
+## 10. Relations should carry theory
 
 A flat “related concepts” list is useful but weak.
 
@@ -109,7 +127,7 @@ with:
 
 The second contains theory.
 
-## 10. Counterexamples are maintenance
+## 11. Counterexamples are maintenance
 
 A concept should accumulate attacks as well as applications.
 
@@ -122,24 +140,25 @@ When an example threatens the theory:
 
 Do not protect a term by making it infinitely elastic.
 
-## 11. Keep raw material near the theory
+## 13. Keep raw material near the theory
 
 Not every note needs to become a polished entry immediately.
 
-Seeds, fragments, and imported snapshots may live in the repository while they await distillation.
+Use three preservation layers deliberately:
 
-The distinction is:
+- **archive/raw material** preserves source material and snapshots;
+- **registry-only concept** preserves conceptual identity with minimal commitment;
+- **entry** provides a developed semantic materialization.
 
-- **archive/raw material** preserves;
-- **entry** asserts a currently intelligible concept.
+A named concept should not remain visible only in prose if losing track of the name would matter. Give it registry presence even when its development must wait.
 
-## 12. Detail is welcome; redundancy is not
+## 13. Detail is welcome; redundancy is not
 
 Entries may become very long.
 
 The aim is encyclopedic depth, not forced brevity. But repeated prose should be replaced by links and explicit relationships when another entry already owns the idea.
 
-## 13. External literature comes later without erasing local origin
+## 14. External literature comes later without erasing local origin
 
 A locally coined term may turn out to resemble an existing scholarly concept.
 
@@ -152,7 +171,7 @@ When that happens:
 
 Discovering precedent should enrich the genealogy, not retroactively erase the independent path that produced the idea.
 
-## 14. The corpus should remain forkable by a human
+## 15. The corpus should remain forkable by a human
 
 Do not make Conceptarium dependent on a database, opaque CMS, proprietary editor, or generated binary format.
 
