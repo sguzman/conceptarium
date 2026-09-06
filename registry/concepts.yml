@@ -1927,3 +1927,402 @@ concepts:
     entry: entries/i-may-dominate-the-model.md
     ontology_state: unassessed
     registered_on: 2026-09-05
+  - id: transition-semantics
+    term: "Transition semantics"
+    presence: registered
+    materialization: entry
+    entry: entries/transition-semantics.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: enriched-transition-semantics
+    term: "Enriched transition semantics"
+    presence: registered
+    materialization: entry
+    entry: entries/enriched-transition-semantics.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: transition-enrichment
+    term: "Transition enrichment"
+    presence: registered
+    materialization: entry
+    entry: entries/transition-enrichment.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: semantic-motion
+    term: "Semantic motion"
+    presence: registered
+    materialization: entry
+    entry: entries/semantic-motion.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: semantic-tweening
+    term: "Semantic tweening"
+    presence: registered
+    materialization: entry
+    entry: entries/semantic-tweening.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: diegetic-transition
+    term: "Diegetic transition"
+    presence: registered
+    materialization: entry
+    entry: entries/diegetic-transition.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: diegetic-tweening
+    term: "Diegetic tweening"
+    presence: registered
+    materialization: entry
+    entry: entries/diegetic-tweening.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: ontologized-transition-grammar
+    term: "Ontologized transition grammar"
+    presence: registered
+    materialization: entry
+    entry: entries/ontologized-transition-grammar.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: cartoon-causality
+    term: "Cartoon causality"
+    presence: registered
+    materialization: entry
+    entry: entries/cartoon-causality.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: local-visual-physics
+    term: "Local visual physics"
+    presence: registered
+    materialization: entry
+    entry: entries/local-visual-physics.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: semantic-continuity
+    term: "Semantic continuity"
+    presence: registered
+    materialization: entry
+    entry: entries/semantic-continuity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: geometric-continuity
+    term: "Geometric continuity"
+    presence: registered
+    materialization: entry
+    entry: entries/geometric-continuity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: semantic-continuity-over-geometric-continuity
+    term: "Semantic continuity over geometric continuity"
+    presence: registered
+    materialization: entry
+    entry: entries/semantic-continuity-over-geometric-continuity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: state-transition-animation
+    term: "State-transition animation"
+    presence: registered
+    materialization: entry
+    entry: entries/state-transition-animation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: topological-animation
+    term: "Topological animation"
+    presence: registered
+    materialization: entry
+    entry: entries/topological-animation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: non-euclidean-character-animation
+    term: "Non-Euclidean character animation"
+    presence: registered
+    materialization: entry
+    entry: entries/non-euclidean-character-animation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: temporal-draftsmanship
+    term: "Temporal draftsmanship"
+    presence: registered
+    materialization: entry
+    entry: entries/temporal-draftsmanship.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: spatial-draftsmanship
+    term: "Spatial draftsmanship"
+    presence: registered
+    materialization: entry
+    entry: entries/spatial-draftsmanship.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: draftsmanship-animation-decoupling
+    term: "Draftsmanship–animation decoupling"
+    presence: registered
+    materialization: entry
+    entry: entries/draftsmanship-animation-decoupling.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: frame-vocabulary
+    term: "Frame vocabulary"
+    presence: registered
+    materialization: entry
+    entry: entries/frame-vocabulary.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: transition-vocabulary
+    term: "Transition vocabulary"
+    presence: registered
+    materialization: entry
+    entry: entries/transition-vocabulary.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: primitive-visual-vocabulary
+    term: "Primitive visual vocabulary"
+    presence: registered
+    materialization: entry
+    entry: entries/primitive-visual-vocabulary.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: procedural-caricature
+    term: "Procedural caricature"
+    presence: registered
+    materialization: entry
+    entry: entries/procedural-caricature.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: temporal-caricature
+    term: "Temporal caricature"
+    presence: registered
+    materialization: entry
+    entry: entries/temporal-caricature.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: anatomy-as-syntax
+    term: "Anatomy as syntax"
+    presence: registered
+    materialization: entry
+    entry: entries/anatomy-as-syntax.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: body-as-language
+    term: "Body-as-language"
+    presence: registered
+    materialization: entry
+    entry: entries/body-as-language.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: body-as-interface
+    term: "Body-as-interface"
+    presence: registered
+    materialization: entry
+    entry: entries/body-as-interface.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: self-editing-character
+    term: "Self-editing character"
+    presence: registered
+    materialization: entry
+    entry: entries/self-editing-character.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: representational-machinery-collapse
+    term: "Representational machinery collapse"
+    presence: registered
+    materialization: entry
+    entry: entries/representational-machinery-collapse.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: kinetic-ideography
+    term: "Kinetic ideography"
+    presence: registered
+    materialization: entry
+    entry: entries/kinetic-ideography.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: visual-syntax
+    term: "Visual syntax"
+    presence: registered
+    materialization: entry
+    entry: entries/visual-syntax.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: motion-syntax
+    term: "Motion syntax"
+    presence: registered
+    materialization: entry
+    entry: entries/motion-syntax.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: motion-theory
+    term: "Motion theory"
+    presence: registered
+    materialization: entry
+    entry: entries/motion-theory.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: morphological-semantics
+    term: "Morphological semantics"
+    presence: registered
+    materialization: entry
+    entry: entries/morphological-semantics.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: temporal-punctuation
+    term: "Temporal punctuation"
+    presence: registered
+    materialization: entry
+    entry: entries/temporal-punctuation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: spatial-punctuation
+    term: "Spatial punctuation"
+    presence: registered
+    materialization: entry
+    entry: entries/spatial-punctuation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: narrative-compression-through-motion
+    term: "Narrative compression through motion"
+    presence: registered
+    materialization: entry
+    entry: entries/narrative-compression-through-motion.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: state-change-marker
+    term: "State-change marker"
+    presence: registered
+    materialization: entry
+    entry: entries/state-change-marker.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: representational-regime
+    term: "Representational regime"
+    presence: registered
+    materialization: entry
+    entry: entries/representational-regime.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: representational-regime-switching
+    term: "Representational regime switching"
+    presence: registered
+    materialization: entry
+    entry: entries/representational-regime-switching.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: identity-invariance-under-representation-change
+    term: "Identity invariance under representation change"
+    presence: registered
+    materialization: entry
+    entry: entries/identity-invariance-under-representation-change.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: formal-sophistication
+    term: "Formal sophistication"
+    presence: registered
+    materialization: entry
+    entry: entries/formal-sophistication.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: surface-refinement
+    term: "Surface refinement"
+    presence: registered
+    materialization: entry
+    entry: entries/surface-refinement.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: surface-refinement-not-formal-sophistication
+    term: "Surface refinement ≠ formal sophistication"
+    presence: registered
+    materialization: entry
+    entry: entries/surface-refinement-not-formal-sophistication.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: micro-semantics
+    term: "Micro-semantics"
+    presence: registered
+    materialization: entry
+    entry: entries/micro-semantics.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: macro-narrative
+    term: "Macro-narrative"
+    presence: registered
+    materialization: entry
+    entry: entries/macro-narrative.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: micro-semantic-legibility-macro-narrative-opacity
+    term: "Micro-semantic legibility / macro-narrative opacity"
+    presence: registered
+    materialization: entry
+    entry: entries/micro-semantic-legibility-macro-narrative-opacity.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: character-anchoring
+    term: "Character anchoring"
+    presence: registered
+    materialization: entry
+    entry: entries/character-anchoring.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: semantic-anchor
+    term: "Semantic anchor"
+    presence: registered
+    materialization: entry
+    entry: entries/semantic-anchor.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: character-first-experimental-animation
+    term: "Character-first experimental animation"
+    presence: registered
+    materialization: entry
+    entry: entries/character-first-experimental-animation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: world-acquired-language
+    term: "World-acquired language"
+    presence: registered
+    materialization: entry
+    entry: entries/world-acquired-language.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: formal-operator
+    term: "Formal operator"
+    presence: registered
+    materialization: entry
+    entry: entries/formal-operator.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: medium-primitive
+    term: "Medium primitive"
+    presence: registered
+    materialization: entry
+    entry: entries/medium-primitive.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: formal-invariant
+    term: "Formal invariant"
+    presence: registered
+    materialization: entry
+    entry: entries/formal-invariant.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: animation-grammar
+    term: "Animation grammar"
+    presence: registered
+    materialization: entry
+    entry: entries/animation-grammar.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: private-animation-grammar
+    term: "Private animation grammar"
+    presence: registered
+    materialization: entry
+    entry: entries/private-animation-grammar.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
+  - id: coherent-metaphysics-of-animation
+    term: "Coherent metaphysics of animation"
+    presence: registered
+    materialization: entry
+    entry: entries/coherent-metaphysics-of-animation.md
+    ontology_state: unassessed
+    registered_on: 2026-09-06
