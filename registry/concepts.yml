@@ -1072,12 +1072,10 @@ concepts:
   - id: belief-revision-calibration-failure
     term: "belief-revision / calibration failure"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/belief-revision-calibration-failure.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Epistemology / AI"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: blocked-mobility
     term: "blocked mobility"
     presence: registered
@@ -1099,12 +1097,10 @@ concepts:
   - id: causal-legibility
     term: "causal legibility"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/causal-legibility.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Epistemology / AI"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: compensatory-use
     term: "compensatory use"
     presence: registered
@@ -1162,12 +1158,10 @@ concepts:
   - id: diegetic-truth
     term: "diegetic truth"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/diegetic-truth.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Epistemology / AI"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: elite-overproduction
     term: "elite overproduction"
     presence: registered
@@ -1189,12 +1183,10 @@ concepts:
   - id: epistemic-state
     term: "epistemic state"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/epistemic-state.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Epistemology / AI"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: ethnographic-engineering
     term: "ethnographic engineering"
     presence: registered
@@ -1207,12 +1199,10 @@ concepts:
   - id: false-precision
     term: "false precision"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/false-precision.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Epistemology / AI"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: foreigner-is-relational
     term: "foreigner is relational"
     presence: registered
@@ -1225,12 +1215,10 @@ concepts:
   - id: gaslighting-epistemic-fraud
     term: "gaslighting epistemic fraud"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/gaslighting-epistemic-fraud.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Epistemology / AI"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: generative-modeling
     term: "generative modeling"
     presence: registered
@@ -1288,12 +1276,10 @@ concepts:
   - id: narrator-information-set
     term: "narrator information set"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/narrator-information-set.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Epistemology / AI"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: ontological-materialization
     term: "Ontological materialization"
     presence: registered
@@ -1360,12 +1346,10 @@ concepts:
   - id: seamless-replacement-of-disproven-explanations
     term: "seamless replacement of disproven explanations"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/seamless-replacement-of-disproven-explanations.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Epistemology / AI"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: state-legibility
     term: "state legibility"
     presence: registered
