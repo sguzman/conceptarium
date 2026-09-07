@@ -6182,3 +6182,507 @@ concepts:
     queue_group: "Internal-agent phenomenology / self-governance"
     capture:
       note: "The deep structural question linking the internal-agent model to political and social theory."
+  - id: self-authorship
+    term: "Self-authorship"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Changes to the self-model, values, or psychological organization must ultimately count as one's own; outside input may contribute without displacing principal authorship."
+  - id: interpretive-sovereignty
+    term: "Interpretive sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Control over who gets to say what one's experiences mean; outside interpretations may be proposed without automatically acquiring jurisdiction over the interior life."
+  - id: epistemic-sovereignty
+    term: "Epistemic sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Retaining final judgment over claims about one's own mind while allowing credentials or expertise to increase evidentiary weight without automatic authority."
+  - id: sovereignty-problem
+    term: "Sovereignty problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Conflict created when another person gains institutional or relational authority over self-interpretation."
+  - id: authorship-threat
+    term: "Authorship threat"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "The felt danger that another person may become the perceived author of one's psychological progress or decisive interpretation."
+  - id: credit-assignment-problem
+    term: "Credit-assignment problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Discomfort produced by improvement that seems attributable to someone else rather than to one's own analysis or repair."
+  - id: warping-of-self-authorship
+    term: "Warping of self-authorship"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A helping structure that subtly relocates authorship away from the person even if the result is beneficial."
+  - id: self-repair
+    term: "Self-repair"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Psychological improvement understood as something performed through one's own understanding and intervention rather than merely administered by another."
+  - id: psychological-engineering
+    term: "Psychological engineering"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Treating internal life as a system that can be modeled, diagnosed, tested, modified, and iteratively improved."
+  - id: conceptual-engineering-of-the-self-model
+    term: "Conceptual engineering of the self-model"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Inventing, refining, splitting, or replacing concepts so the working model of oneself tracks experience more accurately."
+  - id: self-model
+    term: "Self-model"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A structured interpretation of motives, subselves, tendencies, history, values, conflicts, and internal causal relations."
+  - id: self-narration
+    term: "Self-narration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Constructing a coherent account of experiences over time so disconnected events become intelligible as a trajectory."
+  - id: self-interrogation
+    term: "Self-interrogation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Actively questioning one's motives, interpretations, contradictions, defenses, assumptions, and hidden premises."
+  - id: self-audit
+    term: "Self-audit"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A systematic examination of the psychological interior: what is operating, what conflicts, where assumptions came from, and whether the current model survives scrutiny."
+  - id: interior-life-psychological-interior
+    term: "Interior life / psychological interior"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "The investigated domain of feelings, impulses, voices, identities, motivations, fears, values, conflicts, and self-interpretations."
+  - id: eureka-moment
+    term: "Eureka moment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A sudden sense of resolution when a new formulation explains several previously disconnected or contradictory experiences at once."
+  - id: explanatory-compression
+    term: "Explanatory compression"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "An interpretation gains power by explaining many observations simultaneously with fewer independent assumptions."
+  - id: internal-coherence
+    term: "Internal coherence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "The degree to which parts of a self-model can coexist without unresolved contradiction or arbitrary exceptions."
+  - id: republic-of-minds
+    term: "Republic of minds"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A model in which multiple relatively persistent internal versions or tendencies possess distinct interests, objections, and something like votes over action and self-interpretation."
+  - id: veto
+    term: "Veto"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "An internal refusal strong enough to prevent or destabilize a course of action even when another part endorses it."
+  - id: legitimacy-condition
+    term: "Legitimacy condition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A requirement an internal constituency demands before it will accept an action, interpretation, or arrangement as permissible."
+  - id: fallen-self-fallen-you
+    term: "Fallen self / Fallen-you"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Internal tendency oriented toward stature, sovereignty, greatness, audience, distinction, and sensitivity to domination or dependency."
+  - id: village-self-village-you
+    term: "Village self / Village-you"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Internal tendency oriented toward kinship, reciprocity, embeddedness, continuity, and intimacy governed by relationship rather than impersonal institutional exchange."
+  - id: proud-self
+    term: "Proud self"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Internal constituency especially sensitive to status degradation, dependency, asymmetry, humiliation, and loss of authorship."
+  - id: audience
+    term: "Audience"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Another consciousness that witnesses experience or self-articulation; witnessing can be desired without granting interpretive authority."
+  - id: audience-without-sovereignty
+    term: "Audience without sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A relational configuration in which another can hear, reflect, challenge, or observe without acquiring control over the meaning of what is disclosed."
+  - id: kinship-intimacy-problem
+    term: "Kinship/intimacy problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Objection to disclosing intimate autobiography to someone neither kin nor embedded in reciprocal social relations."
+  - id: transactional-intimacy
+    term: "Transactional intimacy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Intimate disclosure organized through impersonal exchange, especially payment, rather than kinship, friendship, or reciprocal attachment."
+  - id: status-asymmetry
+    term: "Status asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A relationship in which one party exposes, is evaluated, or receives intervention while the other remains comparatively opaque and institutionally empowered."
+  - id: therapeutic-asymmetry
+    term: "Therapeutic asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "The therapy-specific status asymmetry: patient discloses while therapist receives, interprets, questions, and possesses professional authority."
+  - id: humiliation
+    term: "Humiliation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A relational position signaling dependency, inferiority, exposure, loss of sovereignty, or inability to author one's own repair, rather than mere embarrassment."
+  - id: dependency-humiliation
+    term: "Dependency humiliation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "The specifically painful implication that improvement required another person in a way that seems to diminish self-sufficiency."
+  - id: autarky
+    term: "Autarky"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Total self-sufficiency: needing no external intellectual, emotional, or technical input; distinguished from self-authorship."
+  - id: authorship-without-autarky
+    term: "Authorship without autarky"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "One can remain author of psychological development while borrowing tools, evidence, concepts, criticism, and expertise from elsewhere."
+  - id: external-instrumentation
+    term: "External instrumentation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Using outside people, texts, research, clinicians, or AI as measuring devices, hypothesis generators, mirrors, or information sources rather than sovereign interpreters."
+  - id: external-error-correction
+    term: "External error correction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Outside input used specifically to catch blind spots, false beliefs, motivated reasoning, or internally coherent but wrong self-models."
+  - id: adversarial-checking
+    term: "Adversarial checking"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Deliberately subjecting a self-interpretation to competing hypotheses, counterexamples, empirical evidence, or hostile scrutiny."
+  - id: retained-veto
+    term: "Retained veto"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "External interpretations remain proposals; the self retains power to refuse incorporation when they fail evidentiary or conceptual standards."
+  - id: instrumental-relation-to-expertise
+    term: "Instrumental relation to expertise"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Treating experts as sources of specialized tools and evidence rather than automatic authorities over the total interpretation of one's life."
+  - id: write-access
+    term: "Write access"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Metaphor for authority to alter the self-model; credentials do not automatically grant write access."
+  - id: read-access
+    term: "Read access"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Metaphor for permission to observe or receive information about the self without authority to modify self-understanding."
+  - id: root
+    term: "Root"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Computing metaphor for ultimate administrative control over the psychological system being examined and modified."
+  - id: phenomenological-floor
+    term: "Phenomenological floor"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Minimum protected claim: the experience exists as experience and deserves representation even if deeper ontology remains unsettled."
+  - id: ontological-suspension
+    term: "Ontological suspension"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Deliberately leaving unresolved what a psychological phenomenon ultimately is while continuing to reason carefully about the experience."
+  - id: experience-preservation
+    term: "Experience preservation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Refusing to discard a real experienced phenomenon because its causal origin, identity-status, or ontology remains uncertain."
+  - id: interpretation-vs-observation
+    term: "Interpretation vs. observation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Distinguishing what is actually experienced from the theory explaining why it occurs, so uncertain interpretation cannot erase observation."
+  - id: confession-as-analysis
+    term: "Confession as analysis"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Disclosure used primarily as raw material for self-narration, conceptual diagnosis, and interrogation rather than absolution or emotional unloading."
+  - id: diagnostic-narration
+    term: "Diagnostic narration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Telling one's own story in a way designed to reveal causal structure rather than merely produce autobiography."
+  - id: recursive-analyst-problem
+    term: "Recursive analyst problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "The problem created when analyst and analyzed system are identical: the same mind generating the model also contains the biases and blind spots being modeled."
+  - id: motivated-reasoning
+    term: "Motivated reasoning"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Producing or favoring interpretations because they protect desired conclusions, identities, or emotional equilibria rather than best fitting evidence."
+  - id: blind-spot
+    term: "Blind spot"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A psychologically relevant feature that the self-model systematically fails to represent or cannot easily inspect from inside itself."
+  - id: internally-persuasive-false-model
+    term: "Internally persuasive false model"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "A theory of oneself that feels elegant, coherent, and satisfying from the inside while nevertheless being factually wrong."
+  - id: model-revision
+    term: "Model revision"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Updating interpretation when new distinctions, evidence, or contradictions make the previous self-model inadequate."
+  - id: competing-interpretations
+    term: "Competing interpretations"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Maintaining several candidate explanations simultaneously instead of prematurely collapsing uncertainty into one story."
+  - id: integration
+    term: "Integration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "The act of deciding which observations, concepts, hypotheses, and external inputs become incorporated into the working self-model."
+  - id: self-authorship-external-instrumentation-adversarial-checking-retained-veto
+    term: "Self-authorship + external instrumentation + adversarial checking + retained veto"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Self-authorship / interpretive sovereignty / self-repair"
+    capture:
+      note: "Compressed formula reconciling self-authored repair with the need for external correction: remain author, use outside instrumentation, stress-test interpretations, and retain final incorporation veto."
