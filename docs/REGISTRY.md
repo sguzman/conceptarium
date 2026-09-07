@@ -14,6 +14,8 @@ ONTOLOGICAL MATERIALIZATION
 
 A concept may therefore be a valid Conceptarium object before it has a full Markdown entry.
 
+Canonical concept entries for this distinction are [Predicate presence](../entries/predicate-presence.md) and [Ontological materialization](../entries/ontological-materialization.md).
+
 ## Why the registry exists
 
 Conceptual work is often produced faster than it can be formalized.
