@@ -5668,7 +5668,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Internal-agent phenomenology / self-governance"
     capture:
-      note: "An experience can be fully real as experience even while its underlying mechanism or ontology remains uncertain."
+      note: "An experience can be fully real as experience even while its underlying mechanism or ontology remains uncertain. Additional opening/self-legibility provenance: phenomenological reality protects the fact that an experience genuinely occurred in consciousness while discovery-versus-creation and deeper ontology remain unresolved."
   - id: ontology
     term: "Ontology"
     presence: registered
@@ -6019,7 +6019,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Internal-agent phenomenology / self-governance"
     capture:
-      note: "Where a behavior, desire, aesthetic, identity-pattern, or script came from developmentally."
+      note: "Where a behavior, desire, aesthetic, identity-pattern, or script came from developmentally. Additional opening/self-legibility provenance: origin can include innateness, imitation, experimentation, social exposure, reinforcement, or state-dependent conditions; provenance remains distinct from legitimacy."
   - id: legitimacy
     term: "Legitimacy"
     presence: registered
@@ -6298,7 +6298,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
-      note: "Actively questioning one's motives, interpretations, contradictions, defenses, assumptions, and hidden premises. Additional confessional-epistemology provenance: questioning one's own claims, motives, memories, interpretations, and inherited rules rather than granting the self epistemic immunity."
+      note: "Actively questioning one's motives, interpretations, contradictions, defenses, assumptions, and hidden premises. Additional confessional-epistemology provenance: questioning one's own claims, motives, memories, interpretations, and inherited rules rather than granting the self epistemic immunity. Additional opening/self-legibility provenance: self-interrogation is one stage in the chain from opening to recursive introspection, treating motives and interpretations as claims requiring examination."
   - id: self-audit
     term: "Self-audit"
     presence: registered
@@ -6577,7 +6577,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
-      note: "Deliberately leaving unresolved what a psychological phenomenon ultimately is while continuing to reason carefully about the experience."
+      note: "Deliberately leaving unresolved what a psychological phenomenon ultimately is while continuing to reason carefully about the experience. Additional opening/self-legibility provenance: discovery-versus-creation of newly accessible aspects of self can remain unresolved while the reality and importance of the experience are preserved."
   - id: experience-preservation
     term: "Experience preservation"
     presence: registered
@@ -6703,7 +6703,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Confessional epistemology / psychological archaeology"
     capture:
-      note: "Deliberately exposing motives, contradictions, fears, vanities, impulses, memories, and internal rules to sustained intellectual scrutiny."
+      note: "Deliberately exposing motives, contradictions, fears, vanities, impulses, memories, and internal rules to sustained intellectual scrutiny. Additional historical provenance: confessional self-analysis is situated within the early-modern inward turn and Protestant recursive examination, where confession becomes analysis of motive, sincerity, pride, doubt, and self-deception."
   - id: self-interpretation
     term: "Self-interpretation"
     presence: registered
@@ -6730,7 +6730,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Confessional epistemology / psychological archaeology"
     capture:
-      note: "The domain over which scrutiny is permitted; the self must remain inside the jurisdiction of its own analysis."
+      note: "The domain over which scrutiny is permitted; the self must remain inside the jurisdiction of its own analysis. Additional opening/self-legibility provenance: the radical introspective position gives no component of the self permanent exemption from investigation."
   - id: self-exemption
     term: "Self-exemption"
     presence: registered
@@ -6757,7 +6757,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Confessional epistemology / psychological archaeology"
     capture:
-      note: "Protected status in which a belief, motive, identity, or internal voice is treated as beyond challenge."
+      note: "Protected status in which a belief, motive, identity, or internal voice is treated as beyond challenge. Additional opening/self-legibility provenance: denying epistemic immunity means even internal authorities and the investigator itself remain open to challenge."
   - id: interior-examination
     term: "Interior examination"
     presence: registered
@@ -7109,3 +7109,345 @@ concepts:
     queue_group: "Confessional epistemology / psychological archaeology"
     capture:
       note: "Constitutional core axiom: being admitted to scrutiny does not itself make an internal phenomenon guilty, disposable, or illegitimate."
+  - id: expansion-of-the-conscious-mind
+    term: "Expansion of the conscious mind"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Enlargement of what can be consciously noticed, named, interpreted, and incorporated into self-understanding; increased access rather than creation of new impulses."
+  - id: colonization-of-the-subconscious
+    term: "Colonization of the subconscious"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Metaphor for consciousness extending administrative reach into previously unexamined moods, impulses, fantasies, shame, desire, dreams, contradictions, and hidden motives."
+  - id: psychological-territory
+    term: "Psychological territory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Any region of inner experience that can become an object of awareness: desire, affect, identity, memory, fantasy, motivation, bodily impulse, self-deception, and related material."
+  - id: admissible-self-model
+    term: "Admissible self-model"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "The range of traits, impulses, moods, identities, and behaviors a person permits themselves to recognize as legitimately belonging to the self."
+  - id: psychological-closure
+    term: "Psychological closure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Condition in which parts of inner experience are excluded from conscious recognition because they conflict with morality, social role, identity, upbringing, or self-conception."
+  - id: opening
+    term: "Opening"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "A discontinuous expansion in psychological accessibility in which previously suppressed, ignored, or unimaginable aspects of the self become available to conscious experience and exploration."
+  - id: maintenance
+    term: "Maintenance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Psychological support that preserves functioning or prevents collapse without fundamentally expanding the territory available to consciousness."
+  - id: diminishing-returns-of-opening
+    term: "Diminishing returns of opening"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Once a major region of inner possibility becomes consciously accessible, repeating the original opening mechanism cannot yield the same informational breakthrough; a continent can only be discovered once."
+  - id: boundary-of-the-search-space
+    term: "Boundary of the search space"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "The implicit limits on possibilities considered when asking what one is capable of feeling, wanting, enjoying, or becoming; opening expands this boundary."
+  - id: disinhibition
+    term: "Disinhibition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Temporary reduction in restraints on behavior or thought, distinguished from opening because it need not produce lasting changes in self-understanding."
+  - id: durable-expansion-of-the-self-model
+    term: "Durable expansion of the self-model"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "A lasting change whereby an experience remains psychologically conceivable even after the state that first revealed it has ended."
+  - id: provenance-legitimacy-distinction
+    term: "Provenance–legitimacy distinction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Discovering where an impulse or behavior came from does not by itself determine whether it is genuinely part of one's present experience."
+  - id: interiorization
+    term: "Interiorization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Historical process by which larger domains of morality, religion, identity, and judgment become located inside individual reflective consciousness."
+  - id: interior-surveillance
+    term: "Interior surveillance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Persistent monitoring of one's own motives, desires, thoughts, temptations, and emotional fluctuations."
+  - id: recursive-introspection
+    term: "Recursive introspection"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Examining not only thoughts and motives but the motives behind the examination itself, making the investigator part of the investigation."
+  - id: the-investigator
+    term: "The investigator"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "The reflective part of the mind that attempts to understand the rest of the psyche."
+  - id: investigating-the-investigator
+    term: "Investigating the investigator"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Turning analysis onto the part claiming neutrality and asking what motives, biases, fears, pride, or cruelty shape its judgments."
+  - id: internal-tribunal
+    term: "Internal tribunal"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "The implicit psychological court in which impulses, identities, interpretations, and self-claims are judged legitimate or illegitimate."
+  - id: procedural-self-analysis
+    term: "Procedural self-analysis"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Examining not only what conclusion the internal tribunal reaches but whether the procedure by which it reached the conclusion was fair."
+  - id: cruelty-in-the-tribunal
+    term: "Cruelty in the tribunal"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "The possibility that an allegedly analytical internal voice is actually humiliating, delegitimizing, punishing, or erasing some part of the self."
+  - id: no-part-of-me-gets-to-say-do-not-investigate-me
+    term: "No part of me gets to say: do not investigate me"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Strong introspective constitutional rule: every internal authority, including the authority demanding investigation, remains contestable."
+  - id: recursive-expansion
+    term: "Recursive expansion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Each successful act of introspection reveals another level that can itself become an object of introspection: impulse → interpretation → interpreter → tribunal → procedure."
+  - id: legibility
+    term: "Legibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Transformation of something obscure into something describable, categorizable, comparable, recordable, and available to reasoning."
+  - id: legibility-of-the-self
+    term: "Legibility of the self"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Applying the drive toward mapping and classification inward so increasingly subtle forms of inner experience become conceptually tractable."
+  - id: reflective-administration
+    term: "Reflective administration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Consciousness not merely experiencing psychological events but organizing, categorizing, adjudicating, and integrating them into a larger self-model."
+  - id: conscious-sovereignty
+    term: "Conscious sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "The strong idea that consciousness completely governs the mind; this conversation rejects that strong form even while expanding introspective access."
+  - id: retreating-frontier
+    term: "Retreating frontier"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Every increase in psychological understanding reveals further regions that remain obscure; better maps enlarge both knowledge and awareness of ignorance."
+  - id: self-opacity
+    term: "Self-opacity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "The fact that a person is never completely transparent to themselves; motives, causes, and processes remain partly inaccessible."
+  - id: early-modern-inward-turn
+    term: "Early-modern inward turn"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Historical development, especially roughly 1500–1800 in European intellectual culture, toward increasingly elaborate techniques for examining subjective experience."
+  - id: protestant-recursive-examination
+    term: "Protestant recursive examination"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Intense self-scrutiny in which even apparent sincerity is examined for hidden pride, corruption, or self-deception."
+  - id: fallen-investigator-problem
+    term: "Fallen investigator problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Protestant epistemic problem that the person examining the soul is themselves morally and cognitively unreliable, requiring scrutiny of the act of scrutiny."
+  - id: secularization-of-introspective-machinery
+    term: "Secularization of introspective machinery"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Migration of techniques developed in religious self-examination into philosophy, literature, psychology, autobiography, psychoanalysis, and secular theories of mind."
+  - id: making-the-self-available-to-itself
+    term: "Making the self available to itself"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Broad formulation of the historical process by which concepts and practices render previously obscure subjective experience available for conscious reflection."
+  - id: history-of-inward-instrumentation
+    term: "History of inward instrumentation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Interpretation of intellectual history as the progressive invention of tools for studying the self: confession, diaries, autobiography, essays, novels, moral psychology, psychoanalysis, and related forms."
+  - id: being-a-problem-to-oneself
+    term: "Being a problem to oneself"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "A mature reflexive condition in which the self is not merely the unquestioned standpoint observing the world but itself becomes an object requiring explanation."
+  - id: psychological-cartography
+    term: "Psychological cartography"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Mapping the internal world by identifying regions, boundaries, conflicts, recurring agents, motives, and pathways between mental states."
+  - id: discovery-versus-creation-of-the-self
+    term: "Discovery versus creation of the self"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "Unresolved question whether newly accessible identity or psychological material was latent and discovered, socially produced, experimentally constructed, or some mixture."
+  - id: psychological-opening-to-self-legibility-chain
+    term: "Psychological closure → opening → expanded admissible self-model → self-interrogation → recursive introspection → investigation of the investigator → procedural scrutiny of the internal tribunal → increasing self-legibility without complete conscious sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    capture:
+      note: "The deepest causal chain from the conversation, preserved as a first-class amber architecture linking psychological opening to recursive procedural self-analysis while explicitly denying complete conscious sovereignty."
