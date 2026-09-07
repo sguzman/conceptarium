@@ -23,6 +23,8 @@ The Great Subjectification
 
 ## Falsification / recovery branch
 
+The broader expansionary mechanism is [Totalization](../entries/totalization.md). The epistemic failure occurs when that pressure becomes hostile and self-sealing.
+
 ```text
 uncertainty + need for one total explanation
         ↓
@@ -49,6 +51,7 @@ The central evaluative idea is that **being correct on the first attempt is not 
 - [Epistemic chain of custody](../entries/epistemic-chain-of-custody.md)
 - [Knowledge needs a return address](../entries/knowledge-needs-a-return-address.md)
 - [Diegetization](../entries/diegetization.md)
+- [Totalization](../entries/totalization.md)
 - [Paranoid totalization](../entries/paranoid-totalization.md)
 - [Narrative-coherence pressure](../entries/narrative-coherence-pressure.md)
 - [Adversarial verification](../entries/adversarial-verification.md)
