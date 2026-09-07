@@ -1533,93 +1533,73 @@ concepts:
   - id: status-threat
     term: "status threat"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/status-threat.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named concept awaiting promotion in the Fallen / Village cluster."
   - id: status-broker
     term: "status broker"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/status-broker.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named concept awaiting promotion in the Fallen / Village cluster."
   - id: embedded-community
     term: "embedded community"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/embedded-community.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named concept awaiting promotion in the Fallen / Village cluster."
   - id: village-rebellion-vs-revolution
     term: "Village rebellion vs. revolution"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/village-rebellion-vs-revolution.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named distinction awaiting promotion in the Fallen / Village cluster."
   - id: revolutionary-conservative-lifecycle
     term: "revolutionary/conservative lifecycle"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/revolutionary-conservative-lifecycle.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named concept awaiting promotion in the Fallen / Village cluster."
   - id: moral-universalization-under-exclusion
     term: "moral universalization under exclusion"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/moral-universalization-under-exclusion.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named concept awaiting promotion in the Fallen / Village cluster."
   - id: customary-rights-orientation
     term: "customary-rights orientation"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/customary-rights-orientation.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named concept awaiting promotion in the Fallen / Village cluster."
   - id: subsistence-security-priority
     term: "subsistence-security priority"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/subsistence-security-priority.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named concept awaiting promotion in the Fallen / Village cluster."
   - id: local-embeddedness
     term: "local embeddedness"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/local-embeddedness.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named concept awaiting promotion in the Fallen / Village cluster."
   - id: repeated-reciprocity
     term: "repeated reciprocity"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/repeated-reciprocity.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village"
-    capture:
-      note: "Named concept awaiting promotion in the Fallen / Village cluster."
   - id: ascetic-laundering
     term: "Ascetic laundering"
     presence: registered
