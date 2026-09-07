@@ -22,7 +22,7 @@ relations:
     target: open-object
   - type: intensifies
     target: closure-pressure
-  - type: reduced-by
+  - type: changed-by
     target: deliberate-closure
 ---
 
