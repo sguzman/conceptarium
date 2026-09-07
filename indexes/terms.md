@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 273 entries.**
+**Current promoted corpus: 356 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -22,6 +22,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Aesthetic allocation](../entries/aesthetic-allocation.md) — Distribute finite representational resources across competing aesthetic ideals and audiences.
 - [Aesthetic negative prior](../entries/aesthetic-negative-prior.md) — Begin evaluation of certain aesthetic choices with an institutional presumption of suspicion before case-specific merits are considered.
 - [Aesthetic paternalism](../entries/aesthetic-paternalism.md) — Use aesthetic production partly to improve, correct, or protect consumers rather than only satisfy existing preferences.
+- [Affective reinforcement](../entries/affective-reinforcement.md) — Cultural use becomes more persistent because an object reliably produces or regulates a desired emotional state.
 - [Agentic systems](../entries/agentic-systems.md) — Persistent decision-making entities with beliefs, needs, goals, memories, and state.
 - [American horror through Japanese eyes](../entries/american-horror-through-japanese-eyes.md) — American spaces, imagery, genres, and anxieties reconstructed through Japanese artistic sensibilities.
 - [Anatomy as syntax](../entries/anatomy-as-syntax.md) — The treatment of the body not merely as depicted anatomy but as a compositional and grammatical system whose parts can function as transitions, punctuation, directional cues, masks, emphasis devices, or narrative operators.
@@ -54,6 +55,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Character-first experimental animation](../entries/character-first-experimental-animation.md) — Experimental animation in which formal invention remains organized around recognizable characters and their changing states rather than allowing pure visual or musical abstraction to dominate.
 - [Closure pressure](../entries/closure-pressure.md) — The anxious pull exerted by an unfinished but still-valued object that remains mentally open and contains a salient remainder to absorb.
 - [Coherent metaphysics of animation](../entries/coherent-metaphysics-of-animation.md) — A sufficiently consistent animation grammar that implies an underlying ontology: not merely how the animator depicts change, but apparently how change itself works in that world.
+- [Compensatory use](../entries/compensatory-use.md) — Use a cultural object or mediated experience to partially satisfy, regulate, rehearse, or stand in for an unmet need or unavailable experience.
 - [Conspicuous abstention](../entries/conspicuous-abstention.md) — Publicly legible refusal of accessible goods used as a status signal.
 - [Constitutionalized border crossing](../entries/constitutionalized-border-crossing.md) — Every transition from private thought into social power is subject to rules, consent, and anti-domination constraints.
 - [Constraint substitution](../entries/constraint-substitution.md) — Replacement of naturally occurring limits with voluntary or institutionally designed constraints.
@@ -72,6 +74,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Cultural omnivory](../entries/cultural-omnivory.md) — An aesthetic practice based on consuming heterogeneous cultural materials—anime, hip-hop, philosophy, memes, politics, games, film, internet culture—and treating all of them as equally available compositional resources.
 - [Cultural refraction](../entries/cultural-refraction.md) — Foreign cultural material transformed as it passes through another culture's aesthetic assumptions and sensibilities.
 - [Cultural return effect](../entries/cultural-return-effect.md) — Cultural material returns to its originating audience after outside transformation, enabling renewed perception of the familiar.
+- [Culture parasitism](../entries/culture-parasitism.md) — Hypothesis family in which cultural systems derive durable demand from unmet needs without automatically implying that they create or must reproduce those needs.
 
 ## D
 
@@ -309,11 +312,13 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Structural anti-male bias](../entries/structural-anti-male-bias.md) — Systematic pattern in which male interests, harms, preferences, or complaints receive less institutional concern or legitimacy, distinct from misandry proper.
 - [Style-pack franchise](../entries/style-pack-franchise.md) — Franchise identity is reduced to a portable bundle of recognizable aesthetic and thematic cues.
 - [Submission to correction](../entries/submission-to-correction.md) — Let reality overthrow a theory without retaliating against reality for doing so.
+- [Symbolic substitution](../entries/symbolic-substitution.md) — A symbolic or mediated object functions as a stand-in for an unavailable experience, relationship, status, identity, or condition.
 - [Substitutive diversity](../entries/substitutive-diversity.md) — Broaden representation partly by replacing or reducing an existing aesthetic category.
 - [Surface refinement ≠ formal sophistication](../entries/surface-refinement-not-formal-sophistication.md) — The principle that visual polish and structural intelligence are independent variables. A crude-looking work may contain a highly sophisticated formal system.
 - [Surface refinement](../entries/surface-refinement.md) — Technical polish visible in rendering, anatomy, line quality, detail, realism, or production finish.
 - [Surrealist recombination](../entries/surrealist-recombination.md) — Producing new meaning by combining culturally or narratively distant materials while preserving enough internal coherence that the result feels like an alternative reality rather than random collage.
 - [Synthetic friction](../entries/synthetic-friction.md) — Deliberately introduced resistance intended to restore discipline, meaning, pacing, attention, or status.
+- [System-level reproductive dependence](../entries/system-level-reproductive-dependence.md) — Strong hypothesis that a cultural system becomes materially dependent on the persistence or reproduction of the unmet need that generates its compensatory demand.
 - [The self has a right to persistence; the model does not](../entries/the-self-has-a-right-to-persistence-the-model-does-not.md) — Correction should destroy error, not the person; intellectual failure requires revision, not self-erasure.
 
 ## T
