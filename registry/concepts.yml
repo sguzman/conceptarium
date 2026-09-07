@@ -3118,3 +3118,143 @@ concepts:
     queue_group: "AI research archaeology"
     capture:
       note: "Harvested from sguzman/ai-research-reports/data/md/civilizing-injustice-colonial-conquest-and-moral-pretexts/main.md; source wording preserved for later provenance/materialization review."
+
+  - id: infinite-license
+    term: "Infinite license"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "A bounded achievement, credential, status victory, or demonstrated capacity is converted into an allegedly unbounded and indefinitely renewable right to govern others. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: unbounded-claim
+    term: "Unbounded claim"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "A normative claim whose legitimate scope, satisfaction conditions, or termination point are undefined, indefinitely extensible, or allowed to expand as concessions are granted. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: unbounded-revanchism
+    term: "Unbounded revanchism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "A grievance-driven unbounded claim in which past or continuing injury becomes an indefinitely extensible warrant for restitution, punishment, status reversal, exclusion, retaliation, or domination without a principled terminal condition. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: warrant-unbounding
+    term: "Warrant unbounding"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "A finite justification is expanded into an effectively infinite entitlement; alternate wording from the originating discussion: warrant inflation. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: closureless-grievance
+    term: "Closureless grievance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "A grievance lacking an acknowledged satisfaction condition or state in which the special claim is considered discharged. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: revanchist-ratchet
+    term: "Revanchist ratchet"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "A dynamic in which successful redress enlarges or renews the permissible grievance claim rather than extinguishing it. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: grievance-to-jurisdiction-conversion
+    term: "Grievance-to-jurisdiction conversion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "The conversion of suffering, humiliation, dispossession, defeat, or historical injury into standing authority over others. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: inherited-revanchist-warrant
+    term: "Inherited revanchist warrant"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "A revanchist claim treated as transmissible across generations, especially where scope or expiration remains unspecified. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: status-reversal-entitlement
+    term: "Status-reversal entitlement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "Justice conceived as morally licensing reversal of who may dominate whom rather than termination of domination. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: settlement-refusal
+    term: "Settlement refusal"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "A pattern in which every possible settlement is treated as inadequate, preserving the grievance as an ongoing source of claims. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: credential-to-jurisdiction-conversion
+    term: "Credential-to-jurisdiction conversion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "The conversion of educational, professional, moral, or status credentials into a claim of generalized governing authority. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: domain-leakage
+    term: "Domain leakage"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "Authority or competence earned in one domain spreads into unrelated domains without a fresh warrant. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: temporal-laundering-of-legitimacy
+    term: "Temporal laundering of legitimacy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "A past success or credential continues to justify power after the conditions that originally warranted it have expired. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: revocation-asymmetry
+    term: "Revocation asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fallen / Village and anti-domination"
+    capture:
+      note: "Credentials, prestige, or success can earn authority, while subsequent failure is treated as insufficient to remove that authority. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
