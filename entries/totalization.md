@@ -27,7 +27,7 @@ relations:
     target: sovereign-system-builders
   - type: associated-with
     target: psychic-imperialism
-  - type: can-produce
+  - type: associated-with
     target: treating-people-as-components
 ---
 
