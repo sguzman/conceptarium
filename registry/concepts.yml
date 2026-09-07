@@ -1421,59 +1421,47 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: intentional-signifier
-    term: "intentional signifier"
+    term: "Intentional signifier"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/intentional-signifier.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Culture / consumption / signification"
-    capture:
-      note: "Likely future concept preserved in the consumer-semiotics branch."
   - id: imposed-signifier
-    term: "imposed signifier"
+    term: "Imposed signifier"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/imposed-signifier.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Culture / consumption / signification"
-    capture:
-      note: "Likely future concept preserved in the consumer-semiotics branch."
   - id: allegiance-inference
-    term: "allegiance inference"
+    term: "Allegiance inference"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/allegiance-inference.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Culture / consumption / signification"
-    capture:
-      note: "Likely future concept preserved in the consumer-semiotics branch."
   - id: content-bypass
-    term: "content bypass"
+    term: "Content bypass"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/content-bypass.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Culture / consumption / signification"
-    capture:
-      note: "Likely future concept preserved in the consumer-semiotics branch."
   - id: coalitional-readability
-    term: "coalitional readability"
+    term: "Coalitional readability"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/coalitional-readability.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Culture / consumption / signification"
-    capture:
-      note: "Likely future concept preserved in the consumer-semiotics branch."
   - id: semiotic-capture
-    term: "semiotic capture"
+    term: "Semiotic capture"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/semiotic-capture.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Culture / consumption / signification"
-    capture:
-      note: "Likely future concept preserved in the consumer-semiotics branch."
   - id: status-threat
     term: "status threat"
     presence: registered
