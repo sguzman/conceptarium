@@ -24,7 +24,7 @@ relations:
     target: diegetic-truth
   - type: changed-by
     target: belief-revision-calibration-failure
-  - type: evaluated-by
+  - type: associated-with
     target: trustworthiness-under-adversarial-reality-testing
   - type: supports
     target: epistemic-chain-of-custody
