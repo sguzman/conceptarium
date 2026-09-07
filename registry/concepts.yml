@@ -1079,12 +1079,10 @@ concepts:
   - id: blocked-mobility
     term: "blocked mobility"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/blocked-mobility.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: carry-their-personality-in-their-bodies
     term: "carry their personality in their bodies"
     presence: registered
@@ -1113,12 +1111,10 @@ concepts:
   - id: counter-elite
     term: "counter-elite"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/counter-elite.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: culture-parasitism
     term: "culture parasitism"
     presence: registered
@@ -1140,21 +1136,17 @@ concepts:
   - id: decommodification
     term: "decommodification"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/decommodification.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: defamilialization
     term: "defamilialization"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/defamilialization.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: diegetic-truth
     term: "diegetic truth"
     presence: registered
@@ -1165,12 +1157,10 @@ concepts:
   - id: elite-overproduction
     term: "elite overproduction"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/elite-overproduction.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: emotional-systems
     term: "emotional systems"
     presence: registered
@@ -1190,12 +1180,10 @@ concepts:
   - id: ethnographic-engineering
     term: "ethnographic engineering"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/ethnographic-engineering.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: false-precision
     term: "false precision"
     presence: registered
@@ -1206,12 +1194,10 @@ concepts:
   - id: foreigner-is-relational
     term: "foreigner is relational"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/foreigner-is-relational.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: gaslighting-epistemic-fraud
     term: "gaslighting epistemic fraud"
     presence: registered
@@ -1231,39 +1217,31 @@ concepts:
   - id: institutional-mediation
     term: "institutional mediation"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/institutional-mediation.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue and referenced by an existing relation."
   - id: ladder-closure
     term: "ladder closure"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/ladder-closure.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue and referenced by existing relations."
   - id: ladder-density
     term: "ladder density"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/ladder-density.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: managed-dependency
     term: "managed dependency"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/managed-dependency.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue and referenced by an existing relation."
   - id: misandric-permission-structure
     term: "misandric permission structure"
     presence: registered
@@ -1292,21 +1270,17 @@ concepts:
   - id: political-domestication
     term: "political domestication"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/political-domestication.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: political-morality-as-a-status-ordering-technology
     term: "political morality as a status-ordering technology"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/political-morality-as-a-status-ordering-technology.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: predicate-presence
     term: "Predicate presence"
     presence: registered
@@ -1319,30 +1293,24 @@ concepts:
   - id: pressure-valves
     term: "pressure valves"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/pressure-valves.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: psychologically-expensive-fallen-class
     term: "psychologically expensive Fallen class"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/psychologically-expensive-fallen-class.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: reciprocal-morality
     term: "reciprocal morality"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/reciprocal-morality.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: seamless-replacement-of-disproven-explanations
     term: "seamless replacement of disproven explanations"
     presence: registered
@@ -1353,12 +1321,10 @@ concepts:
   - id: state-legibility
     term: "state legibility"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/state-legibility.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue and referenced by an existing relation."
   - id: symbolic-substitution
     term: "symbolic substitution"
     presence: registered
@@ -1389,12 +1355,10 @@ concepts:
   - id: village-continuity
     term: "Village continuity"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/village-continuity.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Fallen / Village and institutions"
-    capture:
-      note: "Preserved from the former promotion queue and referenced by an existing relation."
   - id: tone-lock
     term: "tone lock"
     presence: registered
