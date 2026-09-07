@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 364 entries.**
+**Current promoted corpus: 366 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -337,9 +337,11 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Temporal punctuation](../entries/temporal-punctuation.md) — The use of pauses, repetitions, snaps, holds, accelerations, freezes, and abrupt transformations to perform functions analogous to commas, periods, exclamation marks, parentheses, or emphasis.
 - [Temptation environment](../entries/temptation-environment.md) — System of availability, immediacy, cue density, intensity, and defaults that determines temptation load.
 - [Topological animation](../entries/topological-animation.md) — Animation in which identity and relational structure persist even while geometry, anatomy, scale, orientation, or rendering mode change radically.
+- [Totalization](../entries/totalization.md) — Expanding one explanatory, representational, or optimizing framework across increasingly heterogeneous parts of reality.
 - [Transition enrichment](../entries/transition-enrichment.md) — The deliberate addition of semantic content to the interval between two represented states.
 - [Transition semantics](../entries/transition-semantics.md) — The information communicated by how one represented state becomes another, not merely by the states before and after the transition.
 - [Transition vocabulary](../entries/transition-vocabulary.md) — The repertoire of temporal operations used between states: wipes, morphs, snaps, cuts, pose substitutions, translations, deformations, loops, repetitions, anticipation, compression, and reconstruction.
+- [Treating people as components](../entries/treating-people-as-components.md) — Reduce another person from an independent center of authorship and standing into a variable, resource, or implementation detail inside someone else's optimizing system.
 - [Trustworthiness under adversarial reality-testing](../entries/trustworthiness-under-adversarial-reality-testing.md) — Evaluate a reasoner by how it revises when its preferred account collides with strong counterevidence.
 
 ## U
