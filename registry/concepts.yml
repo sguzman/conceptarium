@@ -1414,84 +1414,66 @@ concepts:
   - id: tone-lock
     term: "tone lock"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/tone-lock.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Attention / absorption / completion"
-    capture:
-      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
   - id: aesthetic-lock
     term: "aesthetic lock"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/aesthetic-lock.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Attention / absorption / completion"
-    capture:
-      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
   - id: mood-congruent-selection
     term: "mood-congruent selection"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/mood-congruent-selection.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Attention / absorption / completion"
-    capture:
-      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
   - id: motivational-admissibility
     term: "motivational admissibility"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/motivational-admissibility.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Attention / absorption / completion"
-    capture:
-      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
   - id: latent-feature-bundle
     term: "latent feature bundle"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/latent-feature-bundle.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Attention / absorption / completion"
-    capture:
-      note: "Named subordinate concept preserved in the attention cluster; not yet promoted."
   - id: media-appetite
     term: "media appetite"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/media-appetite.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Attention / absorption / completion"
-    capture:
-      note: "Likely future concept preserved in the attention cluster."
   - id: open-object
     term: "open object"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/open-object.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Attention / absorption / completion"
-    capture:
-      note: "Likely future concept preserved in the attention cluster."
   - id: deliberate-closure
     term: "deliberate closure"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/deliberate-closure.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Attention / absorption / completion"
-    capture:
-      note: "Likely future concept preserved in the attention cluster."
   - id: absorption-remainder
     term: "absorption remainder"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/absorption-remainder.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Attention / absorption / completion"
-    capture:
-      note: "Likely future concept preserved in the attention cluster."
   - id: affective-reinforcement
     term: "affective reinforcement"
     presence: registered
