@@ -6352,7 +6352,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
-      note: "A model in which multiple relatively persistent internal versions or tendencies possess distinct interests, objections, and something like votes over action and self-interpretation."
+      note: "A model in which multiple relatively persistent internal versions or tendencies possess distinct interests, objections, and something like votes over action and self-interpretation. Additional creative-governance provenance: artistic action must survive negotiation among semi-independent constituencies with distinct preferences, fears, standards, and vetoes; this republic can be constitutionalized by assigning different jurisdictions to exploration, theory, optimization, and engineering."
   - id: veto
     term: "Veto"
     presence: registered
@@ -7451,3 +7451,507 @@ concepts:
     queue_group: "Psychological opening / inward instrumentation / self-legibility"
     capture:
       note: "The deepest causal chain from the conversation, preserved as a first-class amber architecture linking psychological opening to recursive procedural self-analysis while explicitly denying complete conscious sovereignty."
+  - id: agentic-permission-structure
+    term: "Agentic permission structure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Internal system determining whether a given self is allowed to act; creative action may be blocked by legitimacy requirements rather than lack of desire."
+  - id: max-power-self
+    term: "Max-power self"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Imagined future self sufficiently capable, intelligent, skilled, or authoritative to finally be permitted ambitious work; a veto can disappear when this self is recognized as already present."
+  - id: internal-stress-test
+    term: "Internal stress test"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Adversarial attack on proposed actions from multiple internal perspectives before permission is granted, including questions of theory, efficiency, alternatives, friction, and justification."
+  - id: psychological-agentic-friction
+    term: "Psychological / agentic friction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Resistance encountered in creating or acting because internal requirements remain unresolved; friction may be pathological, ceremonial, or genuinely informative."
+  - id: designed-friction
+    term: "Designed friction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Friction intentionally or structurally embedded in the permission system to force ideas, workflows, and tools to survive scrutiny before permanent commitment."
+  - id: generative-friction
+    term: "Generative friction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Friction whose resolution creates durable capability, expanding what can later be expressed, automated, understood, or generated."
+  - id: ceremonial-friction
+    term: "Ceremonial friction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Friction that keeps demanding prerequisites without purchasing meaningful capability, reenacting the permission ritual rather than improving the system."
+  - id: theory-as-cognitive-shelter
+    term: "Theory as cognitive shelter"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Theory provides not only explanation but an intellectually inhabitable world; a domain without theory may feel arbitrary, chaotic, exposed, or unsafe."
+  - id: theory-of-existence
+    term: "Theory of existence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "A sufficiently coherent model of a domain that one can mentally inhabit it rather than interact with disconnected phenomena, providing orientation and intelligibility."
+  - id: generative-theory
+    term: "Generative theory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "A theory specifying how a space of possible things can be produced, transformed, varied, or composed rather than merely what existing things are."
+  - id: generative-formalism
+    term: "Generative formalism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Operational representation of a generative theory through primitives, transformations, constraints, composition rules, parameters, and relations."
+  - id: constructive-geometry
+    term: "Constructive geometry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Understanding visual form through composable generative operations rather than only manipulating finished shapes; both a technical interest and a general strategy."
+  - id: means-of-artistic-production
+    term: "Means of artistic production"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Tools, abstractions, representations, workflows, and machinery through which artistic intentions become artifacts; building them may itself be artistic work."
+  - id: expressive-substrate
+    term: "Expressive substrate"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Underlying collection of theories, primitives, tools, and representations upon which fluent artistic production becomes possible."
+  - id: expressive-vocabulary
+    term: "Expressive vocabulary"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Reusable operations, structures, effects, forms, and transformations available through theory and tooling."
+  - id: tooling
+    term: "Tooling"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Crystallization of repeatedly useful operations into reusable machinery that lowers cognitive/mechanical cost and converts discovered structure into agency."
+  - id: tooling-front
+    term: "Tooling front"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Current frontier where theoretical insight still must be turned into infrastructure before the desired expressive capacity exists."
+  - id: tool-completion
+    term: "Tool completion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "The point at which enough theory has been operationalized for the art–tool feedback loop to begin; not exhaustive or perfect tooling."
+  - id: dependency-graph-of-permission
+    term: "Dependency graph of permission"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Implicit sequence of prerequisites that must be satisfied before creative action feels authorized: capability, theory, exploration, tooling, efficiency, justification, then production."
+  - id: design-space
+    term: "Design space"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Larger field of possible representations, techniques, workflows, abstractions, or artifacts that could solve a problem."
+  - id: design-space-exploration
+    term: "Design-space exploration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Deliberately sampling possibilities before canonizing a solution, using experiments to explore cheaply."
+  - id: experiment
+    term: "Experiment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "A low-commitment action intended primarily to generate information rather than justify permanence."
+  - id: experimental-permission
+    term: "Experimental permission"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Principle that speculative actions may proceed under much weaker standards than permanent systems; an experiment only needs to be interesting enough to try."
+  - id: lower-experimental-threshold
+    term: "Lower experimental threshold"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Deliberately reducing justification required before trying something so demands for certainty do not eliminate experiments needed to produce certainty."
+  - id: artifact-as-probe
+    term: "Artifact as probe"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Artwork or prototype used as an instrument for discovering what a theory, workflow, or toolset is missing, not merely as an end product."
+  - id: art-as-instrumentation
+    term: "Art as instrumentation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Making artifacts generates empirical evidence about expressive needs; artistic practice functions as a research method for testing abstractions."
+  - id: observed-friction
+    term: "Observed friction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Difficulty encountered during actual creation that becomes evidence about deficiencies in the current system rather than merely an annoyance."
+  - id: friction-classification
+    term: "Friction classification"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Distinguishing recurring structural problems worth solving from one-off inconvenience or exploratory messiness."
+  - id: theory-tool-artifact-loop
+    term: "Theory–tool–artifact loop"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Recursive cycle in which theory produces tools, tools produce artifacts, artifacts expose deficiencies, deficiencies generate new theory, and theory improves tools."
+  - id: closed-creative-loop
+    term: "Closed creative loop"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "State in which artistic production and tool development continuously improve one another, removing the requirement that theory or tooling be finished before art begins."
+  - id: exploration-before-canonization
+    term: "Exploration before canonization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Principle that possibilities should be tried cheaply before being elevated into permanent abstractions, workflows, doctrine, or infrastructure."
+  - id: presumption-of-permission
+    term: "Presumption of permission"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Default stance for exploratory action: experimentation may proceed unless there is a strong reason to prohibit it."
+  - id: burden-of-proof-for-permanence
+    term: "Burden of proof for permanence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "The more durable, expensive, or foundational a commitment becomes, the more evidence and justification it must accumulate."
+  - id: epistemic-maturity
+    term: "Epistemic maturity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Degree to which an idea has accumulated evidence, explanatory structure, and practical testing; maturity level determines appropriate scrutiny."
+  - id: progressive-burden-of-proof
+    term: "Progressive burden of proof"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Increasing standards as something moves from experiment → observation → theory → engineering → infrastructure."
+  - id: premature-justification
+    term: "Premature justification"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Requiring an experiment to already possess the evidence that the experiment itself is supposed to generate."
+  - id: premature-collapse
+    term: "Premature collapse"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Choosing a representation, workflow, or theory too early and thereby eliminating unexplored alternatives from the design space."
+  - id: novelty-requirement
+    term: "Novelty requirement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Internal demand not to reproduce conventional solutions automatically when unexplored alternatives may contain better or more interesting structure."
+  - id: assurance-requirement
+    term: "Assurance requirement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Need for actions and systems to rest on sufficiently understood principles rather than arbitrary decisions."
+  - id: efficiency-requirement
+    term: "Efficiency requirement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Refusal to repeatedly perform high-friction operations when they could instead be captured in abstraction or tooling."
+  - id: justification-requirement
+    term: "Justification requirement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Demand that engineered systems demonstrate why they deserve to exist rather than being built solely because they are intellectually attractive."
+  - id: engineered-system-justification
+    term: "Engineered-system justification"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Evidence that a tool or abstraction solves a recurrent, important, or enabling problem strongly enough to justify building and maintenance cost."
+  - id: capital-expenditure-metaphor
+    term: "Capital expenditure metaphor"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Treating substantial tooling work as investment that should occur after experiments reveal sufficient recurring demand."
+  - id: abstraction-purchase
+    term: "Abstraction purchase"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "What an abstraction buys: reduced repetition, lower cognitive load, greater expressive range, reversibility, composability, or access to previously difficult artifacts."
+  - id: capability-expansion-criterion
+    term: "Capability expansion criterion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Test for legitimate friction: clearing the hurdle should permanently make a class of future actions easier or possible."
+  - id: canonical-infrastructure
+    term: "Canonical infrastructure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Tools or abstractions that have survived enough use and testing to become trusted permanent parts of the creative environment."
+  - id: grandfathered-friction
+    term: "Grandfathered friction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Recurring difficulty tolerated indefinitely without being examined or captured into theory/tooling; persistent friction must eventually justify itself or be engineered away."
+  - id: jurisdiction-of-selves
+    term: "Jurisdiction of selves"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Different internal constituencies should govern different stages: novelty governs exploration, optimization mature workflows, theory generalization, engineering infrastructure."
+  - id: constitutional-creative-order
+    term: "Constitutional creative order"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Higher-level rules governing how the republic of minds adjudicates experiments, theories, tools, and artistic production."
+  - id: exploration-gets-presumption-of-permission-permanence-bears-the-burden-of-proof
+    term: "Exploration gets presumption of permission; permanence bears the burden of proof."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Central constitutional rule reconciling novelty with assurance, efficiency, and rigorous engineering."
+  - id: friction-migration
+    term: "Friction migration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Goal of relocating scrutiny rather than eliminating it: cheap experimentation, harder generalization, harder engineering, hardest canonization."
+  - id: self-authored-expressive-machinery
+    term: "Self-authored expressive machinery"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Tools and abstractions derived from one's observed creative behavior rather than accepted wholesale from external workflows, preserving autonomy while letting practice discipline theory."
+  - id: crossing-the-hurdle
+    term: "Crossing the hurdle"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Completing enough theoretical and tooling work that a previously legitimate barrier stops functioning as a recurring veto."
+  - id: keeping-the-hurdle-crossed
+    term: "Keeping the hurdle crossed"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Refusing to regenerate already-satisfied prerequisites in new forms once capability or infrastructure has been demonstrated."
+  - id: creative-permission-generative-tooling-chain
+    term: "Republic of minds → stress test → low-cost experiments → design-space evidence → generative theory → justified engineering → tooling → expressive substrate → art → new evidence → revised theory."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Deep causal chain linking internal governance, experiments, theory, engineering, tooling, art, and feedback into one recursive creative system."
+  - id: be-maximally-permissive-toward-exploration-and-increasingly-demanding-toward-permanence
+    term: "Be maximally permissive toward exploration and increasingly demanding toward permanence."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Creative permission / generative tooling / design-space governance"
+    capture:
+      note: "Constitutional maxim governing the entire creative-permission architecture."
