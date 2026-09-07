@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 377 entries.**
+**Current promoted corpus: 386 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -81,6 +81,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Cultural refraction](../entries/cultural-refraction.md) — Foreign cultural material transformed as it passes through another culture's aesthetic assumptions and sensibilities.
 - [Cultural return effect](../entries/cultural-return-effect.md) — Cultural material returns to its originating audience after outside transformation, enabling renewed perception of the familiar.
 - [Culture parasitism](../entries/culture-parasitism.md) — Hypothesis family in which cultural systems derive durable demand from unmet needs without automatically implying that they create or must reproduce those needs.
+- [Cruelty in the tribunal](../entries/cruelty-in-the-tribunal.md) — Internal analysis gains punitive surplus: humiliation, contempt, erasure, or punishment beyond what truth-seeking or containment requires.
 
 ## D
 
@@ -181,6 +182,9 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Internal definition](../entries/internal-definition.md) — A franchise definition grounded in properties of the works rather than corporate ownership and labeling.
 - [Internal despotism](../entries/internal-despotism.md) — One moral faction of the self permanently suppresses other legitimate drives such as ambition or authorship.
 - [Internalized governor](../entries/internalized-governor.md) — Metaphor for self-regulatory machinery that supplies limits after scarcity stops doing so.
+- [Internal tribunal](../entries/internal-tribunal.md) — Implicit psychological adjudication structure in which impulses, identities, motives, and self-interpretations are granted or denied standing.
+- [Investigating the investigator](../entries/investigating-the-investigator.md) — Turn introspective scrutiny onto the reflective authority itself and examine the motives, fears, pride, and biases shaping its judgments.
+- [The investigator](../entries/the-investigator.md) — Reflective stance or part of mind that attempts to observe, interpret, question, organize, and judge the rest of psychological experience.
 
 ## J
 
@@ -194,6 +198,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## L
 
+- [Legibility](../entries/legibility.md) — Transformation of something obscure into something describable, categorizable, comparable, recordable, and available to reasoning or administration.
 - [Local visual physics](../entries/local-visual-physics.md) — The internally consistent rules governing how bodies, objects, space, time, and transformations behave within a particular visual work or animator’s style.
 - [Longevity sorting](../entries/longevity-sorting.md) — Hypothesized lifespan divergence from cumulative behavior under broadly equalized medical/material access.
 - [Luxury friction](../entries/luxury-friction.md) — Premium, voluntarily difficult or austere experiences valued because ordinary gratification is frictionless.
@@ -229,6 +234,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Narrative compression through motion](../entries/narrative-compression-through-motion.md) — Encoding a sequence of actions, realizations, or temporal developments in a compact transformation rather than depicting each physical intermediate step.
 - [Narrative-coherence pressure](../entries/narrative-coherence-pressure.md) — Preserve a smooth explanatory story when evidence should force rupture or uncertainty.
 - [No innocence available to the Fallen](../entries/no-innocence-available-to-the-fallen.md) — Systems must not depend on the goodness of people whose developed capacities retain hazard potential.
+- [No part of me gets to say: do not investigate me](../entries/no-part-of-me-gets-to-say-do-not-investigate-me.md) — Constitutional introspective rule that no internal belief, identity, motive, evaluator, or authority receives permanent exemption from examination.
 - [Non-Euclidean character animation](../entries/non-euclidean-character-animation.md) — A looser term for character motion that refuses ordinary spatial interpolation, allowing bodies to fold, disappear, reconstruct, translate, or mutate according to expressive rather than geometric rules.
 - [Non-self-correcting dilution](../entries/non-self-correcting-dilution.md) — Successful diluting works evade fan rejection and continue reshaping franchise boundaries.
 - [Non-telepathic social inference](../entries/non-telepathic-social-inference.md) — Agents infer one another from available evidence rather than reading hidden state.
@@ -265,6 +271,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Procedural caricature](../entries/procedural-caricature.md) — Caricature performed through behavior and transformation rather than merely through static shape. A character’s movement rules, timing, physics, and deformation patterns become exaggerated expressions of personality.
 - [Procedural media language](../entries/procedural-media-language.md) — A repeatable set of transformations or compositional rules through which an editor can generate new meaning from existing media rather than merely quoting it.
 - [Procedural visual language](../entries/procedural-visual-language.md) — Visual grammar defined by reusable rules for constructing forms and governing how they transform, combine, move, disappear, recur, and change state.
+- [Procedural self-analysis](../entries/procedural-self-analysis.md) — Audit not only self-analytic conclusions but the fairness, symmetry, evidence rules, burdens, and revision procedures that produced them.
 - [Prototype capture](../entries/prototype-capture.md) — One famous installment becomes the franchise prototype and later works increasingly reproduce it.
 - [Prototype cues](../entries/prototype-cues.md) — Portable traits of a dominant prototype signal franchise membership without reproducing deeper structure.
 - [Prototype inversion](../entries/prototype-inversion.md) — A historically unusual installment becomes the norm while earlier forms begin to appear anomalous.
@@ -283,6 +290,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 ## R
 
 - [Reaction grammar](../entries/reaction-grammar.md) — The repertoire of looks, pauses, gestures, head turns, eye movements, cuts, bodily responses, and facial expressions that can be recombined through editing to construct new interactions.
+- [Recursive expansion](../entries/recursive-expansion.md) — Introspective field expands as each newly examined layer reveals another layer that can itself become an object of analysis.
+- [Recursive introspection](../entries/recursive-introspection.md) — Self-examination turns onto the processes doing the examining, making interpretations, evaluators, and procedures themselves available to scrutiny.
 - [Recognition hunger / recognition terror](../entries/recognition-hunger-recognition-terror.md) — Desire for accurate recognition combined with fear that recognition will mutate into sovereignty and domination.
 - [Reflexive estrangement](../entries/reflexive-estrangement.md) — An outside reconstruction makes members of the represented culture experience their own familiar world as newly foreign.
 - [Reflexive surplus](../entries/reflexive-surplus.md) — The extra layer by which an intellectual simultaneously experiences, theorizes, compares, historicizes, and systematizes experience.
