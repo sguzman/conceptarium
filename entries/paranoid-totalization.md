@@ -14,6 +14,8 @@ origin:
   authorship: joint
   certainty: reconstructed
 relations:
+  - type: specializes
+    target: totalization
   - type: contrasts-with
     target: adversarial-verification
   - type: produces

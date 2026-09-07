@@ -1315,23 +1315,19 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: totalization
-    term: "totalization"
+    term: "Totalization"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/totalization.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Cross-cutting unresolved relation targets"
-    capture:
-      note: "Referenced by an existing relation; registered to preserve predicate presence before materialization."
   - id: treating-people-as-components
-    term: "treating people as components"
+    term: "Treating people as components"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/treating-people-as-components.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Cross-cutting unresolved relation targets"
-    capture:
-      note: "Referenced by an existing relation; registered to preserve predicate presence before materialization."
   - id: village-continuity
     term: "Village continuity"
     presence: registered

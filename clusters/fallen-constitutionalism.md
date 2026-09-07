@@ -338,6 +338,8 @@ This cluster operationalizes [Anti-domination](../entries/anti-domination.md) th
 
 The important shift is from **virtue-dependent safety** to **structure-dependent safety**.
 
+A dedicated cross-cutting cluster now names the system-building failure this architecture is designed to prevent: [Totalization and System Boundaries](./totalization-and-system-boundaries.md). Its social endpoint, [Treating people as components](../entries/treating-people-as-components.md), is the reduction of another person from sovereign center to implementation detail inside someone else's optimizing architecture.
+
 ## Bridge to epistemology
 
 The epistemic branch extends [Epistemic maturation](../entries/epistemic-maturation.md), [Adversarial verification](../entries/adversarial-verification.md), and [Trustworthiness under adversarial reality-testing](../entries/trustworthiness-under-adversarial-reality-testing.md).
