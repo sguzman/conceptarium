@@ -27,7 +27,7 @@ relations:
     target: expressive-animation
   - type: supports
     target: non-telepathic-social-inference
-  - type: acts-through
+  - type: constrains
     target: motor-intent-boundary
 ---
 
