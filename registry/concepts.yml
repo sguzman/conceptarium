@@ -5650,3 +5650,535 @@ concepts:
     queue_group: "Currency genealogy, game money, and crypto — broad harvest"
     capture:
       note: "Institutional failure rendered numerically visible through unmet guaranteed claims. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: phenomenology
+    term: "Phenomenology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The structure of what is actually experienced from the inside, prior to settling what ultimately exists."
+  - id: phenomenological-reality
+    term: "Phenomenological reality"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "An experience can be fully real as experience even while its underlying mechanism or ontology remains uncertain."
+  - id: ontology
+    term: "Ontology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "What the apparent agents or self-states ultimately are, as distinct from how they appear phenomenologically."
+  - id: ontological-agnosticism
+    term: "Ontological agnosticism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Deliberately leaving the ontology unresolved instead of prematurely collapsing experience into either literal separate persons or mere metaphor."
+  - id: epistemic-floor
+    term: "Epistemic floor"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The minimum protected claim: the experiences happened and deserve explanation rather than erasure."
+  - id: the-phenomenon-is-admitted-into-evidence
+    term: "The phenomenon is admitted into evidence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Refusal to discard an experience merely because its ultimate explanation is unknown."
+  - id: explanation-remains-an-open-case
+    term: "Explanation remains an open case"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Refusal to turn admitted phenomenology immediately into settled metaphysics."
+  - id: phenomenology-ontology-distinction
+    term: "Phenomenology / ontology distinction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The load-bearing separation between what is experienced and what the experiencing structure ultimately is."
+  - id: agentic-model
+    term: "Agentic model"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Modeling psychology as relatively autonomous centers of motivation, judgment, preference, memory, and authority rather than one homogeneous executive self."
+  - id: agentic-phenomenology
+    term: "Agentic phenomenology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The stronger claim that the mind actually feels organized around partially autonomous claimants, not merely that agent language is a useful metaphor."
+  - id: self-state-version
+    term: "Self-state / version"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "A recurrent configuration of self with characteristic motives, emotions, values, aesthetics, bodily attitudes, ambitions, and fears."
+  - id: state-boundary
+    term: "State boundary"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The degree to which one self-configuration remains psychologically distinct from another instead of blending immediately into one narrator."
+  - id: state-dependent-selfhood
+    term: "State-dependent selfhood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The possibility that what feels like 'me,' including desire and judgment, changes substantially depending on which configuration is active."
+  - id: co-presence
+    term: "Co-presence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Non-dominant or currently absent versions remain psychologically relevant as observers, judges, owners of projects, or anticipated future claimants."
+  - id: persistent-claimant
+    term: "Persistent claimant"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "A self-state whose interests are treated as continuing to exist even while it is not presently dominant."
+  - id: internal-audience
+    term: "Internal audience"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The experience that one's actions occur before other versions of oneself who may later evaluate, approve, condemn, or inherit them."
+  - id: agency-attribution
+    term: "Agency attribution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Experiencing a thought, prohibition, judgment, or motive as having enough independent force that it does not simply feel consciously chosen."
+  - id: distributed-authorship
+    term: "Distributed authorship"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The sense that no single continuous 'I' fully authors every desire, judgment, project, or action arising within the person."
+  - id: vantage-point-plasticity
+    term: "Vantage-point plasticity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Capacity to inhabit substantially different first-person perspectives rather than only imagining them from outside."
+  - id: internal-politics
+    term: "Internal politics"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Authority, jurisdiction, property, deference, coalition, conflict, and legitimacy problems arising among multiple persistent internal claimants."
+  - id: rank
+    term: "Rank"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The perceived relative authority or competence of one self-state compared with others."
+  - id: tribute
+    term: "Tribute"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Metaphor for weaker or lower-ranked states acknowledging exceptional capacities or authority of a stronger state."
+  - id: permission
+    term: "Permission"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The felt distinction between being able to do something and being the internally authorized version entitled to do it."
+  - id: jurisdiction
+    term: "Jurisdiction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The domains a given self-state is entitled to govern or decide."
+  - id: executive-authority
+    term: "Executive authority"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The power to determine what the body actually does at a given moment."
+  - id: standing
+    term: "Standing"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The right of a self-state's experiences, preferences, injuries, and testimony to count even without executive authority."
+  - id: standing-is-not-sovereignty
+    term: "Standing is not sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Acknowledging a state as real and worthy of representation does not grant everything it wants. Preserve alternate amber phrasing: 'standing without sovereignty.'"
+  - id: internal-sovereignty
+    term: "Internal sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The problem of governing one embodied life containing multiple competing psychological claimants."
+  - id: internal-absolutism
+    term: "Internal absolutism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Allowing whichever state currently holds power to define reality, delegitimize others, rewrite history, and exercise unlimited authority."
+  - id: current-government-fallacy
+    term: "Current-government fallacy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The state currently speaking does not become the whole self merely because it currently controls narration or executive power."
+  - id: competence-without-unlimited-jurisdiction
+    term: "Competence without unlimited jurisdiction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "A state may be genuinely more capable in some domains without thereby gaining the right to dominate every domain."
+  - id: internal-constitution
+    term: "Internal constitution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Rules governing relations among self-states independently of whichever state happens to be dominant."
+  - id: internal-anti-domination
+    term: "Internal anti-domination"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Applying anti-domination inwardly: a stronger state cannot justify humiliating, erasing, or annihilating another merely because it can."
+  - id: internal-justice
+    term: "Internal justice"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Evaluating how internal parts or states treat one another instead of assuming anything done 'to oneself' is automatically permissible."
+  - id: containment
+    term: "Containment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Firmly restricting a self-state's behavior or executive power when necessary without denying its existence or humiliating it."
+  - id: firmness
+    term: "Firmness"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "A behavioral or jurisdictional boundary: 'No. You cannot do this.'"
+  - id: cruelty
+    term: "Cruelty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "An attack on the legitimacy or existence of a self-state rather than merely on a proposed action."
+  - id: annihilation-extermination
+    term: "Annihilation / extermination"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The internal impulse to destroy, expel, or invalidate another part rather than negotiate with or contain it."
+  - id: you-may-testify-you-may-not-torture
+    term: "You may testify; you may not torture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Compact constitutional rule: even a vicious internal state gets standing to reveal fears or wants but not permission to abuse other states."
+  - id: no-purge-of-the-purger
+    term: "No purge of the purger"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Recognizing a cruel state as abusive does not justify reproducing the same domination structure by turning annihilatory cruelty back upon it."
+  - id: provenance
+    term: "Provenance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Where a behavior, desire, aesthetic, identity-pattern, or script came from developmentally."
+  - id: legitimacy
+    term: "Legitimacy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Whether an experience is allowed to count as genuinely part of the self."
+  - id: provenance-not-legitimacy
+    term: "Provenance ≠ legitimacy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Learning or copying a behavior from others does not make it fake; developmental origin and legitimacy are different questions."
+  - id: psychological-archive
+    term: "Psychological archive"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The cumulative record of what different versions of the self actually experienced over time."
+  - id: no-falsification-of-the-archive
+    term: "No falsification of the archive"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "A later self-state cannot make an earlier experience nonexistent because it now finds it embarrassing, threatening, mistaken, or illegitimate."
+  - id: retrospective-erasure
+    term: "Retrospective erasure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Reinterpreting a previous self-state so aggressively that its actual first-person experience is effectively declared never to have been real."
+  - id: disappearing-a-state
+    term: "Disappearing a state"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Political metaphor for removing a self-state from legitimate representation rather than arguing with its claims."
+  - id: authenticity-without-innateness
+    term: "Authenticity without innateness"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Something need not arise spontaneously, independently, or biologically to become genuinely part of psychological life."
+  - id: feminine-self-state
+    term: "Feminine self-state"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The configuration in which femininity, cute clothing, bodily display, desirability, being wanted, and related experiences became positively first-person."
+  - id: gendered-first-person-experience
+    term: "Gendered first-person experience"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Experiencing feminine desires from within rather than merely observing or conceptually understanding them from outside."
+  - id: hostile-counter-state
+    term: "Hostile counter-state"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The configuration that later treated the feminine presentation as fraudulent, disgusting, or illegitimate and attacked it."
+  - id: identity-asymmetry
+    term: "Identity asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "One state can say 'this is me' while another later judges the same presentation almost as if evaluating someone else's behavior."
+  - id: gender-provenance-argument
+    term: "Gender provenance argument"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The hostile claim that learned or copied feminine behavior is therefore not genuinely one's own."
+  - id: gender-standing
+    term: "Gender standing"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Whatever identity label is ultimately chosen, the feminine experiences occurred and remain legitimate evidence about the self."
+  - id: fallen-authority
+    term: "Fallen authority"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Internal phenomenon whereby a Village-oriented state recognizes a Fallen state as unusually capable and defers to it even when it is not currently manifest."
+  - id: village-accommodation
+    term: "Village accommodation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The tendency to preserve room, projects, incentives, or future claims for another version rather than assimilating everything into the present state."
+  - id: autobiographical-anthropology
+    term: "Autobiographical anthropology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Hypothesis that Fallen/Village partly externalized a structure already experienced internally."
+  - id: internal-polity-to-social-theory
+    term: "Internal polity → social theory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "Hypothesis that intuitions about hierarchy, tribute, domination, continuity, jurisdiction, and competing incentives were first made familiar by internal psychological structure."
+  - id: how-can-multiple-enduring-claimants-coexist-under-one-sovereignty
+    term: "How can multiple enduring claimants coexist under one sovereignty?"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Internal-agent phenomenology / self-governance"
+    capture:
+      note: "The deep structural question linking the internal-agent model to political and social theory."
