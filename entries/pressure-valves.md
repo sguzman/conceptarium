@@ -19,13 +19,13 @@ origin:
   note: >-
     Metaphor stabilized around examinations, open recruitment, appointments, patronage, co-optation, rotating office, and other incorporation mechanisms.
 relations:
-  - type: enable
+  - type: enables
     target: elite-circulation
-  - type: relieve
+  - type: relieves
     target: status-discrepancy
-  - type: counteract
+  - type: counteracts
     target: ladder-closure
-  - type: counteract
+  - type: counteracts
     target: counter-elite
   - type: supported-by
     target: ladder-density
