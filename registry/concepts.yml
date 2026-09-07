@@ -1096,7 +1096,12 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: compensatory-use
-    term: "compensatory use"
+    term: "compensatory-use"
+    presence: registered
+    materialization: entry
+    entry: entries/compensatory-use.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
     presence: registered
     materialization: registry-only
     ontology_state: unplaced
@@ -1112,7 +1117,12 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: culture-parasitism
-    term: "culture parasitism"
+    term: "culture-parasitism"
+    presence: registered
+    materialization: entry
+    entry: entries/culture-parasitism.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
     presence: registered
     materialization: registry-only
     ontology_state: unplaced
@@ -1316,7 +1326,12 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: symbolic-substitution
-    term: "symbolic substitution"
+    term: "symbolic-substitution"
+    presence: registered
+    materialization: entry
+    entry: entries/symbolic-substitution.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
     presence: registered
     materialization: registry-only
     ontology_state: unplaced
@@ -1413,7 +1428,12 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: affective-reinforcement
-    term: "affective reinforcement"
+    term: "affective-reinforcement"
+    presence: registered
+    materialization: entry
+    entry: entries/affective-reinforcement.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
     presence: registered
     materialization: registry-only
     ontology_state: unplaced
@@ -1422,7 +1442,12 @@ concepts:
     capture:
       note: "Recovered concept preserved in the culture cluster; not yet promoted."
   - id: system-level-reproductive-dependence
-    term: "system-level reproductive dependence"
+    term: "system-level-reproductive-dependence"
+    presence: registered
+    materialization: entry
+    entry: entries/system-level-reproductive-dependence.md
+    ontology_state: unassessed
+    registered_on: 2026-09-05
     presence: registered
     materialization: registry-only
     ontology_state: unplaced
