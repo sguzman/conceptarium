@@ -3398,3 +3398,563 @@ concepts:
     queue_group: "Fiscal provenance and taxpayer rights"
     capture:
       note: "The institutional presumption that lawful compulsory collection terminates the contributor’s individualized claims over provenance, attribution, allocation, or disposition of the transferred value. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: currency-genealogy
+    term: "Currency genealogy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Tracing monetary forms through predecessors, mutations, inherited constraints, and divergent design assumptions. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: monetary-evolutionary-lineage
+    term: "Monetary evolutionary lineage"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Treating forms of money as historically branching design traditions that inherit assumptions and solve different problems. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: monetary-solution-space
+    term: "Monetary solution space"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The set of monetary designs made possible or impossible by assumptions about sovereignty, redemption, transferability, circulation, and issuance. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: sovereignty-as-a-design-knob
+    term: "Sovereignty as a design knob"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The principle that monetary sovereignty is a tunable design parameter whose setting enables some capabilities while foreclosing others. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: sovereignty-sacrifice
+    term: "Sovereignty sacrifice"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Deliberately reducing holder monetary sovereignty in exchange for stronger system-level capabilities. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: noncirculating-issuer-currency
+    term: "Noncirculating issuer currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Currency whose dominant topology is issuer → user → issuer, without meaningful user-to-user circulation. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: circulating-virtual-money
+    term: "Circulating virtual money"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Virtual currency that circulates among users and therefore develops a user-mediated monetary stock and price economy. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: circulation-disciplines-the-sovereign
+    term: "Circulation disciplines the sovereign"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The principle that once users exchange currency among themselves, unlimited nominal issuance no longer implies unlimited real purchasing power for the issuer. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: programmable-economic-boundary
+    term: "Programmable economic boundary"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A currency boundary deliberately used to isolate, gate, or specialize kinds of economic activity. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: monetary-specialization
+    term: "Monetary specialization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Using distinct currencies to separate economic functions that a fully fungible money would collapse together. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: compensation-currency
+    term: "Compensation currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Currency used to settle heterogeneous harms or obligations between an operator and users. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: internal-clearing-mechanism
+    term: "Internal clearing mechanism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A currency functioning as a common denominator for settling heterogeneous obligations inside a bounded system. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: virtual-fiscal-state
+    term: "Virtual fiscal state"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A game or platform operator possessing mint-like and treasury-like powers over an internal economy. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: one-way-monetary-membrane
+    term: "One-way monetary membrane"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A convertibility structure where external money can enter an internal economy but internal claims ordinarily cannot exit as external legal tender. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: claims-on-internally-produced-scarcity
+    term: "Claims on internally produced scarcity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Internal currency as a claim on goods, access, or opportunities whose scarcity is created and managed by the issuer. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: redemption-dilution
+    term: "Redemption dilution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Overissuance that weakens the scarcity or monetization value of an internal currency even without conventional market-price inflation. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: currency-pathology-by-topology
+    term: "Currency pathology by topology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The principle that monetary failure modes depend on circulation and redemption topology rather than money supply alone. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: scarcity-without-economy
+    term: "Scarcity without economy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A monetary system that achieves technical scarcity without a sufficiently rich productive or redemption environment to generate durable economic demand. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: currency-without-a-world
+    term: "Currency without a world"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A token or currency lacking a sufficiently rich surrounding world of production, redemption, and desired goods to sustain utility-native demand. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: utility-native-demand
+    term: "Utility-native demand"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Demand for a currency arising because participation in a functioning economic environment already requires or rewards holding it. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: crypto-sovereignty-bargain
+    term: "Crypto sovereignty bargain"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The trade in which issuer independence is purchased by sacrificing capabilities such as discretionary reversal, coherent policy, guaranteed sinks, or managed redemption. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: complementary-monetary-research-programs
+    term: "Complementary monetary research programs"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The paired inquiry in which crypto asks what money can do without a sovereign while game money asks what money can do under an extraordinarily powerful sovereign. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: tiered-currency-system
+    term: "Tiered currency system"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A monetary architecture with a highly general top-level currency and narrower purpose-restricted currencies beneath it. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: monetary-sovereignty-stack
+    term: "Monetary sovereignty stack"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A hierarchy of currencies granting progressively different degrees of holder discretion and issuer control. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: opinionated-money
+    term: "Opinionated money"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Currency whose issuance and redemption rules explicitly encode what the issuer believes the money is for. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: market-as-sovereign
+    term: "Market as sovereign"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A regime in which market outcomes possess final authority over distribution and system objectives. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: market-as-algorithm
+    term: "Market as algorithm"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Treating markets as decentralized information-processing and coordination mechanisms rather than as final normative authorities. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: defeating-the-market-as-sovereign
+    term: "Defeating the market as sovereign"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Subordinating market outcomes to explicitly chosen social objectives while retaining market mechanisms where useful. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: preserving-markets-as-algorithms
+    term: "Preserving markets as algorithms"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Retaining decentralized discovery and competition while denying markets final sovereignty over objectives. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: reverse-amazon
+    term: "Reverse Amazon"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A market architecture in which consumers publish durable demand for producers to satisfy instead of sellers primarily publishing supply for buyers to search. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: demand-order-book
+    term: "Demand order book"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A visible inventory of outstanding requests or claims awaiting productive satisfaction. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: need-legibility
+    term: "Need legibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Rendering unmet need measurable, visible, and directly actionable to producers or institutions. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: unmet-need-as-economic-asset
+    term: "Unmet need as economic asset"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The framing of guaranteed unmet claims as economically legible opportunities that producers can profitably satisfy. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: production-side-scarcity-pricing
+    term: "Production-side scarcity pricing"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A shortage response in which scarcity increases producer reward rather than consumer price. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: scarcity-premium-relocation
+    term: "Scarcity-premium relocation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Moving the adjustment for scarcity from what consumers pay to what suppliers are rewarded. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: fixed-consumer-entitlement-floating-producer-reward
+    term: "Fixed consumer entitlement / floating producer reward"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A structure where the consumer’s redemption entitlement remains fixed while producer compensation varies with scarcity. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: guaranteed-demand-competitive-supply
+    term: "Guaranteed demand / competitive supply"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Demand-side purchasing power is guaranteed while producers compete to satisfy the resulting claims. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: universal-tax-settlement-primitive
+    term: "Universal tax settlement primitive"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "A fiscal mechanism where specialized currencies gain supplier value because the state accepts them, directly or indirectly, against tax obligations. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: multidimensional-wealth
+    term: "Multidimensional wealth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Wealth represented as heterogeneous secured future capabilities rather than a single scalar net-worth measure. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: specific-future-survivability
+    term: "Specific future survivability"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Accumulated claims securing concrete future necessities such as food, shelter, energy, mobility, or care. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: entitlement-wealth
+    term: "Entitlement wealth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Wealth held as accumulated claims to specific future goods or services. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: currency-as-promise
+    term: "Currency as promise"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The view that an issued entitlement is fundamentally a promise of future productive redemption. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: entitlement-solvency
+    term: "Entitlement solvency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The productive system’s ability to honor outstanding entitlement claims. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: physical-solvency
+    term: "Physical solvency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Solvency measured in actual productive capacity—food, energy, shelter, care, logistics—rather than money alone. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: currency-sensor-network
+    term: "Currency sensor network"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Outstanding balances and unfulfilled claims functioning as signals about future production obligations and capacity shortages. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: current-entitlement-stored-entitlement
+    term: "Current entitlement / stored entitlement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "The distinction between immediately redeemable claims and wealth claims preserved for future consumption. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: grey-market-diagnostic
+    term: "Grey-market diagnostic"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Unauthorized exchange patterns used as evidence that official currency boundaries misfit actual needs or valuations. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: arbitrage-as-ontology-feedback
+    term: "Arbitrage as ontology feedback"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Arbitrage behavior interpreted as evidence that the designed monetary categories fail to match how users actually value goods. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: the-fictional-economy-disciplines-its-creator
+    term: "The fictional economy starts disciplining its supposedly omnipotent creator"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Amber phrase from the currency thread capturing how circulation constrains even an operator with nominal minting omnipotence. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: the-issuer-is-literally-god
+    term: "The issuer is literally God. What economic machinery becomes possible if that fact is embraced rather than resisted?"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Amber phrase from the currency thread framing game-money design around maximal issuer sovereignty. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: crypto-asks-games-ask
+    term: "Crypto asks: what can money do without a sovereign? Games ask: what can money become when the sovereign has absurdly greater powers than any real-world central bank?"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Amber phrase expressing the complementary monetary research-program comparison. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: the-sovereign-defines-what-counts-as-winning
+    term: "The sovereign defines what counts as winning; competitive actors figure out how to win."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Amber phrase capturing sovereign-objective / competitive-execution architecture. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: dont-punish-the-thirsty-person
+    term: "You don’t need to punish the thirsty person with a $19 bottle of water to communicate scarcity."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Amber phrase expressing production-side scarcity pricing. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: scarcity-hasnt-disappeared
+    term: "The scarcity hasn’t disappeared. You’ve moved it to the place where you actually want competition: production capacity."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Amber phrase expressing scarcity-premium relocation. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: unmet-human-need-legible-as-an-economic-asset
+    term: "You’ve made unmet human need legible as an economic asset waiting to be captured."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Amber phrase expressing demand legibility and producer-facing opportunity. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: currency-is-no-longer-the-hard-problem
+    term: "Currency is no longer the hard problem."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto"
+    capture:
+      note: "Amber phrase from the entitlement-currency speculation marking the shift from monetary engineering to production and redemption capacity. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
