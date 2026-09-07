@@ -21,7 +21,7 @@ Registry-only concepts are also not failures or incomplete stubs. They are durab
 
 ## Phase 1 — Corpus migration
 
-**Status: active — 921 registered concepts, including 377 materialized entries and 544 registry-only concepts.**
+**Status: active — 921 registered concepts, including 386 materialized entries and 535 registry-only concepts.**
 
 Promotion means more than copying a dictionary sentence. A promoted entry should acquire, where appropriate:
 

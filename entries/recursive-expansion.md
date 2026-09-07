@@ -1,0 +1,212 @@
+---
+id: recursive-expansion
+term: Recursive expansion
+type: mechanism
+status: canonical
+gloss: >-
+  The growth of the introspective field as each newly examined layer reveals another
+  layer that can itself become an object of analysis: impulse, interpretation,
+  interpreter, tribunal, procedure, and beyond.
+domains:
+  - psychology
+  - epistemology
+  - self-knowledge
+aliases: []
+origin:
+  date: 2026-09-07
+  authorship: joint
+  certainty: reconstructed
+  note: >-
+    Captured as the structural consequence of recursive introspection: each act of
+    making one layer legible exposes another possible object of examination.
+relations:
+  - type: generated-by
+    target: recursive-introspection
+  - type: produces
+    target: legibility
+  - type: associated-with
+    target: retreating-frontier
+  - type: constrained-by
+    target: self-opacity
+---
+
+# Recursive expansion
+
+## Definition
+
+**Recursive expansion** is the enlargement of the introspective field that occurs when a previously background layer becomes an explicit object of analysis and thereby reveals another possible background layer.
+
+The canonical sequence is:
+
+~~~text
+impulse
+  ↓
+interpretation
+  ↓
+interpreter
+  ↓
+tribunal
+  ↓
+procedure
+  ↓
+standards behind procedure
+  ↓
+further inspectable structure
+~~~
+
+The important idea is not that this chain is literally infinite.
+
+It is that introspection can **create new objects of introspection by exposing its own machinery**.
+
+## Problem pressure
+
+Opening initially enlarges the content available to consciousness.
+
+Recursive introspection changes something else:
+
+> the **architecture of observing** becomes part of what can be observed.
+
+That means the frontier can move even when no new desire, memory, or identity appears.
+
+A person can learn something new by analyzing how they analyze.
+
+## Expansion through objectification
+
+A process becomes recursively expandable when something that was previously transparent becomes opaque enough to inspect.
+
+Examples:
+
+- “my interpretation” becomes an object;
+- “the voice making the interpretation” becomes an object;
+- “the fairness of the voice” becomes an object;
+- “the procedure determining fairness” becomes an object.
+
+Each objectification adds one more layer to the explicit map.
+
+## Recursive expansion versus opening
+
+**Opening** changes access to psychological content.
+
+**Recursive expansion** changes access to the machinery of introspection.
+
+~~~text
+OPENING
+new inner territory becomes available
+
+RECURSIVE EXPANSION
+the mapping process itself gains newly visible layers
+~~~
+
+The two processes can interact.
+
+## Recursive expansion and legibility
+
+Each recursive step can increase [Legibility](./legibility.md).
+
+A formerly implicit operation becomes:
+
+- nameable;
+- comparable;
+- recordable;
+- contestable;
+- available for revision.
+
+The gain is therefore procedural as much as psychological.
+
+## Retreating frontier
+
+Recursive expansion tends to produce a paradoxical experience:
+
+~~~text
+more is understood
+      ↓
+more layers become visible
+      ↓
+more unknown structure becomes apparent
+~~~
+
+This motivates the still-queued concept **Retreating frontier**.
+
+Better maps can enlarge awareness of ignorance.
+
+## Self-opacity as boundary
+
+Recursive expansion does not converge automatically to complete self-transparency.
+
+[Self-opacity] remains a queued limiting concept in this batch's neighborhood.
+
+Some motives, causes, bodily processes, memory formation, and state transitions may remain inaccessible or only probabilistically inferable.
+
+## Examples
+
+A person first investigates a recurring impulse, then realizes that their interpretation of the impulse is itself patterned and begins comparing those interpretations.
+
+Someone notices that the internal tribunal applies inconsistent standards and then begins examining where those standards came from.
+
+A person creates a procedure for self-analysis and later discovers that the procedure rewards certain kinds of narratives.
+
+## Non-examples
+
+Recursive expansion is not:
+
+- merely thinking more;
+- rumination;
+- a guarantee of better accuracy;
+- proof of infinite mental depth;
+- ordinary accumulation of memories;
+- complete conscious sovereignty.
+
+## Boundaries and failure modes
+
+### Infinite-regress fetish
+
+The possibility of another level does not create an obligation to inspect it.
+
+### Complexity worship
+
+More layers do not necessarily mean better explanation.
+
+### Map inflation
+
+Naming a layer can create false confidence that it is understood.
+
+### Self-opacity denial
+
+Some processes may remain unavailable despite increasingly refined introspection.
+
+## Operationalization
+
+Evidence for recursive expansion includes:
+
+- creation of new meta-level concepts;
+- explicit comparison of interpretive procedures;
+- discovery that an evaluator has stable motives or incentives;
+- revision of the method of self-analysis;
+- increasing ability to distinguish content from process.
+
+## Relations
+
+The mechanism is **generated by recursive introspection**.
+
+It **produces legibility** by objectifying previously implicit layers.
+
+It is associated with the **retreating frontier** because each gain can expose further unknowns.
+
+It is constrained by **self-opacity**.
+
+## Provenance
+
+Registered September 7, 2026 with the explicit sequence:
+
+> impulse → interpretation → interpreter → tribunal → procedure.
+
+## Open questions
+
+- What practical stopping rules preserve useful recursion?
+- Which recursive levels generate the most insight?
+- Can recursive expansion be measured as increasing procedural differentiation?
+- When does greater legibility become excessive self-monitoring?
+
+## Revision history
+
+- **2026-09-07:** Registered and first materialized.

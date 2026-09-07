@@ -222,18 +222,16 @@ The current cluster protects only the narrower claim:
 
 > **The space of consciously available self-interpretation changed.**
 
-## Bridge to the next self-legibility branch
+## Bridge to recursive introspection
 
 Opening creates the possibility of later recursive analysis.
 
-The remaining queued material asks what happens after inner territory becomes available:
+The next branch is now materialized as [Recursive Introspection and Internal Tribunal](./recursive-introspection-and-internal-tribunal.md):
 
 ~~~text
 opening
   ↓
 legibility
-  ↓
-self-legibility
   ↓
 recursive introspection
   ↓
@@ -244,7 +242,7 @@ internal tribunal
 procedural self-analysis
 ~~~
 
-Those concepts remain intentionally unpromoted in this batch so the mechanics of opening are not collapsed into the governance of introspection.
+The remaining queued self-legibility concepts continue beyond this into reflective administration, conscious sovereignty, self-opacity, and the historical inward-instrumentation branch.
 
 ## Research frontier
 
