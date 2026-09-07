@@ -22,7 +22,7 @@ relations:
     target: closure-pressure
   - type: changes
     target: open-object
-  - type: reduces
+  - type: changes
     target: absorption-remainder
 ---
 
