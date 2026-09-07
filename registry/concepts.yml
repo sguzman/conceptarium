@@ -7096,9 +7096,9 @@ concepts:
     materialization: registry-only
     ontology_state: unplaced
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
+    queue_group: "Dedup / consolidation hold"
     capture:
-      note: "Discovering where an impulse or behavior came from does not by itself determine whether it is genuinely part of one's present experience."
+      note: "Duplicate-pressure hold: functionally overlaps provenance-not-legitimacy (Provenance ≠ legitimacy). Both preserve the distinction between developmental origin and present legitimacy. Do not independently materialize until Conceptarium has a lossless alias/merge registry state."
   - id: interiorization
     term: "Interiorization"
     presence: registered
@@ -7183,48 +7183,38 @@ concepts:
   - id: legibility-of-the-self
     term: "Legibility of the self"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/legibility-of-the-self.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Applying the drive toward mapping and classification inward so increasingly subtle forms of inner experience become conceptually tractable."
   - id: reflective-administration
     term: "Reflective administration"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/reflective-administration.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Consciousness not merely experiencing psychological events but organizing, categorizing, adjudicating, and integrating them into a larger self-model."
   - id: conscious-sovereignty
     term: "Conscious sovereignty"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/conscious-sovereignty.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "The strong idea that consciousness completely governs the mind; this conversation rejects that strong form even while expanding introspective access."
   - id: retreating-frontier
     term: "Retreating frontier"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/retreating-frontier.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Every increase in psychological understanding reveals further regions that remain obscure; better maps enlarge both knowledge and awareness of ignorance."
   - id: self-opacity
     term: "Self-opacity"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/self-opacity.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "The fact that a person is never completely transparent to themselves; motives, causes, and processes remain partly inaccessible."
   - id: early-modern-inward-turn
     term: "Early-modern inward turn"
     presence: registered
@@ -7282,39 +7272,31 @@ concepts:
   - id: being-a-problem-to-oneself
     term: "Being a problem to oneself"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/being-a-problem-to-oneself.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "A mature reflexive condition in which the self is not merely the unquestioned standpoint observing the world but itself becomes an object requiring explanation."
   - id: psychological-cartography
     term: "Psychological cartography"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/psychological-cartography.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Mapping the internal world by identifying regions, boundaries, conflicts, recurring agents, motives, and pathways between mental states."
   - id: discovery-versus-creation-of-the-self
     term: "Discovery versus creation of the self"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/discovery-versus-creation-of-the-self.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Unresolved question whether newly accessible identity or psychological material was latent and discovered, socially produced, experimentally constructed, or some mixture."
   - id: psychological-opening-to-self-legibility-chain
     term: "Psychological closure → opening → expanded admissible self-model → self-interrogation → recursive introspection → investigation of the investigator → procedural scrutiny of the internal tribunal → increasing self-legibility without complete conscious sovereignty"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/psychological-opening-to-self-legibility-chain.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "The deepest causal chain from the conversation, preserved as a first-class amber architecture linking psychological opening to recursive procedural self-analysis while explicitly denying complete conscious sovereignty."
   - id: agentic-permission-structure
     term: "Agentic permission structure"
     presence: registered
