@@ -4,35 +4,62 @@ This cluster tracks how cultural goods become carriers of needs, symbols, identi
 
 ## Consumer-signification branch
 
-```text
-cultural artifact
-      ↓
-visible / textual / aesthetic cue
-      ↓
-Consumer semiotics
-      ↓
-ideological mapping
-      ↓
-allegiance inference
-      ↓
-coalitional sorting
-      ↓
-possible content bypass
-```
-
-The first promoted entry in this branch is:
+The Consumer semiotics branch is now materialized as a small causal and interpretive system:
 
 - [Consumer semiotics](../entries/consumer-semiotics.md)
+- [Intentional signifier](../entries/intentional-signifier.md)
+- [Imposed signifier](../entries/imposed-signifier.md)
+- [Coalitional readability](../entries/coalitional-readability.md)
+- [Allegiance inference](../entries/allegiance-inference.md)
+- [Content bypass](../entries/content-bypass.md)
+- [Semiotic capture](../entries/semiotic-capture.md)
 
-Its foundational distinction is:
+The branch distinguishes **where signification comes from**, **how easy coalition sorting is**, **what inference audiences make**, and **what can go wrong downstream**.
 
-```text
-signifier
-  ├── intentional — deliberately emitted as culturally/ideologically legible
-  └── imposed     — made politically legible by audiences or surrounding culture
-```
+~~~text
+                         source of signification
+                     ┌────────────┴────────────┐
+                     ↓                         ↓
+          intentional signifier       imposed signifier
+                     └────────────┬────────────┘
+                                  ↓
+                     coalitional readability
+                                  ↓
+                       allegiance inference
+                                  ↓
+                       coalitional sorting
+                                  ↓
+                    possible content bypass
+                                  ↑
+                                  │
+                     semiotic capture can
+                   stabilize the public frame
+                    and intensify readability
+~~~
 
-This distinction prevents reception analysis from collapsing into claims about authorial intent.
+The foundational source distinction remains:
+
+~~~text
+intentional signifier
+  = creator anticipates the broader reading and emits the cue partly for that reason
+
+imposed signifier
+  = audiences or surrounding discourse assign the broader reading regardless of intent
+~~~
+
+This prevents two symmetric errors:
+
+1. assuming every politicized meaning was planted by the creator;
+2. assuming socially imposed meanings are unreal merely because they were not intended.
+
+**Coalitional readability** is deliberately scalar: some cues can be sorted almost instantly, others remain ambiguous or audience-specific.
+
+**Allegiance inference** is the downstream move from “this cue is culturally loaded” to “this work / creator / audience belongs to that coalition.”
+
+**Content bypass** is the failure mode where that inferred allegiance substitutes for substantive engagement with the artifact.
+
+**Semiotic capture** moves the theory from individual reception to discourse ecology: repeated factional adoption, counter-reaction, and media framing can stabilize an artifact's public meaning before later audiences encounter the work itself.
+
 
 ## Symbolic-compensation branch
 
@@ -216,16 +243,19 @@ This adds several distinctions that consumer semiotics alone cannot supply:
 
 ## Research frontier
 
-Likely future concepts, currently preserved only as substructure rather than promoted entries:
+The original six consumer-signification frontier terms have now been promoted. The active questions are no longer whether those concepts deserve names, but how their mechanisms interact and how they can be tested.
 
-- **intentional signifier** — a cue deliberately emitted because its political/cultural reading is anticipated;
-- **imposed signifier** — a cue made ideologically meaningful by reception rather than authorial intent;
-- **allegiance inference** — inference from cultural sign to presumed coalition membership;
-- **content bypass** — evaluation of presumed allegiance substituting for evaluation of the work itself;
-- **coalitional readability** — degree to which an artifact can be rapidly sorted into a cultural coalition;
-- **semiotic capture** — process by which external culture-war interpretation fixes the social meaning of an artifact.
+Current pressure includes:
 
-These should become standalone entries only if they begin doing independent analytical work across several conversations or domains.
+- measuring coalitional readability across different audiences rather than assuming one universal code;
+- distinguishing accurate allegiance inference from overconfident coalition sorting;
+- identifying when imposed signification later becomes intentional marketing;
+- testing how quickly semiotic capture can stabilize or decay;
+- separating legitimate political criticism from content bypass;
+- determining when a compressed sign is genuinely diagnostic enough to justify early judgment.
+
+The parent framework should continue to resist both intent collapse and coalition-driven critical shortcuts.
+
 
 ## Critical significance
 
