@@ -6190,7 +6190,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
-      note: "Changes to the self-model, values, or psychological organization must ultimately count as one's own; outside input may contribute without displacing principal authorship."
+      note: "Changes to the self-model, values, or psychological organization must ultimately count as one's own; outside input may contribute without displacing principal authorship. Additional confessional-epistemology provenance: psychological development should be something one participates in constructing rather than something performed upon the person."
   - id: interpretive-sovereignty
     term: "Interpretive sovereignty"
     presence: registered
@@ -6199,7 +6199,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
-      note: "Control over who gets to say what one's experiences mean; outside interpretations may be proposed without automatically acquiring jurisdiction over the interior life."
+      note: "Control over who gets to say what one's experiences mean; outside interpretations may be proposed without automatically acquiring jurisdiction over the interior life. Additional confessional-epistemology provenance: confession without submission preserves the person's final authority over what disclosed experiences mean."
   - id: epistemic-sovereignty
     term: "Epistemic sovereignty"
     presence: registered
@@ -6289,7 +6289,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
-      note: "Constructing a coherent account of experiences over time so disconnected events become intelligible as a trajectory."
+      note: "Constructing a coherent account of experiences over time so disconnected events become intelligible as a trajectory. Additional confessional-epistemology provenance: constructing a coherent account of how one became the present self—what happened, what conclusions were drawn, what changed, and what persisted."
   - id: self-interrogation
     term: "Self-interrogation"
     presence: registered
@@ -6298,7 +6298,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
-      note: "Actively questioning one's motives, interpretations, contradictions, defenses, assumptions, and hidden premises."
+      note: "Actively questioning one's motives, interpretations, contradictions, defenses, assumptions, and hidden premises. Additional confessional-epistemology provenance: questioning one's own claims, motives, memories, interpretations, and inherited rules rather than granting the self epistemic immunity."
   - id: self-audit
     term: "Self-audit"
     presence: registered
@@ -6686,3 +6686,426 @@ concepts:
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
       note: "Compressed formula reconciling self-authored repair with the need for external correction: remain author, use outside instrumentation, stress-test interpretations, and retain final incorporation veto."
+  - id: confession
+    term: "Confession"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Making one's own interior life available for examination; in this usage confession is analytical rather than primarily penitential."
+  - id: confessional-self-analysis
+    term: "Confessional self-analysis"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Deliberately exposing motives, contradictions, fears, vanities, impulses, memories, and internal rules to sustained intellectual scrutiny."
+  - id: self-interpretation
+    term: "Self-interpretation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Moving beyond recounting events toward assigning meaning: patterns, causal structures, motives, conflicts, and transformations."
+  - id: intellectual-apparatus-turned-inward
+    term: "Intellectual apparatus turned inward"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Applying tools used to analyze history, institutions, ideology, power, legitimacy, incentives, and systems to one's own psyche."
+  - id: analytical-jurisdiction
+    term: "Analytical jurisdiction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "The domain over which scrutiny is permitted; the self must remain inside the jurisdiction of its own analysis."
+  - id: self-exemption
+    term: "Self-exemption"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Failure mode where one analyzes external systems skillfully while treating one's own motives and assumptions as transparent or beyond scrutiny."
+  - id: the-investigator-inside-the-investigation
+    term: "The investigator inside the investigation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Principle that the person doing the analysis is also one of the objects requiring analysis."
+  - id: epistemic-immunity
+    term: "Epistemic immunity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Protected status in which a belief, motive, identity, or internal voice is treated as beyond challenge."
+  - id: interior-examination
+    term: "Interior examination"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Broader Protestant-style practice of examining conscience, motive, intention, corruption, faith, weakness, and self-deception rather than only outward behavior."
+  - id: protestant-self-scrutiny
+    term: "Protestant self-scrutiny"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Specifically Protestant tendency toward relentless inquiry into whether external righteousness masks internal disorder."
+  - id: motive-scrutiny
+    term: "Motive scrutiny"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Asking not only what one did but why one wanted to do it and what the desire reveals."
+  - id: psychological-archaeology
+    term: "Psychological archaeology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Excavating old beliefs, rules, fears, and interpretations whose origins may be forgotten while their effects remain active."
+  - id: mental-note
+    term: "Mental note"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "A compact conclusion written by an earlier self in response to experience, such as 'X is dangerous' or 'I must never do Y.'"
+  - id: inherited-internal-rule
+    term: "Inherited internal rule"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "A behavioral or interpretive rule generated under earlier circumstances that continues governing later behavior without re-evaluation."
+  - id: stale-proposition
+    term: "Stale proposition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "A belief that may once have been adaptive or understandable but persists despite changed evidence, context, capability, or circumstance."
+  - id: provenance-of-belief
+    term: "Provenance of belief"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "The history of where a belief came from, which self authored it, what evidence was available then, and what function it originally served."
+  - id: epistemic-review
+    term: "Epistemic review"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Reopening an old belief or internal rule and asking whether it still deserves to govern the present."
+  - id: reopening-the-case
+    term: "Reopening the case"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Judicial metaphor for psychological revision: old conclusions are not erased automatically but may be compelled to present their evidence again."
+  - id: internal-republic
+    term: "Internal republic"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Model of the psyche as multiple enduring internal agents or versions with motives, memories, interests, fears, and political standing."
+  - id: constitutional-inquiry
+    term: "Constitutional inquiry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Examining the internal republic politically: who has authority, who may veto, which rules are legitimate, and what jurisdiction each agent possesses."
+  - id: internal-standing
+    term: "Internal standing"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Whether an internal voice has legitimate authority to make a claim, demand, prohibition, or speak for the whole self."
+  - id: internal-jurisdiction
+    term: "Internal jurisdiction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "The legitimate scope of authority possessed by an internal agent; testimony about fear does not automatically confer rule over the whole life."
+  - id: internal-veto
+    term: "Internal veto"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Capacity of one version of the self to block an action, identity, interpretation, or desire pursued by another."
+  - id: internal-prosecution
+    term: "Internal prosecution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Introspection taking an accusatory form where motives are treated as evidence of guilt rather than information requiring understanding."
+  - id: internal-inquisition
+    term: "Internal Inquisition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Pathological extreme of self-examination where every motive becomes suspect, every pleasure requires justification, and introspection becomes perpetual prosecution."
+  - id: analytical-cruelty
+    term: "Analytical cruelty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Using truth-seeking or self-scrutiny as justification for humiliation, punishment, contempt, or psychological violence toward parts of oneself."
+  - id: firm-containment
+    term: "Firm containment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Restricting harmful impulses or internal behaviors without denying their existence or treating the part that contains them as disposable."
+  - id: containment-without-cruelty
+    term: "Containment without cruelty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Governing principle: impulses may require boundaries while still receiving recognition, evidence, and humane treatment."
+  - id: confession-without-submission
+    term: "Confession without submission"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Radical disclosure and self-examination without transferring interpretive sovereignty to an external authority."
+  - id: authorship-of-interpretation
+    term: "Authorship of interpretation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Personally constructing the explanatory model of one's psychological change instead of being the passive object of another's diagnosis."
+  - id: psychological-excavation
+    term: "Psychological excavation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Deliberately digging into buried experiences, motives, and conflicts to understand their present effects."
+  - id: analytical-exposure
+    term: "Analytical exposure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Making embarrassing, contradictory, vain, cruel, frightened, or socially undesirable aspects of oneself available to examination."
+  - id: no-diplomatic-immunity-for-the-self
+    term: "No diplomatic immunity for the self"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Compact doctrine that intellectual honesty requires applying analytical tools to oneself as well as to the world."
+  - id: subpoena-power-of-introspection
+    term: "Subpoena power of introspection"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Principle that any internal belief, motive, memory, or agent may be called forward and questioned."
+  - id: no-torture-authority
+    term: "No torture authority"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Complementary constraint: the ability to interrogate an internal part does not create a right to humiliate or psychologically brutalize it."
+  - id: evidence-versus-punishment
+    term: "Evidence versus punishment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "An uncomfortable motive can be evidence about how the psyche works without automatically being grounds for condemnation."
+  - id: confessional-epistemology
+    term: "Confessional epistemology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Umbrella method for self-knowledge through disclosure, narration, interrogation, provenance tracing, adversarial testing, and reinterpretation."
+  - id: recursive-analysis
+    term: "Recursive analysis"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Analysis turned back on the analytical machinery itself: not only why a belief is held, but why a part wants to interpret it in a particular way."
+  - id: adult-audit-of-childhood-conclusions
+    term: "Adult audit of childhood conclusions"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "A present self with greater knowledge and capacity revisits propositions formed by a much younger self."
+  - id: legacy-psychological-code
+    term: "Legacy psychological code"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Old mental rules written under obsolete conditions that remain executable because they were never explicitly removed or refactored."
+  - id: psychological-refactoring
+    term: "Psychological refactoring"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Revising legacy psychological rules while preserving valid information or protective functions they originally contained."
+  - id: interior-historiography
+    term: "Interior historiography"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Treating the self like a historical civilization: reconstructing periods, turning points, causal chains, inherited institutions, ideological shifts, and residues."
+  - id: self-as-archive
+    term: "Self as archive"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "The present psyche as a repository of records left by earlier versions, encoded in habits, emotional reactions, prohibitions, assumptions, and explicit memories."
+  - id: danger-of-unexamined-accumulation
+    term: "Danger of unexamined accumulation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Claim that unreviewed conclusions can accumulate for decades and silently govern adult life."
+  - id: confession-as-maintenance
+    term: "Confession as maintenance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Self-analysis as periodic maintenance preventing obsolete psychological rules from silently becoming permanent law."
+  - id: nothing-in-me-is-exempt-from-examination
+    term: "Nothing in me is exempt from examination."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Constitutional core axiom: no motive, identity, belief, or internal part receives epistemic immunity from scrutiny."
+  - id: nothing-in-me-is-automatically-condemned-by-examination
+    term: "Nothing in me is automatically condemned by examination."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Confessional epistemology / psychological archaeology"
+    capture:
+      note: "Constitutional core axiom: being admitted to scrutiny does not itself make an internal phenomenon guilty, disposable, or illegitimate."
