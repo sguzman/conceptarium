@@ -7120,84 +7120,66 @@ concepts:
   - id: recursive-introspection
     term: "Recursive introspection"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/recursive-introspection.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Examining not only thoughts and motives but the motives behind the examination itself, making the investigator part of the investigation."
   - id: the-investigator
     term: "The investigator"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/the-investigator.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "The reflective part of the mind that attempts to understand the rest of the psyche."
   - id: investigating-the-investigator
     term: "Investigating the investigator"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/investigating-the-investigator.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Turning analysis onto the part claiming neutrality and asking what motives, biases, fears, pride, or cruelty shape its judgments."
   - id: internal-tribunal
     term: "Internal tribunal"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/internal-tribunal.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "The implicit psychological court in which impulses, identities, interpretations, and self-claims are judged legitimate or illegitimate."
   - id: procedural-self-analysis
     term: "Procedural self-analysis"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/procedural-self-analysis.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Examining not only what conclusion the internal tribunal reaches but whether the procedure by which it reached the conclusion was fair."
   - id: cruelty-in-the-tribunal
     term: "Cruelty in the tribunal"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/cruelty-in-the-tribunal.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "The possibility that an allegedly analytical internal voice is actually humiliating, delegitimizing, punishing, or erasing some part of the self."
   - id: no-part-of-me-gets-to-say-do-not-investigate-me
     term: "No part of me gets to say: do not investigate me"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/no-part-of-me-gets-to-say-do-not-investigate-me.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Strong introspective constitutional rule: every internal authority, including the authority demanding investigation, remains contestable."
   - id: recursive-expansion
     term: "Recursive expansion"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/recursive-expansion.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Each successful act of introspection reveals another level that can itself become an object of introspection: impulse → interpretation → interpreter → tribunal → procedure."
   - id: legibility
     term: "Legibility"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/legibility.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Transformation of something obscure into something describable, categorizable, comparable, recordable, and available to reasoning."
   - id: legibility-of-the-self
     term: "Legibility of the self"
     presence: registered
