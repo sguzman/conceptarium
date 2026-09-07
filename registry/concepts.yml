@@ -3258,3 +3258,143 @@ concepts:
     queue_group: "Fallen / Village and anti-domination"
     capture:
       note: "Credentials, prestige, or success can earn authority, while subsequent failure is treated as insufficient to remove that authority. Captured from the 2026-09-06 discussion of infinite license and unbounded revanchism; intentionally queued without materialization."
+
+  - id: fiscal-provenance
+    term: "Fiscal provenance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "Preservation of the contributor → tax event → treasury → appropriation → program → vendor → final expenditure chain, so compulsory revenue retains traceable origin. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: fiscal-non-extinguishment
+    term: "Fiscal non-extinguishment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "Compulsory collection does not itself extinguish the contributor’s residual fiscal rights. Alias from originating discussion: Non-extinguishment. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: claim-extinction
+    term: "Claim extinction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "The pathology in which collection into public revenue or a general fund is treated as extinguishing the taxpayer’s individualized downstream claims. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: residual-fiscal-rights
+    term: "Residual fiscal rights"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "The contributor rights that survive compulsory transfer, including provenance, attribution, allocation, refusal, audit, and standing. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: taxpayer-sovereignty
+    term: "Taxpayer sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "The principle that a contributor retains constitutionally bounded authority over the disposition and accounting of their own tax contribution rather than becoming fiscally irrelevant at collection. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: physical-pooling-legal-individuation
+    term: "Physical pooling / legal individuation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "Treasury funds may be economically pooled while legal and accounting claims remain individualized to contributors. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: treasury-fungibility-taxpayer-sovereignty
+    term: "Treasury fungibility / taxpayer sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "Fungibility of public money does not require erasure of contributor-specific legal attribution or bounded allocation rights. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: fiscal-allocation-graph
+    term: "Fiscal allocation graph"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "A legally authoritative graph propagating fractional taxpayer attribution from contribution through treasury, appropriation, program, contract, vendor, and final expenditure. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: continuing-fiscal-claim
+    term: "Continuing fiscal claim"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "The taxpayer remains a rights-bearing entity throughout the fiscal transaction instead of disappearing once the contribution is categorized as revenue. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: debtor-creditor-asymmetry
+    term: "Debtor–creditor asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "The state meticulously individuates citizens as debtors when proving what they owe, but resists comparable individuation when citizens ask what happened to what was collected from them. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: compulsion-generated-rights
+    term: "Compulsion-generated rights"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "The principle that weaker consent in a compulsory transfer should generate stronger fiduciary, accounting, transparency, and contestability obligations on the recipient state. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: fiscal-standing
+    term: "Fiscal standing"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "A taxpayer has personal standing to challenge violations of their residual fiscal rights even when the attributable amount improperly routed is very small. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: fiscal-commitment-problem
+    term: "Fiscal commitment problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "Taxpayers rationally resist new levies when narrow or temporary concessions can become permanent generalized revenue with weaker provenance and broader state discretion. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
+
+  - id: fiscal-rights-extinction
+    term: "Fiscal rights extinction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Fiscal provenance and taxpayer rights"
+    capture:
+      note: "The institutional presumption that lawful compulsory collection terminates the contributor’s individualized claims over provenance, attribution, allocation, or disposition of the transferred value. Recovered from the 2026-08-22 tax-provenance / residual-rights discussion and queued on 2026-09-06 without materialization."
