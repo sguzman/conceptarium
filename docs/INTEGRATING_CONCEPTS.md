@@ -2,7 +2,7 @@
 
 This document defines the **end-to-end contract** for capturing, promoting, integrating, or revising a concept in Conceptarium.
 
-Conceptarium distinguishes **predicate presence** from **ontological materialization**. A concept may be captured in the registry with almost no semantic commitment and developed later.
+Conceptarium distinguishes [**predicate presence**](../entries/predicate-presence.md) from [**ontological materialization**](../entries/ontological-materialization.md). A concept may be captured in the registry with almost no semantic commitment and developed later.
 
 It is written for both humans and AI agents.
 
