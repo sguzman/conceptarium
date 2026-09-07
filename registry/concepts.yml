@@ -1063,12 +1063,10 @@ concepts:
   - id: autonomous-agents
     term: "autonomous agents"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/autonomous-agents.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Generative systems"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: belief-revision-calibration-failure
     term: "belief-revision / calibration failure"
     presence: registered
@@ -1086,12 +1084,10 @@ concepts:
   - id: carry-their-personality-in-their-bodies
     term: "carry their personality in their bodies"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/carry-their-personality-in-their-bodies.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Generative systems"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: causal-legibility
     term: "causal legibility"
     presence: registered
@@ -1127,12 +1123,10 @@ concepts:
   - id: declarative-character
     term: "declarative character"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/declarative-character.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Generative systems"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: decommodification
     term: "decommodification"
     presence: registered
@@ -1164,12 +1158,10 @@ concepts:
   - id: emotional-systems
     term: "emotional systems"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/emotional-systems.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Generative systems"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: epistemic-state
     term: "epistemic state"
     presence: registered
@@ -1208,12 +1200,10 @@ concepts:
   - id: generative-modeling
     term: "generative modeling"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/generative-modeling.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Generative systems"
-    capture:
-      note: "Preserved from the former promotion queue."
   - id: institutional-mediation
     term: "institutional mediation"
     presence: registered
