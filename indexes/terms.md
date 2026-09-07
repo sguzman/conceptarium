@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 386 entries.**
+**Current promoted corpus: 395 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -42,6 +42,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 - [Beauty-diversity norm](../entries/beauty-diversity-norm.md) — Treat narrow concentration around conventional female beauty as a portfolio problem and broaden represented aesthetic types.
 - [Behavioral legibility of health](../entries/behavioral-legibility-of-health.md) — Degree to which health outcomes appear attributable to behavior as material and environmental constraints are reduced.
+- [Being a problem to oneself](../entries/being-a-problem-to-oneself.md) — Reflexive condition in which the self becomes an object whose motives, history, procedures, contradictions, and formation require explanation.
 - [Body-as-interface](../entries/body-as-interface.md) — The use of a character’s body simultaneously as represented object and as machinery for presenting or transforming the scene.
 - [Body-as-language](../entries/body-as-language.md) — A representational system in which bodily configuration, deformation, motion, timing, and spatial relation perform linguistic-like functions normally carried by dialogue or narration.
 - [Border constitutionalism](../entries/border-constitutionalism.md) — Restrain the ego primarily where private desire, theory, or ambition crosses into claims over other persons.
@@ -61,6 +62,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Coherent metaphysics of animation](../entries/coherent-metaphysics-of-animation.md) — A sufficiently consistent animation grammar that implies an underlying ontology: not merely how the animator depicts change, but apparently how change itself works in that world.
 - [Colonization of the subconscious](../entries/colonization-of-the-subconscious.md) — Metaphor for consciousness extending interpretive and administrative reach into previously unexamined inner territory.
 - [Compensatory use](../entries/compensatory-use.md) — Use a cultural object or mediated experience to partially satisfy, regulate, rehearse, or stand in for an unmet need or unavailable experience.
+- [Conscious sovereignty](../entries/conscious-sovereignty.md) — Strong and locally rejected claim that reflective consciousness fully governs the mind, preserved as a limit case against self-legibility inflation.
 - [Conspicuous abstention](../entries/conspicuous-abstention.md) — Publicly legible refusal of accessible goods used as a status signal.
 - [Constitutionalized border crossing](../entries/constitutionalized-border-crossing.md) — Every transition from private thought into social power is subject to rules, consent, and anti-domination constraints.
 - [Constraint substitution](../entries/constraint-substitution.md) — Replacement of naturally occurring limits with voluntary or institutionally designed constraints.
@@ -92,6 +94,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Diegetic tweening](../entries/diegetic-tweening.md) — A special case of diegetic transition in which the character or object itself performs the visual operation that carries it from one state to another.
 - [Diegetization](../entries/diegetization.md) — Force apparently transcendent knowledge or authority to acquire an address inside the represented world.
 - [Diminishing returns of opening](../entries/diminishing-returns-of-opening.md) — Once a major psychological possibility boundary has been crossed, repeating the same opening mechanism tends to yield less new information.
+- [Discovery versus creation of the self](../entries/discovery-versus-creation-of-the-self.md) — Unresolved question whether newly accessible psychological material was discovered, constructed, socially produced, state-dependent, or some mixture.
 - [Disinhibition](../entries/disinhibition.md) — Temporary reduction in restraints on thought, expression, or behavior, distinct from durable psychological opening.
 - [Distinction without dominion](../entries/distinction-without-dominion.md) — Recognize real excellence without converting it into jurisdiction over others.
 - [Dominance discount](../entries/dominance-discount.md) — Assign less moral weight to a group's interests because the group is classified as socially or historically dominant.
@@ -199,6 +202,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 ## L
 
 - [Legibility](../entries/legibility.md) — Transformation of something obscure into something describable, categorizable, comparable, recordable, and available to reasoning or administration.
+- [Legibility of the self](../entries/legibility-of-the-self.md) — Increasing ability to render inner experience describable, differentiable, comparable, recordable, and available to explicit self-reasoning.
 - [Local visual physics](../entries/local-visual-physics.md) — The internally consistent rules governing how bodies, objects, space, time, and transformations behave within a particular visual work or animator’s style.
 - [Longevity sorting](../entries/longevity-sorting.md) — Hypothesized lifespan divergence from cumulative behavior under broadly equalized medical/material access.
 - [Luxury friction](../entries/luxury-friction.md) — Premium, voluntarily difficult or austere experiences valued because ordinary gratification is frictionless.
@@ -279,7 +283,9 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Psychic monarchy, external republic](../entries/psychic-monarchy-external-republic.md) — Internally the ego may rule extravagantly; externally other persons remain sovereign.
 - [Psychic sovereignty, epistemic submission, social non-domination](../entries/psychic-sovereignty-epistemic-submission-social-non-domination.md) — Tight synthesis: freedom within interiority, submission of models to reality, and non-domination of other persons.
 - [Psychic sovereignty](../entries/psychic-sovereignty.md) — Exclusive jurisdiction over private imagination, grandiosity, ambition, self-mythology, and theoretical conquest absent external imposition.
+- [Psychological cartography](../entries/psychological-cartography.md) — Map inner life through regions, boundaries, transitions, conflicts, recurring agents, motives, and explicit uncertainty.
 - [Psychological closure](../entries/psychological-closure.md) — Inner material is excluded from serious conscious recognition because it conflicts with morality, role, identity, shame, fear, upbringing, or self-conception.
+- [Psychological closure → opening → expanded admissible self-model → self-interrogation → recursive introspection → investigation of the investigator → procedural scrutiny of the internal tribunal → increasing self-legibility without complete conscious sovereignty](../entries/psychological-opening-to-self-legibility-chain.md) — Protected causal architecture connecting opening to recursive procedural self-analysis and increasing self-legibility while denying complete conscious sovereignty.
 - [Psychological territory](../entries/psychological-territory.md) — Region or class of inner experience that can become an object of awareness, description, interpretation, or integration.
 - [Punitive anti-fanservice](../entries/punitive-anti-fanservice.md) — Anti-fanservice in which frustrating a target audience's erotic preferences becomes positively meaningful as correction, resistance, or virtue.
 
@@ -293,6 +299,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Recognition hunger / recognition terror](../entries/recognition-hunger-recognition-terror.md) — Desire for accurate recognition combined with fear that recognition will mutate into sovereignty and domination.
 - [Recursive expansion](../entries/recursive-expansion.md) — Introspective field expands as each newly examined layer reveals another layer that can itself become an object of analysis.
 - [Recursive introspection](../entries/recursive-introspection.md) — Self-examination turns onto the processes doing the examining, making interpretations, evaluators, and procedures themselves available to scrutiny.
+- [Reflective administration](../entries/reflective-administration.md) — Organize, categorize, adjudicate, integrate, and revise sufficiently legible psychological material without claiming total rule over mind.
 - [Reflexive estrangement](../entries/reflexive-estrangement.md) — An outside reconstruction makes members of the represented culture experience their own familiar world as newly foreign.
 - [Reflexive surplus](../entries/reflexive-surplus.md) — The extra layer by which an intellectual simultaneously experiences, theorizes, compares, historicizes, and systematizes experience.
 - [Register incongruity](../entries/register-incongruity.md) — The productive mismatch between a character’s visual/social coding and the linguistic or behavioral register assigned to them; for example, highly stylized anime characters speaking in casual contemporary urban American vernacular.
@@ -302,6 +309,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Representational machinery collapse](../entries/representational-machinery-collapse.md) — The collapse of the distinction between the object being represented and the visual machinery used to represent it. The character can become actor, prop, transition, framing device, symbol, and editing operation at once.
 - [Representational regime switching](../entries/representational-regime-switching.md) — Moving between different modes of depiction while preserving the semantic identity of the represented object.
 - [Representational regime](../entries/representational-regime.md) — The currently operative set of assumptions governing how reality is depicted: realistic anatomy, flat symbol, photograph, crude drawing, 3D object, exaggerated cartoon, etc.
+- [Retreating frontier](../entries/retreating-frontier.md) — Each increase in psychological understanding reveals additional unknown structure, so the frontier of ignorance recedes rather than disappearing.
 - [Retroactive franchise rewriting](../entries/retroactive-franchise-rewriting.md) — Later franchise development changes how older works are culturally interpreted without requiring literal retcons.
 - [Rising Fallen](../entries/rising-fallen.md) — Ascent-oriented actors blocked from or climbing toward elite incorporation.
 
@@ -313,6 +321,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Self-abnegation](../entries/self-abnegation.md) — Deliberate reduction of ego, prestige, self-assertion, or self-centrality.
 - [Self-correcting dilution](../entries/self-correcting-dilution.md) — Unsuccessful diluting works are rejected and marginalized before they can redefine future franchise identity.
 - [Self-editing character](../entries/self-editing-character.md) — A character whose own body performs operations analogous to editing—wiping, masking, cutting, reframing, reconstructing, or transitioning itself.
+- [Self-opacity](../entries/self-opacity.md) — A person remains partly inaccessible to themselves even under sophisticated introspection; motives, causes, memories, and state transitions can remain only indirectly inferable.
 - [Semantic anchor](../entries/semantic-anchor.md) — A stable recognizable element—often a known character—that helps the viewer interpret otherwise strange or discontinuous visual transformations.
 - [Semantic continuity over geometric continuity](../entries/semantic-continuity-over-geometric-continuity.md) — A visual principle in which preserving the intelligibility of what is happening matters more than preserving realistic spatial mechanics.
 - [Semantic continuity](../entries/semantic-continuity.md) — Continuity based on preservation of identity, intent, or meaning across transformation rather than preservation of literal geometry or physical trajectory.
