@@ -1247,12 +1247,10 @@ concepts:
   - id: ontological-materialization
     term: "Ontological materialization"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/ontological-materialization.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Conceptarium architecture"
-    capture:
-      note: "Progressive enrichment of a registered concept with definition, classification, relations, evidence, provenance, boundaries, and theoretical integration."
   - id: political-domestication
     term: "political domestication"
     presence: registered
@@ -1270,12 +1268,10 @@ concepts:
   - id: predicate-presence
     term: "Predicate presence"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/predicate-presence.md
+    ontology_state: unassessed
     registered_on: 2026-09-05
-    queue_group: "Conceptarium architecture"
-    capture:
-      note: "A concept has sufficient registered identity to be referenced, indexed, related, queued, or embedded before full semantic or ontological materialization."
   - id: pressure-valves
     term: "pressure valves"
     presence: registered
