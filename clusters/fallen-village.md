@@ -82,15 +82,49 @@ A materially comfortable actor can experience enormous discrepancy or threatened
 
 That makes relative trajectory more important to the Fallen model than absolute poverty.
 
-Still awaiting promotion in the institutional extension:
+The institutional ladder ecology is now materialized:
 
-- blocked mobility;
-- ladder closure;
-- ladder density;
-- pressure valves;
-- elite overproduction;
-- psychologically expensive Fallen class;
-- counter-elite.
+- [blocked mobility](../entries/blocked-mobility.md)
+- [ladder closure](../entries/ladder-closure.md)
+- [ladder density](../entries/ladder-density.md)
+- [pressure valves](../entries/pressure-valves.md)
+- [elite overproduction](../entries/elite-overproduction.md)
+- [psychologically expensive Fallen class](../entries/psychologically-expensive-fallen-class.md)
+- [counter-elite](../entries/counter-elite.md)
+
+The causal chain is:
+
+~~~text
+high expectations / elite production
+        ↓
+finite consequential roles
+        ↓
+elite overproduction
+        ↓
+ladder closure or bottleneck
+        ↓
+blocked mobility
+        ↓
+status discrepancy + status threat
+        ↓
+counter-elite formation
+~~~
+
+The primary institutional response is not abolition of hierarchy. It is **permeability with real consequence**:
+
+~~~text
+ladder density
+      +
+pressure valves
+      +
+elite circulation
+      ↓
+more credible routes to incorporation
+      ↓
+less destructive concentration of status competition
+~~~
+
+The **psychologically expensive Fallen class** is deliberately adjacent to, but not identical with, elite overproduction. Elite overproduction is a structural aspirant/position mismatch; psychological expense names the motivational problem that some actors require scarce forms of consequence or recognition for flourishing.
 
 ## Brokerage and political authorship
 
@@ -203,12 +237,20 @@ The useful hypothesis is positional:
 
 > exclusion can make the moral problem of closure unusually visible.
 
-Its institutional counterpart—**moralization of qualification/order after ascent**—remains part of the adjacent institutions backlog.
+The broader frame is now [political morality as a status-ordering technology](../entries/political-morality-as-a-status-ordering-technology.md).
 
-Still awaiting promotion there:
+That framework preserves the positional hypothesis without collapsing morality into status strategy:
 
-- political morality as a status-ordering technology;
-- moralization of qualification/order after ascent.
+~~~text
+status position
+      ↓
+different institutional problems become salient
+      ↓
+moral language can attack, open, legitimate,
+qualify, or reproduce the status order
+~~~
+
+The strong reductionist claim—**all morality is status camouflage**—remains explicitly rejected.
 
 ## Embedded community
 
@@ -322,14 +364,141 @@ The variable concerns density, duration, multiplexity, and practical importance 
 
 ## Village continuity
 
+The continuity side is now represented directly by:
+
+- [Village continuity](../entries/village-continuity.md)
 - [Adaptive continuity](../entries/adaptive-continuity.md)
+- [reciprocal morality](../entries/reciprocal-morality.md)
+- [foreigner is relational](../entries/foreigner-is-relational.md)
 
-Still awaiting promotion in the institutions extension:
+The distinction is:
 
-- Village continuity;
-- reciprocal morality;
-- commons/household systems;
-- foreigner is relational.
+~~~text
+Village continuity
+      =
+what is being preserved
+
+Adaptive continuity
+      =
+how preservation can survive change
+~~~
+
+[reciprocal morality](../entries/reciprocal-morality.md) provides the endogenous moral grammar of the Village side: repeated obligation, mutual aid, customary entitlement, remembered conduct, and local fairness.
+
+[foreigner is relational](../entries/foreigner-is-relational.md) prevents bounded reciprocity from becoming an ethnic essence. Foreignness is always foreignness **to some reference network at some scale**.
+
+~~~text
+same person
+  insider to household
+  outsider to neighboring kin network
+  insider to village
+  outsider to another village
+  insider to region
+  outsider to another state
+~~~
+
+This makes Village boundaries nested and relational rather than metaphysically fixed.
+
+## Dependency, legibility, and institutional mediation
+
+The liberalism/dependency side of the cluster now has a materialized institutional chain:
+
+- [Social disembedding](../entries/social-disembedding.md)
+- [Institutional legibility](../entries/institutional-legibility.md)
+- [state legibility](../entries/state-legibility.md)
+- [institutional mediation](../entries/institutional-mediation.md)
+- [managed dependency](../entries/managed-dependency.md)
+- [Shift dependency](../entries/shift-dependency.md)
+- [decommodification](../entries/decommodification.md)
+- [defamilialization](../entries/defamilialization.md)
+- [political domestication](../entries/political-domestication.md)
+- [ethnographic engineering](../entries/ethnographic-engineering.md)
+
+The governing synthesis is:
+
+~~~text
+direct kin / local dependency
+        ↓
+social disembedding
+        ↓
+institutional legibility
+        ↓
+institutional mediation
+        ↓
+managed dependency
+        ↓
+new freedoms + new gatekeepers
+~~~
+
+This is why the cluster rejects the simple equation:
+
+~~~text
+less family / village dependence
+        =
+less dependency
+~~~
+
+The stronger question is:
+
+> **Dependency on whom or what, through which institutional interface, with what exit, appeal, and contestability?**
+
+### Decommodification and defamilialization
+
+[decommodification](../entries/decommodification.md) reduces dependence on market purchase or wage access for basic security.
+
+[defamilialization](../entries/defamilialization.md) reduces compulsory dependence on family or kin for survival and adult autonomy.
+
+They are different operations:
+
+~~~text
+decommodification
+targets market dependence
+
+defamilialization
+targets compulsory family dependence
+~~~
+
+Both can increase exit capacity.
+
+Both can also transfer dependency into administrative systems, which means they remain subject to anti-domination analysis rather than being treated as automatic emancipation.
+
+### State legibility and political domestication
+
+[state legibility](../entries/state-legibility.md) is the state-specific subtype of [Institutional legibility](../entries/institutional-legibility.md).
+
+~~~text
+dense lived reality
+      ↓
+standardized records / categories
+      ↓
+administrative visibility
+      ↓
+allocation / taxation / regulation / rights / control
+~~~
+
+[political domestication](../entries/political-domestication.md) names the mode of governance that increasingly works through those administrative channels—classification, incentives, permissions, benefits, credentials, and managed dependency—rather than only direct coercion.
+
+The term describes a mechanism, not a total theory of liberalism.
+
+### Ethnographic engineering
+
+[ethnographic engineering](../entries/ethnographic-engineering.md) names the harder edge of the same institutional problem: institutions may restructure kinship, property, language, settlement, schooling, or local authority so populations become easier to govern, classify, or redirect.
+
+~~~text
+local social structure
+      ↓ institutional restructuring
+social disembedding
+      +
+greater state legibility
+      ↓
+dependency / allegiance shifts upward
+~~~
+
+This can liberate people from coercive local structures.
+
+It can also destroy Village continuity.
+
+The framework therefore refuses both romantic localism and automatic celebration of large-scale institutionalization.
 
 ## Normative boundary
 
