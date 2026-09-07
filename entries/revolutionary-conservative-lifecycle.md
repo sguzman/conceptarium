@@ -19,7 +19,7 @@ origin:
   note: >-
     Recovered master sequence: exclusion → counter-elite formation → innovation → Village mobilization/alliance → victory → institutionalization → conservatism/closure.
 relations:
-  - type: begins-with
+  - type: associated-with
     target: rising-fallen
   - type: produces
     target: established-fallen
