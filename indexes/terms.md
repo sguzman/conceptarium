@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 366 entries.**
+**Current promoted corpus: 377 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -17,6 +17,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Actor-body](../entries/actor-body.md) — A preexisting animated character treated not primarily as their canonical fictional identity, but as a reusable body capable of performing newly constructed roles, dialogue, and social identities.
 - [Adaptive continuity](../entries/adaptive-continuity.md) — Preserve a recognizable form of life through selective adaptation rather than static preservation.
 - [Additive diversity](../entries/additive-diversity.md) — Broaden representation by adding new aesthetic types without intentionally suppressing existing ones.
+- [Admissible self-model](../entries/admissible-self-model.md) — Range of traits, impulses, moods, identities, desires, and behaviors a person permits themselves to recognize as legitimately belonging to the self.
 - [Adversarial preference governance](../entries/adversarial-preference-governance.md) — Treat a constituency's preferences as desires to restrain, correct, or transform rather than merely balance against others.
 - [Adversarial verification](../entries/adversarial-verification.md) — Recover confidence through independent, differently incentivized checks.
 - [Aesthetic allocation](../entries/aesthetic-allocation.md) — Distribute finite representational resources across competing aesthetic ideals and audiences.
@@ -44,6 +45,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Body-as-interface](../entries/body-as-interface.md) — The use of a character’s body simultaneously as represented object and as machinery for presenting or transforming the scene.
 - [Body-as-language](../entries/body-as-language.md) — A representational system in which bodily configuration, deformation, motion, timing, and spatial relation perform linguistic-like functions normally carried by dialogue or narration.
 - [Border constitutionalism](../entries/border-constitutionalism.md) — Restrain the ego primarily where private desire, theory, or ambition crosses into claims over other persons.
+- [Boundary of the search space](../entries/boundary-of-the-search-space.md) — Implicit limit on the psychological possibilities seriously considered when interpreting what one can feel, want, enjoy, fear, believe, or become.
 - [Brand-signifier](../entries/brand-signifier.md) — A franchise name functioning primarily as a commercial or cultural signal rather than a strongly bounded creative category.
 - [Bring your own model](../entries/bring-your-own-model.md) — Plural modeling creates obligations of translation, comparison, provenance, and invariance.
 
@@ -57,6 +59,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Closure pressure](../entries/closure-pressure.md) — The anxious pull exerted by an unfinished but still-valued object that remains mentally open and contains a salient remainder to absorb.
 - [Coalitional readability](../entries/coalitional-readability.md) — Degree to which an artifact or cue can be rapidly and confidently sorted into a perceived cultural or ideological coalition.
 - [Coherent metaphysics of animation](../entries/coherent-metaphysics-of-animation.md) — A sufficiently consistent animation grammar that implies an underlying ontology: not merely how the animator depicts change, but apparently how change itself works in that world.
+- [Colonization of the subconscious](../entries/colonization-of-the-subconscious.md) — Metaphor for consciousness extending interpretive and administrative reach into previously unexamined inner territory.
 - [Compensatory use](../entries/compensatory-use.md) — Use a cultural object or mediated experience to partially satisfy, regulate, rehearse, or stand in for an unmet need or unavailable experience.
 - [Conspicuous abstention](../entries/conspicuous-abstention.md) — Publicly legible refusal of accessible goods used as a status signal.
 - [Constitutionalized border crossing](../entries/constitutionalized-border-crossing.md) — Every transition from private thought into social power is subject to rules, consent, and anti-domination constraints.
@@ -87,11 +90,14 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Diegetic transition](../entries/diegetic-transition.md) — A transition normally belonging to the external presentation layer—such as a wipe, cut, dissolve, or masking operation—that is instead performed by an object or character within the represented world.
 - [Diegetic tweening](../entries/diegetic-tweening.md) — A special case of diegetic transition in which the character or object itself performs the visual operation that carries it from one state to another.
 - [Diegetization](../entries/diegetization.md) — Force apparently transcendent knowledge or authority to acquire an address inside the represented world.
+- [Diminishing returns of opening](../entries/diminishing-returns-of-opening.md) — Once a major psychological possibility boundary has been crossed, repeating the same opening mechanism tends to yield less new information.
+- [Disinhibition](../entries/disinhibition.md) — Temporary reduction in restraints on thought, expression, or behavior, distinct from durable psychological opening.
 - [Distinction without dominion](../entries/distinction-without-dominion.md) — Recognize real excellence without converting it into jurisdiction over others.
 - [Dominance discount](../entries/dominance-discount.md) — Assign less moral weight to a group's interests because the group is classified as socially or historically dominant.
 - [Double estrangement](../entries/double-estrangement.md) — Cultural estrangement and another estranging process such as horror operate in sequence on the same familiar material.
 - [Draftsmanship–animation decoupling](../entries/draftsmanship-animation-decoupling.md) — The principle that quality of individual drawings and quality of animation are partially independent dimensions. Crude drawings can support extraordinary animation, while polished drawings can remain temporally inert.
 - [The dragon and the property line](../entries/the-dragon-and-the-property-line.md) — Let the internal dragon roam, but make the external property line extremely strong.
+- [Durable expansion of the self-model](../entries/durable-expansion-of-the-self-model.md) — Lasting change in which a newly revealed psychological possibility remains consciously conceivable after the initiating state ends.
 
 ## E
 
@@ -108,6 +114,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Erotic optimization](../entries/erotic-optimization.md) — Deliberately coordinate character design choices to maximize sexual or romantic appeal to a target audience.
 - [Established Fallen](../entries/established-fallen.md) — Incorporated ascent-oriented actors whose incentives shift toward competence, order, qualification, and controlled succession.
 - [Estrangement machine](../entries/estrangement-machine.md) — A repeatable artistic system whose interacting components reliably convert familiar material into something alien.
+- [Expansion of the conscious mind](../entries/expansion-of-the-conscious-mind.md) — Enlargement of what can be consciously noticed, named, interpreted, and incorporated into self-understanding.
 - [Expressive animation](../entries/expressive-animation.md) — Visible movement as outward evidence of intent, state, effort, and social stance.
 
 ## F
@@ -194,6 +201,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 ## M
 
 - [Macro-narrative](../entries/macro-narrative.md) — The larger causal and sequential structure of a story: what happened, why it happened, and how events relate globally.
+- [Maintenance](../entries/maintenance.md) — Psychological support that preserves functioning or an already-achieved range of self-access without fundamentally enlarging conscious territory.
 - [Male preference as governance object](../entries/male-preference-as-governance-object.md) — Treat heterosexual male desire as something institutions should manage, educate, constrain, or change rather than merely serve or decline.
 - [Male-desire tax](../entries/male-desire-tax.md) — Extra prestige or moral burden placed on heterosexual male aesthetic or sexual preferences.
 - [Mastery over pleasure](../entries/mastery-over-pleasure.md) — Competence or prestige derived from controlling consumption rather than merely possessing pleasurable goods.
@@ -230,6 +238,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Ontological materialization](../entries/ontological-materialization.md) — Progressive enrichment of a registered concept with definition, classification, relations, evidence, provenance, boundaries, and theoretical integration.
 - [Ontological migration](../entries/ontological-migration.md) — A change in the kind of continuity that defines what the franchise is.
 - [Ontologized transition grammar](../entries/ontologized-transition-grammar.md) — A transition system that becomes so stable and recurrent that its conventions appear to be laws of the represented universe rather than merely stylistic tricks imposed by the animator.
+- [Opening](../entries/opening.md) — Discontinuous expansion in psychological accessibility that makes previously excluded aspects of the self available to conscious exploration.
 - [Organizational asymmetry](../entries/organizational-asymmetry.md) — Different groups supply different movement resources, giving small broker layers disproportionate control over political form.
 
 ## P
@@ -263,6 +272,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Psychic monarchy, external republic](../entries/psychic-monarchy-external-republic.md) — Internally the ego may rule extravagantly; externally other persons remain sovereign.
 - [Psychic sovereignty, epistemic submission, social non-domination](../entries/psychic-sovereignty-epistemic-submission-social-non-domination.md) — Tight synthesis: freedom within interiority, submission of models to reality, and non-domination of other persons.
 - [Psychic sovereignty](../entries/psychic-sovereignty.md) — Exclusive jurisdiction over private imagination, grandiosity, ambition, self-mythology, and theoretical conquest absent external imposition.
+- [Psychological closure](../entries/psychological-closure.md) — Inner material is excluded from serious conscious recognition because it conflicts with morality, role, identity, shame, fear, upbringing, or self-conception.
+- [Psychological territory](../entries/psychological-territory.md) — Region or class of inner experience that can become an object of awareness, description, interpretation, or integration.
 - [Punitive anti-fanservice](../entries/punitive-anti-fanservice.md) — Anti-fanservice in which frustrating a target audience's erotic preferences becomes positively meaningful as correction, resistance, or virtue.
 
 ## Q
