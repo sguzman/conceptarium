@@ -28,6 +28,18 @@ relations:
     target: ideological-brokerage
   - type: overlaps-with
     target: symbolic-substitution
+  - type: contains
+    target: intentional-signifier
+  - type: contains
+    target: imposed-signifier
+  - type: produces
+    target: allegiance-inference
+  - type: enables
+    target: content-bypass
+  - type: associated-with
+    target: coalitional-readability
+  - type: associated-with
+    target: semiotic-capture
 ---
 
 # Consumer semiotics
@@ -138,6 +150,8 @@ A central distinction inside the concept is between **intentional** and **impose
 
 ### Intentional signifier
 
+See [Intentional signifier](./intentional-signifier.md) for the standalone concept.
+
 A creator, publisher, marketer, brand, or movement knowingly uses a cue because they expect an audience to read its cultural or ideological meaning.
 
 Examples include:
@@ -151,6 +165,8 @@ Examples include:
 Here the semiotic function is at least partly **emitted intentionally**.
 
 ### Imposed signifier
+
+See [Imposed signifier](./imposed-signifier.md) for the standalone concept.
 
 An audience or surrounding culture assigns ideological meaning to a feature whether or not the creator intended that meaning.
 
@@ -195,6 +211,8 @@ The causal direction can reverse.
 
 ## Allegiance inference
 
+See [Allegiance inference](./allegiance-inference.md) for the standalone mechanism.
+
 The most important downstream operation is **allegiance inference**.
 
 The consumer observes a sign and infers:
@@ -218,6 +236,8 @@ That inference may then spread to judgments about:
 The object becomes a proxy for a larger coalition.
 
 ## Content bypass
+
+See [Content bypass](./content-bypass.md) for the standalone failure mode.
 
 Consumer semiotics becomes intellectually dangerous when it produces **content bypass**.
 
@@ -270,6 +290,8 @@ A work can signal ideological friendliness and still be shallow, badly written, 
 The separation protects **critical integrity**.
 
 ## Culture-war capture of an artifact
+
+This process is now materialized as [Semiotic capture](./semiotic-capture.md).
 
 An artifact can become semiotically “captured” without changing internally.
 
@@ -539,10 +561,10 @@ These stages may eventually deserve their own entries if they recur independentl
 - Can creators deliberately produce semiotic ambiguity to resist coalition capture?
 - When does consumer semiotics provide useful Bayesian information about a work, and when does it become content bypass?
 - How should consumer semiotics interact with serious criticism of genuinely ideological art?
-- Are “allegiance inference” and “content bypass” important enough to become independent Conceptarium concepts?
 
 ## Revision history
 
 - **2026-09-05:** “Consumer semiotics” coined during discussion of culture-war shorthand in game reception.
 - **2026-09-05:** User immediately established the intentional-signifier / imposed-signifier distinction as central.
 - **2026-09-05:** First canonical Conceptarium entry formalized the mechanism as signifier → ideological mapping → allegiance inference → coalitional sorting, with content bypass as a major failure mode.
+- **2026-09-07:** Six consumer-signification sub-concepts promoted to standalone entries: intentional signifier, imposed signifier, allegiance inference, content bypass, coalitional readability, and semiotic capture.

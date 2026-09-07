@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 356 entries.**
+**Current promoted corpus: 362 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -24,6 +24,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Aesthetic paternalism](../entries/aesthetic-paternalism.md) — Use aesthetic production partly to improve, correct, or protect consumers rather than only satisfy existing preferences.
 - [Affective reinforcement](../entries/affective-reinforcement.md) — Cultural use becomes more persistent because an object reliably produces or regulates a desired emotional state.
 - [Agentic systems](../entries/agentic-systems.md) — Persistent decision-making entities with beliefs, needs, goals, memories, and state.
+- [Allegiance inference](../entries/allegiance-inference.md) — Infer broader cultural or ideological coalition membership from a compressed cultural sign.
 - [American horror through Japanese eyes](../entries/american-horror-through-japanese-eyes.md) — American spaces, imagery, genres, and anxieties reconstructed through Japanese artistic sensibilities.
 - [Anatomy as syntax](../entries/anatomy-as-syntax.md) — The treatment of the body not merely as depicted anatomy but as a compositional and grammatical system whose parts can function as transitions, punctuation, directional cues, masks, emphasis devices, or narrative operators.
 - [Animation grammar](../entries/animation-grammar.md) — The structured repertoire of rules governing how visual states may transform over time and how those transformations acquire meaning.
@@ -54,6 +55,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Character substrate](../entries/character-substrate.md) — The recognizable underlying character identity that gives the viewer something stable to track even while dialogue, context, tone, or world logic are radically transformed.
 - [Character-first experimental animation](../entries/character-first-experimental-animation.md) — Experimental animation in which formal invention remains organized around recognizable characters and their changing states rather than allowing pure visual or musical abstraction to dominate.
 - [Closure pressure](../entries/closure-pressure.md) — The anxious pull exerted by an unfinished but still-valued object that remains mentally open and contains a salient remainder to absorb.
+- [Coalitional readability](../entries/coalitional-readability.md) — Degree to which an artifact or cue can be rapidly and confidently sorted into a perceived cultural or ideological coalition.
 - [Coherent metaphysics of animation](../entries/coherent-metaphysics-of-animation.md) — A sufficiently consistent animation grammar that implies an underlying ontology: not merely how the animator depicts change, but apparently how change itself works in that world.
 - [Compensatory use](../entries/compensatory-use.md) — Use a cultural object or mediated experience to partially satisfy, regulate, rehearse, or stand in for an unmet need or unavailable experience.
 - [Conspicuous abstention](../entries/conspicuous-abstention.md) — Publicly legible refusal of accessible goods used as a status signal.
@@ -62,6 +64,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Constructive puppet](../entries/constructive-puppet.md) — Visibly segmented procedural character construction treated as an aesthetic rather than hidden scaffolding.
 - [Constructive puppetry](../entries/constructive-puppetry.md) — Using already-existing character animation as if it were puppet footage: selecting and sequencing bodily performances to make the character enact an entirely new scene.
 - [Consumer semiotics](../entries/consumer-semiotics.md) — Read consumer media through compressed cultural or ideological signifiers that can function as allegiance markers and substitute for deeper evaluation.
+- [Content bypass](../entries/content-bypass.md) — Inferred cultural allegiance substitutes for substantive engagement with an artifact's content, construction, argument, mechanics, or craft.
 - [Contestability](../entries/contestability.md) — Practical capacity to challenge, inspect, appeal, revise, or route around consequential decisions.
 - [Convergent architecture](../entries/convergent-architecture.md) — Perception, belief, need, decision, embodiment, visible action, and social reaction form one causal chain.
 - [Corporate moral fog](../entries/corporate-moral-fog.md) — Moral rhetoric obscures the mixture of market expansion, risk management, prestige seeking, and ideological commitments behind allocation decisions.
@@ -162,10 +165,12 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Imperious construction / submissive correction](../entries/imperious-construction-submissive-correction.md) — Build theories boldly and yield maximally when evidence defeats them.
 - [Imperium without jurisdiction](../entries/imperium-without-jurisdiction.md) — Unlimited representational empire without automatic authority over persons.
 - [Implicit cultural authorship](../entries/implicit-cultural-authorship.md) — Cultural identity expressed through formal perception, composition, atmosphere, and narrative assumptions rather than overt markers.
+- [Imposed signifier](../entries/imposed-signifier.md) — A cue acquires broader cultural or ideological meaning through audience interpretation regardless of demonstrated creator intent.
 - [Impossibility of de-Fallening](../entries/impossibility-of-de-fallening.md) — Developed abstraction, reflexivity, mobility, and formation cannot simply be erased through voluntary simplicity.
 - [Incumbent-audience discount](../entries/incumbent-audience-discount.md) — Place less marginal value on satisfying an audience assumed already captured while prioritizing acquisition of new demographics.
 - [Incumbent-audience extraction](../entries/incumbent-audience-extraction.md) — Continue monetizing established audience loyalty while progressively reallocating product design toward other constituencies.
 - [Institutional legibility](../entries/institutional-legibility.md) — Translate social reality into categories and records institutions can perceive and act upon.
+- [Intentional signifier](../entries/intentional-signifier.md) — A cue deliberately emitted because its creator expects audiences to recognize a broader cultural, ideological, or coalitional meaning.
 - [Internal definition](../entries/internal-definition.md) — A franchise definition grounded in properties of the works rather than corporate ownership and labeling.
 - [Internal despotism](../entries/internal-despotism.md) — One moral faction of the self permanently suppresses other legitimate drives such as ambition or authorship.
 - [Internalized governor](../entries/internalized-governor.md) — Metaphor for self-regulatory machinery that supplies limits after scarcity stops doing so.
@@ -294,6 +299,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Semantic motion](../entries/semantic-motion.md) — Motion whose purpose is to communicate a meaningful state change rather than faithfully simulate continuous physical movement through space.
 - [Semantic reassignment](../entries/semantic-reassignment.md) — Giving an existing shot, gesture, expression, or movement a new meaning by changing what precedes it, follows it, or accompanies it.
 - [Semantic tweening](../entries/semantic-tweening.md) — Replacing ordinary geometric interpolation between poses with symbolic, exaggerated, or impossible transformations that still make the intended change legible.
+- [Semiotic capture](../entries/semiotic-capture.md) — Repeated external interpretation and factional framing stabilize an artifact's public meaning around a particular cultural or ideological reading.
 - [Shell of social meaning](../entries/shell-of-social-meaning.md) — Physical architecture remains after the relationships and practices that made the place socially intelligible disappear.
 - [Shift dependency](../entries/shift-dependency.md) — Modernization often transfers dependence rather than abolishing it.
 - [Social disembedding](../entries/social-disembedding.md) — Movement from dense local relations toward impersonal market/legal/institutional mediation.
