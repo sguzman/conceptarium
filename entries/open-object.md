@@ -22,7 +22,7 @@ relations:
     target: closure-pressure
   - type: contains
     target: absorption-remainder
-  - type: closed-by
+  - type: changed-by
     target: deliberate-closure
 ---
 
