@@ -7016,102 +7016,80 @@ concepts:
   - id: expansion-of-the-conscious-mind
     term: "Expansion of the conscious mind"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/expansion-of-the-conscious-mind.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Enlargement of what can be consciously noticed, named, interpreted, and incorporated into self-understanding; increased access rather than creation of new impulses."
   - id: colonization-of-the-subconscious
     term: "Colonization of the subconscious"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/colonization-of-the-subconscious.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Metaphor for consciousness extending administrative reach into previously unexamined moods, impulses, fantasies, shame, desire, dreams, contradictions, and hidden motives."
   - id: psychological-territory
     term: "Psychological territory"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/psychological-territory.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Any region of inner experience that can become an object of awareness: desire, affect, identity, memory, fantasy, motivation, bodily impulse, self-deception, and related material."
   - id: admissible-self-model
     term: "Admissible self-model"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/admissible-self-model.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "The range of traits, impulses, moods, identities, and behaviors a person permits themselves to recognize as legitimately belonging to the self."
   - id: psychological-closure
     term: "Psychological closure"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/psychological-closure.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Condition in which parts of inner experience are excluded from conscious recognition because they conflict with morality, social role, identity, upbringing, or self-conception."
   - id: opening
     term: "Opening"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/opening.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "A discontinuous expansion in psychological accessibility in which previously suppressed, ignored, or unimaginable aspects of the self become available to conscious experience and exploration."
   - id: maintenance
     term: "Maintenance"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/maintenance.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Psychological support that preserves functioning or prevents collapse without fundamentally expanding the territory available to consciousness."
   - id: diminishing-returns-of-opening
     term: "Diminishing returns of opening"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/diminishing-returns-of-opening.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Once a major region of inner possibility becomes consciously accessible, repeating the original opening mechanism cannot yield the same informational breakthrough; a continent can only be discovered once."
   - id: boundary-of-the-search-space
     term: "Boundary of the search space"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/boundary-of-the-search-space.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "The implicit limits on possibilities considered when asking what one is capable of feeling, wanting, enjoying, or becoming; opening expands this boundary."
   - id: disinhibition
     term: "Disinhibition"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/disinhibition.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Temporary reduction in restraints on behavior or thought, distinguished from opening because it need not produce lasting changes in self-understanding."
   - id: durable-expansion-of-the-self-model
     term: "Durable expansion of the self-model"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/durable-expansion-of-the-self-model.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "A lasting change whereby an experience remains psychologically conceivable even after the state that first revealed it has ended."
   - id: provenance-legitimacy-distinction
     term: "Provenance–legitimacy distinction"
     presence: registered
