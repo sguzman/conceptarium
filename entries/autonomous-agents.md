@@ -23,7 +23,7 @@ relations:
     target: agentic-systems
   - type: constrained-by
     target: convergent-architecture
-  - type: acts-through
+  - type: uses
     target: motor-intent-boundary
   - type: shaped-by
     target: emotional-systems
