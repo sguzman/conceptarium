@@ -26,7 +26,7 @@ relations:
     target: seamless-replacement-of-disproven-explanations
   - type: exemplified-by
     target: false-precision
-  - type: exposed-by
+  - type: tested-by
     target: trustworthiness-under-adversarial-reality-testing
 ---
 
