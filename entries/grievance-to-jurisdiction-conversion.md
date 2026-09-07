@@ -1,0 +1,158 @@
+---
+id: grievance-to-jurisdiction-conversion
+term: "Grievance-to-jurisdiction conversion"
+type: mechanism
+status: provisional
+gloss: >-
+  The conversion of suffering, humiliation, dispossession, defeat, or historical injury into a claim of standing authority over other persons, groups, institutions, or domains beyond the bounded remedy for the injury.
+domains:
+  - "political theory"
+  - "social theory"
+  - "anti-domination"
+  - "fallen-village theory"
+aliases: []
+origin:
+  date: 2026-09-06
+  authorship: assistant
+  certainty: exact
+  note: >-
+    Proposed during the unbounded-revanchism discussion as the grievance-side analogue of credential-to-jurisdiction conversion.
+relations:
+  - type: enables
+    target: unbounded-revanchism
+  - type: produces
+    target: status-reversal-entitlement
+  - type: threatens
+    target: anti-domination
+  - type: associated-with
+    target: fallen-humiliation-hazard
+---
+
+# Grievance-to-jurisdiction conversion
+
+## Definition
+
+**Grievance-to-jurisdiction conversion** occurs when a valid or asserted status as injured party is used not merely to ground repair, but to ground **authority over others**.
+
+The key distinction is:
+
+~~~text
+injury → claim to remedy
+        ≠
+injury → standing jurisdiction
+~~~
+
+A remedy can include compensation, restitution, protection, apology, institutional reform, punishment under law, or other bounded responses. Conversion occurs when victimhood itself becomes a title to command, reorder, silence, exclude, or dominate beyond the remedial relation.
+
+## Problem pressure
+
+The unbounded-revanchism discussion needed the grievance-side counterpart to a familiar Fallen temptation:
+
+~~~text
+I have risen → therefore I may rule
+~~~
+
+The analogous grievance transformation is:
+
+~~~text
+I have suffered → therefore I may rule
+~~~
+
+Without this concept, the theory risked collapsing all strong redress into revanchism. The distinction lets Conceptarium affirm that injury can create genuine claims while still asking whether those claims have been converted into jurisdiction.
+
+## Core model
+
+~~~text
+injury / humiliation / dispossession
+        ↓
+legitimate remedial warrant
+        ↓
+conversion step
+        ↓
+special authority over targets
+        ↓
+authority exceeds repair relation
+~~~
+
+## Claims and implications
+
+The concept does not deny victim-centered procedures or special protections. Those can be directly justified by the harm.
+
+The relevant question is whether a particular power remains **instrumentally tied to repair and safety** or has become a generalized entitlement to determine another party’s standing.
+
+Within Fallen/Village theory, humiliation can create pressure toward this conversion, but the **Fallen humiliation hazard** is only a risk pattern, not a deterministic cause.
+
+## Examples
+
+### Clean example
+
+A historically injured group is granted a remedy and then claims permanent authority to determine unrelated civil rights of members of the former opposing category solely by virtue of the historical injury.
+
+### Social example
+
+A betrayed partner moves from requesting transparency relevant to rebuilding trust to claiming indefinite unilateral control over every unrelated aspect of the other partner’s life.
+
+### Borderline example
+
+A victim receives strong procedural rights in a criminal proceeding. These powers remain tied to the injury and legal process and therefore need not be jurisdiction conversion.
+
+## Non-examples
+
+Compensation, restitution, protective orders, or offender restrictions proportionate to a demonstrated harm are not inherently grievance-to-jurisdiction conversion.
+
+A harmed group gaining political representation is not conversion merely because the harm motivated organization.
+
+## Boundaries and failure modes
+
+The term must not erase the fact that injuries can legitimately change power relations. Sometimes removing a wrongdoer’s authority is part of repair.
+
+The analytic burden is to identify the **excess jurisdiction** and show why it no longer follows from the remedial purpose.
+
+## Operationalization / evidence
+
+Specify:
+
+- the harm;
+- the remedy logically connected to it;
+- the additional authority claimed;
+- the persons or domains governed by that authority;
+- whether the authority has a termination condition;
+- whether less dominating remedies could accomplish the stated protective goal.
+
+## Relations
+
+Grievance-to-jurisdiction conversion enables **Unbounded revanchism**, can produce **Status-reversal entitlement**, threatens **Anti-domination**, and may be associated with the **Fallen humiliation hazard** where humiliation becomes externalized into claims over others.
+
+## Provenance
+
+### First known appearance
+
+2026-09-06, proposed during the unbounded-revanchism discussion.
+
+### Immediate context
+
+It was defined as converting suffering, humiliation, dispossession, defeat, or historical injury into standing authority over others.
+
+### Problem being solved
+
+The theory needed to separate **rights generated by injury** from **sovereignty supposedly generated by injury**.
+
+### Conceptual ancestors
+
+- [Anti-domination](./anti-domination.md)
+- [The Fallen humiliation hazard](./fallen-humiliation-hazard.md)
+- [Unbounded revanchism](./unbounded-revanchism.md)
+
+### External antecedents
+
+Potential neighbors include victimhood politics, retributive authority, emergency powers, transitional justice, and theories of standing. No external equivalence is asserted.
+
+## Open questions
+
+- Which temporary powers are legitimately generated by injury without becoming jurisdictional title?
+- How should the theory handle descendants who inherit consequences but not direct victimhood?
+- Can restorative institutions reduce the pressure to convert grievance into standing authority?
+
+## Revision history
+
+- 2026-09-06 — Promoted from the Infinite license / unbounded claims queue.
