@@ -312,11 +312,11 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Structural anti-male bias](../entries/structural-anti-male-bias.md) — Systematic pattern in which male interests, harms, preferences, or complaints receive less institutional concern or legitimacy, distinct from misandry proper.
 - [Style-pack franchise](../entries/style-pack-franchise.md) — Franchise identity is reduced to a portable bundle of recognizable aesthetic and thematic cues.
 - [Submission to correction](../entries/submission-to-correction.md) — Let reality overthrow a theory without retaliating against reality for doing so.
-- [Symbolic substitution](../entries/symbolic-substitution.md) — A symbolic or mediated object functions as a stand-in for an unavailable experience, relationship, status, identity, or condition.
 - [Substitutive diversity](../entries/substitutive-diversity.md) — Broaden representation partly by replacing or reducing an existing aesthetic category.
 - [Surface refinement ≠ formal sophistication](../entries/surface-refinement-not-formal-sophistication.md) — The principle that visual polish and structural intelligence are independent variables. A crude-looking work may contain a highly sophisticated formal system.
 - [Surface refinement](../entries/surface-refinement.md) — Technical polish visible in rendering, anatomy, line quality, detail, realism, or production finish.
 - [Surrealist recombination](../entries/surrealist-recombination.md) — Producing new meaning by combining culturally or narratively distant materials while preserving enough internal coherence that the result feels like an alternative reality rather than random collage.
+- [Symbolic substitution](../entries/symbolic-substitution.md) — A symbolic or mediated object functions as a stand-in for an unavailable experience, relationship, status, identity, or condition.
 - [Synthetic friction](../entries/synthetic-friction.md) — Deliberately introduced resistance intended to restore discipline, meaning, pacing, attention, or status.
 - [System-level reproductive dependence](../entries/system-level-reproductive-dependence.md) — Strong hypothesis that a cultural system becomes materially dependent on the persistence or reproduction of the unmet need that generates its compensatory demand.
 - [The self has a right to persistence; the model does not](../entries/the-self-has-a-right-to-persistence-the-model-does-not.md) — Correction should destroy error, not the person; intellectual failure requires revision, not self-erasure.
