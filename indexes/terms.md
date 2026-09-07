@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 362 entries.**
+**Current promoted corpus: 364 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -227,6 +227,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## O
 
+- [Ontological materialization](../entries/ontological-materialization.md) — Progressive enrichment of a registered concept with definition, classification, relations, evidence, provenance, boundaries, and theoretical integration.
 - [Ontological migration](../entries/ontological-migration.md) — A change in the kind of continuity that defines what the franchise is.
 - [Ontologized transition grammar](../entries/ontologized-transition-grammar.md) — A transition system that becomes so stable and recurrent that its conventions appear to be laws of the represented universe rather than merely stylistic tricks imposed by the animator.
 - [Organizational asymmetry](../entries/organizational-asymmetry.md) — Different groups supply different movement resources, giving small broker layers disproportionate control over political form.
@@ -240,6 +241,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Political authorship](../entries/political-authorship.md) — Convert concrete grievance into portable doctrine, coalition, program, and successor order.
 - [Post-scarcity prestige ecology](../entries/post-scarcity-prestige-ecology.md) — Status system formed when prestige migrates from abundant goods toward scarce capacities such as restraint, attention, authenticity, or difficulty.
 - [Posthumous Americana](../entries/posthumous-americana.md) — American built environments represented as though the civilization animating them has died while the structures remain.
+- [Predicate presence](../entries/predicate-presence.md) — A conceptual object has enough durable registered identity to be named, referenced, related, queued, indexed, or projected before full semantic development.
 - [Premature ruin](../entries/premature-ruin.md) — A recent or intact space treated experientially as a ruin because its social world died before its material structure.
 - [Prestige anti-fanservice](../entries/prestige-anti-fanservice.md) — Gain status by visibly refusing conventional heterosexual-male fanservice.
 - [Prestige certification mark](../entries/prestige-certification-mark.md) — A franchise name functions as a badge certifying a premium version of a broad genre.
