@@ -182,7 +182,7 @@ It means the introspective field can grow **procedurally**, not only by discover
 
 In this cluster, recursion increases legibility by turning hidden background processes into explicit objects.
 
-The next queued branch will specialize this inward as **legibility of the self**, **reflective administration**, **conscious sovereignty**, **retreating frontier**, and **self-opacity**.
+The next branch is now materialized as [Self-Legibility and Reflective Administration](./self-legibility-and-reflective-administration.md), specializing general legibility inward while preserving self-opacity and rejecting complete conscious sovereignty.
 
 ## Bridge from psychological opening
 
