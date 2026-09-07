@@ -1096,7 +1096,7 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: compensatory-use
-    term: "compensatory use"
+    term: "Compensatory use"
     presence: registered
     materialization: entry
     entry: entries/compensatory-use.md
@@ -1110,7 +1110,7 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: culture-parasitism
-    term: "culture parasitism"
+    term: "Culture parasitism"
     presence: registered
     materialization: entry
     entry: entries/culture-parasitism.md
@@ -1312,7 +1312,7 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: symbolic-substitution
-    term: "symbolic substitution"
+    term: "Symbolic substitution"
     presence: registered
     materialization: entry
     entry: entries/symbolic-substitution.md
@@ -1407,14 +1407,14 @@ concepts:
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: affective-reinforcement
-    term: "affective reinforcement"
+    term: "Affective reinforcement"
     presence: registered
     materialization: entry
     entry: entries/affective-reinforcement.md
     ontology_state: unassessed
     registered_on: 2026-09-05
   - id: system-level-reproductive-dependence
-    term: "system-level reproductive dependence"
+    term: "System-level reproductive dependence"
     presence: registered
     materialization: entry
     entry: entries/system-level-reproductive-dependence.md
