@@ -3958,3 +3958,1813 @@ concepts:
     queue_group: "Currency genealogy, game money, and crypto"
     capture:
       note: "Amber phrase from the entitlement-currency speculation marking the shift from monetary engineering to production and redemption capacity. Captured from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto comparison thread; intentionally queued without materialization."
+
+  - id: game-currency
+    term: "Game currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Virtual money whose issuance, redemption, circulation, and economic environment are substantially controlled by a game operator. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: game-money
+    term: "Game money"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Broad umbrella treating in-game currencies as monetary systems in their own right. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: closed-loop-private-money
+    term: "Closed-loop private money"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Currency circulating primarily or exclusively inside an operator-controlled economic environment. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: game-money-lineage
+    term: "Game-money lineage"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The historical development path from arcade tokens through MMO and live-service currency architectures. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: monetary-genealogy
+    term: "Monetary genealogy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Tracing forms of money through inherited mechanisms, mutations, and divergent historical branches. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: proto-cryptocurrency
+    term: "Proto-cryptocurrency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Earlier virtual currencies understood as solving problems later associated with crypto under radically different sovereignty assumptions. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: parallel-monetary-evolution
+    term: "Parallel monetary evolution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Separate monetary traditions independently developing sophisticated solutions to related problems. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: divergent-monetary-trajectory
+    term: "Divergent monetary trajectory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Related monetary systems diverging because they begin from different foundational premises. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereignty-conditioned-solution-space
+    term: "Sovereignty-conditioned solution space"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The set of monetary mechanisms made possible by a particular distribution of issuer and holder sovereignty. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: arcade-token-lineage
+    term: "Arcade-token lineage"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Arcade token → platform credit → MMO/live-service currency as a recognizable monetary design branch. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: arcade-token-mmo-gold-live-service-currency-cryptocurrency
+    term: "Arcade token → MMO gold → live-service currency → cryptocurrency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Genealogical sequence preserved as a research prompt rather than a claim of simple linear descent. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: monetary-sovereignty
+    term: "Monetary sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Authority to issue, modify, confiscate, invalidate, restrict, redeem, or terminate a monetary system. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: currency-sovereignty
+    term: "Currency sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The allocation of authority over creation, transfer, redemption, and persistence of a currency. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: issuer-sovereignty
+    term: "Issuer sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Authority retained by the institution or operator that issues a currency. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereignty-tradeoff
+    term: "Sovereignty tradeoff"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The exchange between user monetary independence and operator control or system capability. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: opinionated-currency-sovereignty
+    term: "Opinionated currency sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A monetary design that explicitly chooses how sovereignty should be distributed rather than treating the issue as neutral. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: god-sovereign-currency
+    term: "God-sovereign currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A currency whose issuer has effectively unlimited control over issuance and the economic environment. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: godlike-issuer
+    term: "Godlike issuer"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An issuer able to manipulate both money and the world against which that money redeems. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: operator-omnipotence
+    term: "Operator omnipotence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A game or platform operator's ability to control money, goods, markets, rules, and redemption simultaneously. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereign-ledger-permission
+    term: "Sovereign ledger permission"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A game balance understood less as independent property than as a ledger permission for future consumption. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: wallet-without-sovereignty
+    term: "Wallet without sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A wallet-like balance lacking strong property independence from its operator. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: asset-sovereignty-from-issuer
+    term: "Asset sovereignty from issuer"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The goal of separating ownership and transfer rights from discretionary issuer control. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: issuer-independent-asset
+    term: "Issuer-independent asset"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An asset whose existence and transfer are not wholly subordinate to issuer permission. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereignty-obsession
+    term: "Sovereignty obsession"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A design orientation that treats elimination of discretionary sovereign power as overriding even at substantial functional cost. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereignty-first-money
+    term: "Sovereignty-first money"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Money whose architecture prioritizes issuer resistance over other monetary functions. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: function-first-money
+    term: "Function-first money"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Money optimized around desired economic functions rather than maximal holder sovereignty. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: issuer-user-issuer-loop
+    term: "Issuer–user–issuer loop"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Closed redemption topology in which currency flows from issuer to user and back to issuer. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: player-circulation
+    term: "Player circulation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "User-to-user movement of currency that produces a genuinely circulating internal money stock. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: circulation-topology
+    term: "Circulation topology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The pattern of permitted monetary flows among issuer, users, and redemption points. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: monetary-topology
+    term: "Monetary topology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The structure of who can transfer to whom, what creates currency, and what destroys it. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereign-monetary-self-discipline
+    term: "Sovereign monetary self-discipline"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Economic constraints that arise when an issuer's own currency circulates among users. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: infinite-nominal-issuance-finite-real-purchasing-power
+    term: "Infinite nominal issuance / finite real purchasing power"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An issuer may create unlimited units while remaining unable to acquire unlimited real goods without changing prices. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: fictional-economy-disciplining-creator
+    term: "Fictional economy disciplining its creator"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A virtual market becoming capable of constraining the nominally omnipotent issuer through price and circulation effects. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: natural-issuance
+    term: "Natural issuance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Currency creation through activities already meaningful within the system, such as quests, combat, exploration, or login rewards. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: natural-sink
+    term: "Natural sink"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Currency destruction through desired economic activities such as upgrades, crafting, repairs, or purchases. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: currency-faucet
+    term: "Currency faucet"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A mechanism that creates new currency units. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: currency-sink
+    term: "Currency sink"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A mechanism that destroys or retires currency units. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: emission-architecture
+    term: "Emission architecture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The total system governing how new currency enters circulation. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sink-architecture
+    term: "Sink architecture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The total system governing how currency exits circulation. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: programmable-monetary-sink
+    term: "Programmable monetary sink"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A currency sink deliberately attached to selected behaviors or economic activities. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: behavior-contingent-issuance
+    term: "Behavior-contingent issuance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Issuance conditioned on actions an operator wants to encourage. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: behavior-contingent-redemption
+    term: "Behavior-contingent redemption"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Redemption opportunities restricted or structured to shape behavior. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: multi-currency-specialization
+    term: "Multi-currency specialization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Using multiple currencies so different economic activities occupy separate monetary channels. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: currency-layer-architecture
+    term: "Currency-layer architecture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A stacked system of currencies differentiated by purpose, convertibility, and sovereignty. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: reimbursement-currency
+    term: "Reimbursement currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Currency specifically used to compensate users for outages, delays, failures, or other harms. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: general-purpose-internal-claim
+    term: "General-purpose internal claim"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An internally accepted claim against future operator-produced value. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: operator-player-clearing-mechanism
+    term: "Operator–player clearing mechanism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A common internal settlement mechanism between operator and users. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: monetary-commensuration-of-heterogeneous-harms
+    term: "Monetary commensuration of heterogeneous harms"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Converting qualitatively different harms into a common monetary compensation unit. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: internal-debt-settlement
+    term: "Internal debt settlement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Discharging an issuer obligation through currency redeemable inside the issuer's own economy. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereign-reimbursement
+    term: "Sovereign reimbursement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A sovereign-like operator using minting authority to compensate users or subjects. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: treasury-function-of-game-currency
+    term: "Treasury function of game currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The use of game currency issuance and distribution as a treasury-like response to system events. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: fiscal-state-behind-the-currency
+    term: "Fiscal state behind the currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The issuer's control of both money and the economic environment against which the money redeems. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: one-way-convertibility
+    term: "One-way convertibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "External money can enter a virtual economy while internal claims cannot ordinarily be redeemed back out. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: redemption-prohibition
+    term: "Redemption prohibition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An operator rule forbidding reverse conversion of internal currency into external money. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: redemption-wall
+    term: "Redemption wall"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A boundary preventing virtual currency from becoming an ordinary externally redeemable financial liability. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: external-value-membrane
+    term: "External-value membrane"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The boundary separating internal monetary claims from external legal tender. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: purchasing-power-import
+    term: "Purchasing-power import"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Importing purchasing power from external money into an internal economy. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: liability-containment
+    term: "Liability containment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Restricting redemption so freely issued internal currency does not become an external-currency corporate liability. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: internally-produced-scarcity
+    term: "Internally produced scarcity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Goods, opportunities, or access whose scarcity is manufactured or rationed by the issuer. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: nominal-purchase-price-marginal-issuance-cost-split
+    term: "Nominal purchase price / marginal issuance cost split"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The difference between a virtual currency's externally quoted purchase price and its near-zero marginal issuance cost to the operator. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: redemption-asymmetry
+    term: "Redemption asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Users can convert external money inward without a symmetrical right to convert internal claims outward. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: conventional-monetary-inflation
+    term: "Conventional monetary inflation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Excess circulating currency bidding against scarce goods and raising prices. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: revenue-cannibalization
+    term: "Revenue cannibalization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Free or excessive issuance reducing users' willingness to buy premium currency externally. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: scarcity-structure-erosion
+    term: "Scarcity-structure erosion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Issuance undermining the scarcity architecture supporting monetization or progression. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: circulation-inflation
+    term: "Circulation inflation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Inflation caused specifically by money circulating through user-to-user markets. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: noncirculating-dilution
+    term: "Noncirculating dilution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Economic weakening of a noncirculating currency through overissuance despite limited conventional price inflation. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: monetization-dilution
+    term: "Monetization dilution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Overissuance weakening the operator's ability to monetize internally scarce objects. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: synthetic-demand-problem
+    term: "Synthetic demand problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The difficulty of manufacturing reasons to hold or use a token when demand is not inherited from a rich productive environment. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: world-backed-currency
+    term: "World-backed currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Currency whose usefulness derives from a surrounding issuer-created world rich in reasons to spend it. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: economically-embedded-currency
+    term: "Economically embedded currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Money whose demand arises from participation in a functioning economic environment. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: speculation-native-demand
+    term: "Speculation-native demand"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Demand arising predominantly from expectations about the token itself rather than its use in an underlying economy. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: scarcity-first-cryptocurrency
+    term: "Scarcity-first cryptocurrency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A crypto design that solves controlled scarcity before establishing sufficiently compelling monetary use. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereignty-first-failure
+    term: "Sovereignty-first failure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A failure mode caused by sacrificing too many monetary capabilities in pursuit of maximal issuer independence. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: monetary-functionality-deficit
+    term: "Monetary functionality deficit"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A token achieving scarcity or sovereignty properties while performing weakly across ordinary monetary functions. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: game-money-embarrassment-test
+    term: "Game-money embarrassment test"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A provocative comparison asking whether a supposedly revolutionary token performs less convincingly as money than mature game currencies. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereign-game-money-hybrid
+    term: "Sovereign game-money hybrid"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A rich game economy combined with meaningful user property sovereignty. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: portable-game-currency
+    term: "Portable game currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A virtual currency whose wallet or ownership can persist beyond the originating operator. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: operator-independent-game-ownership
+    term: "Operator-independent game ownership"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Ownership of game assets that remains meaningful independently of operator permission. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: portable-virtual-wallet
+    term: "Portable virtual wallet"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A virtual wallet capable of independent custody or transfer beyond one operator. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: hybrid-monetary-sovereignty
+    term: "Hybrid monetary sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An arrangement where an operator retains enough control to manage the economy while users retain meaningful ownership and portability. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: game-state-asset-sovereignty-split
+    term: "Game-state / asset-sovereignty split"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Developers control world rules while users retain stronger ownership rights over monetary assets. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: virtual-polity-threshold
+    term: "Virtual polity threshold"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The point where an online economy begins to resemble a polity because it governs property, money, exchange, inheritance, and membership. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: little-country-problem
+    term: "Little-country problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The governance problem created when a game operator begins managing an economy and property system resembling a small political order. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: design-lineage
+    term: "Design lineage"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A historical sequence of related mechanisms developing through inherited engineering choices. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: problem-driven-genealogy
+    term: "Problem-driven genealogy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Tracing a concept or technology by the problems successive systems were trying to solve. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: solution-space-genealogy
+    term: "Solution-space genealogy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Tracing how differing assumptions drive neighboring traditions into different design spaces. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: genealogical-divergence
+    term: "Genealogical divergence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Related technologies splitting because they adopt incompatible foundational commitments. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: parallel-problem-solving
+    term: "Parallel problem solving"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Separate traditions independently solving related problems. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: design-inheritance
+    term: "Design inheritance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Later systems inheriting architecture or constraints from earlier systems. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: conceptual-ancestor
+    term: "Conceptual ancestor"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An earlier mechanism or idea that supplies structure to a later one. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: conceptual-descendant
+    term: "Conceptual descendant"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A later development inheriting a problem, mechanism, or architecture. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: intellectual-trajectory
+    term: "Intellectual trajectory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The path a problem, concept, or theory takes through successive formulations. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: technological-trajectory
+    term: "Technological trajectory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The path a designed artifact or mechanism takes through successive implementations and inherited constraints. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: trajectory-dependence
+    term: "Trajectory dependence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Present design possibilities being shaped by the sequence of earlier commitments. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: ancestral-assumption
+    term: "Ancestral assumption"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An inherited premise that continues to determine a design lineage. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: foundational-design-assumption
+    term: "Foundational design assumption"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A premise such as 'the issuer is God' or 'the issuer must not be trusted' that organizes a design tradition. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: inverse-foundational-assumption
+    term: "Inverse foundational assumption"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Two traditions organized around logically opposed starting premises. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: complementary-research-programs
+    term: "Complementary research programs"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Distinct research programs whose opposing premises illuminate different regions of a shared design space. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: currency-sovereignty-hierarchy
+    term: "Currency sovereignty hierarchy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A hierarchy in which different currencies grant progressively narrower or broader holder discretion. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: purpose-bound-currency
+    term: "Purpose-bound currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Currency redeemable only against a defined class of goods or services. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: entitlement-currency
+    term: "Entitlement currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Money representing an enforceable entitlement to some class of consumption. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: food-credits
+    term: "Food Credits"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Example purpose-bound entitlement currency for food. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: housing-credits
+    term: "Housing Credits"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Example purpose-bound entitlement currency for housing. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: water-credits
+    term: "Water Credits"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Example purpose-bound entitlement currency for water. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: energy-credits
+    term: "Energy Credits"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Example purpose-bound entitlement currency for energy. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: care-credits
+    term: "Care Credits"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Example purpose-bound entitlement currency for care. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: education-credits
+    term: "Education Credits"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Example purpose-bound entitlement currency for education. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: mobility-credits
+    term: "Mobility Credits"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Example purpose-bound entitlement currency for mobility. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: objective-function-currency
+    term: "Objective-function currency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Currency whose issuance and redemption architecture explicitly encodes a social objective. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereign-defined-objective-function
+    term: "Sovereign-defined objective function"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A public authority defines desired outcomes while decentralized actors determine how to achieve them. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: currency-as-policy-language
+    term: "Currency as policy language"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Monetary architecture used to express and implement policy goals directly. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: government-as-currency-god
+    term: "Government-as-currency-God"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The deliberate importation of game-operator-style monetary sovereignty into public currency design. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: programmable-entitlement-layer
+    term: "Programmable entitlement layer"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A currency tier guaranteeing access to a class of goods while constraining exchange. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: market-discovery
+    term: "Market discovery"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Using decentralized behavior to discover needs, willingness, costs, scarcity, or production opportunities. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: demand-discovery
+    term: "Demand discovery"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Learning what people need or want, how much, where, and how urgently. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: supply-coordination
+    term: "Supply coordination"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Directing productive actors toward discovered needs and scarcity signals. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: market-subordination
+    term: "Market subordination"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Retaining markets while subordinating their outcomes to deliberately chosen objectives. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: market-discovery-under-sovereign-objectives
+    term: "Market discovery under sovereign objectives"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Using decentralized discovery and competition inside goals specified by a sovereign institution. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereign-objective-competitive-execution
+    term: "Sovereign objective / competitive execution"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The state specifies desired outcomes while producers compete over implementation. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: social-demand-order-book
+    term: "Social demand order book"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Aggregate guaranteed needs represented as outstanding redeemable claims. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: standing-demand-profile
+    term: "Standing demand profile"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A persistent specification of a household or person's recurring needs. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: unfulfilled-claim-inventory
+    term: "Unfulfilled claim inventory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The aggregate backlog of valid claims awaiting productive satisfaction. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: demand-legibility
+    term: "Demand legibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Making unsatisfied demand directly visible to producers and institutions. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: guaranteed-purchasing-signal
+    term: "Guaranteed purchasing signal"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Demand backed by a valid entitlement instrument rather than mere expressed preference. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: legible-unmet-demand
+    term: "Legible unmet demand"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Unmet needs rendered measurable and actionable. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: claim-backed-demand
+    term: "Claim-backed demand"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Demand whose purchasing power is already guaranteed by an entitlement claim. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: production-facing-demand-visibility
+    term: "Production-facing demand visibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Direct producer visibility into unsatisfied guaranteed demand. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: demand-first-market-architecture
+    term: "Demand-first market architecture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A market organized around visible outstanding claims rather than seller inventories. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: supplier-side-scarcity-premium
+    term: "Supplier-side scarcity premium"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A scarcity response in which supplier inducement rises while consumer entitlement remains fixed. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: inverse-shortage-pricing
+    term: "Inverse shortage pricing"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Shortage increases supplier reward without increasing the consumer's entitlement cost. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: production-inducement
+    term: "Production inducement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Increasing producer reward to pull capacity toward unmet need. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: dynamic-supplier-inducement
+    term: "Dynamic supplier inducement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Producer compensation varying over time or geography in response to shortage. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: scarcity-signal-without-consumer-punishment
+    term: "Scarcity signal without consumer punishment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Preserving scarcity information without requiring desperate consumers to bid against one another. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: scarcity-relocation
+    term: "Scarcity relocation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Moving the competitive burden of scarcity from consumer purchasing power toward productive capacity. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: production-capacity-competition
+    term: "Production-capacity competition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Firms competing to convert guaranteed claims into physical goods or services. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: tax-backed-redemption
+    term: "Tax-backed redemption"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Suppliers accept a specialized currency because the state redeems it against tax obligations. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: tax-value-floor
+    term: "Tax-value floor"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A baseline currency value created by acceptability against fiscal obligations. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: dynamic-tax-redemption-premium
+    term: "Dynamic tax redemption premium"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Temporary above-par fiscal value used to induce production in shortage conditions. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: fiscal-inducement-multiplier
+    term: "Fiscal inducement multiplier"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A tax-settlement multiplier that rewards fulfillment of scarce or urgent claims. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: tax-mediated-market-formation
+    term: "Tax-mediated market formation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A market created or strengthened because tax acceptability gives a specialized currency supplier value. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereign-settlement-layer
+    term: "Sovereign settlement layer"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The state tax system functioning as a final settlement mechanism beneath specialized currencies. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: future-consumption-security
+    term: "Future-consumption security"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Wealth understood as already-secured future consumption. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: survivability-portfolio
+    term: "Survivability portfolio"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A portfolio expressed in quantities or years of secured necessities. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: nonfungible-wealth-dimensions
+    term: "Nonfungible wealth dimensions"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Wealth components that cannot be collapsed into one scalar without losing important security information. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: security-denominated-wealth
+    term: "Security-denominated wealth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Wealth measured in years or units of guaranteed future provision. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: intergenerational-entitlement-wealth
+    term: "Intergenerational entitlement wealth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Transfer of accumulated future claims across generations. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: inherited-consumption-security
+    term: "Inherited consumption security"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Inheritance represented as guaranteed future shelter, food, care, or other necessities. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: entitlement-inheritance
+    term: "Entitlement inheritance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Transferability of accumulated purpose-specific entitlement claims. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: food-wealth
+    term: "Food wealth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Wealth held as secured future food entitlement. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: housing-wealth
+    term: "Housing wealth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Wealth held as secured future housing entitlement. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: energy-wealth
+    term: "Energy wealth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Wealth held as secured future energy entitlement. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: care-wealth
+    term: "Care wealth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Wealth held as secured future care entitlement. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: production-backed-entitlement
+    term: "Production-backed entitlement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An entitlement whose validity depends on real productive capacity to supply the underlying good or service. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: aggregate-redemption-liability
+    term: "Aggregate redemption liability"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The total future production obligation represented by outstanding entitlement currency. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: promise-overhang
+    term: "Promise overhang"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Outstanding entitlements exceeding plausible future redemption capacity. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: redemption-capacity-constraint
+    term: "Redemption-capacity constraint"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Issuance constrained by the system's ability to provide the underlying promised goods. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereign-insurer-model
+    term: "Sovereign insurer model"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The issuer treated like an insurer that must avoid creating aggregate promises it cannot plausibly honor. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: production-constrained-issuance
+    term: "Production-constrained issuance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Entitlement issuance bounded by real productive capacity. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: forward-entitlement-burden
+    term: "Forward entitlement burden"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Accumulated claims imposed on future production. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: monetary-sensor-network
+    term: "Monetary sensor network"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Outstanding balances and unfulfilled claims used as signals of future productive obligations. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: current-entitlement
+    term: "Current entitlement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An immediately redeemable claim. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: stored-entitlement
+    term: "Stored entitlement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A wealth claim intentionally preserved for future consumption. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: stored-food-bond
+    term: "Stored Food Bond"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Example temporally structured future food entitlement. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: entitlement-bond
+    term: "Entitlement bond"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A temporally structured purpose-specific future claim. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: temporal-redemption-structure
+    term: "Temporal redemption structure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Rules controlling when accumulated entitlements become redeemable. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: redemption-scheduling
+    term: "Redemption scheduling"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Staging the exercise of accumulated claims over time to avoid destructive synchronized redemption. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: maturity-structured-entitlement
+    term: "Maturity-structured entitlement"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An entitlement that becomes redeemable according to a time schedule. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: stock-flow-entitlement-distinction
+    term: "Stock/flow entitlement distinction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The distinction between long-term saved entitlement stock and current consumption flow. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: unauthorized-exchange-as-design-signal
+    term: "Unauthorized exchange as design signal"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Grey-market exchange treated as evidence about mismatches in official currency boundaries. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: currency-boundary-failure
+    term: "Currency-boundary failure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Users circumventing a purpose restriction because official monetary categories poorly match actual needs. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: convertibility-pressure
+    term: "Convertibility pressure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Persistent demand to exchange one purpose-bound currency for another. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: sovereign-exchange-institutionalization
+    term: "Sovereign exchange institutionalization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The state responding to useful grey-market conversion by explicitly providing or regulating exchange. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: policy-discovered-exchange-rate
+    term: "Policy-discovered exchange rate"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "An exchange rate allowed to float or vary within institutionally chosen boundaries. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: outcome-legibility
+    term: "Outcome legibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A system explicitly reporting whether its declared objective is being achieved. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: objective-function-legibility
+    term: "Objective-function legibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Making the relationship between institutional objectives and actual outcomes directly visible. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: failure-legibility
+    term: "Failure legibility"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Outstanding claims visibly demonstrating failure to supply promised goods or services. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: unfulfilled-entitlement-metric
+    term: "Unfulfilled entitlement metric"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "A direct measure of institutional failure based on outstanding valid claims. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: response-latency
+    term: "Response latency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The time between emergence of demand or shortage and successful fulfillment. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: supplier-response-latency
+    term: "Supplier response latency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The time between a supplier-facing scarcity signal and productive response. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: emergency-response-latency
+    term: "Emergency response latency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "The time between emergency demand emergence and successful fulfillment. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
+
+  - id: legible-public-failure
+    term: "Legible public failure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-06
+    queue_group: "Currency genealogy, game money, and crypto — broad harvest"
+    capture:
+      note: "Institutional failure rendered numerically visible through unmet guaranteed claims. Broad-harvest candidate from the 2026-09-06 currency/game-currency/intellectual-genealogy/crypto thread. Preserved at registry-only depth; confidence and ontology intentionally deferred."
