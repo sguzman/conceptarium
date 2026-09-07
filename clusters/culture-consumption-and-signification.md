@@ -36,27 +36,98 @@ This distinction prevents reception analysis from collapsing into claims about a
 
 ## Symbolic-compensation branch
 
-Important recovered concepts still awaiting promotion:
+The recovered symbolic-compensation vocabulary is now fully materialized:
 
-- culture parasitism / culture-parasitism;
-- compensatory use;
-- symbolic substitution;
-- affective reinforcement;
-- system-level reproductive dependence.
+- [Compensatory use](../entries/compensatory-use.md)
+- [Symbolic substitution](../entries/symbolic-substitution.md)
+- [Affective reinforcement](../entries/affective-reinforcement.md)
+- [Culture parasitism](../entries/culture-parasitism.md)
+- [System-level reproductive dependence](../entries/system-level-reproductive-dependence.md)
 
-The working structure is:
+The branch should be read as a **claim-strength ladder**, not as one undifferentiated theory.
 
-```text
+### User-level mechanism
+
+~~~text
 unmet need / unavailable experience
         ↓
-cultural object
+cultural object becomes an accessible route
         ↓
-symbolic substitution / compensatory use
+symbolic substitution
+        ↓
+compensatory use
+        ↓
+desired affective transition
         ↓
 affective reinforcement
-```
+        ↺
+future return becomes more likely
+~~~
 
-The strongest version—**system-level reproductive dependence**, where a cultural system depends on reproducing the deprivation it serves—requires substantially more evidence and must not be smuggled in from the weaker compensatory-use claim.
+These three concepts can be true while every stronger systems claim remains false.
+
+**Symbolic substitution** specifies the stand-in relation.  
+**Compensatory use** specifies what the user is doing with the cultural object.  
+**Affective reinforcement** specifies how successful use can become self-stabilizing over time.
+
+None of them implies manipulation, pathology, producer intent, or system-level dependence.
+
+### System-level hypothesis ladder
+
+[Culture parasitism](../entries/culture-parasitism.md) is the umbrella hypothesis family for asking what happens when institutions, genres, platforms, or markets organize around durable compensatory demand.
+
+Its levels must remain distinct:
+
+~~~text
+1. compensatory use exists
+        ↓
+2. demand becomes affectively reinforced
+        ↓
+3. cultural institutions benefit from the demand
+        ↓
+4. demand becomes load-bearing for system continuation
+        ↓
+5. system practices preserve / intensify / reproduce
+   the deprivation that generates the demand
+~~~
+
+The first three do **not** establish the last two.
+
+[System-level reproductive dependence](../entries/system-level-reproductive-dependence.md) names the deliberately stronger claim. It requires evidence that the continued deprivation is load-bearing for the system and, in the strongest version, that system practices contribute causally to reproducing it.
+
+The governing distinction is therefore:
+
+~~~text
+benefits from deprivation
+        ≠
+depends on deprivation
+        ≠
+causes deprivation
+        ≠
+intentionally preserves deprivation
+~~~
+
+This distinction is the main protection against turning the parasite metaphor into automatic conspiracy theory.
+
+### Bridge to consumer semiotics
+
+The symbolic-compensation branch and the consumer-signification branch meet at **symbolic substitution**.
+
+Consumer semiotics asks:
+
+~~~text
+what larger cultural / ideological meaning
+does the audience infer from this sign?
+~~~
+
+Symbolic substitution asks:
+
+~~~text
+what unavailable thing is this object
+functionally standing in for?
+~~~
+
+A single artifact can do both. A game, character, brand, or aesthetic can simultaneously stand in for a desired experience and operate as a compressed coalition sign.
 
 ## Political translation bridge
 
