@@ -23,7 +23,7 @@ origin:
 relations:
   - type: contrasts-with
     target: sovereign-system-builders
-  - type: violates
+  - type: threatens
     target: anti-domination
   - type: associated-with
     target: totalization
