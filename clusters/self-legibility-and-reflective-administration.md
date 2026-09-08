@@ -212,13 +212,13 @@ The chain protects the causal sequence from being lost across individual entries
 
 ## Bridge to historical inward instrumentation
 
-The remaining psychological queue is now historical/genealogical.
+The historical/genealogical branch is now materialized as [Historical Inward Instrumentation](./historical-inward-instrumentation.md).
 
 It asks:
 
-> **How did cultures build techniques for making the self increasingly available to itself?**
+> **How do concepts, genres, institutions, records, and examination procedures make more of subjective experience available to reflective consciousness?**
 
-The final branch will cover:
+The historical cluster covers:
 
 - interiorization;
 - interior surveillance;
@@ -229,7 +229,8 @@ The final branch will cover:
 - making the self available to itself;
 - history of inward instrumentation.
 
-Those concepts remain deliberately separate from the present phenomenological architecture.
+The bridge is deliberately non-teleological: it tracks changing **resolution, recursion, storage, comparison, vocabulary, and procedure** rather than claiming that any one culture invented inwardness.
+
 
 ## Core anti-collapse rules
 

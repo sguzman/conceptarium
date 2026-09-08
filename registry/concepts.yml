@@ -7102,21 +7102,17 @@ concepts:
   - id: interiorization
     term: "Interiorization"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/interiorization.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Historical process by which larger domains of morality, religion, identity, and judgment become located inside individual reflective consciousness."
   - id: interior-surveillance
     term: "Interior surveillance"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/interior-surveillance.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Persistent monitoring of one's own motives, desires, thoughts, temptations, and emotional fluctuations."
   - id: recursive-introspection
     term: "Recursive introspection"
     presence: registered
@@ -7218,57 +7214,45 @@ concepts:
   - id: early-modern-inward-turn
     term: "Early-modern inward turn"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/early-modern-inward-turn.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Historical development, especially roughly 1500–1800 in European intellectual culture, toward increasingly elaborate techniques for examining subjective experience."
   - id: protestant-recursive-examination
     term: "Protestant recursive examination"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/protestant-recursive-examination.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Intense self-scrutiny in which even apparent sincerity is examined for hidden pride, corruption, or self-deception."
   - id: fallen-investigator-problem
     term: "Fallen investigator problem"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/fallen-investigator-problem.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Protestant epistemic problem that the person examining the soul is themselves morally and cognitively unreliable, requiring scrutiny of the act of scrutiny."
   - id: secularization-of-introspective-machinery
     term: "Secularization of introspective machinery"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/secularization-of-introspective-machinery.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Migration of techniques developed in religious self-examination into philosophy, literature, psychology, autobiography, psychoanalysis, and secular theories of mind."
   - id: making-the-self-available-to-itself
     term: "Making the self available to itself"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/making-the-self-available-to-itself.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Broad formulation of the historical process by which concepts and practices render previously obscure subjective experience available for conscious reflection."
   - id: history-of-inward-instrumentation
     term: "History of inward instrumentation"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/history-of-inward-instrumentation.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Psychological opening / inward instrumentation / self-legibility"
-    capture:
-      note: "Interpretation of intellectual history as the progressive invention of tools for studying the self: confession, diaries, autobiography, essays, novels, moral psychology, psychoanalysis, and related forms."
   - id: being-a-problem-to-oneself
     term: "Being a problem to oneself"
     presence: registered
