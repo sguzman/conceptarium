@@ -24,7 +24,7 @@ relations:
     target: early-modern-inward-turn
   - type: uses
     target: protestant-recursive-examination
-  - type: contributes-to
+  - type: part-of
     target: history-of-inward-instrumentation
   - type: enables
     target: making-the-self-available-to-itself
