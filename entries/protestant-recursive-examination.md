@@ -26,7 +26,7 @@ relations:
     target: fallen-investigator-problem
   - type: exemplifies
     target: recursive-introspection
-  - type: contributes-to
+  - type: part-of
     target: history-of-inward-instrumentation
 ---
 
