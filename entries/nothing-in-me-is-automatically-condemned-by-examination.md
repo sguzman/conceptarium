@@ -25,7 +25,7 @@ relations:
     target: internal-tribunal
   - type: prevents
     target: cruelty-in-the-tribunal
-  - type: complements
+  - type: associated-with
     target: no-part-of-me-gets-to-say-do-not-investigate-me
 ---
 
