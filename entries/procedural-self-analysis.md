@@ -215,7 +215,7 @@ A reusable checklist can ask:
 
 The principle can help **prevent analytical cruelty**.
 
-The neighboring queued rule **No torture authority** supplies a complementary constitutional constraint: inquiry does not create permission for psychological brutality.
+[No torture authority](./no-torture-authority.md) supplies a complementary constitutional constraint: inquiry does not create permission for psychological brutality.
 
 ## Provenance
 
