@@ -24,7 +24,7 @@ relations:
     target: early-modern-inward-turn
   - type: enables
     target: interior-surveillance
-  - type: contributes-to
+  - type: enables
     target: making-the-self-available-to-itself
 ---
 
