@@ -244,6 +244,29 @@ Instead it gives those later concepts a more explicit internal constitutional su
 - recursion ≠ infinite regress;
 - legibility ≠ complete self-knowledge.
 
+
+## Bridge to confessional epistemology
+
+The constitutional machinery implied by this cluster is now materialized in [Confessional Epistemology Constitution](./confessional-epistemology-constitution.md).
+
+That cluster adds:
+
+- **analytical jurisdiction** — the self remains within the domain of inquiry;
+- **epistemic immunity** — the failure mode of protected claims or authorities;
+- **subpoena power of introspection** — any internal claim may in principle be called forward;
+- **no torture authority** — investigation does not create punitive sovereignty;
+- **nothing in me is automatically condemned by examination** — examinability is not guilt;
+- **confession without submission** — disclosure does not transfer interpretive sovereignty;
+- **confessional epistemology** — the umbrella method combining disclosure with recursive and procedural scrutiny.
+
+The resulting constitutional pair is:
+
+~~~text
+UNIVERSAL ANALYTICAL JURISDICTION
+        +
+NO TORTURE AUTHORITY
+~~~
+
 ## Research frontier
 
 - What stopping rules prevent recursion from becoming compulsive?

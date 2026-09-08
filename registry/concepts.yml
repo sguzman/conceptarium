@@ -6593,21 +6593,17 @@ concepts:
   - id: confession
     term: "Confession"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/confession.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Making one's own interior life available for examination; in this usage confession is analytical rather than primarily penitential."
   - id: confessional-self-analysis
     term: "Confessional self-analysis"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/confessional-self-analysis.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Deliberately exposing motives, contradictions, fears, vanities, impulses, memories, and internal rules to sustained intellectual scrutiny. Additional historical provenance: confessional self-analysis is situated within the early-modern inward turn and Protestant recursive examination, where confession becomes analysis of motive, sincerity, pride, doubt, and self-deception."
   - id: self-interpretation
     term: "Self-interpretation"
     presence: registered
@@ -6629,39 +6625,33 @@ concepts:
   - id: analytical-jurisdiction
     term: "Analytical jurisdiction"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/analytical-jurisdiction.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "The domain over which scrutiny is permitted; the self must remain inside the jurisdiction of its own analysis. Additional opening/self-legibility provenance: the radical introspective position gives no component of the self permanent exemption from investigation."
   - id: self-exemption
     term: "Self-exemption"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/self-exemption.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Failure mode where one analyzes external systems skillfully while treating one's own motives and assumptions as transparent or beyond scrutiny."
   - id: the-investigator-inside-the-investigation
     term: "The investigator inside the investigation"
     presence: registered
     materialization: registry-only
     ontology_state: unplaced
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
+    queue_group: "Dedup / consolidation hold"
     capture:
-      note: "Principle that the person doing the analysis is also one of the objects requiring analysis."
+      note: "Duplicate-pressure hold: overlaps heavily with materialized Recursive introspection and Investigating the investigator. Preserve the phrase, but do not independently materialize until Conceptarium can represent lossless alias/merge relationships."
   - id: epistemic-immunity
     term: "Epistemic immunity"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/epistemic-immunity.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Protected status in which a belief, motive, identity, or internal voice is treated as beyond challenge. Additional opening/self-legibility provenance: denying epistemic immunity means even internal authorities and the investigator itself remain open to challenge."
   - id: interior-examination
     term: "Interior examination"
     presence: registered
@@ -6845,12 +6835,10 @@ concepts:
   - id: confession-without-submission
     term: "Confession without submission"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/confession-without-submission.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Radical disclosure and self-examination without transferring interpretive sovereignty to an external authority."
   - id: authorship-of-interpretation
     term: "Authorship of interpretation"
     presence: registered
@@ -6884,27 +6872,23 @@ concepts:
     materialization: registry-only
     ontology_state: unplaced
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
+    queue_group: "Dedup / consolidation hold"
     capture:
-      note: "Compact doctrine that intellectual honesty requires applying analytical tools to oneself as well as to the world."
+      note: "Duplicate-pressure hold: overlaps heavily with the materialized exact anti-immunity principle No part of me gets to say: do not investigate me. Preserve the broader diplomatic-immunity wording without creating redundant canon."
   - id: subpoena-power-of-introspection
     term: "Subpoena power of introspection"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/subpoena-power-of-introspection.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Principle that any internal belief, motive, memory, or agent may be called forward and questioned."
   - id: no-torture-authority
     term: "No torture authority"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/no-torture-authority.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Complementary constraint: the ability to interrogate an internal part does not create a right to humiliate or psychologically brutalize it."
   - id: evidence-versus-punishment
     term: "Evidence versus punishment"
     presence: registered
@@ -6917,21 +6901,19 @@ concepts:
   - id: confessional-epistemology
     term: "Confessional epistemology"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/confessional-epistemology.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Umbrella method for self-knowledge through disclosure, narration, interrogation, provenance tracing, adversarial testing, and reinterpretation."
   - id: recursive-analysis
     term: "Recursive analysis"
     presence: registered
     materialization: registry-only
     ontology_state: unplaced
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
+    queue_group: "Dedup / consolidation hold"
     capture:
-      note: "Analysis turned back on the analytical machinery itself: not only why a belief is held, but why a part wants to interpret it in a particular way."
+      note: "Duplicate-pressure hold: functionally overlaps materialized Recursive introspection by turning analysis back onto the analytical machinery itself. Preserve the term pending lossless alias/merge support."
   - id: adult-audit-of-childhood-conclusions
     term: "Adult audit of childhood conclusions"
     presence: registered
@@ -7001,18 +6983,16 @@ concepts:
     materialization: registry-only
     ontology_state: unplaced
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
+    queue_group: "Dedup / consolidation hold"
     capture:
-      note: "Constitutional core axiom: no motive, identity, belief, or internal part receives epistemic immunity from scrutiny."
+      note: "Duplicate-pressure hold: functionally restates the materialized exact anti-immunity principle No part of me gets to say: do not investigate me. Preserve as an alternate formulation pending lossless alias/merge support."
   - id: nothing-in-me-is-automatically-condemned-by-examination
     term: "Nothing in me is automatically condemned by examination."
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/nothing-in-me-is-automatically-condemned-by-examination.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Constitutional core axiom: being admitted to scrutiny does not itself make an internal phenomenon guilty, disposable, or illegitimate."
   - id: expansion-of-the-conscious-mind
     term: "Expansion of the conscious mind"
     presence: registered
