@@ -6682,66 +6682,52 @@ concepts:
   - id: psychological-archaeology
     term: "Psychological archaeology"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/psychological-archaeology.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Excavating old beliefs, rules, fears, and interpretations whose origins may be forgotten while their effects remain active."
   - id: mental-note
     term: "Mental note"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/mental-note.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "A compact conclusion written by an earlier self in response to experience, such as 'X is dangerous' or 'I must never do Y.'"
   - id: inherited-internal-rule
     term: "Inherited internal rule"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/inherited-internal-rule.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "A behavioral or interpretive rule generated under earlier circumstances that continues governing later behavior without re-evaluation."
   - id: stale-proposition
     term: "Stale proposition"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/stale-proposition.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "A belief that may once have been adaptive or understandable but persists despite changed evidence, context, capability, or circumstance."
   - id: provenance-of-belief
     term: "Provenance of belief"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/provenance-of-belief.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "The history of where a belief came from, which self authored it, what evidence was available then, and what function it originally served."
   - id: epistemic-review
     term: "Epistemic review"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/epistemic-review.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Reopening an old belief or internal rule and asking whether it still deserves to govern the present."
   - id: reopening-the-case
     term: "Reopening the case"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/reopening-the-case.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Judicial metaphor for psychological revision: old conclusions are not erased automatically but may be compelled to present their evidence again."
   - id: internal-republic
     term: "Internal republic"
     presence: registered
@@ -6917,30 +6903,24 @@ concepts:
   - id: adult-audit-of-childhood-conclusions
     term: "Adult audit of childhood conclusions"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/adult-audit-of-childhood-conclusions.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "A present self with greater knowledge and capacity revisits propositions formed by a much younger self."
   - id: legacy-psychological-code
     term: "Legacy psychological code"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/legacy-psychological-code.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Old mental rules written under obsolete conditions that remain executable because they were never explicitly removed or refactored."
   - id: psychological-refactoring
     term: "Psychological refactoring"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/psychological-refactoring.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Revising legacy psychological rules while preserving valid information or protective functions they originally contained."
   - id: interior-historiography
     term: "Interior historiography"
     presence: registered
