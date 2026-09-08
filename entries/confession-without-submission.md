@@ -22,7 +22,7 @@ origin:
 relations:
   - type: constrains
     target: confession
-  - type: preserves
+  - type: enables
     target: interpretive-sovereignty
   - type: enables
     target: confessional-self-analysis
