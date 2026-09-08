@@ -253,17 +253,35 @@ These are preservation records, not forgotten work.
 - anti-cruelty ≠ anti-judgment;
 - self-authorship ≠ autarky.
 
+## Psychological archaeology branch
+
+The temporal-reconstruction subfamily is now materialized as [Psychological Archaeology and Legacy Rules](./psychological-archaeology-and-legacy-rules.md).
+
+That branch formalizes:
+
+- mental notes;
+- inherited internal rules;
+- stale propositions;
+- provenance of belief;
+- epistemic review;
+- reopening the case;
+- adult audits of childhood conclusions;
+- legacy psychological code;
+- psychological refactoring.
+
+It turns confessional epistemology from a synchronic examination method into a method capable of reconstructing how present rules were authored across time.
+
 ## Remaining queue frontier
 
 After this batch, the confessional family still contains distinct subfamilies for:
 
-- motive scrutiny and self-interpretation;
-- psychological archaeology and belief provenance;
+- psychological excavation;
+- self-interpretation and motive scrutiny;
 - internal republic / jurisdiction / veto;
-- prosecution / inquisition / containment;
+- internal prosecution / inquisition / containment;
 - evidence versus punishment;
-- legacy psychological code / refactoring;
 - interior historiography / self as archive;
+- danger of unexamined accumulation;
 - confession as maintenance.
 
 Those should remain separate promotion batches.
