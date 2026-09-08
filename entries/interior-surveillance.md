@@ -23,7 +23,7 @@ relations:
     target: interiorization
   - type: intensifies
     target: protestant-recursive-examination
-  - type: contributes-to
+  - type: enables
     target: making-the-self-available-to-itself
   - type: associated-with
     target: reflective-administration
