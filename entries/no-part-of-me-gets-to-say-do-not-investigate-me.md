@@ -86,7 +86,7 @@ may be humiliated
 
 This distinction is essential.
 
-Universal examinability is paired elsewhere with **No torture authority** and **containment without cruelty**.
+Universal examinability is paired with [No torture authority](./no-torture-authority.md) and the still-queued **containment without cruelty**.
 
 The point is to deny immunity, not to create an unlimited prosecution state.
 
@@ -145,7 +145,7 @@ The tribunal itself remains reviewable through procedural self-analysis.
 
 ## Relation to no diplomatic immunity for the self
 
-The queued phrase **No diplomatic immunity for the self** generalizes the same doctrine:
+The consolidation-held phrase **No diplomatic immunity for the self** generalizes the same doctrine:
 
 > intellectual tools applied to the world must also be applicable to oneself.
 
