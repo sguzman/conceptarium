@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 423 entries.**
+**Current promoted corpus: 428 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -29,6 +29,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Agentic systems](../entries/agentic-systems.md) — Persistent decision-making entities with beliefs, needs, goals, memories, and state.
 - [Allegiance inference](../entries/allegiance-inference.md) — Infer broader cultural or ideological coalition membership from a compressed cultural sign.
 - [American horror through Japanese eyes](../entries/american-horror-through-japanese-eyes.md) — American spaces, imagery, genres, and anxieties reconstructed through Japanese artistic sensibilities.
+- [Analytical cruelty](../entries/analytical-cruelty.md) — Using truth-seeking, diagnosis, or self-scrutiny to justify humiliation, punishment, contempt, erasure, or psychological violence beyond what evidence or containment requires.
 - [Analytical jurisdiction](../entries/analytical-jurisdiction.md) — The domain over which scrutiny is permitted; radical self-analysis keeps the self, its evaluators, and its procedures inside the jurisdiction of inquiry.
 - [Anatomy as syntax](../entries/anatomy-as-syntax.md) — The treatment of the body not merely as depicted anatomy but as a compositional and grammatical system whose parts can function as transitions, punctuation, directional cues, masks, emphasis devices, or narrative operators.
 - [Animation grammar](../entries/animation-grammar.md) — The structured repertoire of rules governing how visual states may transform over time and how those transformations acquire meaning.
@@ -77,6 +78,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Constructive puppet](../entries/constructive-puppet.md) — Visibly segmented procedural character construction treated as an aesthetic rather than hidden scaffolding.
 - [Constructive puppetry](../entries/constructive-puppetry.md) — Using already-existing character animation as if it were puppet footage: selecting and sequencing bodily performances to make the character enact an entirely new scene.
 - [Consumer semiotics](../entries/consumer-semiotics.md) — Read consumer media through compressed cultural or ideological signifiers that can function as allegiance markers and substitute for deeper evaluation.
+- [Containment without cruelty](../entries/containment-without-cruelty.md) — Harmful impulses may require firm boundaries while the internal part carrying them retains recognition and treatment free of gratuitous humiliation.
 - [Content bypass](../entries/content-bypass.md) — Inferred cultural allegiance substitutes for substantive engagement with an artifact's content, construction, argument, mechanics, or craft.
 - [Contestability](../entries/contestability.md) — Practical capacity to challenge, inspect, appeal, revise, or route around consequential decisions.
 - [Convergent architecture](../entries/convergent-architecture.md) — Perception, belief, need, decision, embodiment, visible action, and social reaction form one causal chain.
@@ -130,6 +132,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Erotic optimization](../entries/erotic-optimization.md) — Deliberately coordinate character design choices to maximize sexual or romantic appeal to a target audience.
 - [Established Fallen](../entries/established-fallen.md) — Incorporated ascent-oriented actors whose incentives shift toward competence, order, qualification, and controlled succession.
 - [Estrangement machine](../entries/estrangement-machine.md) — A repeatable artistic system whose interacting components reliably convert familiar material into something alien.
+- [Evidence versus punishment](../entries/evidence-versus-punishment.md) — An uncomfortable internal fact can be evidence about the psyche without its mere existence becoming grounds for condemnation or punitive suffering.
 - [Expansion of the conscious mind](../entries/expansion-of-the-conscious-mind.md) — Enlargement of what can be consciously noticed, named, interpreted, and incorporated into self-understanding.
 - [Expressive animation](../entries/expressive-animation.md) — Visible movement as outward evidence of intent, state, effort, and social stance.
 
@@ -204,6 +207,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Interiorization](../entries/interiorization.md) — Historical process by which morality, religion, identity, and judgment become increasingly located within reflective self-examination.
 - [Internal definition](../entries/internal-definition.md) — A franchise definition grounded in properties of the works rather than corporate ownership and labeling.
 - [Internal despotism](../entries/internal-despotism.md) — One moral faction of the self permanently suppresses other legitimate drives such as ambition or authorship.
+- [Internal Inquisition](../entries/internal-inquisition.md) — Pathological self-examination in which every motive becomes suspect and introspection becomes permanent prosecution without stable standing or closure.
+- [Internal prosecution](../entries/internal-prosecution.md) — Introspection organized around proving guilt rather than discovering what is true, with ambiguity and evidence processed primarily against the accused internal part.
 - [Internal tribunal](../entries/internal-tribunal.md) — Implicit psychological adjudication structure in which impulses, identities, motives, and self-interpretations are granted or denied standing.
 - [Internalized governor](../entries/internalized-governor.md) — Metaphor for self-regulatory machinery that supplies limits after scarcity stops doing so.
 - [Investigating the investigator](../entries/investigating-the-investigator.md) — Turn introspective scrutiny onto the reflective authority itself and examine the motives, fears, pride, and biases shaping its judgments.
