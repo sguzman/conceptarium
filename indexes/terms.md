@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 413 entries.**
+**Current promoted corpus: 423 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -19,6 +19,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Adaptive continuity](../entries/adaptive-continuity.md) — Preserve a recognizable form of life through selective adaptation rather than static preservation.
 - [Additive diversity](../entries/additive-diversity.md) — Broaden representation by adding new aesthetic types without intentionally suppressing existing ones.
 - [Admissible self-model](../entries/admissible-self-model.md) — Range of traits, impulses, moods, identities, desires, and behaviors a person permits themselves to recognize as legitimately belonging to the self.
+- [Adult audit of childhood conclusions](../entries/adult-audit-of-childhood-conclusions.md) — A present self with greater knowledge and capacity revisits propositions formed by a much younger self and tests whether they still deserve authority.
 - [Adversarial preference governance](../entries/adversarial-preference-governance.md) — Treat a constituency's preferences as desires to restrain, correct, or transform rather than merely balance against others.
 - [Adversarial verification](../entries/adversarial-verification.md) — Recover confidence through independent, differently incentivized checks.
 - [Aesthetic allocation](../entries/aesthetic-allocation.md) — Distribute finite representational resources across competing aesthetic ideals and audiences.
@@ -122,6 +123,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Epistemic debt](../entries/epistemic-debt.md) — Assertions incur justificatory obligations proportionate to what they ask others to believe.
 - [Epistemic immunity](../entries/epistemic-immunity.md) — Protected status in which a belief, motive, identity, evaluator, or internal voice is treated as beyond ordinary challenge.
 - [Epistemic maturation](../entries/epistemic-maturation.md) — Move from totalizing certainty toward uncertainty tolerance, revision, triangulation, and calibrated confidence.
+- [Epistemic review](../entries/epistemic-review.md) — Reopen an old belief or internal rule and test whether its evidence, scope, function, and authority still justify governing the present.
 - [Epistemic submission](../entries/epistemic-submission.md) — Subordinate models to reality while allowing the ego to remain proud, ambitious, or imperious.
 - [Erotic legitimacy](../entries/erotic-legitimacy.md) — Degree to which an institution regards a constituency's sexual desires as respectable and worthy of accommodation.
 - [Erotic opportunity cost](../entries/erotic-opportunity-cost.md) — Erotic or aesthetic satisfaction foregone when scarce design resources are allocated to other constituencies or objectives.
@@ -195,6 +197,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Impossibility of de-Fallening](../entries/impossibility-of-de-fallening.md) — Developed abstraction, reflexivity, mobility, and formation cannot simply be erased through voluntary simplicity.
 - [Incumbent-audience discount](../entries/incumbent-audience-discount.md) — Place less marginal value on satisfying an audience assumed already captured while prioritizing acquisition of new demographics.
 - [Incumbent-audience extraction](../entries/incumbent-audience-extraction.md) — Continue monetizing established audience loyalty while progressively reallocating product design toward other constituencies.
+- [Inherited internal rule](../entries/inherited-internal-rule.md) — A behavioral or interpretive rule formed under earlier conditions that continues governing later behavior without automatic re-evaluation.
 - [Institutional legibility](../entries/institutional-legibility.md) — Translate social reality into categories and records institutions can perceive and act upon.
 - [Intentional signifier](../entries/intentional-signifier.md) — A cue deliberately emitted because its creator expects audiences to recognize a broader cultural, ideological, or coalitional meaning.
 - [Interior surveillance](../entries/interior-surveillance.md) — Persistent monitoring of motives, desires, thoughts, temptations, and emotional fluctuations as objects of interpretation or regulation.
@@ -218,8 +221,10 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## L
 
-- [Legibility](../entries/legibility.md) — Transformation of something obscure into something describable, categorizable, comparable, recordable, and available to reasoning or administration.
+
+- [Legacy psychological code](../entries/legacy-psychological-code.md) — Old mental rules and defensive procedures continue executing after their original environment changes because they were never explicitly reviewed or refactored.
 - [Legibility of the self](../entries/legibility-of-the-self.md) — Increasing ability to render inner experience describable, differentiable, comparable, recordable, and available to explicit self-reasoning.
+- [Legibility](../entries/legibility.md) — Transformation of something obscure into something describable, categorizable, comparable, recordable, and available to reasoning or administration.
 - [Local visual physics](../entries/local-visual-physics.md) — The internally consistent rules governing how bodies, objects, space, time, and transformations behave within a particular visual work or animator’s style.
 - [Longevity sorting](../entries/longevity-sorting.md) — Hypothesized lifespan divergence from cumulative behavior under broadly equalized medical/material access.
 - [Luxury friction](../entries/luxury-friction.md) — Premium, voluntarily difficult or austere experiences valued because ordinary gratification is frictionless.
@@ -234,6 +239,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Male-desire tax](../entries/male-desire-tax.md) — Extra prestige or moral burden placed on heterosexual male aesthetic or sexual preferences.
 - [Mastery over pleasure](../entries/mastery-over-pleasure.md) — Competence or prestige derived from controlling consumption rather than merely possessing pleasurable goods.
 - [Medium primitive](../entries/medium-primitive.md) — A basic building block or capability specific to a medium from which more complex expressive structures can be composed.
+- [Mental note](../entries/mental-note.md) — A compact conclusion encoded by an earlier self in response to experience, preserving a fast practical rule after the original context fades.
 - [Micro-semantic legibility / macro-narrative opacity](../entries/micro-semantic-legibility-macro-narrative-opacity.md) — A condition in which local emotional or behavioral events are highly readable even though the overall plot remains difficult to reconstruct.
 - [Micro-semantics](../entries/micro-semantics.md) — Small-scale units of meaning—recognition, threat, hesitation, attraction, embarrassment, interruption, violence, realization—that remain locally legible even when the overall plot is unclear.
 - [Misandry proper](../entries/misandry-proper.md) — Actual contempt, hostility, disgust, ridicule, stereotyping, or animus directed toward men, masculinity, or male sexuality as such.
@@ -303,13 +309,16 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Prototype capture](../entries/prototype-capture.md) — One famous installment becomes the franchise prototype and later works increasingly reproduce it.
 - [Prototype cues](../entries/prototype-cues.md) — Portable traits of a dominant prototype signal franchise membership without reproducing deeper structure.
 - [Prototype inversion](../entries/prototype-inversion.md) — A historically unusual installment becomes the norm while earlier forms begin to appear anomalous.
+- [Provenance of belief](../entries/provenance-of-belief.md) — The history of where a belief came from, which earlier self authored it, what evidence was available, and what function it originally served.
 - [Psychic imperialism](../entries/psychic-imperialism.md) — Unrestricted incorporation of reality into one’s private conceptual world.
 - [Psychic monarchy, external republic](../entries/psychic-monarchy-external-republic.md) — Internally the ego may rule extravagantly; externally other persons remain sovereign.
 - [Psychic sovereignty, epistemic submission, social non-domination](../entries/psychic-sovereignty-epistemic-submission-social-non-domination.md) — Tight synthesis: freedom within interiority, submission of models to reality, and non-domination of other persons.
 - [Psychic sovereignty](../entries/psychic-sovereignty.md) — Exclusive jurisdiction over private imagination, grandiosity, ambition, self-mythology, and theoretical conquest absent external imposition.
+- [Psychological archaeology](../entries/psychological-archaeology.md) — Reconstruct the origins, functions, and present effects of old beliefs, rules, fears, and interpretations whose formation may be forgotten.
 - [Psychological cartography](../entries/psychological-cartography.md) — Map inner life through regions, boundaries, transitions, conflicts, recurring agents, motives, and explicit uncertainty.
 - [Psychological closure → opening → expanded admissible self-model → self-interrogation → recursive introspection → investigation of the investigator → procedural scrutiny of the internal tribunal → increasing self-legibility without complete conscious sovereignty](../entries/psychological-opening-to-self-legibility-chain.md) — Protected causal architecture connecting opening to recursive procedural self-analysis and increasing self-legibility while denying complete conscious sovereignty.
 - [Psychological closure](../entries/psychological-closure.md) — Inner material is excluded from serious conscious recognition because it conflicts with morality, role, identity, shame, fear, upbringing, or self-conception.
+- [Psychological refactoring](../entries/psychological-refactoring.md) — Revise legacy psychological rules while preserving valid information or protective functions that the older rule was built to carry.
 - [Psychological territory](../entries/psychological-territory.md) — Region or class of inner experience that can become an object of awareness, description, interpretation, or integration.
 - [Punitive anti-fanservice](../entries/punitive-anti-fanservice.md) — Anti-fanservice in which frustrating a target audience's erotic preferences becomes positively meaningful as correction, resistance, or virtue.
 
@@ -318,6 +327,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Quality-legitimized semantic drift](../entries/quality-legitimized-semantic-drift.md) — High-quality works expand franchise meaning, with artistic success legitimizing changes that might otherwise be rejected.
 
 ## R
+
 
 - [Reaction grammar](../entries/reaction-grammar.md) — The repertoire of looks, pauses, gestures, head turns, eye movements, cuts, bodily responses, and facial expressions that can be recombined through editing to construct new interactions.
 - [Recognition hunger / recognition terror](../entries/recognition-hunger-recognition-terror.md) — Desire for accurate recognition combined with fear that recognition will mutate into sovereignty and domination.
@@ -329,6 +339,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Register incongruity](../entries/register-incongruity.md) — The productive mismatch between a character’s visual/social coding and the linguistic or behavioral register assigned to them; for example, highly stylized anime characters speaking in casual contemporary urban American vernacular.
 - [Remix actorhood](../entries/remix-actorhood.md) — The condition in which existing media characters become performers inside a remix ecosystem, capable of acting in scenes their original creators never made.
 - [Renunciation does not erase provenance](../entries/renunciation-does-not-erase-provenance.md) — Giving up comfort or prestige does not erase the formation, capacities, networks, cognition, or exit options that produced one’s position.
+- [Reopening the case](../entries/reopening-the-case.md) — An old psychological verdict may be required to present its evidence again before continuing to govern the present.
 - [Representational explicitness](../entries/representational-explicitness.md) — Degree to which cultural identity is communicated through overt represented objects rather than deeper artistic sensibility.
 - [Representational machinery collapse](../entries/representational-machinery-collapse.md) — The collapse of the distinction between the object being represented and the visual machinery used to represent it. The character can become actor, prop, transition, framing device, symbol, and editing operation at once.
 - [Representational regime switching](../entries/representational-regime-switching.md) — Moving between different modes of depiction while preserving the semantic identity of the represented object.
@@ -370,6 +381,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Sovereignty over abundance](../entries/sovereignty-over-abundance.md) — Capacity to remain self-governing despite unrestricted access to desirable goods.
 - [Spatial draftsmanship](../entries/spatial-draftsmanship.md) — Skill visible within individual frames: anatomy, proportion, perspective, rendering, shape design, and static composition.
 - [Spatial punctuation](../entries/spatial-punctuation.md) — The use of placement, displacement, framing, sudden separation, collision, or reorientation in space to mark semantic boundaries or emphasis.
+- [Stale proposition](../entries/stale-proposition.md) — A belief that may once have been adaptive but continues governing after the evidence, context, capability, or circumstances that justified it have changed.
 - [State-change marker](../entries/state-change-marker.md) — Any visual or temporal device that signals that a character, object, scene, or narrative condition has entered a new state.
 - [State-transition animation](../entries/state-transition-animation.md) — An animation logic that treats characters or objects primarily as entities moving between meaningful states rather than as bodies continuously traversing physical trajectories.
 - [Status discrepancy](../entries/status-discrepancy.md) — Gap between expected or capacity-justified standing and realized position.
