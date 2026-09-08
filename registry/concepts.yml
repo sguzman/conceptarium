@@ -6103,7 +6103,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
-      note: "Control over who gets to say what one's experiences mean; outside interpretations may be proposed without automatically acquiring jurisdiction over the interior life. Additional confessional-epistemology provenance: confession without submission preserves the person's final authority over what disclosed experiences mean."
+      note: "Control over who gets to say what one's experiences mean; outside interpretations may be proposed without automatically acquiring jurisdiction over the interior life. Additional confessional-epistemology provenance: confession without submission preserves the person's final authority over what disclosed experiences mean. Additional constituency-capture provenance: the same sovereignty principle has a group-level political form—an emancipation movement may describe and theorize its own constituency’s condition without requiring authorization from another movement."
   - id: epistemic-sovereignty
     term: "Epistemic sovereignty"
     presence: registered
@@ -7809,7 +7809,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
     capture:
-      note: "The recognition of men as autonomous moral and political subjects whose suffering, interests, vulnerabilities, and emancipation matter in themselves, not merely insofar as addressing them benefits women, families, feminism, or society."
+      note: "The recognition of men as autonomous moral and political subjects whose suffering, interests, vulnerabilities, and emancipation matter in themselves, not merely insofar as addressing them benefits women, families, feminism, or society. Additional constituency-capture provenance: male subjecthood is the male-specific application of independent political subjecthood—men may possess gendered injuries and claims that matter on their own terms."
   - id: male-emancipation
     term: "Male emancipation"
     presence: registered
@@ -8241,7 +8241,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
     capture:
-      note: "A condition in which one movement becomes the dominant authorized framework for understanding gender oppression, leaving rival emancipatory frameworks socially illegitimate."
+      note: "A condition in which one movement becomes the dominant authorized framework for understanding gender oppression, leaving rival emancipatory frameworks socially illegitimate. Additional constituency-capture provenance: a movement can claim authoritative jurisdiction over an entire domain of oppression, making autonomous rival emancipation projects appear illegitimate merely because they exist outside its theory."
   - id: gender-theory-monopoly
     term: "Gender-theory monopoly"
     presence: registered
@@ -8313,7 +8313,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
     capture:
-      note: "A model in which liberation is not one sex escaping burdens while retaining benefits supplied by the other's burdens, but both sexes progressively dismantling coercive roles and accepting the costs of the other's freedom."
+      note: "A model in which liberation is not one sex escaping burdens while retaining benefits supplied by the other's burdens, but both sexes progressively dismantling coercive roles and accepting the costs of the other's freedom. Additional constituency-capture provenance: different constituencies recognize one another as legitimate subjects of emancipation and materially support removal of burdens uniquely affecting each other."
   - id: nonreciprocal-emancipation
     term: "Nonreciprocal emancipation"
     presence: registered
@@ -8322,7 +8322,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
     capture:
-      note: "Liberation for one group that leaves intact—or intensifies—the complementary obligations imposed upon another group."
+      note: "Liberation for one group that leaves intact—or intensifies—the complementary obligations imposed upon another group. Additional constituency-capture provenance: one group can expect recognition, sacrifice, institutional support, and solidarity for its liberation while providing little corresponding recognition for another group’s distinct injuries."
   - id: complementary-oppression-problem
     term: "Complementary oppression problem"
     presence: registered
@@ -8440,3 +8440,399 @@ concepts:
     queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
     capture:
       note: "Protected amber architecture preserving the negative chain in which victim ontology can enable perpetrator laundering, collateralize male suffering, produce political orphanhood, and terminate in nonreciprocal emancipatory monopoly."
+  - id: constituency-capture
+    term: "Constituency capture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The transformation of a universal emancipatory principle into the political project of a particular constituency. The movement still speaks in universal language, but in practice begins optimizing primarily for the interests of its own group."
+  - id: principle-first-emancipation
+    term: "Principle-first emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "An emancipatory model in which the governing question is whether a hierarchy is unjust, regardless of who benefits from dismantling it. Competing claims are treated as problems to reconcile rather than threats to one constituency’s priority."
+  - id: constituency-first-emancipation
+    term: "Constituency-first emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "An emancipatory model in which justice is evaluated primarily by how outcomes affect the movement’s focal constituency. Universal principles can become secondary when they conflict with that constituency’s interests."
+  - id: caste-preserving-emancipation
+    term: "Caste-preserving emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Liberation from the hierarchy that subordinates one’s own group while preserving, exploiting, or defending hierarchies that elevate that group over others. The goal becomes promotion within the caste system rather than abolition of caste."
+  - id: status-inversion-anxiety
+    term: "Status inversion anxiety"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Distress produced when emancipation for another subordinated group appears likely to place members of that group politically or socially above one’s own group. The racist reaction of some white suffragists to Black male enfranchisement is a paradigmatic case."
+  - id: emancipatory-competition
+    term: "Emancipatory competition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "A situation in which two or more groups possess legitimate liberation claims but institutions, resources, political sequencing, or ideological frameworks make those claims appear to compete."
+  - id: emancipatory-priority
+    term: "Emancipatory priority"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The problem of deciding which liberation claim should receive immediate attention when all demands cannot be implemented simultaneously. Urgency, severity of domination, and existential danger can justify priority without denying the legitimacy of the other claim."
+  - id: emancipatory-foreclosure
+    term: "Emancipatory foreclosure"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The closing off of conceptual or institutional space in which another group could formulate an autonomous liberation project. The subordinate movement is permitted to speak only through the dominant movement’s categories."
+  - id: competitive-delegitimation
+    term: "Competitive delegitimation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Responding to another group’s emancipation claim not by negotiating among legitimate interests, but by denying that the competing group possesses a legitimate grievance at all."
+  - id: jurisdictional-veto
+    term: "Jurisdictional veto"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The use of one movement’s theory to rule another constituency’s grievances inadmissible before they can be evaluated on their own terms."
+  - id: independent-political-subjecthood
+    term: "Independent political subjecthood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Recognition that a group can possess interests, injuries, needs, institutions, and emancipation claims that matter in themselves rather than merely because addressing them benefits another group."
+  - id: instrumental-subjecthood
+    term: "Instrumental subjecthood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "A weaker form of recognition in which a group’s suffering matters primarily because remedying it will benefit another constituency."
+  - id: burden-externalization
+    term: "Burden externalization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Advancing one constituency’s liberation by transferring material, emotional, legal, social, or institutional costs onto another group whose losses receive less moral consideration."
+  - id: emancipatory-cost-accounting
+    term: "Emancipatory cost accounting"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The practice of asking not only who benefits from a reform, but who bears its costs. A movement fails this test when harms to outsiders are treated as morally negligible because the beneficiaries belong to the designated oppressed constituency."
+  - id: asymmetric-agency
+    term: "Asymmetric agency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "A moral framework in which one group’s harmful behavior is extensively explained through socialization, structures, trauma, constraint, and context, while another group is treated primarily as freely choosing, responsible, powerful, or culpable."
+  - id: asymmetric-compassion
+    term: "Asymmetric compassion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Unequal distribution of interpretive charity and concern across groups: one constituency receives a rich vocabulary for suffering and vulnerability while another receives comparatively little."
+  - id: asymmetric-moral-subjecthood
+    term: "Asymmetric moral subjecthood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "A deeper condition in which one group is treated primarily as a bearer of wounds and claims while another is treated primarily as a bearer of duties and responsibility."
+  - id: proprietary-emancipation
+    term: "Proprietary emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The conversion of liberation into something resembling political property: one constituency implicitly claims ownership over the language, institutions, prestige, or historical meaning of emancipation and treats other groups as secondary claimants."
+  - id: moral-ownership-of-emancipation
+    term: "Moral ownership of emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The belief, explicit or implicit, that a movement’s history of oppression gives it exceptional authority over what counts as liberation, who deserves priority, and which competing grievances are legitimate."
+  - id: emancipatory-chauvinism
+    term: "Emancipatory chauvinism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The tendency of a liberation movement to universalize its own constituency’s suffering while becoming particularist, exclusionary, or hierarchical when another constituency’s interests conflict with its own."
+  - id: universalist-failure-under-competition
+    term: "Universalist failure under competition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The moment when a movement’s professed universal principles cease governing its behavior because another group’s emancipation creates a real or perceived cost to its constituency. Competition functions as the stress test of whether universalism was genuine."
+  - id: competitive-stress-test
+    term: "Competitive stress test"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Evaluating an emancipatory ideology not when helping outsiders is free, but when another group’s legitimate claim competes for resources, priority, prestige, explanatory authority, or institutional power."
+  - id: shared-conceptual-sovereignty
+    term: "Shared conceptual sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "A condition in which multiple emancipation movements are permitted to develop their own accounts of their suffering without one claiming exclusive interpretive authority over the others."
+  - id: narrative-monopoly
+    term: "Narrative monopoly"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Control over the dominant historical or moral story of a social struggle, allowing one constituency to define who the heroes were, what the central injustice was, and which conflicts disappear from memory."
+  - id: historiographical-capture
+    term: "Historiographical capture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The process by which a movement gains sufficient control over the writing of its own history that marginalized internal critics and rival constituencies are pushed to the edges of the historical canon."
+  - id: canon-capture
+    term: "Canon capture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The successful elevation of particular movement leaders, organizations, and interpretations into the standard public story while alternative or dissenting traditions become obscure."
+  - id: white-universalism
+    term: "White universalism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "A purportedly universal political category whose unstated default subject is white. In early American women’s politics, the abstract category woman can function this way when Black women’s distinct situation disappears from the analysis."
+  - id: unmarked-constituency
+    term: "Unmarked constituency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "A privileged subgroup that presents itself without an adjective and therefore becomes mistaken for the universal category."
+  - id: category-manipulation
+    term: "Category manipulation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Shifting how a person is classified depending on which classification protects the movement’s interests."
+  - id: coalition-architecture
+    term: "Coalition architecture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The actual distribution of compromises, priorities, sacrifices, exclusions, and bargaining relationships through which a movement assembles political power. It reveals more about the movement’s ethics than abstract declarations alone."
+  - id: racist-political-accommodation
+    term: "Racist political accommodation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The deliberate use of racist institutions, assumptions, constituencies, or rhetoric as a tactical means of advancing another political goal, even when the actor does not hold the strongest possible form of racist ideology."
+  - id: emancipatory-betrayal
+    term: "Emancipatory betrayal"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "A movement’s abandonment of people whose liberation follows from its professed principles when supporting those people becomes politically costly."
+  - id: universal-liberation
+    term: "Universal liberation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "An emancipatory ideal in which no group’s freedom is purchased through another group’s domination and no constituency possesses exclusive ownership over the status of victim, subject, or liberator."
+  - id: promotion-versus-abolition
+    term: "Promotion versus abolition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The fundamental distinction between trying to move one’s constituency upward within an existing hierarchy and trying to destroy the hierarchy as such."
+  - id: most-intelligent-first-principle
+    term: "Most intelligent first principle"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The elitist idea that political rights can legitimately be sequenced according to supposed intelligence or civilization. Its deeper problem is not only racist assumptions about intelligence but the conversion of equal citizenship into a reward for rank."
+  - id: citizenship-as-rank
+    term: "Citizenship as rank"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "A conception of political rights in which citizenship is something earned through education, intelligence, race, civilization, property, or social worth rather than belonging equally to persons."
+  - id: emergency-priority-without-moral-demotion
+    term: "Emergency priority without moral demotion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The possibility of giving one group’s emancipation immediate priority because its circumstances are more urgent while still affirming the full legitimacy of another group’s claim."
+  - id: reconstructive-emancipation
+    term: "Reconstructive emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Liberation understood not merely as individual rights but as allowing a damaged people to rebuild families, institutions, political life, economic independence, culture, and community after systematic destruction."
+  - id: village-reconstruction
+    term: "Village reconstruction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The restoration of a people’s ability to form durable communal life after slavery, displacement, terror, or repeated destruction of their institutions."
+  - id: movement-moral-credit
+    term: "Movement moral credit"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The prestige automatically granted to a movement because its constituency has suffered genuine oppression; this credit should not be transferable to unrelated moral questions."
+  - id: no-moral-credit-in-advance
+    term: "No moral credit in advance"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "The principle that belonging to, leading, or advocating for an oppressed constituency does not establish moral reliability toward outsiders. Every movement must be evaluated by how it behaves when its interests collide with those of others."
+  - id: emancipatory-reliability
+    term: "Emancipatory reliability"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "How consistently a movement defends the freedom of its own constituency."
+  - id: universalist-reliability
+    term: "Universalist reliability"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "How consistently a movement defends emancipatory principles when doing so benefits other constituencies, especially when that support costs its own group something."
+  - id: emancipatory-reliability-versus-universalist-reliability
+    term: "Emancipatory reliability ↔ universalist reliability"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Constituency capture / emancipatory competition / universalist reliability"
+    capture:
+      note: "Protected amber distinction: a movement may be extremely reliable at defending its own constituency while being much less reliable at applying emancipatory principles when another constituency’s liberation competes with its interests."
