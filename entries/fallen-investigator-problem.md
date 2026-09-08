@@ -26,7 +26,7 @@ relations:
     target: investigating-the-investigator
   - type: motivates
     target: procedural-self-analysis
-  - type: contributes-to
+  - type: part-of
     target: history-of-inward-instrumentation
 ---
 
