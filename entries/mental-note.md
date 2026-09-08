@@ -19,7 +19,7 @@ origin:
   note: >-
     Captured as the smallest durable unit in the legacy-rule model.
 relations:
-  - type: generated-by
+  - type: used-by
     target: psychological-archaeology
   - type: produces
     target: inherited-internal-rule
