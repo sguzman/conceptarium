@@ -7801,3 +7801,642 @@ concepts:
     queue_group: "Creative permission / generative tooling / design-space governance"
     capture:
       note: "Constitutional maxim governing the entire creative-permission architecture."
+  - id: male-subjecthood
+    term: "Male subjecthood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The recognition of men as autonomous moral and political subjects whose suffering, interests, vulnerabilities, and emancipation matter in themselves, not merely insofar as addressing them benefits women, families, feminism, or society."
+  - id: male-emancipation
+    term: "Male emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A project aimed at freeing men from sex-specific burdens, coercive expectations, disposability, emotional repression, provider obligations, compulsory toughness, and other constraints imposed on men as men."
+  - id: autonomous-masculinism
+    term: "Autonomous masculinism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A male-centered emancipatory politics capable of developing its own concepts, priorities, institutions, and criticisms without requiring authorization from feminism or being subordinated to feminist theory."
+  - id: emancipatory-sovereignty
+    term: "Emancipatory sovereignty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The right of a group to interpret its own suffering, define its own interests, construct its own theory of liberation, and organize politically around those interests."
+  - id: gender-federalism
+    term: "Gender federalism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A political arrangement in which feminism and masculinism exist as parallel, autonomous emancipatory projects, neither possessing sovereignty over the other's account of its own suffering, with conflicts negotiated between them rather than one subsuming the other."
+  - id: reciprocity-principle
+    term: "Reciprocity principle"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The norm that solidarity, sacrifice, funding, protection, advocacy, and political support flowing from one sex toward the other should generate some meaningful expectation of reciprocal concern."
+  - id: reciprocity-deficit
+    term: "Reciprocity deficit"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A persistent imbalance in which one sex is socially expected to provide material, emotional, political, or institutional support for the other without an equivalent reverse expectation."
+  - id: gender-reciprocity-ledger
+    term: "Gender reciprocity ledger"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A proposed empirical accounting of male→female versus female→male flows of money, advocacy, caregiving, protection, political support, charitable activity, romantic expenditure, institutional attention, and sacrifice."
+  - id: male-to-female-transfer-norm
+    term: "Male-to-female transfer norm"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The culturally normalized expectation that men direct resources, protection, status, labor, attention, gifts, romantic expenditures, and other forms of value toward women."
+  - id: asymmetric-solidarity
+    term: "Asymmetric solidarity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A condition in which men are expected to recognize and materially support women's sex-specific grievances while women face a substantially weaker norm of organized solidarity with male-specific grievances."
+  - id: male-disposability
+    term: "Male disposability"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The tendency to treat male injury, death, exhaustion, risk exposure, sacrifice, or expendability as more socially tolerable because endurance and sacrifice are built into the masculine role."
+  - id: masculine-burden
+    term: "Masculine burden"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Any obligation imposed disproportionately on men through masculinity: provision, competence, emotional containment, physical courage, sexual initiative, social dominance, economic success, risk-taking, or willingness to absorb suffering."
+  - id: compulsory-usefulness
+    term: "Compulsory usefulness"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The expectation that a man's social worth must be continually justified through production, provision, protection, competence, status, or service to others."
+  - id: conditional-male-worth
+    term: "Conditional male worth"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The idea that men receive sympathy, affection, status, or legitimacy primarily after demonstrating usefulness, strength, resources, achievement, or protective capacity."
+  - id: male-role-coercion
+    term: "Male role coercion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Social enforcement of masculine expectations through shame, romantic exclusion, ridicule, economic pressure, loss of status, or withdrawal of affection rather than necessarily through formal law."
+  - id: romantic-asymmetry
+    term: "Romantic asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Unequal expectations within heterosexual courtship in which men disproportionately initiate, pursue, impress, pay, withstand rejection, demonstrate status, and compete for access to women."
+  - id: female-celebrity-effect
+    term: "Female celebrity effect"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The tendency for women, especially in dating and parasocial markets, to receive concentrated male attention, validation, gifts, money, and competition in ways structurally resembling small-scale celebrity."
+  - id: parasocial-transfer-economy
+    term: "Parasocial transfer economy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Markets in which predominantly male attention or money flows toward women without ordinary reciprocal intimacy, commitment, or relationship obligations."
+  - id: simp-economy
+    term: "Simp economy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The colloquial form of the parasocial transfer economy: normalized male expenditure of money, attention, gifts, promotion, or emotional investment toward women from whom no corresponding relationship is expected."
+  - id: structural-parasitism
+    term: "Structural parasitism"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A hypothesis describing an arrangement where one group receives normalized flows of resources, protection, advocacy, or sacrifice from another while corresponding obligations in the reverse direction are weak or optional. This describes a structure rather than asserting malicious intent by every beneficiary."
+  - id: intent-independent-exploitation
+    term: "Intent-independent exploitation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "An exploitative or asymmetric system that can reproduce itself without participants consciously intending to exploit anyone; incentives and norms are sufficient."
+  - id: victimhood-transitivity
+    term: "Victimhood transitivity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The mistaken inference that because someone is oppressed in one relationship or hierarchy, they should be presumed morally subordinate or incapable of domination in another."
+  - id: victim-ontology
+    term: "Victim ontology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Turning “this person was victimized” from a relational fact into a stable moral identity that grants presumptive innocence, diminished agency, or political immunity."
+  - id: perpetrator-laundering
+    term: "Perpetrator laundering"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Reinterpreting cruelty, aggression, domination, or exploitation by a politically sympathetic person as trauma, resistance, self-discovery, coping, or liberation in ways that obscure the immediate victim."
+  - id: emancipatory-collateral-damage
+    term: "Emancipatory collateral damage"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "People whose suffering becomes morally discounted because acknowledging it would complicate or obstruct a favored liberation narrative."
+  - id: men-as-acceptable-collateral
+    term: "Men as acceptable collateral"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The feared or alleged condition in which male suffering is regarded as tolerable, secondary, or politically inconvenient when it conflicts with women's emancipation or feminist narratives."
+  - id: sex-neutral-moral-parity
+    term: "Sex-neutral moral parity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The standard that identical conduct should receive comparable moral judgment regardless of the perpetrator's or victim's sex."
+  - id: reversal-test
+    term: "Reversal test"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A diagnostic method: reverse the sexes in a case and ask whether the political, moral, institutional, or cultural reaction would remain acceptable."
+  - id: anti-misandrist-boundary
+    term: "Anti-misandrist boundary"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A clear internal prohibition against hatred, dehumanization, humiliation, or instrumentalization of men comparable to established prohibitions against misogyny."
+  - id: moral-immune-system
+    term: "Moral immune system"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A movement's capacity not merely to contain dissenters but to identify, condemn, theorize, and prevent recurring moral failures generated by its own concepts or incentives."
+  - id: institutional-distancing
+    term: "Institutional distancing"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "An organization separating itself from a scandalous person or act primarily by saying “this does not represent us.”"
+  - id: institutional-self-audit
+    term: "Institutional self-audit"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The stronger response: examining why the movement's own concepts, incentives, or moral categories permitted the failure in the first place and revising them accordingly."
+  - id: reputation-management
+    term: "Reputation management"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Condemnation motivated primarily by protecting the legitimacy, public image, or institutional power of a movement rather than by developing a substantive moral critique of the underlying wrong."
+  - id: substantive-reckoning
+    term: "Substantive reckoning"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "An explicit theoretical confrontation with a movement's own wrongdoing: naming the victim, identifying the violated principle, diagnosing the ideological mechanism that enabled it, and constructing safeguards against recurrence."
+  - id: solanas-test
+    term: "Solanas test"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A stress test for feminist attitudes toward anti-male violence: whether Valerie Solanas's attempted murder of Andy Warhol and subsequent feminist reception are treated with the same moral seriousness that an explicitly misogynist male ideologue shooting a woman would receive."
+  - id: canonization-asymmetry
+    term: "Canonization asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The phenomenon where explicitly hostile or violent anti-male texts can remain intellectually recuperable, ironic, transgressive, or canonical in ways that would likely be denied to equivalent anti-female material."
+  - id: men-s-liberation
+    term: "Men's Liberation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The 1970s movement that explicitly theorized masculine sex roles as restrictive and sought liberation for men themselves through consciousness-raising, political theory, and social reform."
+  - id: male-liberation-corpus
+    term: "Male liberation corpus"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The body of Men's Liberation theory treating men's emotional repression, provider role, competitive demands, sexual expectations, isolation, and constrained humanity as legitimate objects of emancipation."
+  - id: male-oppression-dispute
+    term: "Male-oppression dispute"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The central theoretical conflict over whether men can meaningfully be described as oppressed as men, even while possessing advantages over women in other domains."
+  - id: honeymoon-to-divorce-trajectory
+    term: "Honeymoon-to-divorce trajectory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The historical movement from early cooperation between feminism and Men's Liberation toward ideological fracture over male oppression, autonomy, and the proper political purpose of men's organizing."
+  - id: auxiliary-masculinity-politics
+    term: "Auxiliary masculinity politics"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Men's activism permitted primarily when men organize to advance women's liberation, combat other men's sexism, or reform themselves according to feminist priorities."
+  - id: men-as-coalition-participants
+    term: "Men as coalition participants"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Men recognized as useful allies, voters, donors, protectors, activists, or reform subjects within somebody else's emancipation project."
+  - id: men-as-political-subjects
+    term: "Men as political subjects"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Men recognized as possessing independently valid collective interests that may generate political demands even when those demands do not benefit women or agree with feminist theory."
+  - id: coalitional-recognition
+    term: "Coalitional recognition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Recognition granted to men because their participation strengthens a broader progressive or feminist coalition rather than because male interests possess independent legitimacy."
+  - id: instrumental-concern-for-men
+    term: "Instrumental concern for men"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Concern for male suffering justified through downstream benefits: healthier men make better partners, fathers, workers, citizens, or allies."
+  - id: intrinsic-concern-for-men
+    term: "Intrinsic concern for men"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Concern for men's suffering because men themselves are human beings whose pain, autonomy, dignity, and flourishing are sufficient reasons for action."
+  - id: male-interest-veto-problem
+    term: "Male-interest veto problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The question of whether men are permitted to identify a feminist policy, institution, or norm as harmful to men and politically resist it without thereby forfeiting legitimacy."
+  - id: feminist-jurisdictional-overreach
+    term: "Feminist jurisdictional overreach"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The criticism that feminist theory sometimes moves from legitimately theorizing women's emancipation to claiming interpretive authority over what men's liberation should mean."
+  - id: emancipatory-monopoly
+    term: "Emancipatory monopoly"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A condition in which one movement becomes the dominant authorized framework for understanding gender oppression, leaving rival emancipatory frameworks socially illegitimate."
+  - id: gender-theory-monopoly
+    term: "Gender-theory monopoly"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The broader intellectual version of emancipatory monopoly: one theory determines which sex-specific harms are intelligible, legitimate, politically actionable, or morally important."
+  - id: misandrist-hegemony
+    term: "Misandrist hegemony"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A proposed condition in which anti-male assumptions need not appear as explicit hatred because institutions, norms, and political theories systematically discount male interests or normalize male sacrifice."
+  - id: threat-detection-asymmetry
+    term: "Threat-detection asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The possibility that people directly subject to a social burden perceive patterns of danger or humiliation that outside observers, institutions, or abstract theories systematically underestimate."
+  - id: lived-male-threat-model
+    term: "Lived male threat model"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A model of gender politics constructed from actually inhabiting male expectations—rejection, provision, disposability, competition, humiliation, emotional restriction—rather than observing them from outside."
+  - id: epistemic-asymmetry-of-embodiment
+    term: "Epistemic asymmetry of embodiment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The fact that a person living under a gender role possesses experiential information inaccessible to an observer who does not personally bear those costs."
+  - id: male-humiliation-regime
+    term: "Male humiliation regime"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A social order in which failures of masculine performance—poverty, weakness, sexual rejection, emotional vulnerability, dependence, incompetence—carry particularly severe ridicule or status penalties."
+  - id: gendered-extraction
+    term: "Gendered extraction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The movement of money, labor, protection, attention, risk, or emotional energy from one sex toward another under norms that make the transfer seem obligatory or natural."
+  - id: reciprocal-emancipation
+    term: "Reciprocal emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A model in which liberation is not one sex escaping burdens while retaining benefits supplied by the other's burdens, but both sexes progressively dismantling coercive roles and accepting the costs of the other's freedom."
+  - id: nonreciprocal-emancipation
+    term: "Nonreciprocal emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Liberation for one group that leaves intact—or intensifies—the complementary obligations imposed upon another group."
+  - id: complementary-oppression-problem
+    term: "Complementary oppression problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The possibility that dismantling one half of a gender system while retaining the other creates an unstable arrangement: one sex gains freedom from traditional obligations while still receiving benefits historically produced by the other sex's obligations."
+  - id: emancipation-without-reciprocity
+    term: "Emancipation without reciprocity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "A liberation project that demands solidarity from outsiders but does not establish a corresponding duty of solidarity toward those outsiders' own suffering."
+  - id: male-political-orphanhood
+    term: "Male political orphanhood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The condition in which male-specific problems exist but lack a widely legitimate political movement empowered to claim them, theorize them, fund them, and negotiate on men's behalf."
+  - id: missing-male-constituency
+    term: "Missing male constituency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The institutional absence of a powerful, socially legitimate organization whose first obligation is simply to advocate for men as men."
+  - id: institutional-reciprocity
+    term: "Institutional reciprocity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Reciprocity expressed not merely through individual kindness but through durable organizations, funding streams, political representation, research programs, advocacy networks, and cultural norms."
+  - id: reciprocity-threshold
+    term: "Reciprocity threshold"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The minimum level of concrete support required before claims of cross-sex solidarity become meaningful rather than symbolic."
+  - id: performative-solidarity
+    term: "Performative solidarity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Verbal sympathy that does not translate into money, organizations, political risk, institutional construction, or defense of the other group's autonomy."
+  - id: material-solidarity
+    term: "Material solidarity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Solidarity demonstrated through resources, political capital, organizing, protection, institutional labor, and willingness to incur costs for another group's emancipation."
+  - id: defend-it-with-your-own-blood-standard
+    term: "Defend-it-with-your-own-blood standard"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Your strongest formulation of material solidarity: support only becomes convincing when allies are willing to defend the other group's autonomous institutions even when doing so is costly or politically inconvenient."
+  - id: reciprocity-indictment
+    term: "Reciprocity indictment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The accusation that contemporary gender politics demands extensive male solidarity with women while failing to generate a comparably strong expectation of female solidarity with men."
+  - id: anti-domination-reciprocity
+    term: "Anti-domination reciprocity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "The principle underneath the whole discussion: nobody's emancipation is complete if it depends upon preserving another group's compulsory service, silence, sacrifice, or subordination."
+  - id: male-subjecthood-to-anti-domination-reciprocity-chain
+    term: "male subjecthood → emancipatory sovereignty → autonomous masculinism → gender federalism → reciprocity principle → material solidarity → reciprocity ledger → anti-domination reciprocity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Protected amber architecture preserving the deepest positive chain from male subjecthood through autonomous emancipatory sovereignty and material reciprocity to anti-domination reciprocity."
+  - id: victim-ontology-to-emancipatory-monopoly-chain
+    term: "victim ontology → perpetrator laundering → emancipatory collateral damage → male political orphanhood → nonreciprocal emancipation → emancipatory monopoly"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-07
+    queue_group: "Male subjecthood / gender reciprocity / autonomous emancipation"
+    capture:
+      note: "Protected amber architecture preserving the negative chain in which victim ontology can enable perpetrator laundering, collateralize male suffering, produce political orphanhood, and terminate in nonreciprocal emancipatory monopoly."
