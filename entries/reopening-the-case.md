@@ -19,7 +19,7 @@ origin:
   note: >-
     Preserves the user's judicial language for revising inherited psychological law.
 relations:
-  - type: operationalized-by
+  - type: implemented-by
     target: epistemic-review
   - type: enables
     target: psychological-refactoring
