@@ -202,7 +202,7 @@ The concept overlaps with **Analytical cruelty**.
 
 **Procedural self-analysis** can help prevent it.
 
-The queued constitutional rule **No torture authority** constrains the tribunal by denying any inference from “I may investigate this” to “I may brutalize it.”
+[No torture authority](./no-torture-authority.md) constrains the tribunal by denying any inference from “I may investigate this” to “I may brutalize it.”
 
 ## Provenance
 
