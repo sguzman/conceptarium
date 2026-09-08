@@ -2,7 +2,7 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 395 entries.**
+**Current promoted corpus: 403 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
@@ -105,6 +105,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## E
 
+
+- [Early-modern inward turn](../entries/early-modern-inward-turn.md) — Provisional hypothesis that roughly 1500–1800 European culture increased the resolution, recursion, storage, and procedural elaboration devoted to examining subjective experience.
 - [Editing-as-performance](../entries/editing-as-performance.md) — A mode of editing in which the editor effectively becomes a performer/director, creating acting beats out of footage that was never originally performed together.
 - [Elite circulation](../entries/elite-circulation.md) — Recurrent incorporation or succession of ambitious outsiders into consequential positions.
 - [Embodied history](../entries/embodied-history.md) — The body as an accumulated record of behavior, exposure, maintenance, biology, and chance.
@@ -123,11 +125,13 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## F
 
+
 - [Fallen / Village](../entries/fallen-village.md) — Framework contrasting ascent/status orientation with embedded continuity/sufficiency orientation.
 - [Fallen autoimmunity](../entries/fallen-autoimmunity.md) — Fallen abstraction turns against Fallen legitimacy and diagnoses Fallen pathology from within.
 - [Fallen constitutionalism](../entries/fallen-constitutionalism.md) — Bound Fallen capacities where they become real power rather than depending on purity, humility, or self-erasure.
 - [Fallen corrigibility](../entries/fallen-corrigibility.md) — Endure contradiction, defeat, or humiliation without converting wounded distinction into retaliation.
 - [Fallen dissident](../entries/fallen-dissident.md) — Retain Fallen capacities while refusing Fallen solidarity when those capacities become domination.
+- [Fallen investigator problem](../entries/fallen-investigator-problem.md) — The examiner of the self is part of the same fallible system and must therefore also become available to scrutiny.
 - [Fallen non-innocence](../entries/fallen-non-innocence.md) — Exceptional capacity cannot be purified into harmlessness; danger must remain constitutionally acknowledged.
 - [Fallen privilege](../entries/fallen-privilege.md) — The right to enjoy Fallen expansiveness and private grandeur without converting it into coercive claims.
 - [Fallen purification through self-erasure](../entries/fallen-purification-through-self-erasure.md) — The rejected strategy of solving Fallen danger by suppressing ego, distinction, or Fallen formation.
@@ -159,13 +163,16 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## H
 
+
 - [Haunted reflexive estrangement](../entries/haunted-reflexive-estrangement.md) — Reflexive estrangement intensified by horror until familiar cultural space returns as threatening, empty, or contaminated.
 - [Heritage experience](../entries/heritage-experience.md) — A new work recreates the sensations and symbols of an older tradition without necessarily preserving its generative system.
+- [History of inward instrumentation](../entries/history-of-inward-instrumentation.md) — Intellectual history interpreted through changing techniques for observing, recording, comparing, narrating, and recursively examining subjective experience.
 - [Horror estrangement](../entries/horror-estrangement.md) — Ordinary spaces, objects, or routines made unfamiliar and threatening through emptiness, distortion, isolation, or contamination.
 - [Humiliation-to-monster pathway](../entries/humiliation-to-monster-pathway.md) — A conjunctural danger sequence linking significance entitlement, humiliation, blocked restoration, blame, ideology, and coercive capacity.
 - [Hybrid editing grammar](../entries/hybrid-editing-grammar.md) — A stable audiovisual language produced from multiple preexisting traditions—in the Kurosai case, AMVs, anime abridging, hip-hop sampling, YouTube Poop, meme editing, internet vernacular, and surrealist montage.
 
 ## I
+
 
 - [I may dominate the model; the model may not dominate reality; neither may I dominate other persons merely because I can model them](../entries/i-may-dominate-the-model.md) — Authorship over models does not defeat reality’s veto or confer jurisdiction over modeled persons.
 - [Iconographic survival](../entries/iconographic-survival.md) — Visible franchise symbols remain recognizable even after the underlying creative identity has substantially changed.
@@ -182,6 +189,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Incumbent-audience extraction](../entries/incumbent-audience-extraction.md) — Continue monetizing established audience loyalty while progressively reallocating product design toward other constituencies.
 - [Institutional legibility](../entries/institutional-legibility.md) — Translate social reality into categories and records institutions can perceive and act upon.
 - [Intentional signifier](../entries/intentional-signifier.md) — A cue deliberately emitted because its creator expects audiences to recognize a broader cultural, ideological, or coalitional meaning.
+- [Interior surveillance](../entries/interior-surveillance.md) — Persistent monitoring of motives, desires, thoughts, temptations, and emotional fluctuations as objects of interpretation or regulation.
+- [Interiorization](../entries/interiorization.md) — Historical process by which morality, religion, identity, and judgment become increasingly located within reflective self-examination.
 - [Internal definition](../entries/internal-definition.md) — A franchise definition grounded in properties of the works rather than corporate ownership and labeling.
 - [Internal despotism](../entries/internal-despotism.md) — One moral faction of the self permanently suppresses other legitimate drives such as ambition or authorship.
 - [Internal tribunal](../entries/internal-tribunal.md) — Implicit psychological adjudication structure in which impulses, identities, motives, and self-interpretations are granted or denied standing.
@@ -209,8 +218,10 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## M
 
+
 - [Macro-narrative](../entries/macro-narrative.md) — The larger causal and sequential structure of a story: what happened, why it happened, and how events relate globally.
 - [Maintenance](../entries/maintenance.md) — Psychological support that preserves functioning or an already-achieved range of self-access without fundamentally enlarging conscious territory.
+- [Making the self available to itself](../entries/making-the-self-available-to-itself.md) — Concepts, records, genres, rituals, and reflective practices render previously obscure subjective experience available for description, comparison, interpretation, and revision.
 - [Male preference as governance object](../entries/male-preference-as-governance-object.md) — Treat heterosexual male desire as something institutions should manage, educate, constrain, or change rather than merely serve or decline.
 - [Male-desire tax](../entries/male-desire-tax.md) — Extra prestige or moral burden placed on heterosexual male aesthetic or sexual preferences.
 - [Mastery over pleasure](../entries/mastery-over-pleasure.md) — Competence or prestige derived from controlling consumption rather than merely possessing pleasurable goods.
@@ -253,6 +264,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## P
 
+
 - [Paranoid totalization](../entries/paranoid-totalization.md) — Hostile self-sealing explanation that absorbs contradiction rather than being constrained by it.
 - [Pleasure ecology](../entries/pleasure-ecology.md) — Incentives, hazards, adaptations, and status behaviors arising when pleasurable goods are abundant.
 - [Pleasure saturation](../entries/pleasure-saturation.md) — Condition in which abundant pleasure weakens the signaling or motivational value of mere access.
@@ -276,6 +288,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Procedural media language](../entries/procedural-media-language.md) — A repeatable set of transformations or compositional rules through which an editor can generate new meaning from existing media rather than merely quoting it.
 - [Procedural self-analysis](../entries/procedural-self-analysis.md) — Audit not only self-analytic conclusions but the fairness, symmetry, evidence rules, burdens, and revision procedures that produced them.
 - [Procedural visual language](../entries/procedural-visual-language.md) — Visual grammar defined by reusable rules for constructing forms and governing how they transform, combine, move, disappear, recur, and change state.
+- [Protestant recursive examination](../entries/protestant-recursive-examination.md) — Religious self-scrutiny in which even apparent sincerity or moral confidence can itself be examined for hidden pride, corruption, or self-deception.
 - [Prototype capture](../entries/prototype-capture.md) — One famous installment becomes the franchise prototype and later works increasingly reproduce it.
 - [Prototype cues](../entries/prototype-cues.md) — Portable traits of a dominant prototype signal franchise membership without reproducing deeper structure.
 - [Prototype inversion](../entries/prototype-inversion.md) — A historically unusual installment becomes the norm while earlier forms begin to appear anomalous.
@@ -284,8 +297,8 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Psychic sovereignty, epistemic submission, social non-domination](../entries/psychic-sovereignty-epistemic-submission-social-non-domination.md) — Tight synthesis: freedom within interiority, submission of models to reality, and non-domination of other persons.
 - [Psychic sovereignty](../entries/psychic-sovereignty.md) — Exclusive jurisdiction over private imagination, grandiosity, ambition, self-mythology, and theoretical conquest absent external imposition.
 - [Psychological cartography](../entries/psychological-cartography.md) — Map inner life through regions, boundaries, transitions, conflicts, recurring agents, motives, and explicit uncertainty.
-- [Psychological closure](../entries/psychological-closure.md) — Inner material is excluded from serious conscious recognition because it conflicts with morality, role, identity, shame, fear, upbringing, or self-conception.
 - [Psychological closure → opening → expanded admissible self-model → self-interrogation → recursive introspection → investigation of the investigator → procedural scrutiny of the internal tribunal → increasing self-legibility without complete conscious sovereignty](../entries/psychological-opening-to-self-legibility-chain.md) — Protected causal architecture connecting opening to recursive procedural self-analysis and increasing self-legibility while denying complete conscious sovereignty.
+- [Psychological closure](../entries/psychological-closure.md) — Inner material is excluded from serious conscious recognition because it conflicts with morality, role, identity, shame, fear, upbringing, or self-conception.
 - [Psychological territory](../entries/psychological-territory.md) — Region or class of inner experience that can become an object of awareness, description, interpretation, or integration.
 - [Punitive anti-fanservice](../entries/punitive-anti-fanservice.md) — Anti-fanservice in which frustrating a target audience's erotic preferences becomes positively meaningful as correction, resistance, or virtue.
 
@@ -315,9 +328,11 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## S
 
+
 - [Scarcity discipline](../entries/scarcity-discipline.md) — Restraint supplied or reinforced by external limits such as cost, access, time, effort, or shortage.
 - [Seam collapse](../entries/seam-collapse.md) — The editing achievement where the viewer stops perceiving the original footage and imported material as two separate sources and instead experiences them as one coherent event.
 - [Secondhand Americana](../entries/secondhand-americana.md) — American imagery reconstructed through mediated exposure rather than ordinary embedded participation in American life.
+- [Secularization of introspective machinery](../entries/secularization-of-introspective-machinery.md) — Migration or transformation of religious self-examination techniques into literature, philosophy, psychology, autobiography, psychoanalysis, and secular theories of mind.
 - [Self-abnegation](../entries/self-abnegation.md) — Deliberate reduction of ego, prestige, self-assertion, or self-centrality.
 - [Self-correcting dilution](../entries/self-correcting-dilution.md) — Unsuccessful diluting works are rejected and marginalized before they can redefine future franchise identity.
 - [Self-editing character](../entries/self-editing-character.md) — A character whose own body performs operations analogous to editing—wiping, masking, cutting, reframing, reconstructing, or transitioning itself.
