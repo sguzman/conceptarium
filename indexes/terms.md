@@ -2,11 +2,12 @@
 
 This index lists concepts that have been **promoted into individual canonical entries**.
 
-**Current promoted corpus: 403 entries.**
+**Current promoted corpus: 413 entries.**
 
 The larger recovered vocabulary remains preserved losslessly in [`archive/recovered-lexicon-v0.1.md`](../archive/recovered-lexicon-v0.1.md). Promotion means a term has acquired its own structured metadata, dictionary gloss, encyclopedic treatment, boundaries, relations, provenance, and open questions.
 
 ## A
+
 
 - [Abstract-group privilege substitution](../entries/abstract-group-privilege-substitution.md) — Treat an ordinary individual as though he personally possesses the power attributed to his demographic category.
 - [Abundance discipline](../entries/abundance-discipline.md) — Self-imposed restraint that remains operative after external scarcity stops forcing limits.
@@ -27,6 +28,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Agentic systems](../entries/agentic-systems.md) — Persistent decision-making entities with beliefs, needs, goals, memories, and state.
 - [Allegiance inference](../entries/allegiance-inference.md) — Infer broader cultural or ideological coalition membership from a compressed cultural sign.
 - [American horror through Japanese eyes](../entries/american-horror-through-japanese-eyes.md) — American spaces, imagery, genres, and anxieties reconstructed through Japanese artistic sensibilities.
+- [Analytical jurisdiction](../entries/analytical-jurisdiction.md) — The domain over which scrutiny is permitted; radical self-analysis keeps the self, its evaluators, and its procedures inside the jurisdiction of inquiry.
 - [Anatomy as syntax](../entries/anatomy-as-syntax.md) — The treatment of the body not merely as depicted anatomy but as a compositional and grammatical system whose parts can function as transitions, punctuation, directional cues, masks, emphasis devices, or narrative operators.
 - [Animation grammar](../entries/animation-grammar.md) — The structured repertoire of rules governing how visual states may transform over time and how those transformations acquire meaning.
 - [Anti-domination](../entries/anti-domination.md) — Resist arbitrary, unanswerable power over persons and social worlds.
@@ -52,6 +54,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## C
 
+
 - [Canonical adhesion](../entries/canonical-adhesion.md) — Successful new franchise interpretations become difficult to reject because quality, popularity, and precedent give them legitimacy.
 - [Cartoon causality](../entries/cartoon-causality.md) — A representational regime in which semantic intelligibility rather than physical realism determines what transformations are permitted. An impossible event is valid if it communicates the intended causal or expressive relation.
 - [Character anchoring](../entries/character-anchoring.md) — The use of familiar or strongly legible characters as stable semantic reference points that allow more radical experimentation in motion, deformation, and narrative presentation.
@@ -62,6 +65,10 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Coherent metaphysics of animation](../entries/coherent-metaphysics-of-animation.md) — A sufficiently consistent animation grammar that implies an underlying ontology: not merely how the animator depicts change, but apparently how change itself works in that world.
 - [Colonization of the subconscious](../entries/colonization-of-the-subconscious.md) — Metaphor for consciousness extending interpretive and administrative reach into previously unexamined inner territory.
 - [Compensatory use](../entries/compensatory-use.md) — Use a cultural object or mediated experience to partially satisfy, regulate, rehearse, or stand in for an unmet need or unavailable experience.
+- [Confession without submission](../entries/confession-without-submission.md) — Radical disclosure and self-examination without transferring final interpretive sovereignty to the recipient.
+- [Confession](../entries/confession.md) — Making interior material available for examination without presuming penitence, guilt, or external interpretive authority.
+- [Confessional epistemology](../entries/confessional-epistemology.md) — Self-knowledge through disclosure, narration, interrogation, provenance tracing, adversarial testing, recursive scrutiny, procedural review, and reinterpretation.
+- [Confessional self-analysis](../entries/confessional-self-analysis.md) — Sustained intellectual scrutiny of disclosed motives, contradictions, fears, impulses, memories, and internal rules.
 - [Conscious sovereignty](../entries/conscious-sovereignty.md) — Strong and locally rejected claim that reflective consciousness fully governs the mind, preserved as a limit case against self-legibility inflation.
 - [Conspicuous abstention](../entries/conspicuous-abstention.md) — Publicly legible refusal of accessible goods used as a status signal.
 - [Constitutionalized border crossing](../entries/constitutionalized-border-crossing.md) — Every transition from private thought into social power is subject to rules, consent, and anti-domination constraints.
@@ -113,6 +120,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Enriched transition semantics](../entries/enriched-transition-semantics.md) — The use of a transition to communicate additional information—emotion, attention, time passage, realization, causal change, emphasis, or narrative reinterpretation—beyond simply connecting state A to state B.
 - [Epistemic chain of custody](../entries/epistemic-chain-of-custody.md) — Trace how information travels from grounding event or source to present claimant.
 - [Epistemic debt](../entries/epistemic-debt.md) — Assertions incur justificatory obligations proportionate to what they ask others to believe.
+- [Epistemic immunity](../entries/epistemic-immunity.md) — Protected status in which a belief, motive, identity, evaluator, or internal voice is treated as beyond ordinary challenge.
 - [Epistemic maturation](../entries/epistemic-maturation.md) — Move from totalizing certainty toward uncertainty tolerance, revision, triangulation, and calibrated confidence.
 - [Epistemic submission](../entries/epistemic-submission.md) — Subordinate models to reality while allowing the ego to remain proud, ambitious, or imperious.
 - [Erotic legitimacy](../entries/erotic-legitimacy.md) — Degree to which an institution regards a constituency's sexual desires as respectable and worthy of accommodation.
@@ -246,13 +254,16 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 
 ## N
 
+
 - [Narrative compression through motion](../entries/narrative-compression-through-motion.md) — Encoding a sequence of actions, realizations, or temporal developments in a compact transformation rather than depicting each physical intermediate step.
 - [Narrative-coherence pressure](../entries/narrative-coherence-pressure.md) — Preserve a smooth explanatory story when evidence should force rupture or uncertainty.
 - [No innocence available to the Fallen](../entries/no-innocence-available-to-the-fallen.md) — Systems must not depend on the goodness of people whose developed capacities retain hazard potential.
 - [No part of me gets to say: do not investigate me](../entries/no-part-of-me-gets-to-say-do-not-investigate-me.md) — Constitutional introspective rule that no internal belief, identity, motive, evaluator, or authority receives permanent exemption from examination.
+- [No torture authority](../entries/no-torture-authority.md) — Permission to investigate or contain an internal part never creates a right to humiliate, brutalize, erase, or inflict punitive suffering upon it.
 - [Non-Euclidean character animation](../entries/non-euclidean-character-animation.md) — A looser term for character motion that refuses ordinary spatial interpolation, allowing bodies to fold, disappear, reconstruct, translate, or mutate according to expressive rather than geometric rules.
 - [Non-self-correcting dilution](../entries/non-self-correcting-dilution.md) — Successful diluting works evade fan rejection and continue reshaping franchise boundaries.
 - [Non-telepathic social inference](../entries/non-telepathic-social-inference.md) — Agents infer one another from available evidence rather than reading hidden state.
+- [Nothing in me is automatically condemned by examination.](../entries/nothing-in-me-is-automatically-condemned-by-examination.md) — Admitting an internal phenomenon to scrutiny does not itself make that phenomenon guilty, disposable, or illegitimate.
 
 ## O
 
@@ -336,6 +347,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Self-abnegation](../entries/self-abnegation.md) — Deliberate reduction of ego, prestige, self-assertion, or self-centrality.
 - [Self-correcting dilution](../entries/self-correcting-dilution.md) — Unsuccessful diluting works are rejected and marginalized before they can redefine future franchise identity.
 - [Self-editing character](../entries/self-editing-character.md) — A character whose own body performs operations analogous to editing—wiping, masking, cutting, reframing, reconstructing, or transitioning itself.
+- [Self-exemption](../entries/self-exemption.md) — Apply sophisticated analysis outward while treating one's own motives, assumptions, identities, or analytical procedures as transparent or beyond equivalent scrutiny.
 - [Self-opacity](../entries/self-opacity.md) — A person remains partly inaccessible to themselves even under sophisticated introspection; motives, causes, memories, and state transitions can remain only indirectly inferable.
 - [Semantic anchor](../entries/semantic-anchor.md) — A stable recognizable element—often a known character—that helps the viewer interpret otherwise strange or discontinuous visual transformations.
 - [Semantic continuity over geometric continuity](../entries/semantic-continuity-over-geometric-continuity.md) — A visual principle in which preserving the intelligibility of what is happening matters more than preserving realistic spatial mechanics.
@@ -364,6 +376,7 @@ The larger recovered vocabulary remains preserved losslessly in [`archive/recove
 - [Structural anti-male bias](../entries/structural-anti-male-bias.md) — Systematic pattern in which male interests, harms, preferences, or complaints receive less institutional concern or legitimacy, distinct from misandry proper.
 - [Style-pack franchise](../entries/style-pack-franchise.md) — Franchise identity is reduced to a portable bundle of recognizable aesthetic and thematic cues.
 - [Submission to correction](../entries/submission-to-correction.md) — Let reality overthrow a theory without retaliating against reality for doing so.
+- [Subpoena power of introspection](../entries/subpoena-power-of-introspection.md) — Any internal claim within analytical jurisdiction may in principle be called forward, questioned, and asked to present its evidence.
 - [Substitutive diversity](../entries/substitutive-diversity.md) — Broaden representation partly by replacing or reducing an existing aesthetic category.
 - [Surface refinement ≠ formal sophistication](../entries/surface-refinement-not-formal-sophistication.md) — The principle that visual polish and structural intelligence are independent variables. A crude-looking work may contain a highly sophisticated formal system.
 - [Surface refinement](../entries/surface-refinement.md) — Technical polish visible in rendering, anatomy, line quality, detail, realism, or production finish.
