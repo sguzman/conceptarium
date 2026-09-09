@@ -6256,7 +6256,7 @@ concepts:
     registered_on: 2026-09-07
     queue_group: "Self-authorship / interpretive sovereignty / self-repair"
     capture:
-      note: "A model in which multiple relatively persistent internal versions or tendencies possess distinct interests, objections, and something like votes over action and self-interpretation. Additional creative-governance provenance: artistic action must survive negotiation among semi-independent constituencies with distinct preferences, fears, standards, and vetoes; this republic can be constitutionalized by assigning different jurisdictions to exploration, theory, optimization, and engineering."
+      note: "A model in which multiple relatively persistent internal versions or tendencies possess distinct interests, objections, and something like votes over action and self-interpretation. Additional creative-governance provenance: artistic action must survive negotiation among semi-independent constituencies with distinct preferences, fears, standards, and vetoes; this republic can be constitutionalized by assigning different jurisdictions to exploration, theory, optimization, and engineering. Additional identity/configuration provenance: the republic need not contain one permanent sovereign personality; multiple changing configurations may govern in succession under higher-order constitutional rules, with agenthood reserved for sufficiently persistent and goal-directed internal phenomena."
   - id: veto
     term: "Veto"
     presence: registered
@@ -7745,3 +7745,426 @@ concepts:
     queue_group: "Creative permission / generative tooling / design-space governance"
     capture:
       note: "Constitutional maxim governing the entire creative-permission architecture."
+  - id: identity-as-interface
+    term: "Identity as interface"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Identity is not the underlying substance of the person, but a social-facing representation: a compressed, usable projection that tells others how to interact with the current configuration."
+  - id: identity-as-engineering-artifact
+    term: "Identity as engineering artifact"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Identity understood as something constructed to solve practical problems of conduct, legibility, coordination, expectation, and social navigation rather than something discovered as a metaphysical essence."
+  - id: disposable-identity
+    term: "Disposable identity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "An identity that can be instantiated, used, modified, and discarded when it no longer solves the relevant problem, without this being experienced as betrayal of a true self."
+  - id: social-projection
+    term: "Social projection"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The outward-facing version of the person presented to a social environment. It exposes only the parts necessary for interaction and may differ substantially from the complexity of the internal system."
+  - id: residue-of-a-solved-problem
+    term: "Residue of a solved problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The idea that identity often appears after a practical problem has been solved. One first determines how to operate; the identity label is the residue or summary of that solution, rather than its cause."
+  - id: performative-social-domain
+    term: "Performative social domain"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The social world understood as a domain structured by roles, expectations, prerequisites, obligations, conventions, and modes of presentation. Performative here does not mean fake; it means behavior is partly organized for interaction with others."
+  - id: categorical-identity-continuity
+    term: "Categorical identity continuity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The expectation that a person should remain recognizably the same kind of person across time: if they were X yesterday, they should still be X tomorrow. The model places unusually little intrinsic value on this kind of continuity."
+  - id: diachronic-identity-consistency
+    term: "Diachronic identity consistency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Consistency of identity across time: the demand that past, present, and future versions of oneself endorse broadly compatible self-descriptions."
+  - id: short-temporal-self-horizon
+    term: "Short temporal self-horizon"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The phenomenon described by saying one never exists for more than a month: the felt self has limited psychological continuity into the more distant future even though memory, projects, obligations, and the body persist."
+  - id: administrative-continuity
+    term: "Administrative continuity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Continuity maintained by records, commitments, systems, repositories, routines, possessions, and institutions even when the presently governing personality or configuration changes."
+  - id: phenomenological-continuity
+    term: "Phenomenological continuity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The felt sense that the person existing now is substantially the same experiential subject as the person from earlier or later periods."
+  - id: substrate
+    term: "Substrate"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The relatively persistent machinery beneath temporary selves and identities: body, memory, learned capacities, history, habits, and whatever durable cognitive architecture survives changes in configuration."
+  - id: configuration
+    term: "Configuration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "A temporary organization of affect, desire, interpretation, priorities, posture, and behavior. A configuration can substantially alter how the world feels without necessarily constituting a separate agent."
+  - id: governing-configuration
+    term: "Governing configuration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The configuration currently exerting the strongest executive influence over behavior and interpretation—the one driving at the moment."
+  - id: constitutional-self
+    term: "Constitutional self"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The hypothesis that what remains stable may not be a personality at all, but a higher-order set of rules governing succession, conflict, veto, permission, and coexistence among changing internal configurations."
+  - id: constitutional-continuity
+    term: "Constitutional continuity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Persistence of the rules governing the psyche even when the content of personality changes. Continuity resides in how internal states are allowed to interact, not necessarily in any one enduring state."
+  - id: agent
+    term: "Agent"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "A relatively coherent internal entity with sufficiently broad goals, persistence, preferences, and capacity to pursue interests across situations. Stronger and more durable than a transient state or narrow configuration."
+  - id: agent-promotion
+    term: "Agent promotion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Treating a recurring internal phenomenon as sufficiently persistent, organized, and goal-directed to deserve recognition as an agent within the internal republic."
+  - id: mood
+    term: "Mood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "A comparatively weak state that colors perception and feeling but usually lacks organized goals, behavioral structure, or persistence."
+  - id: recurrent-attractor
+    term: "Recurrent attractor"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "A configuration the psyche repeatedly falls into, sometimes after long periods of dormancy, in which a recurring bundle of perceptions, desires, fantasies, and behaviors becomes mutually reinforcing."
+  - id: inquiry-configuration
+    term: "Inquiry configuration"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "A temporary configuration whose organizing purpose is to explore an experiential domain from the first person. It does not necessarily seek continuity, political standing within the psyche, or permanent identity."
+  - id: embodied-inquiry
+    term: "Embodied inquiry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Investigation performed not merely through observation or abstract reasoning, but by allowing a phenomenon to organize one's own body, presentation, desires, or behavior."
+  - id: the-person-as-laboratory
+    term: "The person as laboratory"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The idea that one's own body, personality, identity, behavior, and subjectivity can themselves become experimental apparatuses for investigating reality."
+  - id: self-as-experimental-surface
+    term: "Self as experimental surface"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The willingness to make features ordinarily treated as fixed—presentation, sexuality, identity, posture, even personality—into variables that can be altered and examined."
+  - id: first-person-evidence
+    term: "First-person evidence"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Knowledge acquired by undergoing or enacting a phenomenon oneself rather than merely observing it externally."
+  - id: third-person-observation
+    term: "Third-person observation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Knowledge acquired by watching, reading about, or analyzing others without personally inhabiting the experiential structure being studied."
+  - id: simulation-with-embodiment
+    term: "Simulation with embodiment"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "A mode of inquiry in which one does not merely imagine a role or condition but recruits one's own body, affect, presentation, and desire to approximate its experiential structure."
+  - id: selection-problem
+    term: "Selection problem"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The inadequacy of 'you copied what you observed' as a full explanation. Observation can explain where available behaviors came from, but not why one particular cluster became recurrently salient and compelling while countless others did not."
+  - id: feminine-attractor
+    term: "Feminine attractor"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The provisional hypothesis that femininity functions as a recurring, internally coherent configuration that periodically organizes appearance, desire, fantasy, embodiment, and behavior without necessarily constituting a stable feminine identity."
+  - id: femininity-as-inquiry-object
+    term: "Femininity as inquiry object"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Femininity treated not primarily as an identity one either possesses or lacks, but as a phenomenon one seeks to understand through observation and embodied access."
+  - id: access-to-femininity
+    term: "Access to femininity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The capacity to enter or instantiate sufficiently feminine modes of embodiment, presentation, fantasy, or social positioning to generate first-person understanding."
+  - id: permission-without-capture
+    term: "Permission without capture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The principle that one may explore, embody, or enact femininity without being required to conclude that it defines one's permanent identity."
+  - id: identity-capture
+    term: "Identity capture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The conversion of a temporary, recurrent, or meaningful experience into a totalizing permanent identity claim simply because the experience is intense or significant."
+  - id: ontological-restraint
+    term: "Ontological restraint"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Refusing to make stronger claims about what one is than the evidence warrants. In this context: allowing feminine experience to remain meaningful without forcing it to resolve into 'therefore I am a woman.'"
+  - id: experiential-access-without-ownership
+    term: "Experiential access without ownership"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Being able to enter, investigate, or embody a mode of experience without claiming that it permanently belongs to one's identity."
+  - id: inquiry-without-possession
+    term: "Inquiry without possession"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The broader principle that understanding something need not require incorporating it permanently into the self."
+  - id: satiation-condition
+    term: "Satiation condition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The apparent point at which a recurring configuration has obtained whatever experience, enactment, or internal completion it was seeking and consequently loosens its grip."
+  - id: dormancy
+    term: "Dormancy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "A period during which a recurring configuration is largely absent without necessarily having disappeared permanently."
+  - id: intermittent-compulsion
+    term: "Intermittent compulsion"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "A recurring state that is not continuously present but, once activated, cannot simply be vetoed or dismissed until it has run some portion of its course."
+  - id: executive-succession
+    term: "Executive succession"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The replacement of one governing configuration by another over time without assuming that any one configuration is the permanent or authentic sovereign."
+  - id: no-sovereign-self
+    term: "No sovereign self"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The hypothesis that there is no single stable personality standing above the rest as the uniquely real me; instead, different configurations govern at different times."
+  - id: interface-substrate-distinction
+    term: "Interface/substrate distinction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The distinction between the social identity presented outwardly and the deeper machinery that generates changing states, desires, and behaviors."
+  - id: conformity-as-category-reversal
+    term: "Conformity as category reversal"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The social move from 'this label describes how you operate' to 'because you bear this label, you must operate this way.' Resistance to conformity follows partly from rejecting this reversal."
+  - id: identity-jurisdiction
+    term: "Identity jurisdiction"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The extent to which an identity is permitted to constrain future behavior. Under this model, identities have very weak jurisdiction because they are outputs of behavior rather than authorities over it."
+  - id: social-compatibility-mode
+    term: "Social compatibility mode"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "A deliberately chosen identity or presentation used because it reduces friction and makes interaction easier, even if it does not exhaustively represent the current internal state."
+  - id: metaphysical-thinness-of-identity
+    term: "Metaphysical thinness of identity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "The idea that identities may be socially important while remaining ontologically lightweight: useful descriptions and interfaces rather than deep facts about the essence of the person."
+  - id: identity-interface-configuration-inquiry-architecture
+    term: "Identity as engineering artifact → identity as interface → social projection → disposable identity → low diachronic identity consistency; configuration → governing configuration → constitutional self → republic of minds; inquiry configuration → embodied inquiry → person as laboratory → permission without capture"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Identity interfaces / configuration succession / embodied inquiry"
+    capture:
+      note: "Protected amber architecture preserving the deepest cluster exactly in structure: identity as engineering artifact → identity as interface → social projection → disposable identity → low diachronic identity consistency, sitting on top of configuration → governing configuration → constitutional self → republic of minds, with inquiry configuration → embodied inquiry → person as laboratory → permission without capture explaining the femininity phenomenon."
