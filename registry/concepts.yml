@@ -7745,3 +7745,390 @@ concepts:
     queue_group: "Creative permission / generative tooling / design-space governance"
     capture:
       note: "Constitutional maxim governing the entire creative-permission architecture."
+  - id: moral-standing
+    term: "Moral standing"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The broadest category of moral considerability. To possess moral standing is to matter in oneself rather than only instrumentally because humans happen to value or use you. Moral standing does not imply equality, rights, consciousness, or personhood."
+  - id: graded-moral-ontology
+    term: "Graded moral ontology"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "A moral order in which different kinds of beings possess different kinds and degrees of standing according to what they are. Humans, animals, plants, and nonliving entities need not be morally equal for all of them to matter."
+  - id: human-primacy
+    term: "Human primacy"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The claim that humans legitimately occupy the highest position in the moral hierarchy of a human world. Human interests may therefore override animal or plant interests in sufficiently serious conflicts without rendering subordinate beings morally worthless."
+  - id: personhood
+    term: "Personhood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The especially rich moral status associated with beings capable of sophisticated agency, self-reflection, reciprocal recognition, long-term projects, political participation, and related capacities. Personhood carries stronger claims than mere sentience."
+  - id: animal-subjecthood
+    term: "Animal subjecthood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The status of an animal as an experiencing center rather than an object or resource. The animal has a point of view: things frighten it, hurt it, comfort it, interest it, and matter to it even when it cannot conceptualize or articulate those experiences."
+  - id: creaturely-subjecthood
+    term: "Creaturely subjecthood"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "A broader formulation of animal subjecthood emphasizing that a being need not approximate human intelligence to possess an interior life deserving recognition."
+  - id: subjecthood-commensurate-with-kind
+    term: "Subjecthood commensurate with kind"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The principle that recognition should correspond to the actual capacities and mode of existence of the being concerned rather than requiring everything to qualify for human-style personhood."
+  - id: organismic-good
+    term: "Organismic good"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The kind of good belonging to living things even when sentience is doubtful or absent. A plant can flourish, mature, reproduce, be damaged, or be wantonly destroyed without needing a humanlike subjective interior."
+  - id: living-dignity
+    term: "Living dignity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Moral consideration owed to organisms simply as living beings with their own characteristic forms of existence. Weaker than sentient subjecthood, but stronger than treating life as morally inert material."
+  - id: ontic-dignity
+    term: "Ontic dignity"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Moral significance belonging even to nonliving formations of reality. A planet, mountain, landscape, geological formation, or galaxy can possess enough integrity, uniqueness, beauty, or sheer existence that its pointless destruction constitutes a wrong."
+  - id: hierarchy-without-nullification
+    term: "Hierarchy without nullification"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "A central principle: ranking one being below another does not reduce the lower being's moral value to zero. A subordinate claim can be overridden without becoming nonexistent."
+  - id: justice-without-symmetry
+    term: "Justice without symmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The proposition that justice does not require denying natural inequalities. Beings may differ enormously in intelligence, power, agency, or moral rank while obligations toward the weaker remain fully intelligible."
+  - id: asymmetry
+    term: "Asymmetry"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "A factual inequality of power, intelligence, strength, agency, vulnerability, or dependency between beings. Asymmetry may arise naturally and is not intrinsically unjust."
+  - id: domination
+    term: "Domination"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The morally dangerous condition in which an asymmetry of power allows one party to disregard another's good because the weaker party cannot effectively resist, contest, escape, or demand justification."
+  - id: asymmetric-obligation
+    term: "Asymmetric obligation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The principle that unequal power generates unequal responsibility. The dominant party bears special duties precisely because the subordinate party cannot adequately protect its own interests."
+  - id: moral-exposure-through-power
+    term: "Moral exposure through power"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The claim that acquiring greater control over another being does not expand one's moral license without limit; it exposes the powerful party to additional obligations."
+  - id: power-is-morally-expensive
+    term: "Power is morally expensive"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "A compact formulation of the same principle: greater power creates greater liabilities of restraint, care, justification, and stewardship."
+  - id: created-dependency
+    term: "Created dependency"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Dependency produced or intensified by the dominant party itself. Because humans bred, domesticated, confined, and reshaped many animals around human society, their dependence generates obligations beyond those owed to completely independent wild animals."
+  - id: domesticated-progeny
+    term: "Domesticated progeny"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The idea that domesticated animals are, in a meaningful nonliteral sense, humanity's offspring or co-created dependents. Humans have shaped their bodies, temperaments, habitats, and survival conditions across generations and therefore cannot morally disclaim responsibility for them."
+  - id: stewardship
+    term: "Stewardship"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Legitimate human authority over animals or nature constrained by obligations toward the beings and systems under human power. Stewardship accepts hierarchy while rejecting arbitrary exploitation."
+  - id: legitimate-use
+    term: "Legitimate use"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The possibility that humans may eat, hunt, work with, manage, confine, experiment upon, or otherwise use nonhuman beings when sufficiently justified. Use does not automatically imply objectification."
+  - id: necessity-principle
+    term: "Necessity principle"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Harm imposed on subordinate life requires a genuine purpose capable of justifying that harm. Survival, food, medicine, ecological management, or other substantial goods may qualify; amusement at suffering does not."
+  - id: proportionality
+    term: "Proportionality"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Even when harming or killing an animal is justified, suffering should not exceed what the legitimate purpose actually requires."
+  - id: gratuitous-suffering
+    term: "Gratuitous suffering"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Pain, fear, deprivation, injury, or distress imposed without sufficient necessity or purpose. This is one of the clearest categorical wrongs in the framework."
+  - id: anti-cruelty
+    term: "Anti-cruelty"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The prohibition against deliberately causing or tolerating unnecessary suffering, particularly when suffering itself, domination, indifference, convenience, or entertainment is the point."
+  - id: incomprehensible-suffering
+    term: "Incomprehensible suffering"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Suffering experienced by a being unable to understand why it is being harmed. Particularly morally disturbing because the animal can experience fear and distress while lacking any conceptual framework capable of making the event intelligible."
+  - id: the-unanswered-animal
+    term: "The unanswered animal"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The phenomenological image underlying the response to animal suffering: an animal consciousness encounters pain and fear almost as an inquiry—what is happening? why?—but no intelligible answer can reach it."
+  - id: animal-soul
+    term: "Animal soul"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "A phenomenological term for the interior presence perceived in an animal: not necessarily a theological assertion, but the sense that there is a living center behind the eyes to whom things are happening."
+  - id: species-betrayal
+    term: "Species betrayal"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The aggravated wrong that can occur when animals conditioned to trust or depend upon humans are harmed by the very beings around whom their world has been organized."
+  - id: recognition
+    term: "Recognition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The obligation to acknowledge that a used, killed, or dependent animal was a being with a life rather than merely material passing through a production process."
+  - id: dignified-death
+    term: "Dignified death"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The principle that justified killing does not abolish obligations concerning suffering, handling, acknowledgment, waste, remembrance, and respect for the creature that dies."
+  - id: memorial-recognition
+    term: "Memorial recognition"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Practices such as naming, recording, mourning, burial, cemeteries, or other forms of remembrance that refuse to let death retroactively convert a living being into anonymous material."
+  - id: instrumentalization
+    term: "Instrumentalization"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Treating something solely according to its usefulness to the actor while disregarding whatever standing, integrity, interests, or dignity it possesses independently."
+  - id: objectification
+    term: "Objectification"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The stronger ontological reduction whereby a subject or morally considerable being is treated as though nothing exists there except usable matter."
+  - id: wantonness
+    term: "Wantonness"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Destruction or injury undertaken without adequate purpose, especially simply because one possesses the power to do it. Wantonness explains why destroying Pluto or an empty galaxy for amusement can remain evil even where no conscious being suffers."
+  - id: reverence-for-being
+    term: "Reverence for being"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "The broad intuition that existence itself can generate reasons for restraint. Reality is not morally exhausted by its usefulness to humans or by the presence of sentient suffering."
+  - id: ontological-nullification
+    term: "Ontological nullification"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Treating a subordinate or nonhuman thing as though its lower status eliminated all value whatsoever. The framework rejects this at every level of the hierarchy."
+  - id: crime-against-nature
+    term: "Crime against nature"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Not the claim that everything natural is good, but the idea that a reflective, powerful being can violate the dignity appropriate to its place in nature through pointless cruelty, desecration, or destruction."
+  - id: emancipation-without-flattening
+    term: "Emancipation without flattening"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Recognition and protection of subordinate beings without pretending that all differences in intelligence, agency, moral status, or legitimate priority are unreal."
+  - id: bounded-emancipation
+    term: "Bounded emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "An emancipation project constrained by proportionality, epistemic humility, legitimate competing interests, and limits on permissible means. Animal advocacy does not acquire unlimited moral license merely because its constituency is vulnerable."
+  - id: fallen-emancipation
+    term: "Fallen emancipation"
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "A recurring failure mode in which a genuine recognition of domination becomes a self-authorizing crusade: righteous ends are treated as granting extraordinary permissions, eventually corrupting the emancipation project itself."
+  - id: animal-ethics-three-axiom-constitution
+    term: "Justice does not require symmetry. Hierarchy does not imply nullification. Asymmetry of power generates obligation toward the asymmetrically dominated."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Protected amber architecture preserving the three deepest axioms of the animal-ethics model exactly as formulated in the source."
+  - id: answer-owed-to-the-weaker-creature
+    term: "The weaker creature's inability to make us answer does not mean there is nobody there to whom an answer is owed."
+    presence: registered
+    materialization: registry-only
+    ontology_state: unplaced
+    registered_on: 2026-09-09
+    queue_group: "Animal ethics / graded moral standing / stewardship"
+    capture:
+      note: "Protected exact phrase emotionally unifying the animal side of the theory: inability to compel justification does not erase the subject to whom justification is owed."
