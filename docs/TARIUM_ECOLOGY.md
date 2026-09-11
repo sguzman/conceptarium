@@ -132,6 +132,43 @@ For example, the Tarium Register has linguistic properties, political uses, aest
 
 Its canonical cross-domain definition nevertheless belongs here because the underlying object is an epistemic-institutional communication regime rather than merely a linguistic register.
 
+## General repository construction schema
+
+The ecology now has a family-level construction contract in [`Tarium Repository Schema`](../meta/tarium-repository-schema.md).
+
+A Tarium is expected to preserve four distinct, first-class epistemic layers:
+
+1. **Objective ledger** — externally auditable facts, observations, records, measurements, source claims, and evidence.
+2. **Ontological structure** — types, identities, relations, states, mechanisms, significance, and structural representation.
+3. **Integration and analysis** — arguments, syntheses, audits, interpretations, explanatory models, comparisons, and derived claims.
+4. **Phenomenological / confessional layer** — Salvador's first-person experience, interpretation, memory, desire, fear, significance, narration, and confession.
+
+These are not successive maturity stages.
+
+They are **coequal repository layers with different epistemic functions**.
+
+The family-level rule is:
+
+> **Preserve fact, structure, analysis, and experience as distinct sovereign layers, then integrate them explicitly rather than collapsing them implicitly.**
+
+The schema therefore rejects silent conversions such as:
+
+```text
+confession -> fact
+analysis -> evidence
+ontology -> proof
+source claim -> verified fact
+feeling -> external claim
+```
+
+Cross-layer integration should occur through explicit typed relations, provenance, citation, support, contradiction, motivation, or interpretation links.
+
+A single real-world substrate may legitimately appear in several layers because each layer projects a different intentional question over it.
+
+The physical folder layout is not centrally mandated. A Tarium may implement these layers using Markdown, YAML, graph structures, Rust types, databases, frontmatter, or another representation appropriate to its domain.
+
+The semantic separation is load-bearing; the filesystem spelling is not.
+
 ## Tarium Register and Tarium Procedure
 
 The ecology distinguishes two shared objects:
@@ -144,6 +181,19 @@ The distinction is load-bearing.
 The Register may evolve stylistically without changing the Procedure.
 
 A terse machine-facing rendering, a friendlier public rendering, and a mildly 1910-inflected institutional rendering could all remain faithful to the same Procedure.
+
+The Repository Schema is a third family-level object with a different responsibility:
+
+```text
+Tarium Procedure
+    governs how claims are handled
+
+Tarium Register
+    governs how that discipline is voiced
+
+Tarium Repository Schema
+    governs which epistemic layers are preserved and kept distinct
+```
 
 ## Current repository family
 
@@ -158,3 +208,4 @@ If a repository page begins accumulating detailed foreign state, that is archite
 ## Revision history
 
 - **2026-09-11:** Repository entities established as a first-class Conceptarium category; Conceptarium's observer-not-governor role and predicate-only knowledge boundary made explicit.
+- **2026-09-11:** General Tarium repository construction schema added with objective, ontological, analytical, and phenomenological/confessional layers as distinct sovereign first-class structures.
