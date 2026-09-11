@@ -9,10 +9,26 @@ Start here:
 - [`docs/TARIUM_ECOLOGY.md`](docs/TARIUM_ECOLOGY.md) — repository-family architecture and authority boundaries;
 - [`registry/repositories.yml`](registry/repositories.yml) — canonical predicate-level repository registry;
 - [`repositories/`](repositories/) — intentionally shallow repository materializations;
+- [`meta/tarium-repository-schema.md`](meta/tarium-repository-schema.md) — general schema for constructing Tarium repositories;
 - [`meta/tarium-procedure.md`](meta/tarium-procedure.md) — shared epistemic procedure;
 - [`meta/tarium-register.md`](meta/tarium-register.md) — shared institutional prose register.
 
-The governing repository rule is:
+A Tarium repository preserves four distinct first-class layers:
+
+```text
+objective ledger
+ontological structure
+integration / analysis
+phenomenology / confession
+```
+
+These layers are sovereign in epistemic function and integrated through explicit relations rather than silent conversion.
+
+The governing repository-schema rule is:
+
+> **Preserve fact, structure, analysis, and experience as distinct sovereign layers, then integrate them explicitly rather than collapsing them implicitly.**
+
+The governing repository-ecology rule is:
 
 > **Conceptarium may model another tarium without thereby governing it.**
 
