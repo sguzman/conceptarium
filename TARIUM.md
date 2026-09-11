@@ -13,6 +13,7 @@ Start here:
 - [`candidates/`](candidates/) — pre-sovereignty candidate, incubation, and disposition stubs;
 - [`meta/tarium-repository-schema.md`](meta/tarium-repository-schema.md) — general schema for constructing Tarium repositories;
 - [`meta/tarium-sovereignty-and-lifecycle.md`](meta/tarium-sovereignty-and-lifecycle.md) — sovereignty test, promotion lifecycle, incubation, merger, and secession rules;
+- [`meta/tarium-visibility-and-opaque-references.md`](meta/tarium-visibility-and-opaque-references.md) — privacy, visibility, and public-pointer rules for private substrates;
 - [`meta/tarium-procedure.md`](meta/tarium-procedure.md) — shared epistemic procedure;
 - [`meta/tarium-register.md`](meta/tarium-register.md) — shared institutional prose register.
 
@@ -46,6 +47,14 @@ candidate → incubating → approved → instantiated → active
 with `merged`, `rejected`, and `dormant` preserving meaningful alternate outcomes.
 
 Lifecycle maturity and physical repository existence are separate axes; an `approved` candidate may remain only a `stub` until it is deliberately instantiated.
+
+Visibility is another independent axis.
+
+A public Conceptarium entry may acknowledge that a private ontology exists, what it studies, and where it incubates without acquiring or publishing the private substrate.
+
+The governing visibility rule is:
+
+> **Private substrate; explicit public pointer; no silent mirroring.**
 
 The governing repository-ecology rule is:
 
