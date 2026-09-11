@@ -29,6 +29,9 @@ struct CandidateRecord {
     repository: Option<String>,
     stub: String,
     host_candidate: Option<String>,
+    host_repository: Option<String>,
+    visibility: Option<String>,
+    conceptarium_knowledge_scope: Option<String>,
     disposition_target: Option<String>,
 }
 
@@ -104,6 +107,8 @@ fn tarium_candidate_registry_has_constitutional_lifecycle() {
         "repository-creation-is-expensive",
         "merged-and-rejected-candidates-remain-knowledge",
         "canonical-ownership-follows-deepest-ontology",
+        "visibility-is-independent-of-ownership-and-lifecycle",
+        "public-registry-may-reference-private-substrate-without-mirroring",
     ] {
         assert!(
             registry.registry.rules.iter().any(|value| value == rule),
@@ -160,7 +165,10 @@ fn provinces_and_merged_candidates_preserve_negative_knowledge() {
         .filter(|candidate| candidate.lifecycle_state == "incubating")
         .map(|candidate| candidate.id.as_str())
         .collect::<BTreeSet<_>>();
-    assert_eq!(incubating, BTreeSet::from(["finance", "sartorial", "typography"]));
+    assert_eq!(
+        incubating,
+        BTreeSet::from(["agent-adaptation", "finance", "sartorial", "typography"])
+    );
 
     for candidate in registry
         .candidates
@@ -168,7 +176,11 @@ fn provinces_and_merged_candidates_preserve_negative_knowledge() {
         .filter(|candidate| candidate.lifecycle_state == "incubating")
     {
         assert_eq!(candidate.materialization_state, "province");
-        assert!(candidate.host_candidate.is_some());
+        assert!(
+            candidate.host_candidate.is_some() ^ candidate.host_repository.is_some(),
+            "incubating candidate {} must declare exactly one host axis",
+            candidate.id
+        );
         assert!(candidate.repository.is_none());
         assert!(root().join(&candidate.stub).exists());
     }
@@ -192,6 +204,46 @@ fn provinces_and_merged_candidates_preserve_negative_knowledge() {
         assert!(candidate.disposition_target.is_some());
         assert!(root().join(&candidate.stub).exists());
     }
+}
+
+#[test]
+fn private_agent_adaptation_candidate_is_opaque_and_hosted_in_salvatarium() {
+    let registry = load_candidates();
+    let candidate = registry
+        .candidates
+        .iter()
+        .find(|candidate| candidate.id == "agent-adaptation")
+        .expect("agent-adaptation candidate must exist");
+
+    assert_eq!(candidate.lifecycle_state, "incubating");
+    assert_eq!(candidate.materialization_state, "province");
+    assert_eq!(candidate.host_repository.as_deref(), Some("salvatarium"));
+    assert_eq!(
+        candidate.visibility.as_deref(),
+        Some("public-pointer-private-substrate")
+    );
+    assert_eq!(
+        candidate.conceptarium_knowledge_scope.as_deref(),
+        Some("predicate-only")
+    );
+    assert_eq!(
+        candidate.sovereignty_assessment,
+        "plausible-independent-ontology-not-yet-earned"
+    );
+
+    let materialized = fs::read_to_string(root().join(&candidate.stub))
+        .expect("agent-adaptation candidate stub must be readable");
+    assert!(materialized.contains("interaction constitution"));
+    assert!(materialized.contains("private incubating province"));
+    assert!(materialized.contains("opaque architectural reference"));
+    assert!(materialized.contains("Provenance requirement"));
+
+    let visibility_path = root().join("meta/tarium-visibility-and-opaque-references.md");
+    let visibility = fs::read_to_string(&visibility_path)
+        .unwrap_or_else(|error| panic!("failed to read {}: {error}", visibility_path.display()));
+    assert!(visibility.contains("canonical ownership ≠ visibility"));
+    assert!(visibility.contains("Private substrate; explicit public pointer; no silent mirroring."));
+    assert!(visibility.contains("public pointer ≠ mirrored private state"));
 }
 
 #[test]

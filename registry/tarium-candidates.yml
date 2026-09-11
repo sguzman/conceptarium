@@ -24,6 +24,8 @@ registry:
     - merged-and-rejected-candidates-remain-knowledge
     - canonical-ownership-follows-deepest-ontology
     - secession-should-not-duplicate-canonical-state
+    - visibility-is-independent-of-ownership-and-lifecycle
+    - public-registry-may-reference-private-substrate-without-mirroring
 
 candidates:
   - id: mathematics
@@ -200,6 +202,34 @@ candidates:
       derivatives, and valuation generate an independent internal civilization.
     repository: null
     stub: candidates/finance.md
+
+  - id: agent-adaptation
+    working_name: Agent Adaptation / Interaction Constitution
+    aliases:
+      - Interlocutor Constitution
+      - Agent Domestication
+    name_status: provisional
+    lifecycle_state: incubating
+    materialization_state: province
+    host_repository: salvatarium
+    visibility: public-pointer-private-substrate
+    conceptarium_knowledge_scope: predicate-only
+    canonical_object: >-
+      Persistent, inspectable, transferable structure of human-agent adaptation produced
+      through prolonged interaction, correction, negotiation, and accumulated relational history.
+    core_question: >-
+      What must an agent know, presume, avoid, preserve, and do in order to participate
+      competently in the evolved Salvador-agent relationship without requiring the original
+      chat history?
+    sovereignty_assessment: plausible-independent-ontology-not-yet-earned
+    promotion_trigger: >-
+      Reconsider sovereignty when the private Salvatarium province accumulates a substantial
+      provenance-bearing corpus, mature native object types and relations, comparative agent
+      or model profiles, portable bootstrap projections, independent tooling, several internal
+      subdomains, and enough structural pressure that continued hosting in Salvatarium becomes
+      ontologically dishonest.
+    repository: null
+    stub: candidates/agent-adaptation.md
 
   - id: animalia
     working_name: Animalia
