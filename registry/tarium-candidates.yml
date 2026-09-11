@@ -1,0 +1,251 @@
+version: 1
+registry:
+  object_kind: tarium-candidate
+  canonicality: lifecycle-and-sovereignty
+  authority: conceptarium-pre-sovereignty
+  lifecycle_states:
+    - candidate
+    - incubating
+    - approved
+    - instantiated
+    - active
+    - merged
+    - rejected
+    - dormant
+  materialization_states:
+    - stub
+    - province
+    - repository
+  rules:
+    - intensity-admits-but-does-not-grant-sovereignty
+    - sovereignty-requires-ontological-independence
+    - stub-creation-is-cheap
+    - repository-creation-is-expensive
+    - merged-and-rejected-candidates-remain-knowledge
+    - canonical-ownership-follows-deepest-ontology
+    - secession-should-not-duplicate-canonical-state
+
+candidates:
+  - id: mathematics
+    working_name: Mathematics
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: mathematical objects, structures, proofs, conjectures, and methods
+    core_question: What mathematical structures exist, how do they relate, and what can be proved about them?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/mathematics.md
+
+  - id: engineering
+    working_name: Engineering
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: engineered physical systems and mechanistic accounts of artifacts
+    core_question: How does this engineered thing actually work, completely and mechanistically?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/engineering.md
+
+  - id: design
+    working_name: Designarium
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: intentional design decisions and designed human artifacts across media
+    core_question: Why was this made this way, and is this a good way for a human artifact to be?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/design.md
+
+  - id: habitat
+    working_name: Habitatarium
+    aliases:
+      - Urbanarium
+      - Civitatarium
+      - lived-environment-governance
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: human lived environments from dwelling through city and supporting infrastructure
+    core_question: What properties should a place for humans to live possess, and why?
+    sovereignty_assessment: passed-in-principle-after-reframing
+    repository: null
+    stub: candidates/habitat.md
+
+  - id: architecture
+    working_name: Architecture
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: buildings and constructed spatial environments
+    core_question: How are buildings and spatial environments composed, organized, experienced, and transformed?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/architecture.md
+
+  - id: economics
+    working_name: Economics
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: production, allocation, exchange, incentives, institutions, and economic systems
+    core_question: How do economic systems allocate resources and coordinate trade-offs, incentives, institutions, and moral claims?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/economics.md
+
+  - id: biotarium
+    working_name: Biotarium
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: nonhuman life, organisms, evolution, phylogeny, physiology, behavior, and ecology
+    core_question: What is nonhuman life, how is it structured, and how did its forms arise and diversify?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/biotarium.md
+
+  - id: geographia
+    working_name: Geographia
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: Earth surface, terrain, landforms, physical regions, and landscape formation
+    core_question: How is Earth's surface structured, composed, formed, and differentiated?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/geographia.md
+
+  - id: chemistry
+    working_name: Chemistry
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: matter, substances, reactions, molecular structure, and chemical systems
+    core_question: What is matter doing at chemical scales, and how can substances and reactions be represented and explained?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/chemistry.md
+
+  - id: software-studies
+    working_name: Software Studies
+    aliases:
+      - Software Catalogue
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: software as an object of descriptive, historical, taxonomic, and theoretical study
+    core_question: What is software, what kinds exist, how did they emerge, and how do their abstractions differ?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/software-studies.md
+
+  - id: cuisine
+    working_name: Cuisine
+    name_status: provisional
+    lifecycle_state: approved
+    materialization_state: stub
+    canonical_object: ingredients, dishes, techniques, cuisines, sensory structures, and food genealogies
+    core_question: How are edible materials transformed into foods, dishes, cuisines, and sensory traditions?
+    sovereignty_assessment: passed-in-principle
+    repository: null
+    stub: candidates/cuisine.md
+
+  - id: typography
+    working_name: Typography
+    name_status: provisional
+    lifecycle_state: incubating
+    materialization_state: province
+    host_candidate: design
+    canonical_object: typefaces, type families, typographic form, type design, and font artifacts
+    core_question: How are letterforms designed, related, engineered, perceived, and judged?
+    sovereignty_assessment: not-yet-independent
+    promotion_trigger: >-
+      Reconsider sovereignty if glyph construction, font engineering, variable axes,
+      optical compensation, kerning, hinting, type history, font assets, and original
+      typeface design become structurally too large for Designarium.
+    repository: null
+    stub: candidates/typography.md
+
+  - id: sartorial
+    working_name: Sartorial Design
+    name_status: provisional
+    lifecycle_state: incubating
+    materialization_state: province
+    host_candidate: design
+    canonical_object: garments, dress, costume, bodily presentation, and their design operations
+    core_question: What operations do clothing and costume perform on bodies, perception, status, eroticism, and identity?
+    sovereignty_assessment: not-yet-independent
+    promotion_trigger: >-
+      Reconsider sovereignty if garment construction, textile systems, dress history,
+      costume ontology, industry structure, and substantial independent tooling or assets
+      outgrow Designarium.
+    repository: null
+    stub: candidates/sartorial.md
+
+  - id: finance
+    working_name: Finance
+    name_status: provisional
+    lifecycle_state: incubating
+    materialization_state: province
+    host_candidate: economics
+    canonical_object: financial claims, instruments, institutions, markets, accounting structures, and risk across time
+    core_question: How are claims across time under uncertainty represented, valued, exchanged, financed, and governed?
+    sovereignty_assessment: plausible-but-not-yet-earned
+    promotion_trigger: >-
+      Reconsider sovereignty when detailed instrument ontologies, accounting structures,
+      corporate finance, banking, market microstructure, portfolio theory, risk transfer,
+      derivatives, and valuation generate an independent internal civilization.
+    repository: null
+    stub: candidates/finance.md
+
+  - id: animalia
+    working_name: Animalia
+    lifecycle_state: merged
+    materialization_state: stub
+    disposition_target: biotarium
+    sovereignty_assessment: merged-into-deeper-ontology
+    disposition_reason: >-
+      Animal-only scope would encode a taxonomic prejudice; nonhuman life is better
+      represented in a single Biotarium spanning animals, plants, fungi, protists,
+      bacteria, archaea, evolution, physiology, behavior, and ecology.
+    repository: null
+    stub: candidates/animalia.md
+
+  - id: plants
+    working_name: Plants
+    lifecycle_state: merged
+    materialization_state: stub
+    disposition_target: biotarium
+    sovereignty_assessment: province-not-sovereign
+    disposition_reason: >-
+      Plant ontology is substantial but belongs as a first-class province of the broader
+      nonhuman-life ontology rather than a separate repository at present.
+    repository: null
+    stub: candidates/plants.md
+
+  - id: animal-biology
+    working_name: Animal Biology
+    lifecycle_state: merged
+    materialization_state: stub
+    disposition_target: biotarium
+    sovereignty_assessment: province-not-sovereign
+    disposition_reason: >-
+      Animal physiology and anatomy are native subdomains of Biotarium rather than an
+      independent sovereign repository.
+    repository: null
+    stub: candidates/animal-biology.md
+
+  - id: human-biology
+    working_name: Human Biology
+    lifecycle_state: merged
+    materialization_state: stub
+    disposition_target: somatarium
+    sovereignty_assessment: canonical-home-already-exists
+    disposition_reason: >-
+      Human biology belongs in Somatarium, where objective human biology can coexist
+      with measurements, symptoms, interventions, and first-person embodied phenomenology.
+    repository: null
+    stub: candidates/human-biology.md

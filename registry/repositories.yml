@@ -63,6 +63,17 @@ repositories:
       object of inquiry.
     materialization: repositories/salvatarium.md
 
+  - id: somatarium
+    name: Somatarium
+    repository: sguzman/somatarium
+    family_status: core
+    role: private-embodied-domain-repository
+    purpose: >-
+      Ontology of Salvador's body and embodied organism, combining source-backed human
+      biology, measurements, symptoms, interventions, hypotheses, and first-class bodily
+      and mental phenomenology while keeping phenomenology distinct from external fact.
+    materialization: repositories/somatarium.md
+
   - id: dramatarium
     name: Dramatarium
     repository: sguzman/dramatarium
