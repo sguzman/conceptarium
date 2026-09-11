@@ -1,0 +1,93 @@
+version: 1
+registry:
+  object_kind: repository
+  canonicality: predicate-level
+  conceptarium_role: observer-non-governing
+  knowledge_scope: predicate-level
+  source_authority: local-repository
+  policy:
+    permitted:
+      - existence
+      - canonical-repository-identity
+      - coarse-domain-purpose
+      - declared-family-membership
+      - declared-cross-repository-relations
+      - explicitly-published-interfaces
+    excluded_by_default:
+      - internal-artifact-inventory
+      - internal-object-state
+      - private-person-records
+      - repository-local-conclusions
+      - repository-local-ontology-details
+      - unpublished-files
+      - live-workflow-state
+
+repositories:
+  - id: conceptarium
+    name: Conceptarium
+    repository: sguzman/conceptarium
+    family_status: core
+    role: meta-repository
+    purpose: >-
+      Canonical concept knowledge base and external theorization surface for the Tarium
+      ecosystem. It may model cross-repository patterns without governing member
+      repositories.
+    materialization: repositories/conceptarium.md
+
+  - id: politicarium
+    name: Politicarium
+    repository: sguzman/politicarium
+    family_status: core
+    role: domain-repository
+    purpose: >-
+      Politics, political theory, confession, arguments, and audits.
+    materialization: repositories/politicarium.md
+
+  - id: linguarium
+    name: Linguarium
+    repository: sguzman/linguarium
+    family_status: core
+    role: domain-repository
+    purpose: >-
+      Language cataloguing and learning, including vocabulary, etymology, syntax,
+      dialects, language families, and writing systems.
+    materialization: repositories/linguarium.md
+
+  - id: salvatarium
+    name: Salvatarium
+    repository: sguzman/salvatarium
+    family_status: core
+    role: private-domain-repository
+    purpose: >-
+      Private self-concept repository for ontologizing and interrogating Salvador as an
+      object of inquiry.
+    materialization: repositories/salvatarium.md
+
+  - id: dramatarium
+    name: Dramatarium
+    repository: sguzman/dramatarium
+    family_status: core
+    role: domain-repository
+    purpose: >-
+      Fiction and narrative workbench for drama, criticism, deconstruction,
+      interrogation, and analysis of fictional works.
+    materialization: repositories/dramatarium.md
+
+  - id: projectarium
+    name: Projectarium
+    repository: sguzman/projectarium
+    family_status: core
+    role: inventory-repository
+    purpose: >-
+      Minor ontology and inventory of GitHub projects and their project-level state.
+    materialization: repositories/projectarium.md
+
+  - id: software-philosophy
+    name: Software Philosophy
+    repository: sguzman/software-philosophy
+    family_status: adjacent
+    role: constitutional-repository
+    purpose: >-
+      Software-engineering philosophy emphasizing conservative practice, empirical
+      correction, accumulated best practices, and free amendment when evidence warrants.
+    materialization: repositories/software-philosophy.md
