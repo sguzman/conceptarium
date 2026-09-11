@@ -191,3 +191,34 @@ fn tarium_register_and_procedure_are_load_bearing_meta_artifacts() {
     assert!(register.contains("## Scope markers"));
     assert!(register.contains("## Anti-patterns"));
 }
+
+#[test]
+fn tarium_repository_schema_preserves_four_sovereign_layers() {
+    let schema_path = root().join("meta/tarium-repository-schema.md");
+    let schema = fs::read_to_string(&schema_path)
+        .unwrap_or_else(|error| panic!("failed to read {}: {error}", schema_path.display()));
+
+    for required_heading in [
+        "## 1. Objective ledger",
+        "## 2. Ontological structure",
+        "## 3. Integration and analysis",
+        "## 4. Phenomenological / confessional layer",
+        "# Layer sovereignty",
+        "# Cross-layer relations",
+        "# Anti-collapse constitution",
+    ] {
+        assert!(
+            schema.contains(required_heading),
+            "Tarium Repository Schema is missing load-bearing section {required_heading:?}"
+        );
+    }
+
+    assert!(schema.contains("distinct, sovereign, and first class"));
+    assert!(schema.contains("Integration is achieved by typed relations, not by collapsing provenance."));
+    assert!(schema.contains("confession -> fact"));
+    assert!(schema.contains("analysis -> evidence"));
+    assert!(schema.contains("ontology -> proof"));
+    assert!(schema.contains(
+        "Preserve fact, structure, analysis, and experience as distinct sovereign layers"
+    ));
+}
