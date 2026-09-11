@@ -141,13 +141,13 @@ fn current_tarium_ecology_has_unique_materialized_repository_entities() {
     }
 
     let expected = BTreeSet::from([
-        "conceptarium",
-        "politicarium",
-        "linguarium",
-        "salvatarium",
-        "dramatarium",
-        "projectarium",
-        "software-philosophy",
+        "conceptarium".to_string(),
+        "politicarium".to_string(),
+        "linguarium".to_string(),
+        "salvatarium".to_string(),
+        "dramatarium".to_string(),
+        "projectarium".to_string(),
+        "software-philosophy".to_string(),
     ]);
 
     assert!(
