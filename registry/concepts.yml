@@ -6776,48 +6776,40 @@ concepts:
   - id: internal-prosecution
     term: "Internal prosecution"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/internal-prosecution.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Introspection taking an accusatory form where motives are treated as evidence of guilt rather than information requiring understanding."
   - id: internal-inquisition
     term: "Internal Inquisition"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/internal-inquisition.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Pathological extreme of self-examination where every motive becomes suspect, every pleasure requires justification, and introspection becomes perpetual prosecution."
   - id: analytical-cruelty
     term: "Analytical cruelty"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/analytical-cruelty.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Using truth-seeking or self-scrutiny as justification for humiliation, punishment, contempt, or psychological violence toward parts of oneself."
   - id: firm-containment
     term: "Firm containment"
     presence: registered
     materialization: registry-only
     ontology_state: unplaced
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
+    queue_group: "Dedup / consolidation hold"
     capture:
-      note: "Restricting harmful impulses or internal behaviors without denying their existence or treating the part that contains them as disposable."
+      note: "Duplicate-pressure hold: functionally overlaps the existing registry concept Containment, which already means firmly restricting a self-state's behavior or executive power without denial or humiliation. Preserve the wording but do not independently materialize until lossless alias/merge support exists."
   - id: containment-without-cruelty
     term: "Containment without cruelty"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/containment-without-cruelty.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "Governing principle: impulses may require boundaries while still receiving recognition, evidence, and humane treatment."
   - id: confession-without-submission
     term: "Confession without submission"
     presence: registered
@@ -6878,12 +6870,10 @@ concepts:
   - id: evidence-versus-punishment
     term: "Evidence versus punishment"
     presence: registered
-    materialization: registry-only
-    ontology_state: unplaced
+    materialization: entry
+    entry: entries/evidence-versus-punishment.md
+    ontology_state: unassessed
     registered_on: 2026-09-07
-    queue_group: "Confessional epistemology / psychological archaeology"
-    capture:
-      note: "An uncomfortable motive can be evidence about how the psyche works without automatically being grounds for condemnation."
   - id: confessional-epistemology
     term: "Confessional epistemology"
     presence: registered

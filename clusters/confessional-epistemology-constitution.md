@@ -237,7 +237,7 @@ They should remain registered without independent entries until Conceptarium can
 
 These are preservation records, not forgotten work.
 
-**Analytical cruelty is not on hold.** Existing canon explicitly treats it as the broader neighboring concept of which cruelty in the tribunal is an adjudicative subtype.
+**Analytical cruelty is now materialized.** It is the broader neighboring concept of which cruelty in the tribunal is an adjudicative subtype.
 
 ## Core anti-collapse rules
 
@@ -271,20 +271,42 @@ That branch formalizes:
 
 It turns confessional epistemology from a synchronic examination method into a method capable of reconstructing how present rules were authored across time.
 
+## Prosecution and containment branch
+
+The punitive-failure / humane-containment subfamily is now materialized as [Internal Prosecution and Humane Containment](./internal-prosecution-and-humane-containment.md).
+
+It distinguishes:
+
+- investigation from prosecution;
+- evidence from punishment;
+- containment from cruelty;
+- universal examinability from universal suspicion.
+
+**Firm containment** was moved to consolidation hold because it functionally overlaps the pre-existing registry concept **Containment**.
+
 ## Remaining queue frontier
 
-After this batch, the confessional family still contains distinct subfamilies for:
+After this batch, the confessional family contains 17 ordinary queued concepts:
 
+- self-interpretation;
+- intellectual apparatus turned inward;
+- interior examination;
+- Protestant self-scrutiny;
+- motive scrutiny;
+- internal republic;
+- constitutional inquiry;
+- internal standing;
+- internal jurisdiction;
+- internal veto;
+- authorship of interpretation;
 - psychological excavation;
-- self-interpretation and motive scrutiny;
-- internal republic / jurisdiction / veto;
-- internal prosecution / inquisition / containment;
-- evidence versus punishment;
-- interior historiography / self as archive;
+- analytical exposure;
+- interior historiography;
+- self as archive;
 - danger of unexamined accumulation;
 - confession as maintenance.
 
-Those should remain separate promotion batches.
+These should remain separate promotion batches.
 
 ## Revision history
 

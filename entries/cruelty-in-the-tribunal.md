@@ -110,7 +110,7 @@ Ambiguity is consistently resolved toward the most condemning story.
 
 ## Relation to analytical cruelty
 
-The queued concept **Analytical cruelty** names the broader use of truth-seeking as justification for psychological violence.
+[Analytical cruelty](./analytical-cruelty.md) names the broader use of truth-seeking as justification for psychological violence.
 
 Cruelty in the tribunal is its adjudicative subtype.
 
