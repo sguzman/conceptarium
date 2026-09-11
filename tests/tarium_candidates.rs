@@ -199,6 +199,7 @@ fn sovereignty_document_preserves_promotion_threshold() {
     let path = root().join("meta/tarium-sovereignty-and-lifecycle.md");
     let text = fs::read_to_string(&path)
         .unwrap_or_else(|error| panic!("failed to read {}: {error}", path.display()));
+    let text = text.replace("\r\n", "\n");
 
     for required in [
         "# The Tarium Sovereignty Test",
