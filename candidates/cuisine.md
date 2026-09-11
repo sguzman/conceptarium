@@ -2,9 +2,12 @@
 
 - **Lifecycle:** approved
 - **Materialization:** stub / not instantiated
-- **Name:** provisional
 
-## Canonical object
+## Working name / aliases
+
+Cuisine. Final repository name remains open.
+
+## Canonical object of study
 
 Ingredients, dishes, techniques, cuisines, recipes, textures, spices, sensory structures, food histories, and genealogies.
 
@@ -12,22 +15,42 @@ Ingredients, dishes, techniques, cuisines, recipes, textures, spices, sensory st
 
 How are edible materials transformed into foods, dishes, cuisines, and sensory traditions?
 
-## Native objects and relations
+## Native entity types
 
-Ingredient, preparation, dish, recipe, technique, texture, aroma, flavor, spice, cuisine, meal, preservation, fermentation, substitution, pairing, regional lineage, culinary genealogy.
+Ingredient, preparation, dish, recipe, technique, texture, aroma, flavor, spice, cuisine, meal, preservation method, fermentation, pairing.
 
-## Major proposed provinces
+## Native relations
 
-Ingredients, techniques, regional cuisines, dishes, baking, fermentation, preservation, sensory analysis, culinary history, recipe structure, food systems at a light supporting level.
+Contains-ingredient, prepared-by, substitutes-for, pairs-with, derives-from, fermented-by, seasoned-with, served-as, belongs-to-cuisine, transforms-into.
 
-## Cross-Tarium boundaries
+## Major proposed subdomains
 
-Chemistry owns chemical mechanisms; Biotarium owns source organisms; Design may analyze presentation; Economics may analyze industry. Cuisine owns edible transformation and culinary tradition.
+Ingredients; techniques; regional cuisines; dishes; baking; fermentation; preservation; sensory analysis; culinary history; recipe structure.
 
-## Phenomenological layer
+## Likely overlaps with existing Tariums
 
-Taste, smell, texture, appetite, disgust, nostalgia, pleasure, personal recipes, memories, and aesthetic judgment are first-class without becoming universal culinary fact.
+Chemistry, Biotarium, Economics, Designarium, Geographia/cultural regions.
+
+## Why projection into an existing repo is insufficient
+
+Cuisine has its own transformation processes, sensory ontology, tradition/genealogy, recipes, techniques, and instantiated dish profiles that no source-material or chemistry ontology owns.
+
+## Example artifacts
+
+Ingredient profiles; dish biographies; recipe structures; technique ontologies; cuisine genealogies; spice/texture maps; comparative tastings; personal recipe corpus.
+
+## Phenomenological / confessional role
+
+Taste, smell, texture, appetite, disgust, nostalgia, pleasure, memory, and personal culinary judgment are first-class without becoming universal culinary fact.
+
+## Sovereignty-test assessment
+
+Passed in principle.
+
+## Promotion evidence
+
+Independent object/technique relations, multiple mature subdomains, enormous case corpus, strong historical/genealogical and phenomenological layers.
 
 ## Status
 
-Passed the sovereignty test in principle. Repository not yet created.
+Approved stub. Repository not yet created.

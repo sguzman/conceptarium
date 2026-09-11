@@ -2,9 +2,12 @@
 
 - **Lifecycle:** approved
 - **Materialization:** stub / not instantiated
-- **Name:** provisional but preferred
 
-## Canonical object
+## Working name / aliases
+
+Biotarium; preferred merger target for Animalia, Plants, and Animal Biology.
+
+## Canonical object of study
 
 Nonhuman life across organisms, evolution, phylogeny, physiology, development, behavior, reproduction, ecology, and speciation.
 
@@ -12,26 +15,42 @@ Nonhuman life across organisms, evolution, phylogeny, physiology, development, b
 
 What is nonhuman life, how is it structured, and how did its forms arise and diversify?
 
-## Scale ontology
+## Native entity types
 
-`life → domains → kingdoms → clades → species → populations → organisms → organs → tissues → cells`
+Domain, kingdom, clade, species, population, organism, organ, tissue, cell, trait, lineage, ecological niche, behavior, developmental stage.
 
-## Major proposed provinces
+## Native relations
 
-Animals, plants, fungi, protists, bacteria, archaea, evolutionary biology, phylogenetics, ecology, behavior, physiology, development, reproduction.
+Descends-from, sister-to, speciates-from, inhabits, preys-on, symbioses-with, develops-into, reproduces-by, adapts-to, homologous-with.
 
-## Why the aggressive merger matters
+## Major proposed subdomains
 
-Animalia, Plants, and Animal Biology were considered separately. Keeping them sovereign would fragment one deeper ontology and privilege animals taxonomically. They are therefore preserved as merged candidates/provinces here.
+Animals; plants; fungi; protists; bacteria; archaea; evolutionary biology; phylogenetics; ecology; behavior; physiology; development; reproduction.
 
-## Boundary with Somatarium
+## Likely overlaps with existing Tariums
 
-Human biology belongs to Somatarium because the human organism there is integrated with measurements, interventions, symptoms, and lived embodiment. Comparative biology may link across repositories.
+Somatarium for human biology/comparison; Chemistry for biochemistry; Geographia for habitat/biogeography; animal ethics concepts may project from Conceptarium/Politicarium as appropriate.
 
-## Phenomenological layer
+## Why projection into an existing repo is insufficient
 
-Wonder, disgust, affection, fear, moral salience, aesthetic response, and personal encounters with organisms may be preserved without distorting biological fact.
+Nonhuman life has a deep unified ontology spanning taxa, evolution, physiology, ecology, and instantiated organisms. Separate Animalia/Plants repos would fragment that deeper substrate.
+
+## Example artifacts
+
+Species profiles; phylogenetic trees; speciation histories; organism mini-ontologies; organ/physiology maps; evolutionary transition studies; ecology profiles.
+
+## Phenomenological / confessional role
+
+Wonder, disgust, affection, fear, moral salience, aesthetic response, and personal encounters with organisms are first-class experiential projections without distorting biology.
+
+## Sovereignty-test assessment
+
+Passed in principle.
+
+## Promotion evidence
+
+Massive independent object hierarchy, native evolutionary/ecological relations, many major subdomains, and natural instantiated organism profiles.
 
 ## Status
 
-Passed the sovereignty test in principle. Repository not yet created.
+Approved stub. Repository not yet created.

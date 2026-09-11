@@ -2,9 +2,12 @@
 
 - **Lifecycle:** approved
 - **Materialization:** stub / not instantiated
-- **Name:** provisional
 
-## Canonical object
+## Working name / aliases
+
+Mathematics. Final repository name remains open.
+
+## Canonical object of study
 
 Mathematical objects, structures, proofs, conjectures, methods, and intuitions.
 
@@ -12,22 +15,42 @@ Mathematical objects, structures, proofs, conjectures, methods, and intuitions.
 
 What mathematical structures exist, how do they relate, and what can be proved about them?
 
-## Native objects and relations
+## Native entity types
 
-Numbers, sets, functions, spaces, groups, rings, fields, graphs, measures, proofs, conjectures, transformations, equivalence, implication, construction, generalization, and counterexample.
+Numbers, sets, functions, spaces, groups, rings, fields, graphs, measures, proofs, conjectures, constructions, counterexamples.
 
-## Major proposed provinces
+## Native relations
 
-Arithmetic and number theory; algebra; geometry; analysis; topology; combinatorics; probability; logic; foundations; numerical methods; history of mathematics.
+Equality, equivalence, implication, inclusion, isomorphism, transformation, construction, specialization, generalization, proof-dependence.
 
-## Why sovereignty is justified
+## Major proposed subdomains
 
-The domain has independent standards of evidence, native objects, native relations, multiple mature subdomains, proof machinery, genealogies, and substantial theoretical structure that cannot honestly be represented as a module of another Tarium.
+Number theory; algebra; geometry; analysis; topology; combinatorics; probability; logic; foundations; numerical methods; history of mathematics.
 
-## Phenomenological layer
+## Likely overlaps with existing Tariums
 
-Mathematical intuition, aesthetic response, felt obviousness, confusion, proof-discovery experience, and Salvador's personal interpretation of mathematical structure may be preserved without being confused with proof.
+Conceptarium may model mathematical concepts abstractly; Engineering and Software Studies may use mathematics instrumentally. Canonical mathematical ontology belongs here.
+
+## Why projection into an existing repo is insufficient
+
+The domain has independent evidence standards, native relations, proof machinery, many mature subdomains, and a huge internal genealogy that no other Tarium can honestly own as a module.
+
+## Example artifacts
+
+Proof objects, theorem/conjecture profiles, structure maps, worked derivations, historical genealogies, counterexample catalogues, intuition notes.
+
+## Phenomenological / confessional role
+
+Mathematical intuition, aesthetic response, felt obviousness, confusion, proof-discovery experience, and Salvador's personal interpretation may be preserved without being confused with proof.
+
+## Sovereignty-test assessment
+
+Passed in principle.
+
+## Promotion evidence
+
+Distinctive canonical objects; native relations; independent proof methods; multiple mature subdomains; extensive case/genealogy space.
 
 ## Status
 
-Passed the sovereignty test in principle. Repository not yet created.
+Approved stub. Repository not yet created.

@@ -2,39 +2,55 @@
 
 - **Lifecycle:** approved
 - **Materialization:** stub / not instantiated
-- **Working aliases:** Urbanarium, Civitatarium
-- **Name:** provisional
 
-## Canonical object
+## Working name / aliases
 
-The human lived environment across scales.
+Habitatarium; Urbanarium; Civitatarium; earlier prompt used "governance" but that label was rejected as misleading.
+
+## Canonical object of study
+
+The human lived environment from room and dwelling through settlement, city, region, and supporting infrastructure.
 
 ## Core question
 
 If one could instantiate a place for humans to live, **what properties should that place possess, and why?**
 
-## Scale ontology
+## Native entity types
 
-`room → dwelling → lot → street → block → neighborhood → district → settlement → city → region`
+Room, dwelling, lot, street, block, neighborhood, district, settlement, city, region, utility network, park, transit line, drainage system, public realm.
 
-Cross-cutting infrastructures include water, sewage, electricity, transit, roads, freight, food, waste, communications, parks, drainage, and emergency access.
+## Native relations
 
-## Native concerns
+Adjacent-to, serves, connects, drains-to, supplies, houses, accessible-from, buffers, concentrates, distributes, supports-mobility-of.
 
-Dignity, privacy, sociability, logistics, resilience, efficiency, mobility, safety, childhood, aging, commerce, ecology, pleasure, aesthetics, maintenance, infrastructure, and lived spatial quality.
+## Major proposed subdomains
 
-## Boundary with Politicarium
+Housing; streets; neighborhoods; city planning; infrastructure; mobility; utilities; logistics; public space; resilience; childhood/aging in space; lived-environment evaluation.
 
-Political governance—authority, representation, elections, offices, law, institutional power—belongs to Politicarium. Habitatarium owns the designed and functioning lived environment.
+## Likely overlaps with existing Tariums
 
-## Boundary with Architecture
+Architecture, Designarium, Engineering, Economics, Politicarium, Geographia.
 
-Architecture owns buildings as constructed spatial objects. Habitatarium owns buildings as components of larger lived systems and settlements.
+## Why projection into an existing repo is insufficient
 
-## Phenomenological layer
+The scale hierarchy and cross-cutting infrastructure ontology create a native object of study: the functioning human habitat. Political governance remains Politicarium; buildings alone remain Architecture.
 
-What makes a place feel livable, alienating, safe, dignified, beautiful, oppressive, home-like, or socially alive is first-class evidence of experience without becoming objective planning fact.
+## Example artifacts
+
+City ontologies; neighborhood audits; home-vs-house analysis; infrastructure maps; exemplary/failed settlements; Cities: Skylines-style planning models; Salvador-designed ideal settlement scenarios.
+
+## Phenomenological / confessional role
+
+Livability, alienation, safety, dignity, beauty, home-feeling, sociability, privacy, and personal spatial preference are first-class experiential projections.
+
+## Sovereignty-test assessment
+
+Passed in principle after reframing away from political governance.
+
+## Promotion evidence
+
+Distinct scale ontology; native infrastructure relations; multiple independent subdomains; questions not reducible to Architecture or Politicarium.
 
 ## Status
 
-The earlier "governance" idea passed sovereignty only after reframing around human habitat. Repository not yet created.
+Approved stub. Repository not yet created.

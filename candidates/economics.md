@@ -2,36 +2,55 @@
 
 - **Lifecycle:** approved
 - **Materialization:** stub / not instantiated
-- **Name:** provisional
 
-## Canonical object
+## Working name / aliases
 
-Production, allocation, exchange, incentives, institutions, industries, firms, sectors, and economic systems.
+Economics. Final repository name remains open.
+
+## Canonical object of study
+
+Production, allocation, exchange, incentives, institutions, firms, sectors, industries, and economic systems.
 
 ## Core question
 
 What are economic systems doing, what problems do they solve, what trade-offs do they impose, and what moral/institutional structures follow?
 
-## Native objects and relations
+## Native entity types
 
-Goods, services, labor, capital, firms, households, prices, markets, externalities, incentives, scarcity, allocation, production, exchange, productivity, institutions, sectors, growth, distribution.
+Good, service, labor, capital, firm, household, price, market, externality, incentive, institution, sector, industry, production process, exchange, distribution.
 
-## Major proposed provinces
+## Native relations
 
-Microeconomics, macroeconomics, institutional economics, political economy, industrial organization, labor, trade, development, public economics, economic history, comparative systems.
+Produces, consumes, exchanges, prices, employs, allocates, incentivizes, taxes, subsidizes, competes-with, substitutes-for, complements.
 
-## Analysis role
+## Major proposed subdomains
 
-The repository should represent actual economies—world, national, sectoral, corporate—alongside competing models and normative trade-offs.
+Micro; macro; institutional economics; political economy; industrial organization; labor; trade; development; public economics; economic history; comparative systems.
 
-## Phenomenological layer
+## Likely overlaps with existing Tariums
 
-Salvador's moral intuitions about allocation, dignity, dependence, work, risk, inequality, and institutional legitimacy are preserved separately from descriptive economics.
+Politicarium, Habitatarium, Engineering, Cuisine, Software Studies; Finance incubates here.
 
-## Incubator
+## Why projection into an existing repo is insufficient
 
-Finance begins as a province here and must earn independent sovereignty.
+Economics possesses its own systems, actors, measurements, institutions, trade-offs, and explanatory traditions. Politicarium can analyze political consequences without owning economic ontology.
+
+## Example artifacts
+
+World/US/country economy profiles; sector maps; corporation/industry profiles; competing-system models; incentive audits; trade-off matrices; historical system genealogies.
+
+## Phenomenological / confessional role
+
+Moral intuitions about allocation, work, dependence, dignity, inequality, risk, and institutional legitimacy are preserved separately from descriptive economics.
+
+## Sovereignty-test assessment
+
+Passed in principle.
+
+## Promotion evidence
+
+Large native vocabulary, independent explanatory models, multiple major subfields, abundant real-world instantiated systems and moral/theoretical depth.
 
 ## Status
 
-Passed the sovereignty test in principle. Repository not yet created.
+Approved stub. Repository not yet created.

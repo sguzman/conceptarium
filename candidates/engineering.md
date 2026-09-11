@@ -2,9 +2,12 @@
 
 - **Lifecycle:** approved
 - **Materialization:** stub / not instantiated
-- **Name:** provisional
 
-## Canonical object
+## Working name / aliases
+
+Engineering. Final repository name remains open.
+
+## Canonical object of study
 
 Engineered physical systems and complete mechanistic accounts of artifacts.
 
@@ -12,28 +15,42 @@ Engineered physical systems and complete mechanistic accounts of artifacts.
 
 **How does this thing actually work?**
 
-## Native object profile
+## Native entity types
 
-An engineered artifact may be traced through:
+Artifact, component, subsystem, material, mechanism, energy source, input, output, sensor, controller, fastener, bearing, gear, motor, pump, valve, battery cell, transistor, pressure vessel.
 
-`purpose → inputs → outputs → components → materials → geometry → mechanisms → energy flows → electrical behavior → chemical processes → physical principles → controls → manufacturing → failure modes → maintenance → history → genealogy → social use`
+## Native relations
 
-## Reusable primitives
+Part-of, transmits-force-to, supplies-energy-to, senses, controls, converts, constrains, fails-by, maintained-by, manufactured-by, interfaces-with.
 
-Bearings, gears, levers, heat exchangers, fasteners, batteries, motors, pumps, valves, springs, transistors, sensors, feedback controllers, pressure vessels, and related mechanisms.
+## Major proposed subdomains
 
-## Major proposed provinces
+Mechanical; electrical; civil; chemical engineering; controls; manufacturing; energy systems; materials; reliability; maintenance; instrumentation.
 
-Mechanical, electrical, civil, chemical, controls, manufacturing, energy systems, materials, reliability, maintenance, instrumentation.
+## Likely overlaps with existing Tariums
 
-## Cross-Tarium boundaries
+Chemistry for chemical substrates/processes; Designarium for human-facing decisions; Architecture for spatial composition; Software Studies for software/control implementations.
 
-Engineering owns mechanism. Chemistry may own a refrigerant's chemical ontology; Design may own human-facing design decisions; Architecture may own spatial composition; Software Studies may own software subsystems.
+## Why projection into an existing repo is insufficient
 
-## Phenomenological layer
+Mechanistic completeness requires a native artifact ontology and reusable engineering primitives. Neither Design nor Chemistry owns whole engineered systems as functioning compositions.
 
-Salvador's awe, confusion, judgments of elegance, legibility, repair experience, and embodied interaction with machines are first-class but do not replace engineering evidence.
+## Example artifacts
+
+Complete refrigerator ontology; mechanical watch exploded model; pump profile; battery system; motor; heat exchanger; interactive 3D dissection; energy-flow diagrams; simulations; failure-mode maps.
+
+## Phenomenological / confessional role
+
+Awe, confusion, judgments of elegance, repair experience, legibility, and embodied interaction with machines are first-class without replacing engineering evidence.
+
+## Sovereignty-test assessment
+
+Passed strongly in principle.
+
+## Promotion evidence
+
+Clean artifact profile chain: `purpose → inputs → outputs → components → materials → geometry → mechanisms → energy flows → controls → manufacturing → failure modes → maintenance → history → social use`.
 
 ## Status
 
-Extremely strong sovereignty case. Repository not yet created.
+Approved stub. Repository not yet created.

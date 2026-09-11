@@ -2,9 +2,12 @@
 
 - **Lifecycle:** approved
 - **Materialization:** stub / not instantiated
-- **Name:** provisional
 
-## Canonical object
+## Working name / aliases
+
+Architecture. Final repository name remains open.
+
+## Canonical object of study
 
 Buildings and constructed spatial environments.
 
@@ -12,26 +15,42 @@ Buildings and constructed spatial environments.
 
 How are buildings and spaces composed, organized, inhabited, experienced, and transformed?
 
-## Native objects and relations
+## Native entity types
 
-Building type, room, threshold, axis, circulation, program, facade, envelope, massing, volume, light, proportion, structural expression, ornament, materiality, style, spatial sequence.
+Building type, room, threshold, axis, circulation, program, facade, envelope, massing, volume, light condition, ornament, material expression, spatial sequence.
 
-## Major proposed provinces
+## Native relations
 
-Domestic, civic, sacred, industrial, commercial, institutional, vernacular, landscape-adjacent, architectural history, preservation, theory, criticism.
+Encloses, opens-to, circulates-through, frames, thresholds, aligns, masses-with, lights, sequences, expresses-structure-of.
 
-## Boundary discipline
+## Major proposed subdomains
 
-A cathedral's load paths project to Engineering; spatial composition belongs here; design philosophy may project to Designarium; relation to plaza/city projects to Habitatarium; political symbolism projects to Politicarium.
+Domestic; civic; sacred; industrial; commercial; institutional; vernacular; preservation; architectural history; theory; criticism.
 
-## Why sovereignty is justified
+## Likely overlaps with existing Tariums
 
-Architecture possesses native objects and relations that neither engineering mechanism, general design theory, nor urban habitat planning adequately owns.
+Engineering, Designarium, Habitatarium, Politicarium, Geographia.
 
-## Phenomenological layer
+## Why projection into an existing repo is insufficient
 
-Spatial awe, enclosure, exposure, monumentality, comfort, humiliation, intimacy, civic feeling, light, material response, and personal architectural taste are first-class experiential projections.
+Architecture has native spatial objects and relations that neither engineering mechanism, general design theory, nor city-scale habitat planning adequately owns.
+
+## Example artifacts
+
+Building profiles; civic-building dissections; room/threshold maps; spatial-sequence diagrams; style genealogies; facade and light studies; architectural criticism.
+
+## Phenomenological / confessional role
+
+Awe, enclosure, exposure, monumentality, comfort, humiliation, intimacy, civic feeling, light/material response, and personal architectural taste are first-class.
+
+## Sovereignty-test assessment
+
+Passed in principle. Salvador's admitted ignorance of architecture is not itself promotion evidence.
+
+## Promotion evidence
+
+Distinct spatial ontology, native building relations, many major subdomains, deep history/genealogy, and large case-study space.
 
 ## Status
 
-Passed the sovereignty test independently of Salvador's admitted ignorance of the field. Repository not yet created.
+Approved stub. Repository not yet created.

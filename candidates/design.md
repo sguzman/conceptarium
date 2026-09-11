@@ -2,9 +2,12 @@
 
 - **Lifecycle:** approved
 - **Materialization:** stub / not instantiated
-- **Name:** provisional
 
-## Canonical object
+## Working name / aliases
+
+Designarium / Design Theory.
+
+## Canonical object of study
 
 Intentional design decisions across artifacts, interfaces, graphics, vehicles, buildings, software surfaces, products, and visual systems.
 
@@ -12,26 +15,42 @@ Intentional design decisions across artifacts, interfaces, graphics, vehicles, b
 
 **Why was it made this way, and is this a good way for a human artifact to be?**
 
-## Native objects and relations
+## Native entity types
 
-Affordance, hierarchy, proportion, interaction, visual language, legibility, ornament, ergonomics, coherence, constraint, trade-off, pattern, school, style, critique, failure, intended use.
+Affordance, hierarchy, pattern, interaction, proportion, visual language, ornament, ergonomic decision, constraint, compromise, design school, style, critique, failure, exemplar.
 
-## Major proposed provinces
+## Native relations
 
-Product design; interaction/UI; graphic design; industrial design; typography; sartorial design; information design; signage; packaging; design history; design criticism.
+Affords, signals, prioritizes, constrains, balances, compromises, references, derives-from, improves, obscures, supports-use-of.
 
-## Why Engineering is not enough
+## Major proposed subdomains
 
-Engineering explains mechanism. Design evaluates intentional form, human use, perception, affordance, compromise, and judgment. The same object may receive both projections without duplicated canonical ownership.
+Product; interaction/UI; graphic; industrial; information; signage; packaging; design history; design criticism; Typography and Sartorial incubators.
 
-## Phenomenological layer
+## Likely overlaps with existing Tariums
 
-Beautiful / ugly / successful / failed / beloved / hated galleries, personal taste, aesthetic response, and design confession are first-class alongside objective design history and analysis.
+Engineering, Architecture, Habitatarium, Software Studies, Linguarium, Dramatarium.
 
-## Incubators
+## Why projection into an existing repo is insufficient
 
-Typography and Sartorial Design begin here as provinces and may earn secession later.
+Design asks independent questions about intentional form, human use, perception, affordance, coherence, compromise, and judgment across many media. Engineering mechanism does not subsume those questions.
+
+## Example artifacts
+
+Design dissections of cars, websites, chairs, operating systems, signage, appliances; beautiful/ugly galleries; school genealogies; interaction critiques; comparative pattern studies.
+
+## Phenomenological / confessional role
+
+Personal taste, aesthetic reaction, beloved/hated designs, bodily usability, and design confession are first-class while remaining distinct from objective design history.
+
+## Sovereignty-test assessment
+
+Passed in principle.
+
+## Promotion evidence
+
+Independent question-set across many artifact classes; native design vocabulary; multiple major subdomains; strong evaluative and historical structure.
 
 ## Status
 
-Passed the sovereignty test in principle. Repository not yet created.
+Approved stub. Repository not yet created.
